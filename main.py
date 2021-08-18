@@ -30,9 +30,9 @@ for region in [Region.EU, Region.US]:
     btags = e.collect_battletags()
     db.insert_battletags(btags)
 
-    # battletags = db.get_battltags()
-    # paragon_infos = e.collect_account_infos(battletags)
-    # db.update_account_infos(paragon_infos)
+    battletags = db.get_battltags()
+    paragon_infos = e.collect_account_infos(battletags)
+    db.update_account_infos(paragon_infos)
 
     updated_infos = db.get_account_infos()
     table_from_account_infos(current_season, region, updated_infos)
