@@ -1,3 +1,6 @@
+# Season 24 (EU)
+Table created at 2021-08-18 14:45:19.179037
+---
 |  #  |                                    BattleTag                                     | Paragon Season | Paragon NonSeason |     Last update     |
 | :-- | :------------------------------------------------------------------------------- | :------------: | :---------------: | ------------------: |
 | 1   | [Timpas#21447](https://eu.diablo3.com/en-us/profile/Timpas-21447/)               |      6050      |        415        | 2021-08-18 12:25:17 |

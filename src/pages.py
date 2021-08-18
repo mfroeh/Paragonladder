@@ -23,7 +23,9 @@ def make_site():
             db = Database(season, region)
             infos = db.get_account_infos()
 
-            md = table_from_account_infos(season, region, infos)
+            md = f"# Season {season} ({str.upper(region.value)})\n"
+            md += f"Table created at {dt.datetime.now()}\n---\n"
+            md += table_from_account_infos(season, region, infos)
 
             save_path = f"../docs/{season}/{region.value}.md"
             Path(f"../docs/{season}").mkdir(parents=True, exist_ok=True)
@@ -31,7 +33,7 @@ def make_site():
             f = io.open(save_path, "w+", encoding="utf-8")
             f.write(md)
 
-            toc += f"* [{str.capitalize(region.value)}]({season}/{region.value}.md)\n"
+            toc += f"* [{str.upper(region.value)}]({season}/{region.value}.md)\n"
 
     f = io.open("../docs/index.md", "w+")
     f.write(toc)
