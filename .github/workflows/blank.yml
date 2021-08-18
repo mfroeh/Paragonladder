@@ -38,4 +38,5 @@ jobs:
           
       - name: Generate new files
         run: |
+          pip install -r requirements.txt
           python main.py --client_id=${{secrets.CLIENT_ID}} --client_secret=${{secrets.CLIENT_SECRET}}     
