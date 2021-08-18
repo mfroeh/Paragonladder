@@ -1,7 +1,6 @@
 from dataclasses import asdict
-from typing import List, Mapping
+from typing import List
 from tinydb import TinyDB, Query
-from tinydb.queries import QueryLike
 from diablo_api import Region
 from extractor import AccountInfo
 
@@ -12,11 +11,11 @@ class Database:
         self.region = Region
         self.db = TinyDB(f"database/{region.value}_{season}.json")
 
-    def update_account_infos(self, infos: List[AccountInfo]):
+    def update_account_infos(self, infos: List[AccountInfo]) -> None:
         for info in infos:
             self.db.update(asdict(info), Query().battletag == info.battletag)
 
-    def insert_battletags(self, battletags: List[str]):
+    def insert_battletags(self, battletags: List[str]) -> None:
         i = 0
         for btag in battletags:
             if not self.db.search(Query().battletag == btag):

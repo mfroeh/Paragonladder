@@ -13,7 +13,12 @@ left_rule = {"<": ":", "^": ":", ">": "-"}
 right_rule = {"<": "-", "^": ":", ">": ":"}
 
 
-def table_from_account_infos(season: int, region: Region, infos: List[AccountInfo]):
+def table_from_account_infos(
+    season: int, region: Region, infos: List[AccountInfo]
+) -> None:
+    """
+    Generates a doxygen-flavored markdown table from the account information.
+    """
     headings = ["#", "BattleTag", "Paragon Season", "Paragon NonSeason", "Last update"]
     _sorted = sorted(infos, key=lambda a: a.paragon_season, reverse=True)
 
@@ -36,7 +41,7 @@ def table_from_account_infos(season: int, region: Region, infos: List[AccountInf
     table(f, data, fields, headings, align)
 
 
-def evalute_field(record, field_spec):
+def evalute_field(record, field_spec) -> str:
     """
     Evalute a field of a record using the type of the field_spec as a guide.
     """
@@ -48,7 +53,7 @@ def evalute_field(record, field_spec):
         return str(field_spec(record))
 
 
-def table(file, records, fields, headings, alignment=None):
+def table(file, records, fields, headings, alignment=None) -> None:
     """
     Generate a Doxygen-flavor Markdown table from records.
 
