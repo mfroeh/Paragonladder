@@ -37,7 +37,7 @@ def table_from_account_infos(
     fields = [0, 1, 2, 3, 4]
     align = [("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", ">")]
 
-    f = io.open(f"out/{region.value}_{season}.md", "w+", encoding="utf-8")
+    f = io.open(f"../out/{region.value}_{season}.md", "w+", encoding="utf-8")
     table(f, data, fields, headings, align)
 
 
