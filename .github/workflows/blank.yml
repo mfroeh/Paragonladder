@@ -24,20 +24,24 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - uses: actions/checkout@v1
+        with:
+          token: ${{ secrets.PAT }}
+          
+      - name: Setup git
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git config --global user.name 'VocalTrance'
+          git config --global user.email 'vocaltrance@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
           
       - name: Generate new files
         run: |
           pip install -r requirements.txt
           python main.py --client_id=${{secrets.CLIENT_ID}} --client_secret=${{secrets.CLIENT_SECRET}}
-          git commit -a -m "Generated new files"
+          
+      - name: Commit new files
+        run: |
+          git add -A
+          git commit -m "Generated new files"
+          git push
