@@ -14,7 +14,7 @@ right_rule = {"<": "-", "^": ":", ">": ":"}
 
 def make_site():
     toc = "# Diablo3 Paragonladder\n\n---\n"
-
+    
     # Generate files and toc
     for season_dir in Path("../database").glob("*"):
         season = int(season_dir.name)
@@ -28,8 +28,8 @@ def make_site():
 
             infos += [(region, info) for info in region_infos]
 
-        md = f"# Season {season} (ALL)\n\n---\n\n"
-        md += f"Table created at {dt.datetime.now()}\n"
+        md = f"# Season {season} (ALL)\n\n---\n"
+        md += f"Table created at {dt.datetime.now()}\n\n"
         md += table_from_mixed_account_infos(season, infos)
 
         save_path = f"../docs/{season}/all.md"
@@ -45,8 +45,8 @@ def make_site():
             db = Database(season, region)
             infos = db.get_account_infos()
 
-            md = f"# Season {season} ({str.upper(region.value)})\n\n---\n\n"
-            md += f"Table created at {dt.datetime.now()}\n"
+            md = f"# Season {season} ({str.upper(region.value)})\n\n---\n"
+            md += f"Table created at {dt.datetime.now()}\n\n"
             md += table_from_account_infos(season, region, infos)
 
             save_path = f"../docs/{season}/{region.value}.md"
