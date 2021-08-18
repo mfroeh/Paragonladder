@@ -2,9 +2,10 @@ from extractor import Extractor
 from diablo_api import DiabloApi, Locale, Region
 from database import Database
 from blizzardapi import BlizzardApi
-from markdown import table, table_from_account_infos
 import datetime as dt
 import argparse
+from pages import make_site
+from constants import regions
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--client_id")
@@ -21,7 +22,7 @@ client_secret = args["client_secret"]
 
 api = DiabloApi(BlizzardApi(client_id, client_secret), Locale.EN_US)
 
-for region in [Region.EU, Region.US]:
+for region in regions:
     current_season = api.get_current_season(region)
 
     e = Extractor(current_season, region, api)
@@ -34,5 +35,4 @@ for region in [Region.EU, Region.US]:
     paragon_infos = e.collect_account_infos(battletags)
     db.update_account_infos(paragon_infos)
 
-    updated_infos = db.get_account_infos()
-    table_from_account_infos(current_season, region, updated_infos)
+make_site()

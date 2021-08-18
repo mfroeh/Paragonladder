@@ -3,13 +3,15 @@ from typing import List
 from tinydb import TinyDB, Query
 from diablo_api import Region
 from extractor import AccountInfo
-
+from pathlib import Path
 
 class Database:
     def __init__(self, season: int, region: Region):
         self.season = season
         self.region = Region
-        self.db = TinyDB(f"database/{region.value}_{season}.json")
+        
+        Path(f"../database/{season}").mkdir(parents=True, exist_ok=True)
+        self.db = TinyDB(f"../database/{season}/{region.value}.json")
 
     def update_account_infos(self, infos: List[AccountInfo]) -> None:
         for info in infos:

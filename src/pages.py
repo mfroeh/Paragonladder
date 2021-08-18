@@ -1,21 +1,45 @@
-# Generates tables for Doxygen flavored Markdown.  See the Doxygen
-# documentation for details:
-#   http://www.doxygen.nl/manual/markdown.html#md_tables
-
-# Translation dictionaries for table alignment
-from diablo_api import Region
 import io
+from pathlib import Path
+from diablo_api import Region
 from typing import List
 from extractor import AccountInfo
 import datetime as dt
+from database import Database
+from constants import regions
 
 left_rule = {"<": ":", "^": ":", ">": "-"}
 right_rule = {"<": "-", "^": ":", ">": ":"}
 
 
+def make_site():
+    toc = "# Diablo3 Paragonladder\n---\n"
+
+    # Generate files and toc
+    for season_dir in Path("../database").glob("*"):
+        season = int(season_dir.name)
+        toc += f"# Season {season} \n"
+
+        for region in regions:
+            db = Database(season, region)
+            infos = db.get_account_infos()
+
+            md = table_from_account_infos(season, region, infos)
+
+            save_path = f"../docs/{season}/{region.value}.md"
+            Path(f"../docs/{season}").mkdir(parents=True, exist_ok=True)
+
+            f = io.open(save_path, "w+", encoding="utf-8")
+            f.write(md)
+
+            toc += f"* [{str.capitalize(region.value)}]({season}/{region.value}.md)\n"
+
+    f = io.open("../docs/index.md", "w+")
+    f.write(toc)
+
+
 def table_from_account_infos(
     season: int, region: Region, infos: List[AccountInfo]
-) -> None:
+) -> str:
     """
     Generates a doxygen-flavored markdown table from the account information.
     """
@@ -25,7 +49,7 @@ def table_from_account_infos(
     data = [
         (
             i + 1,
-            f"[{a.battletag}]({region.value}.diablo3.com/en-us/profile/{a.battletag.replace('#', '-')}/)",
+            f"[{a.battletag}](https://{region.value}.diablo3.com/en-us/profile/{a.battletag.replace('#', '-')}/)",
             a.paragon_season,
             a.paragon_nonseason,
             dt.datetime.fromtimestamp(a.last_update),
@@ -33,12 +57,10 @@ def table_from_account_infos(
         for i, a in enumerate(_sorted)
         if a.last_update
     ]
-    print(data)
     fields = [0, 1, 2, 3, 4]
     align = [("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", ">")]
 
-    f = io.open(f"../out/{region.value}_{season}.md", "w+", encoding="utf-8")
-    table(f, data, fields, headings, align)
+    return table(data, fields, headings, align)
 
 
 def evalute_field(record, field_spec) -> str:
@@ -53,12 +75,10 @@ def evalute_field(record, field_spec) -> str:
         return str(field_spec(record))
 
 
-def table(file, records, fields, headings, alignment=None) -> None:
+def table(records, fields, headings, alignment=None) -> str:
     """
     Generate a Doxygen-flavor Markdown table from records.
 
-    file -- Any object with a 'write' method that takes a single string
-        parameter.
     records -- Iterable.  Rows will be generated from this.
     fields -- List of fields for each row.  Each entry may be an integer,
         string or a function.  If the entry is an integer, it is assumed to be
@@ -116,9 +136,9 @@ def table(file, records, fields, headings, alignment=None) -> None:
     )
     ruling = "| " + _ + " |"
 
-    file.write(heading_template.format(*headings).rstrip() + "\n")
-    file.write(ruling.rstrip() + "\n")
+    table = heading_template.format(*headings).rstrip() + "\n"
+    table += ruling.rstrip() + "\n"
     for row in zip(*columns):
-        file.write(
-            row_template.format(*row).rstrip() + "\n",
-        )
+        table += row_template.format(*row).rstrip() + "\n"
+
+    return table
