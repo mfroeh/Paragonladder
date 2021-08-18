@@ -14,6 +14,7 @@ pydantic == 1.7.3
 # C:\Users\moritz\Desktop\Paragonladder\diablo_api.py: 4
 # C:\Users\moritz\Desktop\Paragonladder\extractor.py: 3,9
 # C:\Users\moritz\Desktop\Paragonladder\main.py: 4
+requests == 2.25.1
 python_blizzardapi == 1.2.2
 
 # C:\Users\moritz\Desktop\Paragonladder\database.py: 3,4
