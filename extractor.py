@@ -2,12 +2,10 @@ from dataclasses import dataclass
 from typing import List, Mapping
 from blizzardapi.diablo3.diablo3_api import Diablo3Api
 from diablo_api import DiabloApi, LeaderboardType, Locale, Region
-from api.leaderboard import Leaderboard
 from enum import Enum
 import enum
 import json
 from blizzardapi import BlizzardApi
-from api.account import Account, HeroClass
 from pydantic import BaseModel
 from dacite import from_dict
 from time import sleep

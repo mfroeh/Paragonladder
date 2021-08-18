@@ -1,5 +1,5 @@
-from api.account import Account
-from api.leaderboard import Leaderboard
+from leaderboard import Leaderboard
+from account import Account
 from enum import Enum
 from blizzardapi import BlizzardApi
 from dacite import from_dict
