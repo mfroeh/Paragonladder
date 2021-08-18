@@ -1,6 +1,8 @@
 # Season 24 (US)
-Table created at 2021-08-18 14:45:19.207960
+
 ---
+
+Table created at 2021-08-18 15:21:40.863920
 |  #   |                                     BattleTag                                      | Paragon Season | Paragon NonSeason |     Last update     |
 | :--- | :--------------------------------------------------------------------------------- | :------------: | :---------------: | ------------------: |
 | 1    | [Berserk#12667](https://us.diablo3.com/en-us/profile/Berserk-12667/)               |      5715      |       4555        | 2021-08-18 12:56:26 |

@@ -28,11 +28,11 @@ for region in regions:
     e = Extractor(current_season, region, api)
     db = Database(current_season, region)
 
-    btags = e.collect_battletags()
-    db.insert_battletags(btags)
+    # btags = e.collect_battletags()
+    # db.insert_battletags(btags)
 
-    battletags = db.get_battltags()
-    paragon_infos = e.collect_account_infos(battletags)
-    db.update_account_infos(paragon_infos)
+    # battletags = db.get_battltags()
+    # paragon_infos = e.collect_account_infos(battletags)
+    # db.update_account_infos(paragon_infos)
 
 make_site()

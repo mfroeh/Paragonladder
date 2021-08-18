@@ -1,11 +1,12 @@
 import io
 from pathlib import Path
 from diablo_api import Region
-from typing import List
+from typing import List, Tuple
 from extractor import AccountInfo
 import datetime as dt
 from database import Database
 from constants import regions
+from itertools import chain
 
 left_rule = {"<": ":", "^": ":", ">": "-"}
 right_rule = {"<": "-", "^": ":", ">": ":"}
@@ -19,11 +20,32 @@ def make_site():
         season = int(season_dir.name)
         toc += f"# Season {season} \n"
 
+        # Mixed table
+        infos = []
+        for region in regions:
+            db = Database(season, region)
+            region_infos = db.get_account_infos()
+
+            infos += [(region, info) for info in region_infos]
+
+        md = f"# Season {season} (ALL)\n\n---\n\n"
+        md += f"Table created at {dt.datetime.now()}\n"
+        md += table_from_mixed_account_infos(season, infos)
+
+        save_path = f"../docs/{season}/all.md"
+        Path(f"../docs/{season}").mkdir(parents=True, exist_ok=True)
+
+        f = io.open(save_path, "w+", encoding="utf-8")
+        f.write(md)
+
+        toc += f"* [ALL]({season}/all.md)\n"
+
+        # Tables for individual regions
         for region in regions:
             db = Database(season, region)
             infos = db.get_account_infos()
 
-            md = f"# Season {season} ({str.upper(region.value)})\n\n---\n"
+            md = f"# Season {season} ({str.upper(region.value)})\n\n---\n\n"
             md += f"Table created at {dt.datetime.now()}\n"
             md += table_from_account_infos(season, region, infos)
 
@@ -37,6 +59,38 @@ def make_site():
 
     f = io.open("../docs/index.md", "w+")
     f.write(toc)
+
+
+def table_from_mixed_account_infos(
+    season: int, infos: List[Tuple[Region, AccountInfo]]
+) -> str:
+    headings = [
+        "#",
+        "Region",
+        "BattleTag",
+        "Paragon Season",
+        "Paragon NonSeason",
+        "Last update",
+    ]
+    print(infos)
+    _sorted = sorted(infos, key=lambda a: a[1].paragon_season, reverse=True)
+
+    data = [
+        (
+            i + 1,
+            str.upper(a[0].value),
+            f"[{a[1].battletag}](https://{a[0].value}.diablo3.com/en-us/profile/{a[1].battletag.replace('#', '-')}/)",
+            a[1].paragon_season,
+            a[1].paragon_nonseason,
+            dt.datetime.fromtimestamp(a[1].last_update),
+        )
+        for i, a in enumerate(_sorted)
+        if a[1].last_update
+    ]
+    fields = [0, 1, 2, 3, 4, 5]
+    align = [("^", "<"), ("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", ">")]
+
+    return table(data, fields, headings, align)
 
 
 def table_from_account_infos(
