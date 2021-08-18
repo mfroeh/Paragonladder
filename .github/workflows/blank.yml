@@ -37,9 +37,5 @@ jobs:
           echo test, and deploy your project.
           
       - name: Generate new files
-        env: |
-          CLIENT_ID: ${{secrets.CLIENT_ID}}
-          CLIENT_SECRET: ${{secrets.CLIENT_SECRET}}
         run: |
-          echo $CLIENT_ID
-          echo $CLIENT_SECRET          
+          python main.py --client_id=${{secrets.CLIENT_ID}} --client_secret=${{secrets.CLIENT_SECRET}}     
