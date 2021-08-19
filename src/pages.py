@@ -5,6 +5,7 @@ from typing import List, Tuple
 import datetime as dt
 from database import Database
 from constants import regions
+from util import nice_number
 
 left_rule = {"<": ":", "^": ":", ">": "-"}
 right_rule = {"<": "-", "^": ":", ">": ":"}
@@ -17,6 +18,7 @@ class_names = {
     "wizard": "Wizard",
     "monk": "Monk",
     "crusader": "Crusader",
+    None: "-"
 }
 
 
@@ -38,7 +40,7 @@ def make_site():
 
         md = f"# Season {season} (ALL)\n\n---\n"
         md += f"Table created at {dt.datetime.now()}\n\n"
-        md += table_for_all(season, infos)
+        md += table_for_all(infos)
 
         save_path = f"../docs/{season}/all.md"
         Path(f"../docs/{season}").mkdir(parents=True, exist_ok=True)
@@ -55,7 +57,7 @@ def make_site():
 
             md = f"# Season {season} ({str.upper(region)})\n\n---\n"
             md += f"Table created at {dt.datetime.now()}\n\n"
-            md += table_for_region(season, region, infos)
+            md += table_for_region(region, infos)
 
             f = io.open(f"../docs/{season}/{region}.md", "w+", encoding="utf-8")
             f.write(md)
@@ -90,8 +92,8 @@ def table_for_all(infos: List[Tuple[str, AccountInfo]]) -> str:
             str.upper(tuple[0]),
             f"[{tuple[1].battletag}](https://{tuple[0]}.diablo3.com/en-us/profile/{tuple[1].battletag.replace('#', '-')}/)",
             tuple[1].paragon_season,
+            nice_number(tuple[1].xp_gained),
             class_names[tuple[1].most_played_class],
-            tuple[1].paragon_nonseason,
             dt.datetime.fromtimestamp(tuple[1].last_update),
         )
         for i, tuple in enumerate(_sorted)
@@ -118,8 +120,8 @@ def table_for_region(region: str, infos: List[AccountInfo]) -> str:
         "#",
         "BattleTag",
         "Paragon Season",
+        "Experience gained",
         "Most played",
-        "Paragon NonSeason",
         "Last update",
     ]
     _sorted = sorted(infos, key=lambda info: info.paragon_season, reverse=True)
@@ -129,8 +131,8 @@ def table_for_region(region: str, infos: List[AccountInfo]) -> str:
             i + 1,
             f"[{info.battletag}](https://{region}.diablo3.com/en-us/profile/{info.battletag.replace('#', '-')}/)",
             info.paragon_season,
+            nice_number(info.xp_gained),
             class_names[info.most_played_class],
-            info.paragon_nonseason,
             dt.datetime.fromtimestamp(info.last_update),
         )
         for i, info in enumerate(_sorted)
