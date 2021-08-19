@@ -41,7 +41,7 @@ class Collector:
         accounts = []
         for i, btag in enumerate(battletags):
             account = self.api.get_account(self.region, btag)
-            accounts.add(account)
+            accounts.append(account)
 
             print(f"Collected {i + 1}/{len(battletags)} accounts")
             if i > 5:
