@@ -23,17 +23,7 @@ class Analyzer:
         self.region = region
 
     def analyze_accounts(self, accounts: List[Account]) -> List[AccountInfo]:
-        infos = []
-        for account in accounts:
-            if not account.paragonLevelSeason:
-                print(
-                    f"Seasonal paragon for battletag {account.battleTag} was 0. Skipping it."
-                )
-                continue
-
-            infos.append(self.analyze_account(account))
-
-        return infos
+        return [self.analyze_account(account) for account in accounts]
 
     def analyze_account(self, account: Account) -> AccountInfo:
         """

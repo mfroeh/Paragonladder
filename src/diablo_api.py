@@ -23,7 +23,7 @@ class DiabloApi:
             return from_dict(Account, data)
         except Exception as e:
             print(f"Failed to request account for battletag {battletag}.")
-            return Account(battleTag=battletag.replace("%23", "#"))
+            return None
 
     def get_current_season(self, region: str) -> int:
         try:

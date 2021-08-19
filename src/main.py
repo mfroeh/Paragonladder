@@ -52,6 +52,7 @@ for region in regions:
     tracked = dict(sorted(tracked.items(), key=lambda item: item[1]))
 
     new_battletags = []
+    remove_if_new_collected = {}
     for btag, p in btags:
         if p > list(tracked.values())[0] and btag not in tracked.keys():
             new_battletags.append(btag)
@@ -60,17 +61,23 @@ for region in regions:
             # Remove trumped battletag
             trumped_btag = list(tracked.keys())[0]
             del tracked[trumped_btag]
-            db.remove_tracked_account(trumped_btag)
+            remove_if_new_collected[btag] = trumped_btag
 
             tracked = dict(sorted(tracked.items(), key=lambda item: item[1]))
 
     print(
         f"Found {len(new_battletags)} accounts whose leaderboard paragon trumps the paragon of those tracked."
     )
-    
+
     # Inserts new accounts to track
     accounts = collector.collect_accounts(new_battletags)
     infos = analyzer.analyze_accounts(accounts)
     db.update_tracked(infos)
+
+    # Remove accounts to untrack
+    for new, old in remove_if_new_collected.items():
+        # If an account could be collected for the new battletag. To circumvent mysterious "Downstream error"
+        if len([a for a in accounts if a.battletag == new.battletag]) > 0:
+            db.remove_tracked_account(old)
 
 make_site()
