@@ -1,7 +1,10 @@
+from typing import List
 from leaderboard import Leaderboard
 from account import Account
 from blizzardapi import BlizzardApi
 from dacite import from_dict
+
+from leaderboard_info import LeaderboardInfo
 
 
 class DiabloApi:
@@ -29,6 +32,20 @@ class DiabloApi:
             )
         except:
             return None
+
+    def get_season_leaderboard_info(
+        self, region: str, season: int, hardcore_ok: bool = False
+    ) -> List[str]:
+        data = self.api.diablo3.game_data.get_season(region, season)
+        leaderboards = from_dict(LeaderboardInfo, data).leaderboard
+
+        leaderboard_strings = [
+            b.ladder.href.split("/")[-1].split("?")[0] for b in leaderboards
+        ]
+        if hardcore_ok:
+            return leaderboard_strings
+
+        return [s for s in leaderboard_strings if not "hardcore" in s]
 
     def get_season_leaderboard(
         self, region: str, season: int, leaderboard: str

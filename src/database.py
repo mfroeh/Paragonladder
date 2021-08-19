@@ -13,24 +13,27 @@ class Database:
         Path(f"../database/{season}").mkdir(parents=True, exist_ok=True)
         self.db = TinyDB(f"../database/{season}/{region}.json")
 
-    def update_account_infos(self, infos: List[AccountInfo]) -> NoReturn:
+    def update_tracked(self, infos: List[AccountInfo]) -> NoReturn:
         for info in infos:
-            self.db.update(asdict(info), Query().battletag == info.battletag)
+            if not self.db.contains(Query().battletag == info.battletag):
+                self.db.insert(asdict(info))
+            else:
+                self.db.update(asdict(info), Query().battletag == info.battletag)
 
-    def insert_battletags(self, battletags: List[str]) -> NoReturn:
-        i = 0
-        for btag in battletags:
-            if not self.db.search(Query().battletag == btag):
-                self.db.insert(asdict(AccountInfo(battletag=btag)))
-                i += 1
+    def remove_tracked_account(self, battletag: str) -> NoReturn:
+        self.db.remove(Query().battletag == battletag)
 
-        print(f"Inserted {i} new battletags")
-
-    def get_account_infos(self) -> List[AccountInfo]:
+    def get_tracked(self) -> List[AccountInfo]:
         """
-        Returns all account infos that have been updated atleast once.
+        Returns the account info of all currently tracked accounts.
         """
-        return [AccountInfo(**d) for d in self.db.all() if d["last_update"]]
+        return sorted(
+            [AccountInfo(**d) for d in self.db.all()],
+            key=lambda x: x.paragon_season,
+        )
 
-    def get_battltags(self) -> List[str]:
+    def get_tracked_battltags(self) -> List[str]:
+        """
+        Returns the battle tags of the currently tracked accounts.
+        """
         return [x["battletag"] for x in self.db.all()]
