@@ -1,6 +1,6 @@
 # Paragonladder
 
-A seasonal paragon-ladder for Diablo III.\
+A seasonal paragon-ladder for Diablo III hosted at https://vocaltrance.github.io/Paragonladder/. \
 All data is received through calls to Blizzards Diablo API.\
 The leaderboard is updated via github-workflow on the beginning of every hour.\
 Every account that appeared on the four player leaderboard at one point is tracked.
