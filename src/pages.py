@@ -12,9 +12,20 @@ left_rule = {"<": ":", "^": ":", ">": "-"}
 right_rule = {"<": "-", "^": ":", ">": ":"}
 
 
+class_names = {
+    "demon-hunter": "DH",
+    "barbarian": "Barbarian",
+    "witch-doctor": "WD",
+    "necromancer": "Necro",
+    "wizard": "Wizard",
+    "monk": "Monk",
+    "crusader": "Crusader",
+}
+
+
 def make_site():
     toc = "# Diablo3 Paragonladder\n\n---\n"
-    
+
     # Generate files and toc
     for season_dir in Path("../database").glob("*"):
         season = int(season_dir.name)
@@ -69,6 +80,7 @@ def table_from_mixed_account_infos(
         "Region",
         "BattleTag",
         "Paragon Season",
+        "Most played",
         "Paragon NonSeason",
         "Last update",
     ]
@@ -81,14 +93,23 @@ def table_from_mixed_account_infos(
             str.upper(a[0].value),
             f"[{a[1].battletag}](https://{a[0].value}.diablo3.com/en-us/profile/{a[1].battletag.replace('#', '-')}/)",
             a[1].paragon_season,
+            class_names[a[1].most_played_class],
             a[1].paragon_nonseason,
             dt.datetime.fromtimestamp(a[1].last_update),
         )
         for i, a in enumerate(_sorted)
         if a[1].last_update
     ]
-    fields = [0, 1, 2, 3, 4, 5]
-    align = [("^", "<"), ("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", ">")]
+    fields = [0, 1, 2, 3, 4, 5, 6]
+    align = [
+        ("^", "<"),
+        ("^", "^"),
+        ("^", "<"),
+        ("^", "^"),
+        ("^", "^"),
+        ("^", "^"),
+        ("^", "<"),
+    ]
 
     return table(data, fields, headings, align)
 
@@ -99,7 +120,14 @@ def table_from_account_infos(
     """
     Generates a doxygen-flavored markdown table from the account information.
     """
-    headings = ["#", "BattleTag", "Paragon Season", "Paragon NonSeason", "Last update"]
+    headings = [
+        "#",
+        "BattleTag",
+        "Paragon Season",
+        "Most played",
+        "Paragon NonSeason",
+        "Last update",
+    ]
     _sorted = sorted(infos, key=lambda a: a.paragon_season, reverse=True)
 
     data = [
@@ -107,14 +135,15 @@ def table_from_account_infos(
             i + 1,
             f"[{a.battletag}](https://{region.value}.diablo3.com/en-us/profile/{a.battletag.replace('#', '-')}/)",
             a.paragon_season,
+            class_names[a.most_played_class],
             a.paragon_nonseason,
             dt.datetime.fromtimestamp(a.last_update),
         )
         for i, a in enumerate(_sorted)
         if a.last_update
     ]
-    fields = [0, 1, 2, 3, 4]
-    align = [("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", ">")]
+    fields = [0, 1, 2, 3, 4, 5]
+    align = [("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", "^"), ("^", "<")]
 
     return table(data, fields, headings, align)
 

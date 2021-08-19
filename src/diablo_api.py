@@ -18,7 +18,7 @@ class Locale(Enum):
 class Region(Enum):
     EU = "eu"
     US = "us"
-    KR = "kr"
+    KR_TW = "kr"
     CN = "cn"
 
 

@@ -11,6 +11,7 @@ class AccountInfo:
     paragon_nonseason: int
     # playtime: float
     playtime_distribution: Mapping[str, float]
+    most_played_class: str
     last_update: int
 
 
@@ -60,12 +61,15 @@ class Extractor:
                 if x.seasonId == self.season
             ).timePlayed
 
+            most_played = max(playtime_distrubution, key=playtime_distrubution.get)
+
             infos.append(
                 AccountInfo(
                     battletag=account.battleTag,
                     paragon_season=account.paragonLevelSeason,
                     paragon_nonseason=account.paragonLevel,
                     playtime_distribution=playtime_distrubution,
+                    most_played_class=most_played,
                     last_update=account.lastUpdated,
                 )
             )

@@ -21,7 +21,7 @@ class Database:
         i = 0
         for btag in battletags:
             if not self.db.search(Query().battletag == btag):
-                self.db.insert(asdict(AccountInfo(btag, None, None, None, None)))
+                self.db.insert(asdict(AccountInfo(btag)))
                 i += 1
 
         print(f"Inserted {i} new battletags")
