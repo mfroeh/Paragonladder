@@ -25,4 +25,4 @@ class HeroClass:
     CRUSADER = "crusader"
 
 
-regions = [Region.EU, Region.US, Region.KR_TW]
+regions = [Region.CN, Region.EU, Region.US, Region.KR_TW]

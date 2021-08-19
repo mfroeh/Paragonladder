@@ -24,6 +24,9 @@ api = DiabloApi(BlizzardApi(client_id, client_secret), Locale.EN_US)
 
 for region in regions:
     current_season = api.get_current_season(region)
+    if not current_season:
+        print(f"Failed to get current season for {region}. Skipping it.")
+        continue
 
     db = Database(current_season, region)
     collector = Collector(current_season, region, api)

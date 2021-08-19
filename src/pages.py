@@ -4,7 +4,7 @@ from analyzer import AccountInfo
 from typing import List, Tuple
 import datetime as dt
 from database import Database
-from constants import regions
+from constants import Region, regions
 from util import nice_number
 
 left_rule = {"<": ":", "^": ":", ">": "-"}
@@ -18,7 +18,7 @@ class_names = {
     "wizard": "Wizard",
     "monk": "Monk",
     "crusader": "Crusader",
-    None: "-"
+    None: "-",
 }
 
 
@@ -90,7 +90,9 @@ def table_for_all(infos: List[Tuple[str, AccountInfo]]) -> str:
         (
             i + 1,
             str.upper(tuple[0]),
-            f"[{tuple[1].battletag}](https://{tuple[0]}.diablo3.com/en-us/profile/{tuple[1].battletag.replace('#', '-')}/)",
+            f"[{tuple[1].battletag}](https://{tuple[0]}.diablo3.com/profile/{tuple[1].battletag.replace('#', '-')}/)"
+            if tuple[0] != Region.CN
+            else f"[{tuple[1].battletag}](https://d3.blizzard.cn/profile/{tuple[1].battletag.replace('#', '-')}/)",
             tuple[1].paragon_season,
             nice_number(tuple[1].xp_gained),
             class_names[tuple[1].most_played_class],
@@ -129,7 +131,9 @@ def table_for_region(region: str, infos: List[AccountInfo]) -> str:
     data = [
         (
             i + 1,
-            f"[{info.battletag}](https://{region}.diablo3.com/en-us/profile/{info.battletag.replace('#', '-')}/)",
+            f"[{info.battletag}](https://{region}.diablo3.com/profile/{info.battletag.replace('#', '-')}/)"
+            if region != Region.CN
+            else f"[{info.battletag}](https://d3.blizzard.cn/profile/{info.battletag.replace('#', '-')}/)",
             info.paragon_season,
             nice_number(info.xp_gained),
             class_names[info.most_played_class],
