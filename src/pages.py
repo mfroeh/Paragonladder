@@ -34,7 +34,7 @@ def make_site():
         infos = []
         for region in regions:
             db = Database(season, region)
-            region_infos = db.get_account_infos()
+            region_infos = db.get_tracked()
 
             infos += [(region, info) for info in region_infos]
 
@@ -53,7 +53,7 @@ def make_site():
         # Tables for individual regions
         for region in regions:
             db = Database(season, region)
-            infos = db.get_account_infos()
+            infos = db.get_tracked()
 
             md = f"# Season {season} ({str.upper(region)})\n\n---\n"
             md += f"Table created at {dt.datetime.now()}\n\n"

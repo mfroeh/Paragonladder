@@ -31,14 +31,34 @@ for region in regions:
     collector = Collector(current_season, region, api)
     analyzer = Analyzer(current_season, region)
 
-    btags = collector.collect_battletags()
-    print(btags)
-    db.insert_battletags(btags)
-
-    battletags = db.get_battltags()
+    # Get the battletags of the currently tracked accounts
+    battletags = db.get_tracked_battltags()
     accounts = collector.collect_accounts(battletags)
     infos = analyzer.analyze_accounts(accounts)
+    db.update_tracked(infos)
 
-    db.update_tracked_accounts(infos)
+    # Collect battletags from all leaderboards
+    btags = collector.collect_battletags()
+    print(f"Collected a total of {len(btags)} unique battletags for {region}.")
+
+    # Determine which new accounts to track
+    tracked = {a.battletag: a.paragon_season for a in db.get_tracked()}
+    new_to_track = []
+    for btag, p in btags:
+        if p > tracked.values()[0] and btag not in tracked.keys():
+            new_to_track.append(btag)
+            tracked[btag] = p
+
+            # Remove trumped battletag
+            trumped_btag = tracked.keys()[0]
+            del tracked[trumped_btag]
+            db.remove_tracked_account(trumped_btag)
+
+            tracked = dict(sorted(tracked.items(), key=lambda item: item[1]))
+
+    # Collect account info and insert the new accounts as tracked
+    accounts = collector.collect_accounts(new_to_track)
+    infos = analyzer.analyze_accounts(accounts)
+    db.update_tracked(infos)
 
 make_site()
