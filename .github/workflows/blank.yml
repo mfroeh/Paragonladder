@@ -30,8 +30,8 @@ jobs:
           
       - name: Setup git
         run: |
-          git config --global user.name 'VocalTrance'
-          git config --global user.email 'vocaltrance@users.noreply.github.com'
+          git config --global user.name 'update-workflow'
+          git config --global user.email 'update-workflow@update-workflow.com'
           git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/$GITHUB_REPOSITORY
           git checkout "${GITHUB_REF:11}"
           
