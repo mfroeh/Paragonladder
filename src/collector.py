@@ -44,6 +44,9 @@ class Collector:
             accounts.add(account)
 
             print(f"Collected {i + 1}/{len(battletags)} accounts")
+            if i > 5:
+                break
+
             if i > 0 and i % 20 == 0:
                 sleep(0.35)
 

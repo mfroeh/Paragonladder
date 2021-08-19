@@ -28,9 +28,9 @@ class Database:
 
     def get_account_infos(self) -> List[AccountInfo]:
         """
-        Returns all account infos that have a paragon level in the season.
+        Returns all account infos that have been updated atleast once.
         """
-        return [AccountInfo(**d) for d in self.db.all() if d["paragon_season"]]
+        return [AccountInfo(**d) for d in self.db.all() if d["last_update"]]
 
     def get_battltags(self) -> List[str]:
         return [x["battletag"] for x in self.db.all()]
