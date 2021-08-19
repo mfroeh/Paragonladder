@@ -15,7 +15,13 @@ class Database:
 
     def update_tracked(self, infos: List[AccountInfo]) -> NoReturn:
         for info in infos:
-            self.db.update(asdict(info), Query().battletag == info.battletag)
+            if not self.db.contains(Query().battletag == info.battletag):
+                self.db.insert(asdict(info))
+            else:
+                self.db.update(asdict(info), Query().battletag == info.battletag)
+
+    def remove_tracked_account(self, battletag: str) -> NoReturn:
+        self.db.remove(Query().battletag == battletag)
 
     def get_tracked(self) -> List[AccountInfo]:
         """

@@ -1,6 +1,6 @@
 from analyzer import Analyzer
 from collector import Collector
-from constants import Locale, Region, regions
+from constants import Locale, regions, track_count
 from diablo_api import DiabloApi
 from database import Database
 from blizzardapi import BlizzardApi
@@ -31,7 +31,7 @@ for region in regions:
     collector = Collector(current_season, region, api)
     analyzer = Analyzer(current_season, region)
 
-    # Get the battletags of the currently tracked accounts
+    # Update the tracked accounts infos
     battletags = db.get_tracked_battltags()
     accounts = collector.collect_accounts(battletags)
     infos = analyzer.analyze_accounts(accounts)
@@ -43,21 +43,33 @@ for region in regions:
 
     # Determine which new accounts to track
     tracked = {a.battletag: a.paragon_season for a in db.get_tracked()}
-    new_to_track = []
+    # If there arent as many accounts tracked as is allowed, insert dummies
+    if len(tracked) < track_count:
+        for i in range(track_count - len(tracked)):
+            tracked[i] = 0
+
+    # Ascending by paragon
+    tracked = dict(sorted(tracked.items(), key=lambda item: item[1]))
+
+    new_battletags = []
     for btag, p in btags:
-        if p > tracked.values()[0] and btag not in tracked.keys():
-            new_to_track.append(btag)
+        if p > list(tracked.values())[0] and btag not in tracked.keys():
+            new_battletags.append(btag)
             tracked[btag] = p
 
             # Remove trumped battletag
-            trumped_btag = tracked.keys()[0]
+            trumped_btag = list(tracked.keys())[0]
             del tracked[trumped_btag]
             db.remove_tracked_account(trumped_btag)
 
             tracked = dict(sorted(tracked.items(), key=lambda item: item[1]))
 
-    # Collect account info and insert the new accounts as tracked
-    accounts = collector.collect_accounts(new_to_track)
+    print(
+        f"Found {len(new_battletags)} accounts whose leaderboard paragon trumps the paragon of those tracked."
+    )
+    
+    # Inserts new accounts to track
+    accounts = collector.collect_accounts(new_battletags)
     infos = analyzer.analyze_accounts(accounts)
     db.update_tracked(infos)
 
