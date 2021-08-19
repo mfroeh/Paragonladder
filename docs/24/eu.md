@@ -1,1045 +1,1046 @@
 # Season 24 (EU)
 
 ---
-Table created at 2021-08-19 18:46:24.276462
+Table created at 2021-08-19 18:08:07.639330
 
 |  #   |                                    BattleTag                                     | Paragon Season | Experience gained | Most played |     Last update     |
 | :--- | :------------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1    | [Timpas#21447](https://eu.diablo3.com/en-us/profile/Timpas-21447/)               |      6166      | 3.73 Quadrillion  |     DH      | 2021-08-19 18:18:40 |
-| 2    | [NameZU#1734](https://eu.diablo3.com/en-us/profile/NameZU-1734/)                 |      5877      | 0                 |      -      | 2021-08-19 16:38:47 |
-| 3    | [WudiWhoooo89#2355](https://eu.diablo3.com/en-us/profile/WudiWhoooo89-2355/)     |      5833      | 3.14 Quadrillion  |     DH      | 2021-08-19 18:17:28 |
-| 4    | [TimeToBleed#21857](https://eu.diablo3.com/en-us/profile/TimeToBleed-21857/)     |      5742      | 0                 |      -      | 2021-08-19 17:05:30 |
-| 5    | [NorMal#21937](https://eu.diablo3.com/en-us/profile/NorMal-21937/)               |      5719      | 2.95 Quadrillion  |     DH      | 2021-08-19 18:30:05 |
-| 6    | [Ultra#22909](https://eu.diablo3.com/en-us/profile/Ultra-22909/)                 |      5703      | 0                 |      -      | 2021-08-19 17:08:51 |
-| 7    | [TheyThem#2597](https://eu.diablo3.com/en-us/profile/TheyThem-2597/)             |      5661      | 2.86 Quadrillion  |     DH      | 2021-08-19 18:22:20 |
-| 8    | [NoSleep#21277](https://eu.diablo3.com/en-us/profile/NoSleep-21277/)             |      5631      | 0                 |      -      | 2021-08-19 17:14:43 |
-| 9    | [bergarina#2133](https://eu.diablo3.com/en-us/profile/bergarina-2133/)           |      5586      | 0                 |      -      | 2021-08-19 16:38:14 |
-| 10   | [Wenoo#2123](https://eu.diablo3.com/en-us/profile/Wenoo-2123/)                   |      5577      | 0                 |      -      | 2021-08-19 17:05:17 |
-| 11   | [Izanagi#21147](https://eu.diablo3.com/en-us/profile/Izanagi-21147/)             |      5562      | 0                 |      -      | 2021-08-19 16:58:04 |
-| 12   | [GabON#21672](https://eu.diablo3.com/en-us/profile/GabON-21672/)                 |      5556      | 0                 |      -      | 2021-08-19 17:16:50 |
-| 13   | [Fullvuxen#2268](https://eu.diablo3.com/en-us/profile/Fullvuxen-2268/)           |      5507      | 0                 |      -      | 2021-08-19 17:04:22 |
-| 14   | [allbymyself#21511](https://eu.diablo3.com/en-us/profile/allbymyself-21511/)     |      5496      | 0                 |      -      | 2021-08-19 17:24:39 |
-| 15   | [BigPoppa#12715](https://eu.diablo3.com/en-us/profile/BigPoppa-12715/)           |      5427      | 2.51 Quadrillion  |    Necro    | 2021-08-19 12:56:08 |
-| 16   | [MLGPogO#2933](https://eu.diablo3.com/en-us/profile/MLGPogO-2933/)               |      5373      | 0                 |      -      | 2021-08-19 17:24:47 |
-| 17   | [grrr#21541](https://eu.diablo3.com/en-us/profile/grrr-21541/)                   |      5371      | 0                 |      -      | 2021-08-19 17:13:08 |
-| 18   | [MonkeyLick#2279](https://eu.diablo3.com/en-us/profile/MonkeyLick-2279/)         |      5257      | 0                 |      -      | 2021-08-19 09:37:27 |
-| 19   | [Celevin#11137](https://eu.diablo3.com/en-us/profile/Celevin-11137/)             |      5247      | 0                 |      -      | 2021-08-19 12:46:45 |
-| 20   | [Portioli#11894](https://eu.diablo3.com/en-us/profile/Portioli-11894/)           |      5244      | 0                 |      -      | 2021-08-19 17:02:40 |
-| 21   | [シシ#2933](https://eu.diablo3.com/en-us/profile/シシ-2933/)                         |      5221      | 0                 |      -      | 2021-08-19 17:20:43 |
-| 22   | [Becks23485#21244](https://eu.diablo3.com/en-us/profile/Becks23485-21244/)       |      5218      | 0                 |      -      | 2021-08-19 17:23:14 |
-| 23   | [uWu#23563](https://eu.diablo3.com/en-us/profile/uWu-23563/)                     |      5151      | 0                 |      -      | 2021-08-19 17:00:27 |
-| 24   | [JHHDPP#2914](https://eu.diablo3.com/en-us/profile/JHHDPP-2914/)                 |      5100      | 0                 |      -      | 2021-08-19 17:05:42 |
-| 25   | [ElBumbo#1705](https://eu.diablo3.com/en-us/profile/ElBumbo-1705/)               |      5082      | 0                 |      -      | 2021-08-19 17:05:35 |
-| 26   | [KirmesBoxer#21808](https://eu.diablo3.com/en-us/profile/KirmesBoxer-21808/)     |      5027      | 0                 |      -      | 2021-08-16 20:03:39 |
-| 27   | [Bamse#2676](https://eu.diablo3.com/en-us/profile/Bamse-2676/)                   |      5022      | 0                 |      -      | 2021-08-19 17:19:38 |
-| 28   | [Kemo#2360](https://eu.diablo3.com/en-us/profile/Kemo-2360/)                     |      5000      | 0                 |      -      | 2021-08-19 17:25:14 |
-| 29   | [ag2r#21388](https://eu.diablo3.com/en-us/profile/ag2r-21388/)                   |      4996      | 0                 |      -      | 2021-08-19 17:16:20 |
-| 30   | [Nyvaxad#2855](https://eu.diablo3.com/en-us/profile/Nyvaxad-2855/)               |      4984      | 0                 |      -      | 2021-08-19 17:21:20 |
-| 31   | [Blue#23344](https://eu.diablo3.com/en-us/profile/Blue-23344/)                   |      4932      | 0                 |      -      | 2021-08-19 17:19:45 |
-| 32   | [Ray#24586](https://eu.diablo3.com/en-us/profile/Ray-24586/)                     |      4912      | 0                 |      -      | 2021-08-19 17:18:45 |
-| 33   | [Wenda#2629](https://eu.diablo3.com/en-us/profile/Wenda-2629/)                   |      4908      | 0                 |      -      | 2021-08-19 17:20:01 |
-| 34   | [DeadEye#22973](https://eu.diablo3.com/en-us/profile/DeadEye-22973/)             |      4907      | 0                 |      -      | 2021-08-19 13:51:09 |
-| 35   | [Divine#21325](https://eu.diablo3.com/en-us/profile/Divine-21325/)               |      4902      | 0                 |      -      | 2021-08-19 17:19:46 |
-| 36   | [Idontcare#22762](https://eu.diablo3.com/en-us/profile/Idontcare-22762/)         |      4879      | 0                 |      -      | 2021-08-19 17:19:22 |
-| 37   | [Django#22943](https://eu.diablo3.com/en-us/profile/Django-22943/)               |      4870      | 0                 |      -      | 2021-08-19 17:17:43 |
-| 38   | [Ex1t66#2352](https://eu.diablo3.com/en-us/profile/Ex1t66-2352/)                 |      4860      | 0                 |      -      | 2021-08-19 17:08:49 |
-| 39   | [Clem#22526](https://eu.diablo3.com/en-us/profile/Clem-22526/)                   |      4842      | 0                 |      -      | 2021-08-19 16:21:07 |
-| 40   | [ganzfeld#21462](https://eu.diablo3.com/en-us/profile/ganzfeld-21462/)           |      4823      | 0                 |      -      | 2021-08-19 11:31:08 |
-| 41   | [r4uschi#21732](https://eu.diablo3.com/en-us/profile/r4uschi-21732/)             |      4813      | 0                 |      -      | 2021-08-19 17:14:31 |
-| 42   | [Udopeters85#2275](https://eu.diablo3.com/en-us/profile/Udopeters85-2275/)       |      4804      | 0                 |      -      | 2021-08-19 14:13:00 |
-| 43   | [Zarrowz#2451](https://eu.diablo3.com/en-us/profile/Zarrowz-2451/)               |      4790      | 0                 |      -      | 2021-08-19 17:24:08 |
-| 44   | [Migi#11594](https://eu.diablo3.com/en-us/profile/Migi-11594/)                   |      4777      | 0                 |      -      | 2021-08-19 16:52:10 |
-| 45   | [Zik#22653](https://eu.diablo3.com/en-us/profile/Zik-22653/)                     |      4753      | 0                 |      -      | 2021-08-19 17:09:28 |
-| 46   | [Roberto#23385](https://eu.diablo3.com/en-us/profile/Roberto-23385/)             |      4711      | 0                 |      -      | 2021-08-19 12:06:34 |
-| 47   | [smurf#23976](https://eu.diablo3.com/en-us/profile/smurf-23976/)                 |      4684      | 0                 |      -      | 2021-08-19 17:29:35 |
-| 48   | [TheVengeful#21317](https://eu.diablo3.com/en-us/profile/TheVengeful-21317/)     |      4681      | 0                 |      -      | 2021-08-19 17:19:29 |
-| 49   | [Sculptura#2769](https://eu.diablo3.com/en-us/profile/Sculptura-2769/)           |      4671      | 0                 |      -      | 2021-08-19 17:14:17 |
-| 50   | [Hansel#21318](https://eu.diablo3.com/en-us/profile/Hansel-21318/)               |      4649      | 0                 |      -      | 2021-08-19 09:26:38 |
-| 51   | [iTwixX#2765](https://eu.diablo3.com/en-us/profile/iTwixX-2765/)                 |      4646      | 0                 |      -      | 2021-08-19 16:51:50 |
-| 52   | [ТриЯйца#21369](https://eu.diablo3.com/en-us/profile/ТриЯйца-21369/)             |      4644      | 0                 |      -      | 2021-08-19 17:18:53 |
-| 53   | [Inarius#2952](https://eu.diablo3.com/en-us/profile/Inarius-2952/)               |      4637      | 0                 |      -      | 2021-08-19 17:04:09 |
-| 54   | [TDMguapio#2729](https://eu.diablo3.com/en-us/profile/TDMguapio-2729/)           |      4634      | 0                 |      -      | 2021-08-19 17:28:59 |
-| 55   | [Nash#22677](https://eu.diablo3.com/en-us/profile/Nash-22677/)                   |      4630      | 0                 |      -      | 2021-08-19 17:15:27 |
-| 56   | [KarmaPolice2#2170](https://eu.diablo3.com/en-us/profile/KarmaPolice2-2170/)     |      4606      | 0                 |      -      | 2021-08-19 17:04:50 |
-| 57   | [stuka#2715](https://eu.diablo3.com/en-us/profile/stuka-2715/)                   |      4604      | 0                 |      -      | 2021-08-19 17:16:48 |
-| 58   | [oWo#22627](https://eu.diablo3.com/en-us/profile/oWo-22627/)                     |      4592      | 0                 |      -      | 2021-08-19 16:45:03 |
-| 59   | [TETEMUR#2168](https://eu.diablo3.com/en-us/profile/TETEMUR-2168/)               |      4572      | 0                 |      -      | 2021-08-19 17:00:20 |
-| 60   | [Jay#26871](https://eu.diablo3.com/en-us/profile/Jay-26871/)                     |      4545      | 0                 |      -      | 2021-08-19 17:03:32 |
-| 61   | [Winter#22631](https://eu.diablo3.com/en-us/profile/Winter-22631/)               |      4538      | 0                 |      -      | 2021-08-19 14:51:12 |
-| 62   | [Lúcifer#21239](https://eu.diablo3.com/en-us/profile/Lúcifer-21239/)             |      4518      | 0                 |      -      | 2021-08-19 17:12:35 |
-| 63   | [Twizzy#21798](https://eu.diablo3.com/en-us/profile/Twizzy-21798/)               |      4507      | 0                 |      -      | 2021-08-19 17:10:35 |
-| 64   | [Achilles#22515](https://eu.diablo3.com/en-us/profile/Achilles-22515/)           |      4482      | 0                 |      -      | 2021-08-19 17:16:09 |
-| 65   | [Datlau#2239](https://eu.diablo3.com/en-us/profile/Datlau-2239/)                 |      4465      | 0                 |      -      | 2021-08-19 17:18:13 |
-| 66   | [dbq#2527](https://eu.diablo3.com/en-us/profile/dbq-2527/)                       |      4455      | 0                 |      -      | 2021-08-19 17:25:53 |
-| 67   | [Eugene#27665](https://eu.diablo3.com/en-us/profile/Eugene-27665/)               |      4447      | 0                 |      -      | 2021-08-19 17:29:18 |
-| 68   | [Seazy#11685](https://eu.diablo3.com/en-us/profile/Seazy-11685/)                 |      4437      | 0                 |      -      | 2021-08-19 17:04:08 |
-| 69   | [VMwareWork#2491](https://eu.diablo3.com/en-us/profile/VMwareWork-2491/)         |      4428      | 0                 |      -      | 2021-08-19 17:13:00 |
-| 70   | [BlaskLight#1171](https://eu.diablo3.com/en-us/profile/BlaskLight-1171/)         |      4416      | 0                 |      -      | 2021-08-19 17:07:32 |
-| 71   | [BryusVilkin#2770](https://eu.diablo3.com/en-us/profile/BryusVilkin-2770/)       |      4411      | 0                 |      -      | 2021-08-19 14:54:10 |
-| 72   | [snts#21913](https://eu.diablo3.com/en-us/profile/snts-21913/)                   |      4394      | 0                 |      -      | 2021-08-19 17:10:40 |
-| 73   | [Lennart#22538](https://eu.diablo3.com/en-us/profile/Lennart-22538/)             |      4382      | 0                 |      -      | 2021-08-19 17:16:44 |
-| 74   | [PuurgeTV#2458](https://eu.diablo3.com/en-us/profile/PuurgeTV-2458/)             |      4381      | 0                 |      -      | 2021-08-19 17:01:30 |
-| 75   | [RuLeS#2932](https://eu.diablo3.com/en-us/profile/RuLeS-2932/)                   |      4363      | 0                 |      -      | 2021-08-19 08:56:09 |
-| 76   | [Venruchi#2806](https://eu.diablo3.com/en-us/profile/Venruchi-2806/)             |      4346      | 0                 |      -      | 2021-08-17 19:54:59 |
-| 77   | [Dumbo#21742](https://eu.diablo3.com/en-us/profile/Dumbo-21742/)                 |      4338      | 0                 |      -      | 2021-08-19 15:36:10 |
-| 78   | [KingKarlos#2160](https://eu.diablo3.com/en-us/profile/KingKarlos-2160/)         |      4335      | 0                 |      -      | 2021-08-19 17:17:24 |
-| 79   | [Chopride#21137](https://eu.diablo3.com/en-us/profile/Chopride-21137/)           |      4320      | 0                 |      -      | 2021-08-19 14:24:34 |
-| 80   | [Provt#1624](https://eu.diablo3.com/en-us/profile/Provt-1624/)                   |      4311      | 0                 |      -      | 2021-08-19 17:12:21 |
-| 81   | [fekabacsi#2958](https://eu.diablo3.com/en-us/profile/fekabacsi-2958/)           |      4310      | 0                 |      -      | 2021-08-19 17:19:30 |
-| 82   | [Bread#21167](https://eu.diablo3.com/en-us/profile/Bread-21167/)                 |      4297      | 0                 |      -      | 2021-08-16 04:42:55 |
-| 83   | [WillyDoc#2587](https://eu.diablo3.com/en-us/profile/WillyDoc-2587/)             |      4285      | 0                 |      -      | 2021-08-19 16:24:01 |
-| 84   | [NoLimmits#2283](https://eu.diablo3.com/en-us/profile/NoLimmits-2283/)           |      4274      | 0                 |      -      | 2021-08-19 17:10:14 |
-| 85   | [Hephaistos#21870](https://eu.diablo3.com/en-us/profile/Hephaistos-21870/)       |      4255      | 0                 |      -      | 2021-08-19 17:28:58 |
-| 86   | [PaeLezzar#2630](https://eu.diablo3.com/en-us/profile/PaeLezzar-2630/)           |      4250      | 0                 |      -      | 2021-08-19 13:03:12 |
-| 87   | [CaptainIlle#2486](https://eu.diablo3.com/en-us/profile/CaptainIlle-2486/)       |      4247      | 0                 |      -      | 2021-08-19 08:53:01 |
-| 88   | [d2k2#21225](https://eu.diablo3.com/en-us/profile/d2k2-21225/)                   |      4218      | 0                 |      -      | 2021-08-19 17:05:45 |
-| 89   | [kOzO#21423](https://eu.diablo3.com/en-us/profile/kOzO-21423/)                   |      4217      | 0                 |      -      | 2021-08-19 17:24:36 |
-| 90   | [FoAMDFun#2297](https://eu.diablo3.com/en-us/profile/FoAMDFun-2297/)             |      4215      | 0                 |      -      | 2021-08-19 17:19:31 |
-| 91   | [Whatcha#21297](https://eu.diablo3.com/en-us/profile/Whatcha-21297/)             |      4205      | 0                 |      -      | 2021-08-19 17:11:31 |
-| 92   | [itsmegeforce#2951](https://eu.diablo3.com/en-us/profile/itsmegeforce-2951/)     |      4204      | 0                 |      -      | 2021-08-19 12:40:47 |
-| 93   | [MICH43L#21115](https://eu.diablo3.com/en-us/profile/MICH43L-21115/)             |      4192      | 0                 |      -      | 2021-08-19 16:47:43 |
-| 94   | [Pr15k0#2237](https://eu.diablo3.com/en-us/profile/Pr15k0-2237/)                 |      4171      | 0                 |      -      | 2021-08-18 23:59:03 |
-| 95   | [b0nE#2911](https://eu.diablo3.com/en-us/profile/b0nE-2911/)                     |      4170      | 0                 |      -      | 2021-08-19 16:59:04 |
-| 96   | [DerFeldHase#2701](https://eu.diablo3.com/en-us/profile/DerFeldHase-2701/)       |      4146      | 0                 |      -      | 2021-08-19 14:05:02 |
-| 97   | [Tropic#2787](https://eu.diablo3.com/en-us/profile/Tropic-2787/)                 |      4131      | 0                 |      -      | 2021-08-19 16:59:40 |
-| 98   | [Pala00#2546](https://eu.diablo3.com/en-us/profile/Pala00-2546/)                 |      4130      | 0                 |      -      | 2021-08-19 17:17:18 |
-| 99   | [IveGSL#2551](https://eu.diablo3.com/en-us/profile/IveGSL-2551/)                 |      4128      | 0                 |      -      | 2021-08-19 17:23:42 |
-| 100  | [Rava#2714](https://eu.diablo3.com/en-us/profile/Rava-2714/)                     |      4124      | 0                 |      -      | 2021-08-19 16:25:11 |
-| 101  | [BaHkoMaT#2293](https://eu.diablo3.com/en-us/profile/BaHkoMaT-2293/)             |      4122      | 0                 |      -      | 2021-08-19 17:23:29 |
-| 102  | [RuRu#21568](https://eu.diablo3.com/en-us/profile/RuRu-21568/)                   |      4114      | 0                 |      -      | 2021-08-19 16:09:10 |
-| 103  | [Chris#113588](https://eu.diablo3.com/en-us/profile/Chris-113588/)               |      4112      | 0                 |      -      | 2021-08-19 17:14:48 |
-| 104  | [rejko#2208](https://eu.diablo3.com/en-us/profile/rejko-2208/)                   |      4110      | 0                 |      -      | 2021-08-18 19:09:23 |
-| 105  | [Nikator#2220](https://eu.diablo3.com/en-us/profile/Nikator-2220/)               |      4108      | 0                 |      -      | 2021-08-19 17:22:18 |
-| 106  | [rOot#22405](https://eu.diablo3.com/en-us/profile/rOot-22405/)                   |      4105      | 0                 |      -      | 2021-08-19 17:15:18 |
-| 107  | [Rasputin#21350](https://eu.diablo3.com/en-us/profile/Rasputin-21350/)           |      4102      | 0                 |      -      | 2021-08-19 17:27:53 |
-| 108  | [o0Christian#2458](https://eu.diablo3.com/en-us/profile/o0Christian-2458/)       |      4099      | 0                 |      -      | 2021-08-19 01:35:13 |
-| 109  | [QuartoPanna#2482](https://eu.diablo3.com/en-us/profile/QuartoPanna-2482/)       |      4090      | 0                 |      -      | 2021-08-15 22:12:30 |
-| 110  | [FisT#2992](https://eu.diablo3.com/en-us/profile/FisT-2992/)                     |      4088      | 0                 |      -      | 2021-08-19 14:52:27 |
-| 111  | [Grishnackh#21364](https://eu.diablo3.com/en-us/profile/Grishnackh-21364/)       |      4085      | 0                 |      -      | 2021-08-19 17:13:20 |
-| 112  | [Lider#2491](https://eu.diablo3.com/en-us/profile/Lider-2491/)                   |      4081      | 0                 |      -      | 2021-08-19 17:01:54 |
-| 113  | [Hensley#21363](https://eu.diablo3.com/en-us/profile/Hensley-21363/)             |      4074      | 0                 |      -      | 2021-08-19 17:36:35 |
-| 114  | [Gazelle21#2417](https://eu.diablo3.com/en-us/profile/Gazelle21-2417/)           |      4072      | 0                 |      -      | 2021-08-19 17:21:10 |
-| 115  | [Nevetser#21182](https://eu.diablo3.com/en-us/profile/Nevetser-21182/)           |      4071      | 0                 |      -      | 2021-08-19 17:16:09 |
-| 116  | [MrTurtle#21621](https://eu.diablo3.com/en-us/profile/MrTurtle-21621/)           |      4057      | 0                 |      -      | 2021-08-19 16:56:29 |
-| 117  | [TheGodSon#2128](https://eu.diablo3.com/en-us/profile/TheGodSon-2128/)           |      4052      | 0                 |      -      | 2021-08-19 16:38:18 |
-| 118  | [Soulnsane#2303](https://eu.diablo3.com/en-us/profile/Soulnsane-2303/)           |      4051      | 0                 |      -      | 2021-08-19 17:05:24 |
-| 119  | [banzie#2734](https://eu.diablo3.com/en-us/profile/banzie-2734/)                 |      4036      | 0                 |      -      | 2021-08-19 15:14:02 |
-| 120  | [Johnzr#21581](https://eu.diablo3.com/en-us/profile/Johnzr-21581/)               |      4036      | 0                 |      -      | 2021-08-19 17:28:21 |
-| 121  | [Totti#22703](https://eu.diablo3.com/en-us/profile/Totti-22703/)                 |      4035      | 0                 |      -      | 2021-08-19 17:21:04 |
-| 122  | [AngryBoy#11829](https://eu.diablo3.com/en-us/profile/AngryBoy-11829/)           |      4030      | 0                 |      -      | 2021-08-19 17:18:57 |
-| 123  | [Filius#2897](https://eu.diablo3.com/en-us/profile/Filius-2897/)                 |      4029      | 0                 |      -      | 2021-08-19 16:45:11 |
-| 124  | [Illu#21609](https://eu.diablo3.com/en-us/profile/Illu-21609/)                   |      4028      | 0                 |      -      | 2021-08-19 17:25:06 |
-| 125  | [Rockstone#21373](https://eu.diablo3.com/en-us/profile/Rockstone-21373/)         |      4025      | 0                 |      -      | 2021-08-18 20:13:15 |
-| 126  | [Bachir#2448](https://eu.diablo3.com/en-us/profile/Bachir-2448/)                 |      4019      | 0                 |      -      | 2021-08-19 17:11:27 |
-| 127  | [ShadowBeast#21200](https://eu.diablo3.com/en-us/profile/ShadowBeast-21200/)     |      4018      | 0                 |      -      | 2021-08-19 16:14:12 |
-| 128  | [PetitBN#21183](https://eu.diablo3.com/en-us/profile/PetitBN-21183/)             |      4017      | 0                 |      -      | 2021-08-16 17:06:37 |
-| 129  | [Somi#21399](https://eu.diablo3.com/en-us/profile/Somi-21399/)                   |      4013      | 0                 |      -      | 2021-08-19 17:19:30 |
-| 130  | [MAXIS#21235](https://eu.diablo3.com/en-us/profile/MAXIS-21235/)                 |      4006      | 0                 |      -      | 2021-08-19 14:40:37 |
-| 131  | [Gugan#21220](https://eu.diablo3.com/en-us/profile/Gugan-21220/)                 |      3984      | 0                 |      -      | 2021-08-19 13:34:26 |
-| 132  | [Neyor#2768](https://eu.diablo3.com/en-us/profile/Neyor-2768/)                   |      3979      | 0                 |      -      | 2021-08-19 14:46:34 |
-| 133  | [Zacku#21926](https://eu.diablo3.com/en-us/profile/Zacku-21926/)                 |      3976      | 0                 |      -      | 2021-08-19 16:41:46 |
-| 134  | [RobotTurtle#21924](https://eu.diablo3.com/en-us/profile/RobotTurtle-21924/)     |      3972      | 0                 |      -      | 2021-08-19 16:57:24 |
-| 135  | [Hearl#2120](https://eu.diablo3.com/en-us/profile/Hearl-2120/)                   |      3972      | 0                 |      -      | 2021-08-17 16:40:27 |
-| 136  | [Cypher#22636](https://eu.diablo3.com/en-us/profile/Cypher-22636/)               |      3958      | 0                 |      -      | 2021-08-19 17:08:50 |
-| 137  | [Bay#21252](https://eu.diablo3.com/en-us/profile/Bay-21252/)                     |      3952      | 0                 |      -      | 2021-08-19 16:16:58 |
-| 138  | [Viec#21849](https://eu.diablo3.com/en-us/profile/Viec-21849/)                   |      3948      | 0                 |      -      | 2021-08-19 17:05:56 |
-| 139  | [eQuaL#2133](https://eu.diablo3.com/en-us/profile/eQuaL-2133/)                   |      3933      | 0                 |      -      | 2021-08-18 23:54:47 |
-| 140  | [ecimania#2917](https://eu.diablo3.com/en-us/profile/ecimania-2917/)             |      3926      | 0                 |      -      | 2021-08-19 15:24:58 |
-| 141  | [WiWiV3#2471](https://eu.diablo3.com/en-us/profile/WiWiV3-2471/)                 |      3925      | 0                 |      -      | 2021-08-15 17:18:37 |
-| 142  | [Pätsch#2736](https://eu.diablo3.com/en-us/profile/Pätsch-2736/)                 |      3910      | 0                 |      -      | 2021-08-19 17:09:30 |
-| 143  | [Pray#2942](https://eu.diablo3.com/en-us/profile/Pray-2942/)                     |      3910      | 0                 |      -      | 2021-08-18 18:37:48 |
-| 144  | [Otaku#21178](https://eu.diablo3.com/en-us/profile/Otaku-21178/)                 |      3901      | 0                 |      -      | 2021-08-19 17:31:22 |
-| 145  | [Quake#21646](https://eu.diablo3.com/en-us/profile/Quake-21646/)                 |      3900      | 0                 |      -      | 2021-08-18 12:49:51 |
-| 146  | [WamselVoraus#2647](https://eu.diablo3.com/en-us/profile/WamselVoraus-2647/)     |      3887      | 0                 |      -      | 2021-08-19 17:20:30 |
-| 147  | [AngryReturns#21585](https://eu.diablo3.com/en-us/profile/AngryReturns-21585/)   |      3873      | 0                 |      -      | 2021-08-19 10:14:07 |
-| 148  | [TrollPuncher#21957](https://eu.diablo3.com/en-us/profile/TrollPuncher-21957/)   |      3869      | 0                 |      -      | 2021-08-19 17:26:08 |
-| 149  | [Paris2012#2830](https://eu.diablo3.com/en-us/profile/Paris2012-2830/)           |      3866      | 0                 |      -      | 2021-08-19 17:11:32 |
-| 150  | [LuffySenpai#21712](https://eu.diablo3.com/en-us/profile/LuffySenpai-21712/)     |      3864      | 0                 |      -      | 2021-08-19 17:23:46 |
-| 151  | [Wolfmaan#21204](https://eu.diablo3.com/en-us/profile/Wolfmaan-21204/)           |      3854      | 0                 |      -      | 2021-08-19 10:43:15 |
-| 152  | [Pocahontas#21861](https://eu.diablo3.com/en-us/profile/Pocahontas-21861/)       |      3852      | 0                 |      -      | 2021-08-19 17:16:24 |
-| 153  | [Insotzius#2660](https://eu.diablo3.com/en-us/profile/Insotzius-2660/)           |      3851      | 0                 |      -      | 2021-08-18 00:26:04 |
-| 154  | [Tesla#21443](https://eu.diablo3.com/en-us/profile/Tesla-21443/)                 |      3849      | 0                 |      -      | 2021-08-19 17:07:39 |
-| 155  | [Lobo#2833](https://eu.diablo3.com/en-us/profile/Lobo-2833/)                     |      3848      | 0                 |      -      | 2021-08-19 17:22:46 |
-| 156  | [Makinahhh#2729](https://eu.diablo3.com/en-us/profile/Makinahhh-2729/)           |      3848      | 0                 |      -      | 2021-08-19 15:29:44 |
-| 157  | [Peyo#21982](https://eu.diablo3.com/en-us/profile/Peyo-21982/)                   |      3848      | 0                 |      -      | 2021-08-19 16:36:30 |
-| 158  | [Mastermind#22697](https://eu.diablo3.com/en-us/profile/Mastermind-22697/)       |      3848      | 0                 |      -      | 2021-08-19 17:39:34 |
-| 159  | [Nobady#21595](https://eu.diablo3.com/en-us/profile/Nobady-21595/)               |      3838      | 0                 |      -      | 2021-08-18 23:43:26 |
-| 160  | [Plagen#1932](https://eu.diablo3.com/en-us/profile/Plagen-1932/)                 |      3832      | 0                 |      -      | 2021-08-19 16:46:05 |
-| 161  | [Pummel#21421](https://eu.diablo3.com/en-us/profile/Pummel-21421/)               |      3831      | 0                 |      -      | 2021-08-19 16:47:59 |
-| 162  | [Босоногий#2522](https://eu.diablo3.com/en-us/profile/Босоногий-2522/)           |      3828      | 0                 |      -      | 2021-08-19 17:03:01 |
-| 163  | [AvaLoN#2232](https://eu.diablo3.com/en-us/profile/AvaLoN-2232/)                 |      3826      | 0                 |      -      | 2021-08-19 17:04:20 |
-| 164  | [allcatraz#2175](https://eu.diablo3.com/en-us/profile/allcatraz-2175/)           |      3824      | 0                 |      -      | 2021-08-18 01:05:33 |
-| 165  | [Zvink#2966](https://eu.diablo3.com/en-us/profile/Zvink-2966/)                   |      3823      | 0                 |      -      | 2021-08-18 19:04:16 |
-| 166  | [ExiLent#2799](https://eu.diablo3.com/en-us/profile/ExiLent-2799/)               |      3821      | 0                 |      -      | 2021-08-19 17:22:07 |
-| 167  | [Gadwin#21285](https://eu.diablo3.com/en-us/profile/Gadwin-21285/)               |      3820      | 0                 |      -      | 2021-08-19 17:03:59 |
-| 168  | [Jag#21452](https://eu.diablo3.com/en-us/profile/Jag-21452/)                     |      3818      | 0                 |      -      | 2021-08-19 16:18:15 |
-| 169  | [NeverWøød#2143](https://eu.diablo3.com/en-us/profile/NeverWøød-2143/)           |      3813      | 0                 |      -      | 2021-08-15 22:45:38 |
-| 170  | [Szybki#21268](https://eu.diablo3.com/en-us/profile/Szybki-21268/)               |      3804      | 0                 |      -      | 2021-08-19 17:28:15 |
-| 171  | [Morfei#21442](https://eu.diablo3.com/en-us/profile/Morfei-21442/)               |      3801      | 0                 |      -      | 2021-08-19 15:46:50 |
-| 172  | [Nexrate#2126](https://eu.diablo3.com/en-us/profile/Nexrate-2126/)               |      3791      | 0                 |      -      | 2021-08-18 23:22:42 |
-| 173  | [AllesEasy#2148](https://eu.diablo3.com/en-us/profile/AllesEasy-2148/)           |      3786      | 0                 |      -      | 2021-08-19 17:06:09 |
-| 174  | [Cruelty#2641](https://eu.diablo3.com/en-us/profile/Cruelty-2641/)               |      3786      | 0                 |      -      | 2021-08-19 17:10:29 |
-| 175  | [Baskenater#21360](https://eu.diablo3.com/en-us/profile/Baskenater-21360/)       |      3785      | 0                 |      -      | 2021-08-19 17:05:17 |
-| 176  | [fake#22582](https://eu.diablo3.com/en-us/profile/fake-22582/)                   |      3784      | 0                 |      -      | 2021-08-19 16:44:10 |
-| 177  | [Bazzi#2782](https://eu.diablo3.com/en-us/profile/Bazzi-2782/)                   |      3783      | 0                 |      -      | 2021-08-18 00:07:44 |
-| 178  | [Zmart#2457](https://eu.diablo3.com/en-us/profile/Zmart-2457/)                   |      3782      | 0                 |      -      | 2021-08-19 17:09:49 |
-| 179  | [Néoslacksaxo#2883](https://eu.diablo3.com/en-us/profile/Néoslacksaxo-2883/)     |      3780      | 0                 |      -      | 2021-08-19 17:23:15 |
-| 180  | [Neo#27312](https://eu.diablo3.com/en-us/profile/Neo-27312/)                     |      3771      | 0                 |      -      | 2021-08-19 17:31:03 |
-| 181  | [Legit#21773](https://eu.diablo3.com/en-us/profile/Legit-21773/)                 |      3765      | 0                 |      -      | 2021-08-19 16:44:47 |
-| 182  | [Leaxy#21283](https://eu.diablo3.com/en-us/profile/Leaxy-21283/)                 |      3760      | 0                 |      -      | 2021-08-19 17:24:07 |
-| 183  | [XxXSonicXxX#21593](https://eu.diablo3.com/en-us/profile/XxXSonicXxX-21593/)     |      3759      | 0                 |      -      | 2021-08-19 16:18:58 |
-| 184  | [MTLRMC#2789](https://eu.diablo3.com/en-us/profile/MTLRMC-2789/)                 |      3756      | 0                 |      -      | 2021-08-19 17:31:32 |
-| 185  | [TaskForce141#11624](https://eu.diablo3.com/en-us/profile/TaskForce141-11624/)   |      3753      | 0                 |      -      | 2021-08-19 17:26:11 |
-| 186  | [BladeRunner#22903](https://eu.diablo3.com/en-us/profile/BladeRunner-22903/)     |      3751      | 0                 |      -      | 2021-08-19 16:58:00 |
-| 187  | [Ukaî#2453](https://eu.diablo3.com/en-us/profile/Ukaî-2453/)                     |      3750      | 0                 |      -      | 2021-08-19 17:08:02 |
-| 188  | [Skowi555#2268](https://eu.diablo3.com/en-us/profile/Skowi555-2268/)             |      3750      | 0                 |      -      | 2021-08-19 15:35:25 |
-| 189  | [ĴaydĔĔ#2208](https://eu.diablo3.com/en-us/profile/ĴaydĔĔ-2208/)                 |      3749      | 0                 |      -      | 2021-08-14 22:05:24 |
-| 190  | [Funky#22942](https://eu.diablo3.com/en-us/profile/Funky-22942/)                 |      3744      | 0                 |      -      | 2021-08-19 17:14:22 |
-| 191  | [WindforceGTX#2682](https://eu.diablo3.com/en-us/profile/WindforceGTX-2682/)     |      3743      | 0                 |      -      | 2021-08-18 23:42:23 |
-| 192  | [technine#2958](https://eu.diablo3.com/en-us/profile/technine-2958/)             |      3743      | 0                 |      -      | 2021-08-19 11:36:06 |
-| 193  | [Biotin#21856](https://eu.diablo3.com/en-us/profile/Biotin-21856/)               |      3741      | 0                 |      -      | 2021-08-19 17:14:36 |
-| 194  | [Lucasnoescg#2670](https://eu.diablo3.com/en-us/profile/Lucasnoescg-2670/)       |      3732      | 0                 |      -      | 2021-08-19 17:19:13 |
-| 195  | [MasterMoos#21196](https://eu.diablo3.com/en-us/profile/MasterMoos-21196/)       |      3731      | 0                 |      -      | 2021-08-19 12:33:51 |
-| 196  | [Eauxengo#2382](https://eu.diablo3.com/en-us/profile/Eauxengo-2382/)             |      3731      | 0                 |      -      | 2021-08-19 16:14:02 |
-| 197  | [Ryu#2383](https://eu.diablo3.com/en-us/profile/Ryu-2383/)                       |      3728      | 0                 |      -      | 2021-08-19 01:59:01 |
-| 198  | [Padlavillage#2224](https://eu.diablo3.com/en-us/profile/Padlavillage-2224/)     |      3727      | 0                 |      -      | 2021-08-19 16:55:37 |
-| 199  | [OpI#2736](https://eu.diablo3.com/en-us/profile/OpI-2736/)                       |      3717      | 0                 |      -      | 2021-08-19 17:18:47 |
-| 200  | [Maçabeyi#2168](https://eu.diablo3.com/en-us/profile/Maçabeyi-2168/)             |      3715      | 0                 |      -      | 2021-08-19 17:01:16 |
-| 201  | [Cris#22916](https://eu.diablo3.com/en-us/profile/Cris-22916/)                   |      3713      | 0                 |      -      | 2021-08-19 17:22:07 |
-| 202  | [Tallaron#1953](https://eu.diablo3.com/en-us/profile/Tallaron-1953/)             |      3713      | 0                 |      -      | 2021-08-18 23:33:51 |
-| 203  | [Northwar#21340](https://eu.diablo3.com/en-us/profile/Northwar-21340/)           |      3712      | 0                 |      -      | 2021-08-19 17:23:25 |
-| 204  | [Maaarek#21642](https://eu.diablo3.com/en-us/profile/Maaarek-21642/)             |      3710      | 0                 |      -      | 2021-08-19 13:53:47 |
-| 205  | [MrPanDa#21529](https://eu.diablo3.com/en-us/profile/MrPanDa-21529/)             |      3709      | 0                 |      -      | 2021-08-18 17:19:01 |
-| 206  | [Ragnar#25943](https://eu.diablo3.com/en-us/profile/Ragnar-25943/)               |      3707      | 0                 |      -      | 2021-08-19 17:15:41 |
-| 207  | [Tetsu#21203](https://eu.diablo3.com/en-us/profile/Tetsu-21203/)                 |      3706      | 0                 |      -      | 2021-08-19 15:03:22 |
-| 208  | [Parmabaer#2282](https://eu.diablo3.com/en-us/profile/Parmabaer-2282/)           |      3705      | 0                 |      -      | 2021-08-19 17:23:24 |
-| 209  | [GrülMeisteR#2392](https://eu.diablo3.com/en-us/profile/GrülMeisteR-2392/)       |      3704      | 0                 |      -      | 2021-08-19 17:16:39 |
-| 210  | [knight#22191](https://eu.diablo3.com/en-us/profile/knight-22191/)               |      3701      | 0                 |      -      | 2021-08-09 22:29:52 |
-| 211  | [Knochenjäger#21839](https://eu.diablo3.com/en-us/profile/Knochenjäger-21839/)   |      3693      | 0                 |      -      | 2021-08-19 17:24:39 |
-| 212  | [Mundzso#2529](https://eu.diablo3.com/en-us/profile/Mundzso-2529/)               |      3687      | 0                 |      -      | 2021-08-19 17:21:06 |
-| 213  | [Horhoga#2878](https://eu.diablo3.com/en-us/profile/Horhoga-2878/)               |      3687      | 0                 |      -      | 2021-08-19 01:24:19 |
-| 214  | [BastoS#2644](https://eu.diablo3.com/en-us/profile/BastoS-2644/)                 |      3678      | 0                 |      -      | 2021-08-19 15:54:03 |
-| 215  | [Tjalarun#2375](https://eu.diablo3.com/en-us/profile/Tjalarun-2375/)             |      3674      | 0                 |      -      | 2021-08-19 17:23:20 |
-| 216  | [GS23#2466](https://eu.diablo3.com/en-us/profile/GS23-2466/)                     |      3671      | 0                 |      -      | 2021-08-19 17:14:41 |
-| 217  | [DiplJurRA#2406](https://eu.diablo3.com/en-us/profile/DiplJurRA-2406/)           |      3667      | 0                 |      -      | 2021-08-19 08:46:18 |
-| 218  | [Kwiatu#21782](https://eu.diablo3.com/en-us/profile/Kwiatu-21782/)               |      3659      | 0                 |      -      | 2021-08-19 13:40:56 |
-| 219  | [Suntego#21495](https://eu.diablo3.com/en-us/profile/Suntego-21495/)             |      3656      | 0                 |      -      | 2021-08-19 17:27:34 |
-| 220  | [Schlabatelli#2776](https://eu.diablo3.com/en-us/profile/Schlabatelli-2776/)     |      3656      | 0                 |      -      | 2021-08-19 17:05:53 |
-| 221  | [MR0K#21265](https://eu.diablo3.com/en-us/profile/MR0K-21265/)                   |      3656      | 0                 |      -      | 2021-08-19 17:30:18 |
-| 222  | [Merlin#25352](https://eu.diablo3.com/en-us/profile/Merlin-25352/)               |      3655      | 0                 |      -      | 2021-08-19 15:20:34 |
-| 223  | [Monya777#21965](https://eu.diablo3.com/en-us/profile/Monya777-21965/)           |      3643      | 0                 |      -      | 2021-08-19 17:31:37 |
-| 224  | [Infinity#24338](https://eu.diablo3.com/en-us/profile/Infinity-24338/)           |      3642      | 0                 |      -      | 2021-08-19 17:19:32 |
-| 225  | [Fléxiz#2709](https://eu.diablo3.com/en-us/profile/Fléxiz-2709/)                 |      3635      | 0                 |      -      | 2021-08-19 16:03:18 |
-| 226  | [BattlePants#1101832](https://eu.diablo3.com/en-us/profile/BattlePants-1101832/) |      3631      | 0                 |      -      | 2021-08-19 16:17:21 |
-| 227  | [mokaq#21555](https://eu.diablo3.com/en-us/profile/mokaq-21555/)                 |      3628      | 0                 |      -      | 2021-08-19 09:48:20 |
-| 228  | [Loel#2607](https://eu.diablo3.com/en-us/profile/Loel-2607/)                     |      3627      | 0                 |      -      | 2021-08-18 22:52:53 |
-| 229  | [Nearth97#2914](https://eu.diablo3.com/en-us/profile/Nearth97-2914/)             |      3627      | 0                 |      -      | 2021-08-19 00:41:34 |
-| 230  | [rafcior#2591](https://eu.diablo3.com/en-us/profile/rafcior-2591/)               |      3624      | 0                 |      -      | 2021-08-19 17:26:15 |
-| 231  | [INFINITY#24880](https://eu.diablo3.com/en-us/profile/INFINITY-24880/)           |      3618      | 0                 |      -      | 2021-08-19 15:15:33 |
-| 232  | [CHROM#21270](https://eu.diablo3.com/en-us/profile/CHROM-21270/)                 |      3614      | 0                 |      -      | 2021-08-19 17:07:27 |
-| 233  | [DerTomy#2397](https://eu.diablo3.com/en-us/profile/DerTomy-2397/)               |      3609      | 0                 |      -      | 2021-08-19 17:31:52 |
-| 234  | [Fredgerät#2885](https://eu.diablo3.com/en-us/profile/Fredgerät-2885/)           |      3607      | 0                 |      -      | 2021-08-19 17:18:50 |
-| 235  | [JochenPeters#2646](https://eu.diablo3.com/en-us/profile/JochenPeters-2646/)     |      3606      | 0                 |      -      | 2021-08-19 14:14:30 |
-| 236  | [Yana#2755](https://eu.diablo3.com/en-us/profile/Yana-2755/)                     |      3605      | 0                 |      -      | 2021-08-19 17:10:40 |
-| 237  | [FajnyMnich#24506](https://eu.diablo3.com/en-us/profile/FajnyMnich-24506/)       |      3605      | 0                 |      -      | 2021-08-19 17:17:29 |
-| 238  | [Lagertha#21159](https://eu.diablo3.com/en-us/profile/Lagertha-21159/)           |      3604      | 0                 |      -      | 2021-08-19 17:20:58 |
-| 239  | [SEMIK0389#2455](https://eu.diablo3.com/en-us/profile/SEMIK0389-2455/)           |      3603      | 0                 |      -      | 2021-08-19 07:01:27 |
-| 240  | [hugoletta#2517](https://eu.diablo3.com/en-us/profile/hugoletta-2517/)           |      3590      | 0                 |      -      | 2021-08-19 15:31:12 |
-| 241  | [ObsidianFury#2466](https://eu.diablo3.com/en-us/profile/ObsidianFury-2466/)     |      3585      | 0                 |      -      | 2021-08-19 17:12:59 |
-| 242  | [Bubblan#2959](https://eu.diablo3.com/en-us/profile/Bubblan-2959/)               |      3585      | 0                 |      -      | 2021-08-19 06:43:46 |
-| 243  | [czarnozeby#2305](https://eu.diablo3.com/en-us/profile/czarnozeby-2305/)         |      3579      | 0                 |      -      | 2021-08-19 16:34:05 |
-| 244  | [Glukosamine#2612](https://eu.diablo3.com/en-us/profile/Glukosamine-2612/)       |      3569      | 0                 |      -      | 2021-08-19 16:40:57 |
-| 245  | [DarkKing#22639](https://eu.diablo3.com/en-us/profile/DarkKing-22639/)           |      3567      | 0                 |      -      | 2021-08-18 22:51:34 |
-| 246  | [arri#2889](https://eu.diablo3.com/en-us/profile/arri-2889/)                     |      3566      | 0                 |      -      | 2021-08-19 08:15:00 |
-| 247  | [EXX#21690](https://eu.diablo3.com/en-us/profile/EXX-21690/)                     |      3566      | 0                 |      -      | 2021-08-19 17:15:23 |
-| 248  | [D0minatoR#21570](https://eu.diablo3.com/en-us/profile/D0minatoR-21570/)         |      3563      | 0                 |      -      | 2021-08-19 17:08:18 |
-| 249  | [Aura#21522](https://eu.diablo3.com/en-us/profile/Aura-21522/)                   |      3560      | 0                 |      -      | 2021-08-19 16:54:29 |
-| 250  | [Prezes#21741](https://eu.diablo3.com/en-us/profile/Prezes-21741/)               |      3556      | 0                 |      -      | 2021-08-19 10:50:29 |
-| 251  | [Erdterraner#217431](https://eu.diablo3.com/en-us/profile/Erdterraner-217431/)   |      3555      | 0                 |      -      | 2021-08-19 17:12:14 |
-| 252  | [SoloWD148#2162](https://eu.diablo3.com/en-us/profile/SoloWD148-2162/)           |      3555      | 0                 |      -      | 2021-08-19 17:20:35 |
-| 253  | [Tarone#2177](https://eu.diablo3.com/en-us/profile/Tarone-2177/)                 |      3553      | 0                 |      -      | 2021-08-19 17:22:21 |
-| 254  | [ChrisGrandPa#2915](https://eu.diablo3.com/en-us/profile/ChrisGrandPa-2915/)     |      3551      | 0                 |      -      | 2021-08-19 14:59:13 |
-| 255  | [Ender#2992](https://eu.diablo3.com/en-us/profile/Ender-2992/)                   |      3546      | 0                 |      -      | 2021-08-18 23:08:15 |
-| 256  | [Naguya#2131](https://eu.diablo3.com/en-us/profile/Naguya-2131/)                 |      3544      | 0                 |      -      | 2021-08-18 18:45:14 |
-| 257  | [BlackSea#21388](https://eu.diablo3.com/en-us/profile/BlackSea-21388/)           |      3541      | 0                 |      -      | 2021-08-19 17:36:04 |
-| 258  | [putrefaction#2524](https://eu.diablo3.com/en-us/profile/putrefaction-2524/)     |      3540      | 0                 |      -      | 2021-08-19 16:59:09 |
-| 259  | [ElleTaDitNoN#2541](https://eu.diablo3.com/en-us/profile/ElleTaDitNoN-2541/)     |      3531      | 0                 |      -      | 2021-08-19 17:22:51 |
-| 260  | [R3T04#2993](https://eu.diablo3.com/en-us/profile/R3T04-2993/)                   |      3531      | 0                 |      -      | 2021-08-18 22:16:17 |
-| 261  | [Focus#22430](https://eu.diablo3.com/en-us/profile/Focus-22430/)                 |      3528      | 0                 |      -      | 2021-08-19 17:30:58 |
-| 262  | [Bluuu#21607](https://eu.diablo3.com/en-us/profile/Bluuu-21607/)                 |      3525      | 0                 |      -      | 2021-08-19 16:32:46 |
-| 263  | [Papu#21575](https://eu.diablo3.com/en-us/profile/Papu-21575/)                   |      3525      | 0                 |      -      | 2021-08-16 12:53:48 |
-| 264  | [strsys1#2343](https://eu.diablo3.com/en-us/profile/strsys1-2343/)               |      3521      | 0                 |      -      | 2021-08-19 15:00:58 |
-| 265  | [RedEagledTv#2253](https://eu.diablo3.com/en-us/profile/RedEagledTv-2253/)       |      3519      | 0                 |      -      | 2021-08-19 17:27:04 |
-| 266  | [wudijo#21122](https://eu.diablo3.com/en-us/profile/wudijo-21122/)               |      3513      | 0                 |      -      | 2021-08-19 17:20:45 |
-| 267  | [Azazel#25476](https://eu.diablo3.com/en-us/profile/Azazel-25476/)               |      3503      | 0                 |      -      | 2021-08-19 17:21:33 |
-| 268  | [Jeras#2896](https://eu.diablo3.com/en-us/profile/Jeras-2896/)                   |      3501      | 0                 |      -      | 2021-08-19 13:57:11 |
-| 269  | [Raptor#23969](https://eu.diablo3.com/en-us/profile/Raptor-23969/)               |      3497      | 0                 |      -      | 2021-08-19 17:18:37 |
-| 270  | [benni#2106](https://eu.diablo3.com/en-us/profile/benni-2106/)                   |      3493      | 0                 |      -      | 2021-08-19 17:25:11 |
-| 271  | [Clay#21942](https://eu.diablo3.com/en-us/profile/Clay-21942/)                   |      3493      | 0                 |      -      | 2021-08-19 17:34:58 |
-| 272  | [Shiva#22889](https://eu.diablo3.com/en-us/profile/Shiva-22889/)                 |      3487      | 0                 |      -      | 2021-08-19 17:33:47 |
-| 273  | [Skrealz#21428](https://eu.diablo3.com/en-us/profile/Skrealz-21428/)             |      3487      | 0                 |      -      | 2021-08-19 17:22:23 |
-| 274  | [kensi#21936](https://eu.diablo3.com/en-us/profile/kensi-21936/)                 |      3478      | 0                 |      -      | 2021-08-19 17:19:09 |
-| 275  | [Neon#2174](https://eu.diablo3.com/en-us/profile/Neon-2174/)                     |      3477      | 0                 |      -      | 2021-08-19 17:20:28 |
-| 276  | [SaMaEL#23181](https://eu.diablo3.com/en-us/profile/SaMaEL-23181/)               |      3475      | 0                 |      -      | 2021-08-19 11:14:54 |
-| 277  | [amba#21863](https://eu.diablo3.com/en-us/profile/amba-21863/)                   |      3475      | 0                 |      -      | 2021-08-19 17:12:32 |
-| 278  | [Kappa#24275](https://eu.diablo3.com/en-us/profile/Kappa-24275/)                 |      3474      | 0                 |      -      | 2021-08-19 17:12:38 |
-| 279  | [NeverPrimal#2763](https://eu.diablo3.com/en-us/profile/NeverPrimal-2763/)       |      3467      | 0                 |      -      | 2021-08-19 17:20:41 |
-| 280  | [TheBiker#21497](https://eu.diablo3.com/en-us/profile/TheBiker-21497/)           |      3467      | 0                 |      -      | 2021-08-19 17:19:19 |
-| 281  | [bob44350#2452](https://eu.diablo3.com/en-us/profile/bob44350-2452/)             |      3460      | 0                 |      -      | 2021-08-19 17:25:40 |
-| 282  | [Palla81#2688](https://eu.diablo3.com/en-us/profile/Palla81-2688/)               |      3460      | 0                 |      -      | 2021-08-19 16:46:04 |
-| 283  | [d4rkw15h#2327](https://eu.diablo3.com/en-us/profile/d4rkw15h-2327/)             |      3459      | 0                 |      -      | 2021-08-19 17:25:15 |
-| 284  | [Damiyan#2545](https://eu.diablo3.com/en-us/profile/Damiyan-2545/)               |      3459      | 0                 |      -      | 2021-08-19 07:02:56 |
-| 285  | [F0rmatC#2257](https://eu.diablo3.com/en-us/profile/F0rmatC-2257/)               |      3455      | 0                 |      -      | 2021-08-19 13:49:29 |
-| 286  | [Rampampam#21976](https://eu.diablo3.com/en-us/profile/Rampampam-21976/)         |      3455      | 0                 |      -      | 2021-08-19 12:16:34 |
-| 287  | [MasteSc4Real#2694](https://eu.diablo3.com/en-us/profile/MasteSc4Real-2694/)     |      3452      | 0                 |      -      | 2021-08-19 17:19:34 |
-| 288  | [Chipsi#2451](https://eu.diablo3.com/en-us/profile/Chipsi-2451/)                 |      3450      | 0                 |      -      | 2021-08-17 23:17:19 |
-| 289  | [Mimozo#2688](https://eu.diablo3.com/en-us/profile/Mimozo-2688/)                 |      3447      | 0                 |      -      | 2021-08-19 16:34:14 |
-| 290  | [Saragon#2797](https://eu.diablo3.com/en-us/profile/Saragon-2797/)               |      3445      | 0                 |      -      | 2021-08-19 15:05:50 |
-| 291  | [Dalgaard#21262](https://eu.diablo3.com/en-us/profile/Dalgaard-21262/)           |      3439      | 0                 |      -      | 2021-08-19 17:25:37 |
-| 292  | [riLe#2988](https://eu.diablo3.com/en-us/profile/riLe-2988/)                     |      3435      | 0                 |      -      | 2021-08-19 17:18:07 |
-| 293  | [Gimli#22413](https://eu.diablo3.com/en-us/profile/Gimli-22413/)                 |      3432      | 0                 |      -      | 2021-08-19 16:53:47 |
-| 294  | [PcGamerHaze#2631](https://eu.diablo3.com/en-us/profile/PcGamerHaze-2631/)       |      3429      | 0                 |      -      | 2021-08-14 16:05:45 |
-| 295  | [Crayzer#21896](https://eu.diablo3.com/en-us/profile/Crayzer-21896/)             |      3426      | 0                 |      -      | 2021-08-19 17:26:39 |
-| 296  | [Ellynd#2982](https://eu.diablo3.com/en-us/profile/Ellynd-2982/)                 |      3422      | 0                 |      -      | 2021-08-19 16:45:31 |
-| 297  | [Amon#2526](https://eu.diablo3.com/en-us/profile/Amon-2526/)                     |      3418      | 0                 |      -      | 2021-08-19 17:29:09 |
-| 298  | [Kikaha#2290](https://eu.diablo3.com/en-us/profile/Kikaha-2290/)                 |      3415      | 0                 |      -      | 2021-08-18 23:58:51 |
-| 299  | [BASSB0XXX#2737](https://eu.diablo3.com/en-us/profile/BASSB0XXX-2737/)           |      3413      | 0                 |      -      | 2021-08-19 13:48:34 |
-| 300  | [joe#24578](https://eu.diablo3.com/en-us/profile/joe-24578/)                     |      3412      | 0                 |      -      | 2021-08-19 14:59:40 |
-| 301  | [Mahala#21737](https://eu.diablo3.com/en-us/profile/Mahala-21737/)               |      3410      | 0                 |      -      | 2021-08-16 15:52:34 |
-| 302  | [Aquilles#2344](https://eu.diablo3.com/en-us/profile/Aquilles-2344/)             |      3407      | 0                 |      -      | 2021-08-19 14:26:07 |
-| 303  | [YourBaby#21839](https://eu.diablo3.com/en-us/profile/YourBaby-21839/)           |      3405      | 0                 |      -      | 2021-08-19 16:33:14 |
-| 304  | [Proximity#2619](https://eu.diablo3.com/en-us/profile/Proximity-2619/)           |      3400      | 0                 |      -      | 2021-08-19 14:53:12 |
-| 305  | [Fjord#21136](https://eu.diablo3.com/en-us/profile/Fjord-21136/)                 |      3398      | 0                 |      -      | 2021-08-19 17:19:32 |
-| 306  | [Glazier#21420](https://eu.diablo3.com/en-us/profile/Glazier-21420/)             |      3394      | 0                 |      -      | 2021-08-19 16:56:07 |
-| 307  | [waVe#2894](https://eu.diablo3.com/en-us/profile/waVe-2894/)                     |      3392      | 0                 |      -      | 2021-08-19 17:34:39 |
-| 308  | [Elfriede#2191](https://eu.diablo3.com/en-us/profile/Elfriede-2191/)             |      3387      | 0                 |      -      | 2021-08-19 13:03:48 |
-| 309  | [BruceWilles#21904](https://eu.diablo3.com/en-us/profile/BruceWilles-21904/)     |      3387      | 0                 |      -      | 2021-08-19 17:21:48 |
-| 310  | [ligmena#21471](https://eu.diablo3.com/en-us/profile/ligmena-21471/)             |      3387      | 0                 |      -      | 2021-08-18 02:56:23 |
-| 311  | [bafo33#2992](https://eu.diablo3.com/en-us/profile/bafo33-2992/)                 |      3385      | 0                 |      -      | 2021-08-19 17:17:19 |
-| 312  | [SpiderBiBis#2143](https://eu.diablo3.com/en-us/profile/SpiderBiBis-2143/)       |      3385      | 0                 |      -      | 2021-08-13 10:59:34 |
-| 313  | [Duncan#22642](https://eu.diablo3.com/en-us/profile/Duncan-22642/)               |      3384      | 0                 |      -      | 2021-08-19 17:21:33 |
-| 314  | [selpicsid#21432](https://eu.diablo3.com/en-us/profile/selpicsid-21432/)         |      3380      | 0                 |      -      | 2021-08-19 05:06:37 |
-| 315  | [momper#2880](https://eu.diablo3.com/en-us/profile/momper-2880/)                 |      3376      | 0                 |      -      | 2021-08-19 14:23:47 |
-| 316  | [ULIANKA#2446](https://eu.diablo3.com/en-us/profile/ULIANKA-2446/)               |      3373      | 0                 |      -      | 2021-08-19 17:22:27 |
-| 317  | [Kingschaffi#2182](https://eu.diablo3.com/en-us/profile/Kingschaffi-2182/)       |      3368      | 0                 |      -      | 2021-08-19 17:21:23 |
-| 318  | [Arkeon#21613](https://eu.diablo3.com/en-us/profile/Arkeon-21613/)               |      3365      | 0                 |      -      | 2021-08-19 17:20:42 |
-| 319  | [Mausi98#2566](https://eu.diablo3.com/en-us/profile/Mausi98-2566/)               |      3364      | 0                 |      -      | 2021-08-19 17:01:15 |
-| 320  | [GhostDog#2147495](https://eu.diablo3.com/en-us/profile/GhostDog-2147495/)       |      3364      | 0                 |      -      | 2021-08-19 16:24:20 |
-| 321  | [gamjack#2603](https://eu.diablo3.com/en-us/profile/gamjack-2603/)               |      3362      | 0                 |      -      | 2021-08-19 17:16:59 |
-| 322  | [Fiend#21152](https://eu.diablo3.com/en-us/profile/Fiend-21152/)                 |      3362      | 0                 |      -      | 2021-08-19 12:16:06 |
-| 323  | [Leo#212965](https://eu.diablo3.com/en-us/profile/Leo-212965/)                   |      3357      | 0                 |      -      | 2021-08-19 16:36:52 |
-| 324  | [DraZen#21668](https://eu.diablo3.com/en-us/profile/DraZen-21668/)               |      3353      | 0                 |      -      | 2021-08-15 18:37:53 |
-| 325  | [Yav6#2434](https://eu.diablo3.com/en-us/profile/Yav6-2434/)                     |      3353      | 0                 |      -      | 2021-08-19 17:23:43 |
-| 326  | [Nilac#2283](https://eu.diablo3.com/en-us/profile/Nilac-2283/)                   |      3352      | 0                 |      -      | 2021-08-19 17:28:56 |
-| 327  | [Mafafla#2834](https://eu.diablo3.com/en-us/profile/Mafafla-2834/)               |      3345      | 0                 |      -      | 2021-08-17 15:24:27 |
-| 328  | [Almighty#2821](https://eu.diablo3.com/en-us/profile/Almighty-2821/)             |      3345      | 0                 |      -      | 2021-08-19 17:32:21 |
-| 329  | [zhazhabo#2903](https://eu.diablo3.com/en-us/profile/zhazhabo-2903/)             |      3344      | 0                 |      -      | 2021-08-06 20:20:57 |
-| 330  | [Iao#21842](https://eu.diablo3.com/en-us/profile/Iao-21842/)                     |      3343      | 0                 |      -      | 2021-08-14 22:46:44 |
-| 331  | [Catsby#11311](https://eu.diablo3.com/en-us/profile/Catsby-11311/)               |      3338      | 0                 |      -      | 2021-08-19 17:33:46 |
-| 332  | [Possesd#2943](https://eu.diablo3.com/en-us/profile/Possesd-2943/)               |      3336      | 0                 |      -      | 2021-08-19 17:30:46 |
-| 333  | [mario91#21729](https://eu.diablo3.com/en-us/profile/mario91-21729/)             |      3332      | 0                 |      -      | 2021-08-19 16:30:44 |
-| 334  | [Seara#21885](https://eu.diablo3.com/en-us/profile/Seara-21885/)                 |      3330      | 0                 |      -      | 2021-08-17 01:29:17 |
-| 335  | [KoKoo19#2301](https://eu.diablo3.com/en-us/profile/KoKoo19-2301/)               |      3330      | 0                 |      -      | 2021-08-19 17:15:46 |
-| 336  | [Rud0lphRossa#2741](https://eu.diablo3.com/en-us/profile/Rud0lphRossa-2741/)     |      3326      | 0                 |      -      | 2021-08-19 13:58:17 |
-| 337  | [Aeilene#2938](https://eu.diablo3.com/en-us/profile/Aeilene-2938/)               |      3322      | 0                 |      -      | 2021-08-10 09:48:06 |
-| 338  | [Garrus#21132](https://eu.diablo3.com/en-us/profile/Garrus-21132/)               |      3317      | 0                 |      -      | 2021-08-19 13:03:36 |
-| 339  | [Phoenix#21836](https://eu.diablo3.com/en-us/profile/Phoenix-21836/)             |      3306      | 0                 |      -      | 2021-08-18 23:51:26 |
-| 340  | [MIEDZ#2452](https://eu.diablo3.com/en-us/profile/MIEDZ-2452/)                   |      3303      | 0                 |      -      | 2021-08-19 06:58:16 |
-| 341  | [Killerz#2171](https://eu.diablo3.com/en-us/profile/Killerz-2171/)               |      3302      | 0                 |      -      | 2021-08-19 17:20:42 |
-| 342  | [LeGeNDa#22651](https://eu.diablo3.com/en-us/profile/LeGeNDa-22651/)             |      3301      | 0                 |      -      | 2021-08-19 17:02:59 |
-| 343  | [Ragen#21860](https://eu.diablo3.com/en-us/profile/Ragen-21860/)                 |      3300      | 0                 |      -      | 2021-08-19 16:55:38 |
-| 344  | [CrazyDay07#2244](https://eu.diablo3.com/en-us/profile/CrazyDay07-2244/)         |      3300      | 0                 |      -      | 2021-08-19 17:07:44 |
-| 345  | [BurnedManga#2992](https://eu.diablo3.com/en-us/profile/BurnedManga-2992/)       |      3298      | 0                 |      -      | 2021-08-19 16:28:44 |
-| 346  | [Abspoh#2727](https://eu.diablo3.com/en-us/profile/Abspoh-2727/)                 |      3294      | 0                 |      -      | 2021-08-19 16:58:50 |
-| 347  | [kev#2124](https://eu.diablo3.com/en-us/profile/kev-2124/)                       |      3293      | 0                 |      -      | 2021-08-19 09:10:06 |
-| 348  | [Dream#23850](https://eu.diablo3.com/en-us/profile/Dream-23850/)                 |      3291      | 0                 |      -      | 2021-08-18 22:33:44 |
-| 349  | [Killer#211511](https://eu.diablo3.com/en-us/profile/Killer-211511/)             |      3290      | 0                 |      -      | 2021-08-19 17:33:12 |
-| 350  | [Cømandante#2795](https://eu.diablo3.com/en-us/profile/Cømandante-2795/)         |      3288      | 0                 |      -      | 2021-08-19 00:46:47 |
-| 351  | [Вульф#2669](https://eu.diablo3.com/en-us/profile/Вульф-2669/)                   |      3288      | 0                 |      -      | 2021-08-19 14:40:45 |
-| 352  | [MQMF#2809](https://eu.diablo3.com/en-us/profile/MQMF-2809/)                     |      3287      | 0                 |      -      | 2021-08-19 17:22:34 |
-| 353  | [grembi#21236](https://eu.diablo3.com/en-us/profile/grembi-21236/)               |      3285      | 0                 |      -      | 2021-08-19 16:51:14 |
-| 354  | [Bjo#21767](https://eu.diablo3.com/en-us/profile/Bjo-21767/)                     |      3285      | 0                 |      -      | 2021-08-19 06:37:44 |
-| 355  | [Felix#24478](https://eu.diablo3.com/en-us/profile/Felix-24478/)                 |      3283      | 0                 |      -      | 2021-08-18 23:21:09 |
-| 356  | [Candy#1864](https://eu.diablo3.com/en-us/profile/Candy-1864/)                   |      3277      | 0                 |      -      | 2021-08-19 17:22:40 |
-| 357  | [Noktus#2285](https://eu.diablo3.com/en-us/profile/Noktus-2285/)                 |      3276      | 0                 |      -      | 2021-08-19 17:32:47 |
-| 358  | [PoiSoN#21189](https://eu.diablo3.com/en-us/profile/PoiSoN-21189/)               |      3275      | 0                 |      -      | 2021-08-19 10:46:20 |
-| 359  | [ZiNoU#2791](https://eu.diablo3.com/en-us/profile/ZiNoU-2791/)                   |      3274      | 0                 |      -      | 2021-08-19 17:20:34 |
-| 360  | [Chigur#2932](https://eu.diablo3.com/en-us/profile/Chigur-2932/)                 |      3272      | 0                 |      -      | 2021-08-19 15:52:36 |
-| 361  | [Musutruk#2364](https://eu.diablo3.com/en-us/profile/Musutruk-2364/)             |      3267      | 0                 |      -      | 2021-08-18 12:18:20 |
-| 362  | [MeMory#2289](https://eu.diablo3.com/en-us/profile/MeMory-2289/)                 |      3263      | 0                 |      -      | 2021-08-19 06:47:24 |
-| 363  | [Storm#25794](https://eu.diablo3.com/en-us/profile/Storm-25794/)                 |      3261      | 0                 |      -      | 2021-08-19 16:46:30 |
-| 364  | [Marv#22282](https://eu.diablo3.com/en-us/profile/Marv-22282/)                   |      3261      | 0                 |      -      | 2021-08-19 16:44:48 |
-| 365  | [kalash#2590](https://eu.diablo3.com/en-us/profile/kalash-2590/)                 |      3261      | 0                 |      -      | 2021-08-19 17:28:59 |
-| 366  | [Vanïa#2147](https://eu.diablo3.com/en-us/profile/Vanïa-2147/)                   |      3259      | 0                 |      -      | 2021-08-18 20:15:51 |
-| 367  | [Redfox13#1285](https://eu.diablo3.com/en-us/profile/Redfox13-1285/)             |      3257      | 0                 |      -      | 2021-08-19 15:03:26 |
-| 368  | [Auratus#21538](https://eu.diablo3.com/en-us/profile/Auratus-21538/)             |      3257      | 0                 |      -      | 2021-08-19 15:08:34 |
-| 369  | [i7Lntees#2949](https://eu.diablo3.com/en-us/profile/i7Lntees-2949/)             |      3253      | 0                 |      -      | 2021-08-19 17:26:05 |
-| 370  | [kijenn#2924](https://eu.diablo3.com/en-us/profile/kijenn-2924/)                 |      3249      | 0                 |      -      | 2021-08-19 06:39:14 |
-| 371  | [WidoWmFist#2125](https://eu.diablo3.com/en-us/profile/WidoWmFist-2125/)         |      3243      | 0                 |      -      | 2021-08-19 17:37:02 |
-| 372  | [Strychoza#2337](https://eu.diablo3.com/en-us/profile/Strychoza-2337/)           |      3242      | 0                 |      -      | 2021-08-19 15:49:32 |
-| 373  | [Elektra#2616](https://eu.diablo3.com/en-us/profile/Elektra-2616/)               |      3239      | 0                 |      -      | 2021-08-19 14:48:22 |
-| 374  | [SALKTAN#2310](https://eu.diablo3.com/en-us/profile/SALKTAN-2310/)               |      3235      | 0                 |      -      | 2021-08-19 17:37:51 |
-| 375  | [GeOrGeKaLaC#2284](https://eu.diablo3.com/en-us/profile/GeOrGeKaLaC-2284/)       |      3231      | 0                 |      -      | 2021-08-19 17:29:52 |
-| 376  | [Gizlok83#2504](https://eu.diablo3.com/en-us/profile/Gizlok83-2504/)             |      3230      | 0                 |      -      | 2021-08-19 13:34:39 |
-| 377  | [clorky#21314](https://eu.diablo3.com/en-us/profile/clorky-21314/)               |      3228      | 0                 |      -      | 2021-08-19 06:18:20 |
-| 378  | [Gin#2800](https://eu.diablo3.com/en-us/profile/Gin-2800/)                       |      3227      | 0                 |      -      | 2021-08-19 12:47:50 |
-| 379  | [ashlambert#2733](https://eu.diablo3.com/en-us/profile/ashlambert-2733/)         |      3226      | 0                 |      -      | 2021-08-18 23:20:00 |
-| 380  | [Wookie#2424](https://eu.diablo3.com/en-us/profile/Wookie-2424/)                 |      3224      | 0                 |      -      | 2021-08-19 15:18:10 |
-| 381  | [Mûffins#2739](https://eu.diablo3.com/en-us/profile/Mûffins-2739/)               |      3222      | 0                 |      -      | 2021-08-19 11:36:38 |
-| 382  | [TikeHun#2179](https://eu.diablo3.com/en-us/profile/TikeHun-2179/)               |      3217      | 0                 |      -      | 2021-08-19 17:21:17 |
-| 383  | [srgollo#2794](https://eu.diablo3.com/en-us/profile/srgollo-2794/)               |      3216      | 0                 |      -      | 2021-08-19 16:59:00 |
-| 384  | [Venom#25650](https://eu.diablo3.com/en-us/profile/Venom-25650/)                 |      3215      | 0                 |      -      | 2021-08-19 17:15:19 |
-| 385  | [Start7x#2769](https://eu.diablo3.com/en-us/profile/Start7x-2769/)               |      3213      | 0                 |      -      | 2021-08-19 10:05:45 |
-| 386  | [Zombiax#21740](https://eu.diablo3.com/en-us/profile/Zombiax-21740/)             |      3210      | 0                 |      -      | 2021-08-19 17:10:38 |
-| 387  | [patrick#2821](https://eu.diablo3.com/en-us/profile/patrick-2821/)               |      3208      | 0                 |      -      | 2021-08-19 17:27:52 |
-| 388  | [Souhyen#2742](https://eu.diablo3.com/en-us/profile/Souhyen-2742/)               |      3208      | 0                 |      -      | 2021-08-19 05:36:01 |
-| 389  | [Roberto#22865](https://eu.diablo3.com/en-us/profile/Roberto-22865/)             |      3204      | 0                 |      -      | 2021-08-19 16:02:59 |
-| 390  | [banzai#22316](https://eu.diablo3.com/en-us/profile/banzai-22316/)               |      3203      | 0                 |      -      | 2021-08-19 10:16:34 |
-| 391  | [Atlas#2830](https://eu.diablo3.com/en-us/profile/Atlas-2830/)                   |      3201      | 0                 |      -      | 2021-08-18 23:20:32 |
-| 392  | [Fouine#2902](https://eu.diablo3.com/en-us/profile/Fouine-2902/)                 |      3201      | 0                 |      -      | 2021-08-19 17:28:54 |
-| 393  | [Aid#21580](https://eu.diablo3.com/en-us/profile/Aid-21580/)                     |      3196      | 0                 |      -      | 2021-08-19 17:16:11 |
-| 394  | [Luiska#2814](https://eu.diablo3.com/en-us/profile/Luiska-2814/)                 |      3190      | 0                 |      -      | 2021-08-19 16:29:40 |
-| 395  | [Bukaj#22300](https://eu.diablo3.com/en-us/profile/Bukaj-22300/)                 |      3189      | 0                 |      -      | 2021-08-19 17:40:30 |
-| 396  | [Klarkar#2624](https://eu.diablo3.com/en-us/profile/Klarkar-2624/)               |      3189      | 0                 |      -      | 2021-08-18 17:55:49 |
-| 397  | [IruYS#2280](https://eu.diablo3.com/en-us/profile/IruYS-2280/)                   |      3183      | 0                 |      -      | 2021-08-19 16:54:45 |
-| 398  | [Araval#2151](https://eu.diablo3.com/en-us/profile/Araval-2151/)                 |      3183      | 0                 |      -      | 2021-08-19 17:30:06 |
-| 399  | [NEV#2614](https://eu.diablo3.com/en-us/profile/NEV-2614/)                       |      3182      | 0                 |      -      | 2021-08-19 17:14:40 |
-| 400  | [TQDrago#2566](https://eu.diablo3.com/en-us/profile/TQDrago-2566/)               |      3180      | 0                 |      -      | 2021-08-19 16:11:25 |
-| 401  | [Ile86#2725](https://eu.diablo3.com/en-us/profile/Ile86-2725/)                   |      3177      | 0                 |      -      | 2021-08-19 17:21:43 |
-| 402  | [Fekszonn#1521](https://eu.diablo3.com/en-us/profile/Fekszonn-1521/)             |      3172      | 0                 |      -      | 2021-08-19 06:49:36 |
-| 403  | [Templar#2623](https://eu.diablo3.com/en-us/profile/Templar-2623/)               |      3172      | 0                 |      -      | 2021-08-19 14:43:11 |
-| 404  | [FGP#21684](https://eu.diablo3.com/en-us/profile/FGP-21684/)                     |      3169      | 0                 |      -      | 2021-08-19 12:23:46 |
-| 405  | [siddhartha#2238](https://eu.diablo3.com/en-us/profile/siddhartha-2238/)         |      3168      | 0                 |      -      | 2021-08-19 16:17:59 |
-| 406  | [NewAge#21463](https://eu.diablo3.com/en-us/profile/NewAge-21463/)               |      3166      | 0                 |      -      | 2021-08-19 16:23:23 |
-| 407  | [Nightcap#2936](https://eu.diablo3.com/en-us/profile/Nightcap-2936/)             |      3162      | 0                 |      -      | 2021-08-19 14:33:28 |
-| 408  | [Adreno#2291](https://eu.diablo3.com/en-us/profile/Adreno-2291/)                 |      3162      | 0                 |      -      | 2021-08-19 17:20:58 |
-| 409  | [Luyana#21914](https://eu.diablo3.com/en-us/profile/Luyana-21914/)               |      3161      | 0                 |      -      | 2021-08-19 17:15:38 |
-| 410  | [Faliure#2574](https://eu.diablo3.com/en-us/profile/Faliure-2574/)               |      3157      | 0                 |      -      | 2021-08-19 00:17:26 |
-| 411  | [HAJGUMA#2701](https://eu.diablo3.com/en-us/profile/HAJGUMA-2701/)               |      3155      | 0                 |      -      | 2021-08-19 16:59:48 |
-| 412  | [Maggus#21211](https://eu.diablo3.com/en-us/profile/Maggus-21211/)               |      3154      | 0                 |      -      | 2021-08-19 16:42:27 |
-| 413  | [Quentinment#1864](https://eu.diablo3.com/en-us/profile/Quentinment-1864/)       |      3153      | 0                 |      -      | 2021-08-18 10:11:57 |
-| 414  | [Rob#2628](https://eu.diablo3.com/en-us/profile/Rob-2628/)                       |      3152      | 0                 |      -      | 2021-08-13 17:18:23 |
-| 415  | [CrazySlayTV#2874](https://eu.diablo3.com/en-us/profile/CrazySlayTV-2874/)       |      3152      | 0                 |      -      | 2021-08-19 17:22:31 |
-| 416  | [Djul#2264](https://eu.diablo3.com/en-us/profile/Djul-2264/)                     |      3150      | 0                 |      -      | 2021-08-19 07:12:31 |
-| 417  | [KABTOP#2843](https://eu.diablo3.com/en-us/profile/KABTOP-2843/)                 |      3149      | 0                 |      -      | 2021-08-19 12:06:38 |
-| 418  | [djtazman#2925](https://eu.diablo3.com/en-us/profile/djtazman-2925/)             |      3145      | 0                 |      -      | 2021-08-19 13:27:41 |
-| 419  | [Sexi#21271](https://eu.diablo3.com/en-us/profile/Sexi-21271/)                   |      3139      | 0                 |      -      | 2021-08-19 11:08:53 |
-| 420  | [NotLikeThis#21635](https://eu.diablo3.com/en-us/profile/NotLikeThis-21635/)     |      3138      | 0                 |      -      | 2021-08-19 17:16:45 |
-| 421  | [mASS#2459](https://eu.diablo3.com/en-us/profile/mASS-2459/)                     |      3138      | 0                 |      -      | 2021-08-19 01:08:09 |
-| 422  | [Oleg#25114](https://eu.diablo3.com/en-us/profile/Oleg-25114/)                   |      3133      | 0                 |      -      | 2021-08-19 17:07:36 |
-| 423  | [reNe#2585](https://eu.diablo3.com/en-us/profile/reNe-2585/)                     |      3133      | 0                 |      -      | 2021-08-19 12:25:43 |
-| 424  | [SamusAran#2517](https://eu.diablo3.com/en-us/profile/SamusAran-2517/)           |      3129      | 0                 |      -      | 2021-08-18 22:50:05 |
-| 425  | [KTinsest#2259](https://eu.diablo3.com/en-us/profile/KTinsest-2259/)             |      3125      | 0                 |      -      | 2021-08-19 17:21:46 |
-| 426  | [Romeo#2310](https://eu.diablo3.com/en-us/profile/Romeo-2310/)                   |      3125      | 0                 |      -      | 2021-08-18 21:20:34 |
-| 427  | [SilentStorm#2129604](https://eu.diablo3.com/en-us/profile/SilentStorm-2129604/) |      3124      | 0                 |      -      | 2021-08-18 15:18:36 |
-| 428  | [Monty#2873](https://eu.diablo3.com/en-us/profile/Monty-2873/)                   |      3121      | 0                 |      -      | 2021-08-18 22:49:21 |
-| 429  | [Ascari#2956](https://eu.diablo3.com/en-us/profile/Ascari-2956/)                 |      3118      | 0                 |      -      | 2021-08-19 17:21:54 |
-| 430  | [Savanster#2549](https://eu.diablo3.com/en-us/profile/Savanster-2549/)           |      3117      | 0                 |      -      | 2021-08-19 15:18:43 |
-| 431  | [Bubulle#21275](https://eu.diablo3.com/en-us/profile/Bubulle-21275/)             |      3115      | 0                 |      -      | 2021-08-19 07:31:27 |
-| 432  | [GertsJasper#2736](https://eu.diablo3.com/en-us/profile/GertsJasper-2736/)       |      3114      | 0                 |      -      | 2021-08-19 13:48:40 |
-| 433  | [CooLcarD#2841](https://eu.diablo3.com/en-us/profile/CooLcarD-2841/)             |      3111      | 0                 |      -      | 2021-08-19 17:14:13 |
-| 434  | [ordamus#21771](https://eu.diablo3.com/en-us/profile/ordamus-21771/)             |      3110      | 0                 |      -      | 2021-08-19 17:14:53 |
-| 435  | [Serafim#21730](https://eu.diablo3.com/en-us/profile/Serafim-21730/)             |      3107      | 0                 |      -      | 2021-08-19 17:26:14 |
-| 436  | [Estromenza#2525](https://eu.diablo3.com/en-us/profile/Estromenza-2525/)         |      3106      | 0                 |      -      | 2021-08-19 00:03:29 |
-| 437  | [Zoxny#21989](https://eu.diablo3.com/en-us/profile/Zoxny-21989/)                 |      3105      | 0                 |      -      | 2021-08-19 16:06:57 |
-| 438  | [litti5658#2511](https://eu.diablo3.com/en-us/profile/litti5658-2511/)           |      3105      | 0                 |      -      | 2021-08-18 14:01:08 |
-| 439  | [Storm#24659](https://eu.diablo3.com/en-us/profile/Storm-24659/)                 |      3103      | 0                 |      -      | 2021-08-19 17:14:42 |
-| 440  | [toBsoR#21493](https://eu.diablo3.com/en-us/profile/toBsoR-21493/)               |      3103      | 0                 |      -      | 2021-08-19 17:25:50 |
-| 441  | [ArChiMoZe#2336](https://eu.diablo3.com/en-us/profile/ArChiMoZe-2336/)           |      3102      | 0                 |      -      | 2021-08-19 17:19:33 |
-| 442  | [JordanJambo#2665](https://eu.diablo3.com/en-us/profile/JordanJambo-2665/)       |      3100      | 0                 |      -      | 2021-08-19 17:16:24 |
-| 443  | [Les#21568](https://eu.diablo3.com/en-us/profile/Les-21568/)                     |      3099      | 0                 |      -      | 2021-08-19 07:27:33 |
-| 444  | [FuriousSam#2471](https://eu.diablo3.com/en-us/profile/FuriousSam-2471/)         |      3098      | 0                 |      -      | 2021-08-19 16:07:05 |
-| 445  | [Body#21862](https://eu.diablo3.com/en-us/profile/Body-21862/)                   |      3097      | 0                 |      -      | 2021-08-19 07:21:16 |
-| 446  | [DonGeilo#2884](https://eu.diablo3.com/en-us/profile/DonGeilo-2884/)             |      3094      | 0                 |      -      | 2021-08-19 17:24:28 |
-| 447  | [electronics#21258](https://eu.diablo3.com/en-us/profile/electronics-21258/)     |      3094      | 0                 |      -      | 2021-08-18 22:40:10 |
-| 448  | [kolmpunkti#2866](https://eu.diablo3.com/en-us/profile/kolmpunkti-2866/)         |      3093      | 0                 |      -      | 2021-08-19 16:58:41 |
-| 449  | [Эдик#21853](https://eu.diablo3.com/en-us/profile/Эдик-21853/)                   |      3088      | 0                 |      -      | 2021-08-19 17:37:34 |
-| 450  | [blacksoul#2154](https://eu.diablo3.com/en-us/profile/blacksoul-2154/)           |      3086      | 0                 |      -      | 2021-08-18 22:47:00 |
-| 451  | [CREDO#21309](https://eu.diablo3.com/en-us/profile/CREDO-21309/)                 |      3085      | 0                 |      -      | 2021-08-19 17:16:12 |
-| 452  | [pablo37#2894](https://eu.diablo3.com/en-us/profile/pablo37-2894/)               |      3085      | 0                 |      -      | 2021-08-19 17:26:09 |
-| 453  | [pizzamax#21772](https://eu.diablo3.com/en-us/profile/pizzamax-21772/)           |      3083      | 0                 |      -      | 2021-08-17 11:35:07 |
-| 454  | [SilentCrazy#2620](https://eu.diablo3.com/en-us/profile/SilentCrazy-2620/)       |      3078      | 0                 |      -      | 2021-08-19 17:21:07 |
-| 455  | [oliji#2395](https://eu.diablo3.com/en-us/profile/oliji-2395/)                   |      3072      | 0                 |      -      | 2021-08-19 16:54:26 |
-| 456  | [Teledin#21634](https://eu.diablo3.com/en-us/profile/Teledin-21634/)             |      3071      | 0                 |      -      | 2021-08-19 16:12:18 |
-| 457  | [Death#25884](https://eu.diablo3.com/en-us/profile/Death-25884/)                 |      3065      | 0                 |      -      | 2021-08-19 17:14:43 |
-| 458  | [Stella#2362](https://eu.diablo3.com/en-us/profile/Stella-2362/)                 |      3065      | 0                 |      -      | 2021-08-19 16:10:36 |
-| 459  | [Flügger#2199](https://eu.diablo3.com/en-us/profile/Flügger-2199/)               |      3063      | 0                 |      -      | 2021-08-19 17:21:09 |
-| 460  | [Sm0KingZ#2219](https://eu.diablo3.com/en-us/profile/Sm0KingZ-2219/)             |      3061      | 0                 |      -      | 2021-08-19 17:25:43 |
-| 461  | [STYLA#21389](https://eu.diablo3.com/en-us/profile/STYLA-21389/)                 |      3060      | 0                 |      -      | 2021-08-19 17:19:54 |
-| 462  | [Missandei#21949](https://eu.diablo3.com/en-us/profile/Missandei-21949/)         |      3056      | 0                 |      -      | 2021-08-19 11:48:31 |
-| 463  | [sl3py#2832](https://eu.diablo3.com/en-us/profile/sl3py-2832/)                   |      3055      | 0                 |      -      | 2021-08-19 11:14:59 |
-| 464  | [JuZamDjinN#2132](https://eu.diablo3.com/en-us/profile/JuZamDjinN-2132/)         |      3055      | 0                 |      -      | 2021-08-19 11:02:45 |
-| 465  | [Kaitow#2155](https://eu.diablo3.com/en-us/profile/Kaitow-2155/)                 |      3054      | 0                 |      -      | 2021-08-17 23:55:55 |
-| 466  | [ILENDEL#2105](https://eu.diablo3.com/en-us/profile/ILENDEL-2105/)               |      3054      | 0                 |      -      | 2021-08-19 17:25:42 |
-| 467  | [CunTxCrusheR#2214](https://eu.diablo3.com/en-us/profile/CunTxCrusheR-2214/)     |      3052      | 0                 |      -      | 2021-08-19 02:52:28 |
-| 468  | [Owjat#2367](https://eu.diablo3.com/en-us/profile/Owjat-2367/)                   |      3051      | 0                 |      -      | 2021-08-19 15:24:04 |
-| 469  | [pez978ita#2527](https://eu.diablo3.com/en-us/profile/pez978ita-2527/)           |      3049      | 0                 |      -      | 2021-08-19 17:00:48 |
-| 470  | [Sergei#22921](https://eu.diablo3.com/en-us/profile/Sergei-22921/)               |      3048      | 0                 |      -      | 2021-08-18 20:31:05 |
-| 471  | [Deeway#2564](https://eu.diablo3.com/en-us/profile/Deeway-2564/)                 |      3046      | 0                 |      -      | 2021-08-19 15:58:48 |
-| 472  | [san#22255](https://eu.diablo3.com/en-us/profile/san-22255/)                     |      3045      | 0                 |      -      | 2021-08-19 17:37:35 |
-| 473  | [SirHeinrich#2721](https://eu.diablo3.com/en-us/profile/SirHeinrich-2721/)       |      3043      | 0                 |      -      | 2021-08-16 01:20:45 |
-| 474  | [tangarosa#2552](https://eu.diablo3.com/en-us/profile/tangarosa-2552/)           |      3041      | 0                 |      -      | 2021-08-19 13:07:22 |
-| 475  | [Herakles#2265](https://eu.diablo3.com/en-us/profile/Herakles-2265/)             |      3040      | 0                 |      -      | 2021-08-18 21:01:52 |
-| 476  | [Nutrion#21572](https://eu.diablo3.com/en-us/profile/Nutrion-21572/)             |      3039      | 0                 |      -      | 2021-08-19 15:21:38 |
-| 477  | [mkay#2819](https://eu.diablo3.com/en-us/profile/mkay-2819/)                     |      3038      | 0                 |      -      | 2021-08-19 17:12:18 |
-| 478  | [Mirton#2734](https://eu.diablo3.com/en-us/profile/Mirton-2734/)                 |      3033      | 0                 |      -      | 2021-08-19 17:11:09 |
-| 479  | [Isllo#2875](https://eu.diablo3.com/en-us/profile/Isllo-2875/)                   |      3031      | 0                 |      -      | 2021-08-19 16:59:11 |
-| 480  | [Омен#2165](https://eu.diablo3.com/en-us/profile/Омен-2165/)                     |      3027      | 0                 |      -      | 2021-08-18 23:57:14 |
-| 481  | [Tandrljacha#2632](https://eu.diablo3.com/en-us/profile/Tandrljacha-2632/)       |      3025      | 0                 |      -      | 2021-08-19 17:14:32 |
-| 482  | [HARTHOR44#2440](https://eu.diablo3.com/en-us/profile/HARTHOR44-2440/)           |      3024      | 0                 |      -      | 2021-08-19 16:59:37 |
-| 483  | [Jozo#2638](https://eu.diablo3.com/en-us/profile/Jozo-2638/)                     |      3020      | 0                 |      -      | 2021-08-19 06:08:34 |
-| 484  | [Evgemig#2541](https://eu.diablo3.com/en-us/profile/Evgemig-2541/)               |      3016      | 0                 |      -      | 2021-08-19 17:08:32 |
-| 485  | [SongoTan#2654](https://eu.diablo3.com/en-us/profile/SongoTan-2654/)             |      3013      | 0                 |      -      | 2021-08-19 02:39:27 |
-| 486  | [Hercule#2248](https://eu.diablo3.com/en-us/profile/Hercule-2248/)               |      3012      | 0                 |      -      | 2021-08-19 16:17:44 |
-| 487  | [Schno#2267](https://eu.diablo3.com/en-us/profile/Schno-2267/)                   |      3007      | 0                 |      -      | 2021-08-19 17:06:29 |
-| 488  | [Sortaf#21816](https://eu.diablo3.com/en-us/profile/Sortaf-21816/)               |      3004      | 0                 |      -      | 2021-08-19 03:33:57 |
-| 489  | [stratoa#2216](https://eu.diablo3.com/en-us/profile/stratoa-2216/)               |      3000      | 0                 |      -      | 2021-08-19 13:45:28 |
-| 490  | [Kajko#21925](https://eu.diablo3.com/en-us/profile/Kajko-21925/)                 |      2995      | 0                 |      -      | 2021-08-19 16:51:49 |
-| 491  | [raif#21157](https://eu.diablo3.com/en-us/profile/raif-21157/)                   |      2995      | 0                 |      -      | 2021-08-19 17:17:25 |
-| 492  | [Ennorath#2729](https://eu.diablo3.com/en-us/profile/Ennorath-2729/)             |      2994      | 0                 |      -      | 2021-08-19 17:22:56 |
-| 493  | [Terror#2582](https://eu.diablo3.com/en-us/profile/Terror-2582/)                 |      2993      | 0                 |      -      | 2021-08-19 17:28:26 |
-| 494  | [Nasun#1551](https://eu.diablo3.com/en-us/profile/Nasun-1551/)                   |      2985      | 0                 |      -      | 2021-08-19 07:19:30 |
-| 495  | [Borgo#21408](https://eu.diablo3.com/en-us/profile/Borgo-21408/)                 |      2982      | 0                 |      -      | 2021-08-17 21:08:40 |
-| 496  | [LoONeY#21573](https://eu.diablo3.com/en-us/profile/LoONeY-21573/)               |      2980      | 0                 |      -      | 2021-08-18 21:39:23 |
-| 497  | [Synotrax#21488](https://eu.diablo3.com/en-us/profile/Synotrax-21488/)           |      2977      | 0                 |      -      | 2021-08-19 17:15:22 |
-| 498  | [Raziel#1143](https://eu.diablo3.com/en-us/profile/Raziel-1143/)                 |      2969      | 0                 |      -      | 2021-08-19 16:43:04 |
-| 499  | [Voyager#2532](https://eu.diablo3.com/en-us/profile/Voyager-2532/)               |      2968      | 0                 |      -      | 2021-08-19 17:05:42 |
-| 500  | [Brennei#2747](https://eu.diablo3.com/en-us/profile/Brennei-2747/)               |      2967      | 0                 |      -      | 2021-08-19 00:30:47 |
-| 501  | [konterbube#2637](https://eu.diablo3.com/en-us/profile/konterbube-2637/)         |      2966      | 0                 |      -      | 2021-08-19 13:38:55 |
-| 502  | [Anchon#21243](https://eu.diablo3.com/en-us/profile/Anchon-21243/)               |      2965      | 0                 |      -      | 2021-08-11 20:26:10 |
-| 503  | [quinn#2791](https://eu.diablo3.com/en-us/profile/quinn-2791/)                   |      2964      | 0                 |      -      | 2021-08-19 16:46:02 |
-| 504  | [monkybar#1534](https://eu.diablo3.com/en-us/profile/monkybar-1534/)             |      2963      | 0                 |      -      | 2021-08-19 16:59:58 |
-| 505  | [Kmieć#2500](https://eu.diablo3.com/en-us/profile/Kmieć-2500/)                   |      2962      | 0                 |      -      | 2021-08-19 08:08:33 |
-| 506  | [GOMEZ#2258](https://eu.diablo3.com/en-us/profile/GOMEZ-2258/)                   |      2960      | 0                 |      -      | 2021-08-19 07:08:10 |
-| 507  | [Slavabien#2837](https://eu.diablo3.com/en-us/profile/Slavabien-2837/)           |      2953      | 0                 |      -      | 2021-08-18 12:54:27 |
-| 508  | [SWiSTAG#2463](https://eu.diablo3.com/en-us/profile/SWiSTAG-2463/)               |      2950      | 0                 |      -      | 2021-08-19 17:08:40 |
-| 509  | [Omega#24372](https://eu.diablo3.com/en-us/profile/Omega-24372/)                 |      2945      | 0                 |      -      | 2021-08-18 23:56:56 |
-| 510  | [Astraea#21655](https://eu.diablo3.com/en-us/profile/Astraea-21655/)             |      2940      | 0                 |      -      | 2021-08-18 23:00:24 |
-| 511  | [Sêlina#2319](https://eu.diablo3.com/en-us/profile/Sêlina-2319/)                 |      2940      | 0                 |      -      | 2021-08-18 22:45:25 |
-| 512  | [Ettariel#2164](https://eu.diablo3.com/en-us/profile/Ettariel-2164/)             |      2935      | 0                 |      -      | 2021-08-16 16:52:06 |
-| 513  | [WinGarbo#1356](https://eu.diablo3.com/en-us/profile/WinGarbo-1356/)             |      2934      | 0                 |      -      | 2021-08-13 22:08:36 |
-| 514  | [teachneh#2474](https://eu.diablo3.com/en-us/profile/teachneh-2474/)             |      2934      | 0                 |      -      | 2021-08-19 16:38:41 |
-| 515  | [Xiurn#2198](https://eu.diablo3.com/en-us/profile/Xiurn-2198/)                   |      2933      | 0                 |      -      | 2021-08-19 17:39:18 |
-| 516  | [TYRAN#2730](https://eu.diablo3.com/en-us/profile/TYRAN-2730/)                   |      2929      | 0                 |      -      | 2021-08-19 14:33:42 |
-| 517  | [Ungeraecht#2635](https://eu.diablo3.com/en-us/profile/Ungeraecht-2635/)         |      2927      | 0                 |      -      | 2021-08-19 00:58:09 |
-| 518  | [Czeczot360#2532](https://eu.diablo3.com/en-us/profile/Czeczot360-2532/)         |      2925      | 0                 |      -      | 2021-08-19 17:14:47 |
-| 519  | [H3in0#21668](https://eu.diablo3.com/en-us/profile/H3in0-21668/)                 |      2919      | 0                 |      -      | 2021-08-19 00:42:08 |
-| 520  | [Necrodaddy#2683](https://eu.diablo3.com/en-us/profile/Necrodaddy-2683/)         |      2918      | 0                 |      -      | 2021-08-19 16:30:14 |
-| 521  | [manu#24378](https://eu.diablo3.com/en-us/profile/manu-24378/)                   |      2918      | 0                 |      -      | 2021-08-19 17:36:35 |
-| 522  | [Boerke#2748](https://eu.diablo3.com/en-us/profile/Boerke-2748/)                 |      2915      | 0                 |      -      | 2021-08-18 23:35:52 |
-| 523  | [Ash#25975](https://eu.diablo3.com/en-us/profile/Ash-25975/)                     |      2914      | 0                 |      -      | 2021-08-18 17:44:26 |
-| 524  | [YoLo#21866](https://eu.diablo3.com/en-us/profile/YoLo-21866/)                   |      2913      | 0                 |      -      | 2021-08-19 17:31:22 |
-| 525  | [gollum56#2553](https://eu.diablo3.com/en-us/profile/gollum56-2553/)             |      2912      | 0                 |      -      | 2021-08-19 12:50:01 |
-| 526  | [Savior#21802](https://eu.diablo3.com/en-us/profile/Savior-21802/)               |      2912      | 0                 |      -      | 2021-08-19 15:29:48 |
-| 527  | [DeathKnight#22920](https://eu.diablo3.com/en-us/profile/DeathKnight-22920/)     |      2912      | 0                 |      -      | 2021-08-08 15:20:51 |
-| 528  | [Redflag#2636](https://eu.diablo3.com/en-us/profile/Redflag-2636/)               |      2909      | 0                 |      -      | 2021-08-16 20:04:23 |
-| 529  | [kore821#2954](https://eu.diablo3.com/en-us/profile/kore821-2954/)               |      2908      | 0                 |      -      | 2021-08-13 19:31:18 |
-| 530  | [mayuri#21778](https://eu.diablo3.com/en-us/profile/mayuri-21778/)               |      2906      | 0                 |      -      | 2021-08-19 17:32:07 |
-| 531  | [dubbwoy#2106](https://eu.diablo3.com/en-us/profile/dubbwoy-2106/)               |      2902      | 0                 |      -      | 2021-08-19 17:33:47 |
-| 532  | [ElBrujo#21328](https://eu.diablo3.com/en-us/profile/ElBrujo-21328/)             |      2899      | 0                 |      -      | 2021-08-19 16:22:48 |
-| 533  | [Battalgazi#2611](https://eu.diablo3.com/en-us/profile/Battalgazi-2611/)         |      2895      | 0                 |      -      | 2021-08-19 17:29:02 |
-| 534  | [Tomek#22328](https://eu.diablo3.com/en-us/profile/Tomek-22328/)                 |      2895      | 0                 |      -      | 2021-08-19 09:30:41 |
-| 535  | [Shizoster#2365](https://eu.diablo3.com/en-us/profile/Shizoster-2365/)           |      2892      | 0                 |      -      | 2021-08-19 17:17:53 |
-| 536  | [Möcky#21392](https://eu.diablo3.com/en-us/profile/Möcky-21392/)                 |      2891      | 0                 |      -      | 2021-08-19 14:35:33 |
-| 537  | [Daniel#212469](https://eu.diablo3.com/en-us/profile/Daniel-212469/)             |      2890      | 0                 |      -      | 2021-08-18 19:25:49 |
-| 538  | [dogtown622#2462](https://eu.diablo3.com/en-us/profile/dogtown622-2462/)         |      2890      | 0                 |      -      | 2021-08-19 17:31:18 |
-| 539  | [Cianix#2522](https://eu.diablo3.com/en-us/profile/Cianix-2522/)                 |      2887      | 0                 |      -      | 2021-08-19 15:56:31 |
-| 540  | [one#2249](https://eu.diablo3.com/en-us/profile/one-2249/)                       |      2885      | 0                 |      -      | 2021-08-19 17:11:16 |
-| 541  | [Undertaker#2781](https://eu.diablo3.com/en-us/profile/Undertaker-2781/)         |      2884      | 0                 |      -      | 2021-08-19 16:14:04 |
-| 542  | [Kindleworm#2863](https://eu.diablo3.com/en-us/profile/Kindleworm-2863/)         |      2882      | 0                 |      -      | 2021-08-19 11:16:36 |
-| 543  | [Darkan#2826](https://eu.diablo3.com/en-us/profile/Darkan-2826/)                 |      2881      | 0                 |      -      | 2021-08-19 14:17:21 |
-| 544  | [Bigevgeny78#2219](https://eu.diablo3.com/en-us/profile/Bigevgeny78-2219/)       |      2881      | 0                 |      -      | 2021-08-19 13:47:20 |
-| 545  | [Kapzaz#2511](https://eu.diablo3.com/en-us/profile/Kapzaz-2511/)                 |      2879      | 0                 |      -      | 2021-08-19 15:42:30 |
-| 546  | [Fred06#2333](https://eu.diablo3.com/en-us/profile/Fred06-2333/)                 |      2879      | 0                 |      -      | 2021-08-09 21:28:27 |
-| 547  | [MuschiKO#2317](https://eu.diablo3.com/en-us/profile/MuschiKO-2317/)             |      2878      | 0                 |      -      | 2021-08-19 15:35:56 |
-| 548  | [Softa#2169](https://eu.diablo3.com/en-us/profile/Softa-2169/)                   |      2877      | 0                 |      -      | 2021-08-19 07:15:38 |
-| 549  | [Erbse#2341](https://eu.diablo3.com/en-us/profile/Erbse-2341/)                   |      2876      | 0                 |      -      | 2021-08-19 17:16:09 |
-| 550  | [redrum#2105](https://eu.diablo3.com/en-us/profile/redrum-2105/)                 |      2875      | 0                 |      -      | 2021-08-19 15:32:38 |
-| 551  | [BlackVIKING#21972](https://eu.diablo3.com/en-us/profile/BlackVIKING-21972/)     |      2874      | 0                 |      -      | 2021-08-19 17:02:04 |
-| 552  | [HickuuLaaa#2132](https://eu.diablo3.com/en-us/profile/HickuuLaaa-2132/)         |      2868      | 0                 |      -      | 2021-08-17 22:18:14 |
-| 553  | [Blender#2404](https://eu.diablo3.com/en-us/profile/Blender-2404/)               |      2866      | 0                 |      -      | 2021-08-19 00:02:33 |
-| 554  | [EntspannDich#21228](https://eu.diablo3.com/en-us/profile/EntspannDich-21228/)   |      2864      | 0                 |      -      | 2021-08-19 17:02:13 |
-| 555  | [Joaha#2914](https://eu.diablo3.com/en-us/profile/Joaha-2914/)                   |      2857      | 0                 |      -      | 2021-08-19 17:17:28 |
-| 556  | [Anima99#2212](https://eu.diablo3.com/en-us/profile/Anima99-2212/)               |      2855      | 0                 |      -      | 2021-08-19 17:39:08 |
-| 557  | [alosinon224#2251](https://eu.diablo3.com/en-us/profile/alosinon224-2251/)       |      2849      | 0                 |      -      | 2021-08-19 17:24:17 |
-| 558  | [Cronos#22123](https://eu.diablo3.com/en-us/profile/Cronos-22123/)               |      2848      | 0                 |      -      | 2021-08-19 01:19:12 |
-| 559  | [Miku#22917](https://eu.diablo3.com/en-us/profile/Miku-22917/)                   |      2848      | 0                 |      -      | 2021-08-13 19:42:28 |
-| 560  | [HeraKles#21306](https://eu.diablo3.com/en-us/profile/HeraKles-21306/)           |      2847      | 0                 |      -      | 2021-08-19 14:35:18 |
-| 561  | [rrrrrraph#2695](https://eu.diablo3.com/en-us/profile/rrrrrraph-2695/)           |      2845      | 0                 |      -      | 2021-08-18 22:39:05 |
-| 562  | [Adebar#2877](https://eu.diablo3.com/en-us/profile/Adebar-2877/)                 |      2841      | 0                 |      -      | 2021-08-19 06:58:13 |
-| 563  | [MAS#21365](https://eu.diablo3.com/en-us/profile/MAS-21365/)                     |      2837      | 0                 |      -      | 2021-08-13 12:57:49 |
-| 564  | [MrPink#2165](https://eu.diablo3.com/en-us/profile/MrPink-2165/)                 |      2832      | 0                 |      -      | 2021-08-15 01:02:16 |
-| 565  | [good4u#2475](https://eu.diablo3.com/en-us/profile/good4u-2475/)                 |      2830      | 0                 |      -      | 2021-08-19 01:13:14 |
-| 566  | [Strunzdoof#2805](https://eu.diablo3.com/en-us/profile/Strunzdoof-2805/)         |      2830      | 0                 |      -      | 2021-08-19 17:21:47 |
-| 567  | [Iceman#2890](https://eu.diablo3.com/en-us/profile/Iceman-2890/)                 |      2829      | 0                 |      -      | 2021-08-19 17:33:16 |
-| 568  | [cemetary#2358](https://eu.diablo3.com/en-us/profile/cemetary-2358/)             |      2825      | 0                 |      -      | 2021-08-18 23:42:09 |
-| 569  | [Koalag#2577](https://eu.diablo3.com/en-us/profile/Koalag-2577/)                 |      2823      | 0                 |      -      | 2021-08-19 16:41:02 |
-| 570  | [Icem#21875](https://eu.diablo3.com/en-us/profile/Icem-21875/)                   |      2821      | 0                 |      -      | 2021-08-19 09:32:46 |
-| 571  | [ZeFir#21444](https://eu.diablo3.com/en-us/profile/ZeFir-21444/)                 |      2819      | 0                 |      -      | 2021-08-19 17:07:08 |
-| 572  | [CrowdControl#2759](https://eu.diablo3.com/en-us/profile/CrowdControl-2759/)     |      2819      | 0                 |      -      | 2021-08-19 17:19:20 |
-| 573  | [rastamanc#2395](https://eu.diablo3.com/en-us/profile/rastamanc-2395/)           |      2816      | 0                 |      -      | 2021-08-18 23:23:36 |
-| 574  | [popix1213#2613](https://eu.diablo3.com/en-us/profile/popix1213-2613/)           |      2816      | 0                 |      -      | 2021-08-19 15:09:05 |
-| 575  | [Yanija#2722](https://eu.diablo3.com/en-us/profile/Yanija-2722/)                 |      2814      | 0                 |      -      | 2021-08-19 03:41:45 |
-| 576  | [basch0r#2391](https://eu.diablo3.com/en-us/profile/basch0r-2391/)               |      2811      | 0                 |      -      | 2021-08-19 11:12:47 |
-| 577  | [DarkNiven#2838](https://eu.diablo3.com/en-us/profile/DarkNiven-2838/)           |      2811      | 0                 |      -      | 2021-08-19 17:15:58 |
-| 578  | [AndrewGreek#2817](https://eu.diablo3.com/en-us/profile/AndrewGreek-2817/)       |      2810      | 0                 |      -      | 2021-08-19 12:09:33 |
-| 579  | [TenTacle#2463](https://eu.diablo3.com/en-us/profile/TenTacle-2463/)             |      2807      | 0                 |      -      | 2021-08-19 16:47:03 |
-| 580  | [Оберон#2977](https://eu.diablo3.com/en-us/profile/Оберон-2977/)                 |      2803      | 0                 |      -      | 2021-08-19 17:02:25 |
-| 581  | [MonkeyDLuffy#22947](https://eu.diablo3.com/en-us/profile/MonkeyDLuffy-22947/)   |      2802      | 0                 |      -      | 2021-08-19 17:13:07 |
-| 582  | [Freem#2108](https://eu.diablo3.com/en-us/profile/Freem-2108/)                   |      2800      | 0                 |      -      | 2021-08-19 17:16:06 |
-| 583  | [Akhroma#21837](https://eu.diablo3.com/en-us/profile/Akhroma-21837/)             |      2796      | 0                 |      -      | 2021-08-19 17:07:02 |
-| 584  | [Foxdie#21397](https://eu.diablo3.com/en-us/profile/Foxdie-21397/)               |      2796      | 0                 |      -      | 2021-08-19 17:40:19 |
-| 585  | [Hyperion#22378](https://eu.diablo3.com/en-us/profile/Hyperion-22378/)           |      2793      | 0                 |      -      | 2021-08-17 08:53:28 |
-| 586  | [hypaeL#2665](https://eu.diablo3.com/en-us/profile/hypaeL-2665/)                 |      2789      | 0                 |      -      | 2021-08-19 14:35:40 |
-| 587  | [Gidra#2424](https://eu.diablo3.com/en-us/profile/Gidra-2424/)                   |      2782      | 0                 |      -      | 2021-08-19 10:25:51 |
-| 588  | [Multipower#2568](https://eu.diablo3.com/en-us/profile/Multipower-2568/)         |      2782      | 0                 |      -      | 2021-08-19 16:53:19 |
-| 589  | [zzZKOTZzz#21931](https://eu.diablo3.com/en-us/profile/zzZKOTZzz-21931/)         |      2776      | 0                 |      -      | 2021-08-19 15:53:56 |
-| 590  | [Chewingnom#2253](https://eu.diablo3.com/en-us/profile/Chewingnom-2253/)         |      2774      | 0                 |      -      | 2021-08-19 00:48:57 |
-| 591  | [Zhed#2987](https://eu.diablo3.com/en-us/profile/Zhed-2987/)                     |      2772      | 0                 |      -      | 2021-08-19 17:26:37 |
-| 592  | [urych#2340](https://eu.diablo3.com/en-us/profile/urych-2340/)                   |      2770      | 0                 |      -      | 2021-08-19 17:28:58 |
-| 593  | [RAGERDOG#2545](https://eu.diablo3.com/en-us/profile/RAGERDOG-2545/)             |      2764      | 0                 |      -      | 2021-08-17 18:25:01 |
-| 594  | [Nemo#2142](https://eu.diablo3.com/en-us/profile/Nemo-2142/)                     |      2761      | 0                 |      -      | 2021-08-19 11:27:57 |
-| 595  | [Gwido67#2266](https://eu.diablo3.com/en-us/profile/Gwido67-2266/)               |      2757      | 0                 |      -      | 2021-08-19 16:55:45 |
-| 596  | [lazy#22864](https://eu.diablo3.com/en-us/profile/lazy-22864/)                   |      2749      | 0                 |      -      | 2021-08-19 16:08:42 |
-| 597  | [riapa#2174](https://eu.diablo3.com/en-us/profile/riapa-2174/)                   |      2749      | 0                 |      -      | 2021-08-19 17:30:20 |
-| 598  | [Frode#21208](https://eu.diablo3.com/en-us/profile/Frode-21208/)                 |      2748      | 0                 |      -      | 2021-08-19 17:25:41 |
-| 599  | [Waallkeer#2382](https://eu.diablo3.com/en-us/profile/Waallkeer-2382/)           |      2746      | 0                 |      -      | 2021-08-19 07:52:09 |
-| 600  | [BB1#2238](https://eu.diablo3.com/en-us/profile/BB1-2238/)                       |      2741      | 0                 |      -      | 2021-08-19 17:15:44 |
-| 601  | [Kyra#2456](https://eu.diablo3.com/en-us/profile/Kyra-2456/)                     |      2740      | 0                 |      -      | 2021-08-19 16:54:13 |
-| 602  | [Bohne#2755](https://eu.diablo3.com/en-us/profile/Bohne-2755/)                   |      2740      | 0                 |      -      | 2021-08-19 17:34:09 |
-| 603  | [Arvi#2339](https://eu.diablo3.com/en-us/profile/Arvi-2339/)                     |      2738      | 0                 |      -      | 2021-08-19 14:48:15 |
-| 604  | [MihawkEyes#2240](https://eu.diablo3.com/en-us/profile/MihawkEyes-2240/)         |      2734      | 0                 |      -      | 2021-08-19 12:27:57 |
-| 605  | [Wookieecub#2418](https://eu.diablo3.com/en-us/profile/Wookieecub-2418/)         |      2729      | 0                 |      -      | 2021-08-19 17:24:48 |
-| 606  | [nonamera#2270](https://eu.diablo3.com/en-us/profile/nonamera-2270/)             |      2726      | 0                 |      -      | 2021-08-10 02:04:26 |
-| 607  | [GrandPaJohn#21759](https://eu.diablo3.com/en-us/profile/GrandPaJohn-21759/)     |      2722      | 0                 |      -      | 2021-08-19 16:32:12 |
-| 608  | [snake#12855](https://eu.diablo3.com/en-us/profile/snake-12855/)                 |      2721      | 0                 |      -      | 2021-08-19 07:04:44 |
-| 609  | [speedo#2200](https://eu.diablo3.com/en-us/profile/speedo-2200/)                 |      2720      | 0                 |      -      | 2021-08-19 13:02:05 |
-| 610  | [Xees#2438](https://eu.diablo3.com/en-us/profile/Xees-2438/)                     |      2720      | 0                 |      -      | 2021-08-19 00:22:40 |
-| 611  | [MeGaMaN#2484](https://eu.diablo3.com/en-us/profile/MeGaMaN-2484/)               |      2720      | 0                 |      -      | 2021-08-19 16:09:15 |
-| 612  | [Verygoodest#2921](https://eu.diablo3.com/en-us/profile/Verygoodest-2921/)       |      2719      | 0                 |      -      | 2021-08-14 21:32:51 |
-| 613  | [Ryushiniga88#2989](https://eu.diablo3.com/en-us/profile/Ryushiniga88-2989/)     |      2717      | 0                 |      -      | 2021-08-19 16:42:11 |
-| 614  | [Ray#24921](https://eu.diablo3.com/en-us/profile/Ray-24921/)                     |      2716      | 0                 |      -      | 2021-08-19 01:34:19 |
-| 615  | [Hervé7#2268](https://eu.diablo3.com/en-us/profile/Hervé7-2268/)                 |      2715      | 0                 |      -      | 2021-08-19 17:15:54 |
-| 616  | [Spharex#1943](https://eu.diablo3.com/en-us/profile/Spharex-1943/)               |      2714      | 0                 |      -      | 2021-08-19 17:24:49 |
-| 617  | [Angel999#2859](https://eu.diablo3.com/en-us/profile/Angel999-2859/)             |      2712      | 0                 |      -      | 2021-08-19 17:28:43 |
-| 618  | [loki#1418](https://eu.diablo3.com/en-us/profile/loki-1418/)                     |      2710      | 0                 |      -      | 2021-08-19 17:23:41 |
-| 619  | [juanan742#2856](https://eu.diablo3.com/en-us/profile/juanan742-2856/)           |      2710      | 0                 |      -      | 2021-08-19 17:10:12 |
-| 620  | [VirusKub#2929](https://eu.diablo3.com/en-us/profile/VirusKub-2929/)             |      2708      | 0                 |      -      | 2021-08-19 13:33:13 |
-| 621  | [gucccio#2205](https://eu.diablo3.com/en-us/profile/gucccio-2205/)               |      2708      | 0                 |      -      | 2021-08-18 22:30:47 |
-| 622  | [RedWarrior#2419](https://eu.diablo3.com/en-us/profile/RedWarrior-2419/)         |      2705      | 0                 |      -      | 2021-08-19 17:24:13 |
-| 623  | [urmel#2216](https://eu.diablo3.com/en-us/profile/urmel-2216/)                   |      2703      | 0                 |      -      | 2021-08-19 17:40:13 |
-| 624  | [ChifonPonpon#2629](https://eu.diablo3.com/en-us/profile/ChifonPonpon-2629/)     |      2700      | 0                 |      -      | 2021-08-19 11:51:25 |
-| 625  | [Reeno#2776](https://eu.diablo3.com/en-us/profile/Reeno-2776/)                   |      2700      | 0                 |      -      | 2021-08-19 15:29:53 |
-| 626  | [transdecalin#2363](https://eu.diablo3.com/en-us/profile/transdecalin-2363/)     |      2699      | 0                 |      -      | 2021-08-19 16:53:50 |
-| 627  | [aquado#2806](https://eu.diablo3.com/en-us/profile/aquado-2806/)                 |      2698      | 0                 |      -      | 2021-08-05 16:40:49 |
-| 628  | [Linkou#2554](https://eu.diablo3.com/en-us/profile/Linkou-2554/)                 |      2695      | 0                 |      -      | 2021-08-19 17:02:09 |
-| 629  | [Kvothe#2234](https://eu.diablo3.com/en-us/profile/Kvothe-2234/)                 |      2693      | 0                 |      -      | 2021-08-19 17:08:08 |
-| 630  | [MvP#22762](https://eu.diablo3.com/en-us/profile/MvP-22762/)                     |      2693      | 0                 |      -      | 2021-08-18 20:29:16 |
-| 631  | [Teo#2213](https://eu.diablo3.com/en-us/profile/Teo-2213/)                       |      2687      | 0                 |      -      | 2021-08-13 16:46:35 |
-| 632  | [ghost#213104](https://eu.diablo3.com/en-us/profile/ghost-213104/)               |      2687      | 0                 |      -      | 2021-08-19 17:29:55 |
-| 633  | [Maki#2309](https://eu.diablo3.com/en-us/profile/Maki-2309/)                     |      2686      | 0                 |      -      | 2021-08-19 04:22:16 |
-| 634  | [Pedro#2295](https://eu.diablo3.com/en-us/profile/Pedro-2295/)                   |      2679      | 0                 |      -      | 2021-08-19 17:28:06 |
-| 635  | [Malevolent#2947](https://eu.diablo3.com/en-us/profile/Malevolent-2947/)         |      2678      | 0                 |      -      | 2021-08-19 12:55:14 |
-| 636  | [woytanator#2314](https://eu.diablo3.com/en-us/profile/woytanator-2314/)         |      2677      | 0                 |      -      | 2021-08-19 17:14:47 |
-| 637  | [SLǂTheff#2427](https://eu.diablo3.com/en-us/profile/SLǂTheff-2427/)             |      2674      | 0                 |      -      | 2021-08-19 01:28:01 |
-| 638  | [Maxa#21217](https://eu.diablo3.com/en-us/profile/Maxa-21217/)                   |      2673      | 0                 |      -      | 2021-08-17 00:53:41 |
-| 639  | [Zoztax#2320](https://eu.diablo3.com/en-us/profile/Zoztax-2320/)                 |      2672      | 0                 |      -      | 2021-08-19 07:16:51 |
-| 640  | [nafela#2440](https://eu.diablo3.com/en-us/profile/nafela-2440/)                 |      2670      | 0                 |      -      | 2021-08-19 14:04:12 |
-| 641  | [Swain#2339](https://eu.diablo3.com/en-us/profile/Swain-2339/)                   |      2669      | 0                 |      -      | 2021-08-19 16:45:05 |
-| 642  | [ShadowStorm#220418](https://eu.diablo3.com/en-us/profile/ShadowStorm-220418/)   |      2669      | 0                 |      -      | 2021-08-19 16:18:16 |
-| 643  | [jpeg#2785](https://eu.diablo3.com/en-us/profile/jpeg-2785/)                     |      2660      | 0                 |      -      | 2021-08-19 17:28:13 |
-| 644  | [xcbmn#2442](https://eu.diablo3.com/en-us/profile/xcbmn-2442/)                   |      2657      | 0                 |      -      | 2021-08-05 22:10:53 |
-| 645  | [Meganom#21721](https://eu.diablo3.com/en-us/profile/Meganom-21721/)             |      2653      | 0                 |      -      | 2021-08-19 17:10:58 |
-| 646  | [Vertigo#2608](https://eu.diablo3.com/en-us/profile/Vertigo-2608/)               |      2651      | 0                 |      -      | 2021-08-19 01:35:28 |
-| 647  | [Schraibfeler#21823](https://eu.diablo3.com/en-us/profile/Schraibfeler-21823/)   |      2649      | 0                 |      -      | 2021-08-12 10:10:47 |
-| 648  | [Hauskatze#21489](https://eu.diablo3.com/en-us/profile/Hauskatze-21489/)         |      2645      | 0                 |      -      | 2021-08-07 14:24:26 |
-| 649  | [adurge#2630](https://eu.diablo3.com/en-us/profile/adurge-2630/)                 |      2644      | 0                 |      -      | 2021-08-19 17:24:12 |
-| 650  | [neurofunk#1552](https://eu.diablo3.com/en-us/profile/neurofunk-1552/)           |      2643      | 0                 |      -      | 2021-08-18 22:41:38 |
-| 651  | [cCloud#21683](https://eu.diablo3.com/en-us/profile/cCloud-21683/)               |      2642      | 0                 |      -      | 2021-08-19 17:20:46 |
-| 652  | [mike#24817](https://eu.diablo3.com/en-us/profile/mike-24817/)                   |      2642      | 0                 |      -      | 2021-08-19 17:27:33 |
-| 653  | [Riverhengel#2807](https://eu.diablo3.com/en-us/profile/Riverhengel-2807/)       |      2641      | 0                 |      -      | 2021-08-19 17:18:50 |
-| 654  | [HellsDevil84#2437](https://eu.diablo3.com/en-us/profile/HellsDevil84-2437/)     |      2640      | 0                 |      -      | 2021-08-17 00:54:13 |
-| 655  | [Xq1#21374](https://eu.diablo3.com/en-us/profile/Xq1-21374/)                     |      2640      | 0                 |      -      | 2021-08-19 17:18:11 |
-| 656  | [Amaroc#2601](https://eu.diablo3.com/en-us/profile/Amaroc-2601/)                 |      2634      | 0                 |      -      | 2021-08-19 16:50:11 |
-| 657  | [GIGAHL#2472](https://eu.diablo3.com/en-us/profile/GIGAHL-2472/)                 |      2633      | 0                 |      -      | 2021-08-18 20:04:11 |
-| 658  | [putrixx#2895](https://eu.diablo3.com/en-us/profile/putrixx-2895/)               |      2632      | 0                 |      -      | 2021-08-19 17:19:27 |
-| 659  | [Portillo#11781](https://eu.diablo3.com/en-us/profile/Portillo-11781/)           |      2631      | 0                 |      -      | 2021-08-19 17:23:49 |
-| 660  | [Игорь#26484](https://eu.diablo3.com/en-us/profile/Игорь-26484/)                 |      2630      | 0                 |      -      | 2021-08-17 23:57:37 |
-| 661  | [Storm#24638](https://eu.diablo3.com/en-us/profile/Storm-24638/)                 |      2630      | 0                 |      -      | 2021-08-02 12:34:39 |
-| 662  | [NoYou#1547](https://eu.diablo3.com/en-us/profile/NoYou-1547/)                   |      2626      | 0                 |      -      | 2021-08-19 17:03:43 |
-| 663  | [Simtec#21825](https://eu.diablo3.com/en-us/profile/Simtec-21825/)               |      2625      | 0                 |      -      | 2021-08-19 17:23:48 |
-| 664  | [ultraviolet#2908](https://eu.diablo3.com/en-us/profile/ultraviolet-2908/)       |      2624      | 0                 |      -      | 2021-08-19 13:03:09 |
-| 665  | [uNbRaKe#2535](https://eu.diablo3.com/en-us/profile/uNbRaKe-2535/)               |      2623      | 0                 |      -      | 2021-08-19 05:25:23 |
-| 666  | [ericks#2365](https://eu.diablo3.com/en-us/profile/ericks-2365/)                 |      2622      | 0                 |      -      | 2021-08-19 17:11:06 |
-| 667  | [vhsculture#2303](https://eu.diablo3.com/en-us/profile/vhsculture-2303/)         |      2621      | 0                 |      -      | 2021-08-19 08:35:44 |
-| 668  | [ange1ok#2323](https://eu.diablo3.com/en-us/profile/ange1ok-2323/)               |      2621      | 0                 |      -      | 2021-08-19 17:33:29 |
-| 669  | [Dozoyashi#2326](https://eu.diablo3.com/en-us/profile/Dozoyashi-2326/)           |      2618      | 0                 |      -      | 2021-08-18 21:58:06 |
-| 670  | [SideSwipe#2474](https://eu.diablo3.com/en-us/profile/SideSwipe-2474/)           |      2617      | 0                 |      -      | 2021-08-19 03:30:01 |
-| 671  | [Nevera#2181](https://eu.diablo3.com/en-us/profile/Nevera-2181/)                 |      2616      | 0                 |      -      | 2021-08-18 22:17:37 |
-| 672  | [Belphégor#2659](https://eu.diablo3.com/en-us/profile/Belphégor-2659/)           |      2613      | 0                 |      -      | 2021-08-19 16:58:32 |
-| 673  | [Zen#22522](https://eu.diablo3.com/en-us/profile/Zen-22522/)                     |      2611      | 0                 |      -      | 2021-08-19 16:39:14 |
-| 674  | [SirPrise#2925](https://eu.diablo3.com/en-us/profile/SirPrise-2925/)             |      2610      | 0                 |      -      | 2021-08-19 15:36:13 |
-| 675  | [Berkel#1615](https://eu.diablo3.com/en-us/profile/Berkel-1615/)                 |      2606      | 0                 |      -      | 2021-08-17 22:53:52 |
-| 676  | [Scooped#2241](https://eu.diablo3.com/en-us/profile/Scooped-2241/)               |      2606      | 0                 |      -      | 2021-08-19 01:28:46 |
-| 677  | [sigmaxx#2895](https://eu.diablo3.com/en-us/profile/sigmaxx-2895/)               |      2606      | 0                 |      -      | 2021-08-19 17:34:20 |
-| 678  | [zazera#2932](https://eu.diablo3.com/en-us/profile/zazera-2932/)                 |      2605      | 0                 |      -      | 2021-08-19 11:33:54 |
-| 679  | [Vespillo#2660](https://eu.diablo3.com/en-us/profile/Vespillo-2660/)             |      2602      | 0                 |      -      | 2021-08-18 22:57:09 |
-| 680  | [BbQ#21676](https://eu.diablo3.com/en-us/profile/BbQ-21676/)                     |      2600      | 0                 |      -      | 2021-08-19 16:56:12 |
-| 681  | [Flowextra#2144](https://eu.diablo3.com/en-us/profile/Flowextra-2144/)           |      2597      | 0                 |      -      | 2021-08-18 22:11:02 |
-| 682  | [Diamaniac#2275](https://eu.diablo3.com/en-us/profile/Diamaniac-2275/)           |      2597      | 0                 |      -      | 2021-08-19 17:38:33 |
-| 683  | [Myc0se#2175](https://eu.diablo3.com/en-us/profile/Myc0se-2175/)                 |      2594      | 0                 |      -      | 2021-08-19 17:35:40 |
-| 684  | [BKR#2785](https://eu.diablo3.com/en-us/profile/BKR-2785/)                       |      2593      | 0                 |      -      | 2021-08-19 14:09:45 |
-| 685  | [shamue55#2873](https://eu.diablo3.com/en-us/profile/shamue55-2873/)             |      2590      | 0                 |      -      | 2021-08-18 17:01:12 |
-| 686  | [FetzerBe#2624](https://eu.diablo3.com/en-us/profile/FetzerBe-2624/)             |      2589      | 0                 |      -      | 2021-08-19 00:09:10 |
-| 687  | [Drag0#21590](https://eu.diablo3.com/en-us/profile/Drag0-21590/)                 |      2585      | 246.52 Trillion   |     DH      | 2021-08-19 18:32:09 |
-| 688  | [topLinee#2532](https://eu.diablo3.com/en-us/profile/topLinee-2532/)             |      2584      | 0                 |      -      | 2021-08-19 17:21:37 |
-| 689  | [Vomzo#2447](https://eu.diablo3.com/en-us/profile/Vomzo-2447/)                   |      2584      | 0                 |      -      | 2021-08-19 17:20:50 |
-| 690  | [BattleHymns#2819](https://eu.diablo3.com/en-us/profile/BattleHymns-2819/)       |      2583      | 0                 |      -      | 2021-08-19 17:18:39 |
-| 691  | [lleeoo007#2113](https://eu.diablo3.com/en-us/profile/lleeoo007-2113/)           |      2581      | 0                 |      -      | 2021-08-05 00:39:03 |
-| 692  | [Vega#21994](https://eu.diablo3.com/en-us/profile/Vega-21994/)                   |      2581      | 0                 |      -      | 2021-08-14 17:47:36 |
-| 693  | [Nexus#24656](https://eu.diablo3.com/en-us/profile/Nexus-24656/)                 |      2578      | 0                 |      -      | 2021-08-19 12:45:41 |
-| 694  | [Hundefutter#2810](https://eu.diablo3.com/en-us/profile/Hundefutter-2810/)       |      2577      | 0                 |      -      | 2021-08-19 15:26:35 |
-| 695  | [GuyRulkin#2308](https://eu.diablo3.com/en-us/profile/GuyRulkin-2308/)           |      2575      | 0                 |      -      | 2021-08-18 00:22:32 |
-| 696  | [Sinthoras#1350](https://eu.diablo3.com/en-us/profile/Sinthoras-1350/)           |      2573      | 0                 |      -      | 2021-08-19 00:53:32 |
-| 697  | [Baikamo#2550](https://eu.diablo3.com/en-us/profile/Baikamo-2550/)               |      2570      | 0                 |      -      | 2021-08-19 15:51:00 |
-| 698  | [Tw1st#21683](https://eu.diablo3.com/en-us/profile/Tw1st-21683/)                 |      2567      | 0                 |      -      | 2021-08-19 17:14:00 |
-| 699  | [Cupra#2645](https://eu.diablo3.com/en-us/profile/Cupra-2645/)                   |      2565      | 0                 |      -      | 2021-08-19 17:16:06 |
-| 700  | [mitsukurina#21518](https://eu.diablo3.com/en-us/profile/mitsukurina-21518/)     |      2562      | 0                 |      -      | 2021-08-16 20:45:08 |
-| 701  | [Maraquia#2505](https://eu.diablo3.com/en-us/profile/Maraquia-2505/)             |      2561      | 0                 |      -      | 2021-08-19 16:42:56 |
-| 702  | [MadMac#21516](https://eu.diablo3.com/en-us/profile/MadMac-21516/)               |      2560      | 0                 |      -      | 2021-08-19 17:27:49 |
-| 703  | [Apoc#2364](https://eu.diablo3.com/en-us/profile/Apoc-2364/)                     |      2560      | 0                 |      -      | 2021-08-19 17:30:11 |
-| 704  | [Evil#2709](https://eu.diablo3.com/en-us/profile/Evil-2709/)                     |      2556      | 0                 |      -      | 2021-08-19 15:54:41 |
-| 705  | [Nix#21595](https://eu.diablo3.com/en-us/profile/Nix-21595/)                     |      2554      | 0                 |      -      | 2021-08-19 11:36:19 |
-| 706  | [Sn4ckz0n3#2376](https://eu.diablo3.com/en-us/profile/Sn4ckz0n3-2376/)           |      2554      | 0                 |      -      | 2021-08-18 22:39:39 |
-| 707  | [tsapoutsan#2175](https://eu.diablo3.com/en-us/profile/tsapoutsan-2175/)         |      2554      | 0                 |      -      | 2021-08-19 17:38:56 |
-| 708  | [Kendal#2647](https://eu.diablo3.com/en-us/profile/Kendal-2647/)                 |      2553      | 0                 |      -      | 2021-08-19 16:05:46 |
-| 709  | [GMOX#1290](https://eu.diablo3.com/en-us/profile/GMOX-1290/)                     |      2550      | 0                 |      -      | 2021-08-19 00:10:23 |
-| 710  | [totof#2344](https://eu.diablo3.com/en-us/profile/totof-2344/)                   |      2547      | 0                 |      -      | 2021-08-19 17:05:07 |
-| 711  | [Nass#21490](https://eu.diablo3.com/en-us/profile/Nass-21490/)                   |      2547      | 0                 |      -      | 2021-08-19 07:34:13 |
-| 712  | [FtLoLtDkoosz#2820](https://eu.diablo3.com/en-us/profile/FtLoLtDkoosz-2820/)     |      2547      | 0                 |      -      | 2021-08-19 14:57:35 |
-| 713  | [AlexPHD#21973](https://eu.diablo3.com/en-us/profile/AlexPHD-21973/)             |      2546      | 0                 |      -      | 2021-08-19 10:49:55 |
-| 714  | [Karixø#2243](https://eu.diablo3.com/en-us/profile/Karixø-2243/)                 |      2546      | 0                 |      -      | 2021-08-19 02:39:47 |
-| 715  | [GRANOLA#21407](https://eu.diablo3.com/en-us/profile/GRANOLA-21407/)             |      2545      | 0                 |      -      | 2021-08-14 21:49:58 |
-| 716  | [LENYO#21115](https://eu.diablo3.com/en-us/profile/LENYO-21115/)                 |      2543      | 0                 |      -      | 2021-08-19 17:11:03 |
-| 717  | [GavGaming#2209](https://eu.diablo3.com/en-us/profile/GavGaming-2209/)           |      2542      | 0                 |      -      | 2021-08-19 17:25:58 |
-| 718  | [Lear#2343](https://eu.diablo3.com/en-us/profile/Lear-2343/)                     |      2541      | 0                 |      -      | 2021-08-19 14:55:51 |
-| 719  | [Makamele#2600](https://eu.diablo3.com/en-us/profile/Makamele-2600/)             |      2540      | 0                 |      -      | 2021-08-19 15:35:31 |
-| 720  | [Vegeta#22134](https://eu.diablo3.com/en-us/profile/Vegeta-22134/)               |      2540      | 0                 |      -      | 2021-08-19 17:31:32 |
-| 721  | [Noki#21836](https://eu.diablo3.com/en-us/profile/Noki-21836/)                   |      2538      | 0                 |      -      | 2021-08-19 17:22:39 |
-| 722  | [Mondschein#2736](https://eu.diablo3.com/en-us/profile/Mondschein-2736/)         |      2537      | 0                 |      -      | 2021-08-19 17:20:44 |
-| 723  | [Prometheus#2559](https://eu.diablo3.com/en-us/profile/Prometheus-2559/)         |      2535      | 0                 |      -      | 2021-08-17 23:31:03 |
-| 724  | [KCneVenKC#2282](https://eu.diablo3.com/en-us/profile/KCneVenKC-2282/)           |      2532      | 0                 |      -      | 2021-08-19 17:23:54 |
-| 725  | [bomba2881#2737](https://eu.diablo3.com/en-us/profile/bomba2881-2737/)           |      2525      | 0                 |      -      | 2021-08-19 17:19:21 |
-| 726  | [OLEGATOR#21386](https://eu.diablo3.com/en-us/profile/OLEGATOR-21386/)           |      2518      | 0                 |      -      | 2021-08-18 23:30:24 |
-| 727  | [yamas#2661](https://eu.diablo3.com/en-us/profile/yamas-2661/)                   |      2518      | 0                 |      -      | 2021-08-19 13:05:54 |
-| 728  | [Grzesio#21437](https://eu.diablo3.com/en-us/profile/Grzesio-21437/)             |      2515      | 0                 |      -      | 2021-08-19 17:24:06 |
-| 729  | [sicKl0n#2396](https://eu.diablo3.com/en-us/profile/sicKl0n-2396/)               |      2513      | 0                 |      -      | 2021-08-17 18:57:53 |
-| 730  | [Tanata#21237](https://eu.diablo3.com/en-us/profile/Tanata-21237/)               |      2512      | 0                 |      -      | 2021-08-19 17:01:24 |
-| 731  | [ExecutoR#2919](https://eu.diablo3.com/en-us/profile/ExecutoR-2919/)             |      2511      | 0                 |      -      | 2021-08-19 16:21:21 |
-| 732  | [Hrothgar#21724](https://eu.diablo3.com/en-us/profile/Hrothgar-21724/)           |      2511      | 0                 |      -      | 2021-08-19 17:09:55 |
-| 733  | [Morkaz#2516](https://eu.diablo3.com/en-us/profile/Morkaz-2516/)                 |      2510      | 0                 |      -      | 2021-08-19 17:05:18 |
-| 734  | [DekA#21810](https://eu.diablo3.com/en-us/profile/DekA-21810/)                   |      2509      | 0                 |      -      | 2021-08-18 20:44:49 |
-| 735  | [Lenina#2959](https://eu.diablo3.com/en-us/profile/Lenina-2959/)                 |      2508      | 0                 |      -      | 2021-08-17 17:31:57 |
-| 736  | [Stefan6688#2928](https://eu.diablo3.com/en-us/profile/Stefan6688-2928/)         |      2505      | 0                 |      -      | 2021-08-19 03:49:44 |
-| 737  | [Preester30#2443](https://eu.diablo3.com/en-us/profile/Preester30-2443/)         |      2504      | 0                 |      -      | 2021-08-19 14:45:34 |
-| 738  | [missAlisA#2401](https://eu.diablo3.com/en-us/profile/missAlisA-2401/)           |      2503      | 0                 |      -      | 2021-08-19 13:48:37 |
-| 739  | [ninja#2665](https://eu.diablo3.com/en-us/profile/ninja-2665/)                   |      2502      | 0                 |      -      | 2021-08-19 02:17:34 |
-| 740  | [Cryptos#2354](https://eu.diablo3.com/en-us/profile/Cryptos-2354/)               |      2500      | 0                 |      -      | 2021-08-16 19:15:24 |
-| 741  | [SekaSemiseka#2588](https://eu.diablo3.com/en-us/profile/SekaSemiseka-2588/)     |      2500      | 0                 |      -      | 2021-08-19 16:20:17 |
-| 742  | [BrO#2528](https://eu.diablo3.com/en-us/profile/BrO-2528/)                       |      2500      | 0                 |      -      | 2021-08-19 15:53:26 |
-| 743  | [Diiidiii#2947](https://eu.diablo3.com/en-us/profile/Diiidiii-2947/)             |      2500      | 0                 |      -      | 2021-08-19 03:48:24 |
-| 744  | [Envisn#2989](https://eu.diablo3.com/en-us/profile/Envisn-2989/)                 |      2500      | 0                 |      -      | 2021-08-18 22:06:31 |
-| 745  | [Underverse#2384](https://eu.diablo3.com/en-us/profile/Underverse-2384/)         |      2500      | 0                 |      -      | 2021-08-19 05:16:09 |
-| 746  | [Loffgreen#2510](https://eu.diablo3.com/en-us/profile/Loffgreen-2510/)           |      2491      | 0                 |      -      | 2021-08-11 13:53:14 |
-| 747  | [Antiek#2896](https://eu.diablo3.com/en-us/profile/Antiek-2896/)                 |      2490      | 0                 |      -      | 2021-08-19 13:30:04 |
-| 748  | [Messiah87#21510](https://eu.diablo3.com/en-us/profile/Messiah87-21510/)         |      2476      | 0                 |      -      | 2021-08-18 21:56:51 |
-| 749  | [hennya#2904](https://eu.diablo3.com/en-us/profile/hennya-2904/)                 |      2475      | 0                 |      -      | 2021-08-18 14:58:59 |
-| 750  | [XenaCharon#2254](https://eu.diablo3.com/en-us/profile/XenaCharon-2254/)         |      2471      | 0                 |      -      | 2021-08-19 16:51:21 |
-| 751  | [Vance#2990](https://eu.diablo3.com/en-us/profile/Vance-2990/)                   |      2469      | 0                 |      -      | 2021-08-14 09:40:55 |
-| 752  | [Haka#2156](https://eu.diablo3.com/en-us/profile/Haka-2156/)                     |      2461      | 0                 |      -      | 2021-08-19 16:22:35 |
-| 753  | [Soulreaver#2928](https://eu.diablo3.com/en-us/profile/Soulreaver-2928/)         |      2461      | 0                 |      -      | 2021-08-18 22:51:06 |
-| 754  | [Samuel#2653](https://eu.diablo3.com/en-us/profile/Samuel-2653/)                 |      2459      | 0                 |      -      | 2021-08-19 05:34:41 |
-| 755  | [Therry#21776](https://eu.diablo3.com/en-us/profile/Therry-21776/)               |      2457      | 0                 |      -      | 2021-08-19 17:13:00 |
-| 756  | [ULTRAllooll#2593](https://eu.diablo3.com/en-us/profile/ULTRAllooll-2593/)       |      2452      | 0                 |      -      | 2021-08-18 23:19:36 |
-| 757  | [Snowman#22116](https://eu.diablo3.com/en-us/profile/Snowman-22116/)             |      2444      | 0                 |      -      | 2021-08-18 22:53:14 |
-| 758  | [MrJanika#2901](https://eu.diablo3.com/en-us/profile/MrJanika-2901/)             |      2443      | 0                 |      -      | 2021-08-19 16:03:56 |
-| 759  | [Kyô#2252](https://eu.diablo3.com/en-us/profile/Kyô-2252/)                       |      2442      | 0                 |      -      | 2021-08-19 16:26:53 |
-| 760  | [pofa#2156](https://eu.diablo3.com/en-us/profile/pofa-2156/)                     |      2441      | 0                 |      -      | 2021-08-19 17:14:17 |
-| 761  | [BoogieGus#2758](https://eu.diablo3.com/en-us/profile/BoogieGus-2758/)           |      2438      | 0                 |      -      | 2021-08-16 19:35:43 |
-| 762  | [Fonzie#2724](https://eu.diablo3.com/en-us/profile/Fonzie-2724/)                 |      2437      | 0                 |      -      | 2021-08-19 17:20:54 |
-| 763  | [hodor#2839](https://eu.diablo3.com/en-us/profile/hodor-2839/)                   |      2436      | 0                 |      -      | 2021-08-19 17:09:32 |
-| 764  | [Sephirothys#2319](https://eu.diablo3.com/en-us/profile/Sephirothys-2319/)       |      2434      | 0                 |      -      | 2021-08-19 01:16:01 |
-| 765  | [Unknown#23910](https://eu.diablo3.com/en-us/profile/Unknown-23910/)             |      2433      | 0                 |      -      | 2021-08-19 14:55:47 |
-| 766  | [Akdabra#2204](https://eu.diablo3.com/en-us/profile/Akdabra-2204/)               |      2428      | 0                 |      -      | 2021-08-10 17:17:00 |
-| 767  | [sidi#2629](https://eu.diablo3.com/en-us/profile/sidi-2629/)                     |      2426      | 0                 |      -      | 2021-08-19 17:30:52 |
-| 768  | [Daywalker#2471](https://eu.diablo3.com/en-us/profile/Daywalker-2471/)           |      2424      | 0                 |      -      | 2021-08-19 17:16:38 |
-| 769  | [FaRXaD#21149](https://eu.diablo3.com/en-us/profile/FaRXaD-21149/)               |      2421      | 0                 |      -      | 2021-08-18 21:51:12 |
-| 770  | [ZvikaSGL#2451](https://eu.diablo3.com/en-us/profile/ZvikaSGL-2451/)             |      2421      | 0                 |      -      | 2021-08-19 16:42:43 |
-| 771  | [PeterPan#2444](https://eu.diablo3.com/en-us/profile/PeterPan-2444/)             |      2419      | 0                 |      -      | 2021-08-18 19:30:20 |
-| 772  | [TORMENT#2433](https://eu.diablo3.com/en-us/profile/TORMENT-2433/)               |      2417      | 0                 |      -      | 2021-08-19 14:53:54 |
-| 773  | [Lasher#2525](https://eu.diablo3.com/en-us/profile/Lasher-2525/)                 |      2414      | 0                 |      -      | 2021-08-18 22:19:43 |
-| 774  | [fishman#21171](https://eu.diablo3.com/en-us/profile/fishman-21171/)             |      2413      | 0                 |      -      | 2021-08-01 20:50:07 |
-| 775  | [resa#2302](https://eu.diablo3.com/en-us/profile/resa-2302/)                     |      2411      | 0                 |      -      | 2021-08-19 08:33:05 |
-| 776  | [teppemon#2686](https://eu.diablo3.com/en-us/profile/teppemon-2686/)             |      2411      | 0                 |      -      | 2021-08-18 21:28:30 |
-| 777  | [Margol#2569](https://eu.diablo3.com/en-us/profile/Margol-2569/)                 |      2411      | 0                 |      -      | 2021-08-19 17:15:17 |
-| 778  | [Jurrant#2217](https://eu.diablo3.com/en-us/profile/Jurrant-2217/)               |      2410      | 0                 |      -      | 2021-08-19 11:19:20 |
-| 779  | [Infer#2758](https://eu.diablo3.com/en-us/profile/Infer-2758/)                   |      2410      | 0                 |      -      | 2021-08-15 03:25:08 |
-| 780  | [Stephan#2887](https://eu.diablo3.com/en-us/profile/Stephan-2887/)               |      2410      | 0                 |      -      | 2021-08-19 16:24:52 |
-| 781  | [LitilDivil#2158](https://eu.diablo3.com/en-us/profile/LitilDivil-2158/)         |      2408      | 0                 |      -      | 2021-08-19 15:31:31 |
-| 782  | [Dronox#2771](https://eu.diablo3.com/en-us/profile/Dronox-2771/)                 |      2408      | 0                 |      -      | 2021-08-19 17:05:45 |
-| 783  | [Maldezar#2858](https://eu.diablo3.com/en-us/profile/Maldezar-2858/)             |      2404      | 0                 |      -      | 2021-08-19 16:47:09 |
-| 784  | [Hoopx#2503](https://eu.diablo3.com/en-us/profile/Hoopx-2503/)                   |      2403      | 0                 |      -      | 2021-08-19 15:28:16 |
-| 785  | [TWBolek#2425](https://eu.diablo3.com/en-us/profile/TWBolek-2425/)               |      2399      | 0                 |      -      | 2021-08-19 16:09:31 |
-| 786  | [BaneBoy#2561](https://eu.diablo3.com/en-us/profile/BaneBoy-2561/)               |      2391      | 0                 |      -      | 2021-08-19 01:02:26 |
-| 787  | [kruemelOP#2587](https://eu.diablo3.com/en-us/profile/kruemelOP-2587/)           |      2385      | 0                 |      -      | 2021-08-19 04:24:31 |
-| 788  | [Numbnutz#2847](https://eu.diablo3.com/en-us/profile/Numbnutz-2847/)             |      2385      | 0                 |      -      | 2021-08-18 03:03:26 |
-| 789  | [flashgordon#2127](https://eu.diablo3.com/en-us/profile/flashgordon-2127/)       |      2383      | 0                 |      -      | 2021-08-19 09:15:19 |
-| 790  | [Bounce#21842](https://eu.diablo3.com/en-us/profile/Bounce-21842/)               |      2383      | 0                 |      -      | 2021-08-18 15:02:59 |
-| 791  | [pantera#2157](https://eu.diablo3.com/en-us/profile/pantera-2157/)               |      2381      | 0                 |      -      | 2021-08-19 14:03:25 |
-| 792  | [Krieszyn#2882](https://eu.diablo3.com/en-us/profile/Krieszyn-2882/)             |      2371      | 0                 |      -      | 2021-08-19 16:38:46 |
-| 793  | [psyxO#2780](https://eu.diablo3.com/en-us/profile/psyxO-2780/)                   |      2368      | 0                 |      -      | 2021-08-19 17:30:36 |
-| 794  | [Heartless#1243](https://eu.diablo3.com/en-us/profile/Heartless-1243/)           |      2363      | 0                 |      -      | 2021-08-13 03:43:17 |
-| 795  | [skykyo#3441](https://eu.diablo3.com/en-us/profile/skykyo-3441/)                 |      2359      | 0                 |      -      | 2021-08-19 01:53:51 |
-| 796  | [NewProject64#2976](https://eu.diablo3.com/en-us/profile/NewProject64-2976/)     |      2356      | 0                 |      -      | 2021-08-18 21:21:49 |
-| 797  | [Spb#21156](https://eu.diablo3.com/en-us/profile/Spb-21156/)                     |      2355      | 0                 |      -      | 2021-08-19 17:20:45 |
-| 798  | [Michael#25815](https://eu.diablo3.com/en-us/profile/Michael-25815/)             |      2351      | 0                 |      -      | 2021-08-18 18:32:31 |
-| 799  | [YooPiter#2261](https://eu.diablo3.com/en-us/profile/YooPiter-2261/)             |      2338      | 0                 |      -      | 2021-08-19 17:23:08 |
-| 800  | [Yosh#21800](https://eu.diablo3.com/en-us/profile/Yosh-21800/)                   |      2337      | 0                 |      -      | 2021-08-14 23:17:38 |
-| 801  | [Boxi#21691](https://eu.diablo3.com/en-us/profile/Boxi-21691/)                   |      2328      | 0                 |      -      | 2021-08-19 09:05:51 |
-| 802  | [RavenOne#21218](https://eu.diablo3.com/en-us/profile/RavenOne-21218/)           |      2328      | 0                 |      -      | 2021-08-19 16:59:24 |
-| 803  | [KIV#2879](https://eu.diablo3.com/en-us/profile/KIV-2879/)                       |      2321      | 0                 |      -      | 2021-08-19 14:50:17 |
-| 804  | [wilzuu#2369](https://eu.diablo3.com/en-us/profile/wilzuu-2369/)                 |      2321      | 0                 |      -      | 2021-08-17 00:13:31 |
-| 805  | [Mountain#21982](https://eu.diablo3.com/en-us/profile/Mountain-21982/)           |      2320      | 0                 |      -      | 2021-08-12 00:57:50 |
-| 806  | [fearyy#2448](https://eu.diablo3.com/en-us/profile/fearyy-2448/)                 |      2320      | 0                 |      -      | 2021-08-19 01:16:07 |
-| 807  | [Robin#2763](https://eu.diablo3.com/en-us/profile/Robin-2763/)                   |      2310      | 0                 |      -      | 2021-08-18 14:41:01 |
-| 808  | [Tushna#2927](https://eu.diablo3.com/en-us/profile/Tushna-2927/)                 |      2310      | 0                 |      -      | 2021-08-17 04:58:02 |
-| 809  | [polineusz#1910](https://eu.diablo3.com/en-us/profile/polineusz-1910/)           |      2305      | 0                 |      -      | 2021-08-19 02:08:49 |
-| 810  | [ImLandruinAn#2388](https://eu.diablo3.com/en-us/profile/ImLandruinAn-2388/)     |      2300      | 0                 |      -      | 2021-08-13 15:53:24 |
-| 811  | [Keeeenny#2106](https://eu.diablo3.com/en-us/profile/Keeeenny-2106/)             |      2294      | 174.77 Trillion   |  Barbarian  | 2021-08-19 18:32:51 |
-| 812  | [R3D#21932](https://eu.diablo3.com/en-us/profile/R3D-21932/)                     |      2291      | 0                 |      -      | 2021-08-17 09:42:52 |
-| 813  | [witewidow91#2652](https://eu.diablo3.com/en-us/profile/witewidow91-2652/)       |      2289      | 0                 |      -      | 2021-08-17 15:29:50 |
-| 814  | [GEDROKS#2924](https://eu.diablo3.com/en-us/profile/GEDROKS-2924/)               |      2287      | 0                 |      -      | 2021-08-17 23:30:13 |
-| 815  | [FCDT#2849](https://eu.diablo3.com/en-us/profile/FCDT-2849/)                     |      2280      | 0                 |      -      | 2021-08-19 16:52:26 |
-| 816  | [Валли#21981](https://eu.diablo3.com/en-us/profile/Валли-21981/)                 |      2277      | 0                 |      -      | 2021-08-19 16:59:32 |
-| 817  | [Reaper#2399](https://eu.diablo3.com/en-us/profile/Reaper-2399/)                 |      2277      | 0                 |      -      | 2021-08-19 15:44:29 |
-| 818  | [M0rD#2768](https://eu.diablo3.com/en-us/profile/M0rD-2768/)                     |      2275      | 0                 |      -      | 2021-08-19 17:03:06 |
-| 819  | [ZORROOOOO#2918](https://eu.diablo3.com/en-us/profile/ZORROOOOO-2918/)           |      2270      | 0                 |      -      | 2021-08-19 17:35:01 |
-| 820  | [Anarquia#21429](https://eu.diablo3.com/en-us/profile/Anarquia-21429/)           |      2267      | 0                 |      -      | 2021-08-19 16:44:25 |
-| 821  | [thebest1a#2787](https://eu.diablo3.com/en-us/profile/thebest1a-2787/)           |      2267      | 0                 |      -      | 2021-08-19 09:56:17 |
-| 822  | [Hellraise#21856](https://eu.diablo3.com/en-us/profile/Hellraise-21856/)         |      2265      | 0                 |      -      | 2021-08-02 19:06:44 |
-| 823  | [Martin#22509](https://eu.diablo3.com/en-us/profile/Martin-22509/)               |      2264      | 0                 |      -      | 2021-08-01 15:23:26 |
-| 824  | [killerbee#2169](https://eu.diablo3.com/en-us/profile/killerbee-2169/)           |      2264      | 0                 |      -      | 2021-08-19 13:55:53 |
-| 825  | [Juan#2645](https://eu.diablo3.com/en-us/profile/Juan-2645/)                     |      2262      | 0                 |      -      | 2021-08-18 22:21:24 |
-| 826  | [Revenant85#2208](https://eu.diablo3.com/en-us/profile/Revenant85-2208/)         |      2259      | 0                 |      -      | 2021-08-19 16:49:17 |
-| 827  | [Haupti#21387](https://eu.diablo3.com/en-us/profile/Haupti-21387/)               |      2252      | 0                 |      -      | 2021-08-19 13:41:56 |
-| 828  | [TazDevil#21700](https://eu.diablo3.com/en-us/profile/TazDevil-21700/)           |      2246      | 0                 |      -      | 2021-08-18 22:25:56 |
-| 829  | [Carnivore#2448](https://eu.diablo3.com/en-us/profile/Carnivore-2448/)           |      2241      | 0                 |      -      | 2021-08-12 21:47:16 |
-| 830  | [Suni#2929](https://eu.diablo3.com/en-us/profile/Suni-2929/)                     |      2240      | 0                 |      -      | 2021-08-19 16:40:31 |
-| 831  | [DANIO29#2475](https://eu.diablo3.com/en-us/profile/DANIO29-2475/)               |      2233      | 0                 |      -      | 2021-08-19 12:30:27 |
-| 832  | [Promo#2993](https://eu.diablo3.com/en-us/profile/Promo-2993/)                   |      2229      | 0                 |      -      | 2021-08-19 14:37:50 |
-| 833  | [Wall#2619](https://eu.diablo3.com/en-us/profile/Wall-2619/)                     |      2224      | 0                 |      -      | 2021-08-19 02:44:20 |
-| 834  | [Egomaniac#1948](https://eu.diablo3.com/en-us/profile/Egomaniac-1948/)           |      2218      | 0                 |      -      | 2021-08-18 13:57:28 |
-| 835  | [Sìnister#2383](https://eu.diablo3.com/en-us/profile/Sìnister-2383/)             |      2217      | 0                 |      -      | 2021-08-19 13:09:23 |
-| 836  | [Wanxed#2658](https://eu.diablo3.com/en-us/profile/Wanxed-2658/)                 |      2217      | 0                 |      -      | 2021-08-15 22:26:54 |
-| 837  | [Orbi#2520](https://eu.diablo3.com/en-us/profile/Orbi-2520/)                     |      2216      | 0                 |      -      | 2021-08-10 21:16:43 |
-| 838  | [MrBulletz#21867](https://eu.diablo3.com/en-us/profile/MrBulletz-21867/)         |      2208      | 0                 |      -      | 2021-08-15 16:50:12 |
-| 839  | [Alextheman#2116](https://eu.diablo3.com/en-us/profile/Alextheman-2116/)         |      2207      | 0                 |      -      | 2021-08-18 16:31:36 |
-| 840  | [Fingod#2765](https://eu.diablo3.com/en-us/profile/Fingod-2765/)                 |      2205      | 0                 |      -      | 2021-08-18 05:22:39 |
-| 841  | [Seeker#2184](https://eu.diablo3.com/en-us/profile/Seeker-2184/)                 |      2204      | 0                 |      -      | 2021-08-19 07:21:48 |
-| 842  | [Böckel#2495](https://eu.diablo3.com/en-us/profile/Böckel-2495/)                 |      2203      | 0                 |      -      | 2021-08-19 17:24:47 |
-| 843  | [Sztywny#2383](https://eu.diablo3.com/en-us/profile/Sztywny-2383/)               |      2200      | 0                 |      -      | 2021-08-16 22:10:23 |
-| 844  | [VulcanRaven#2573](https://eu.diablo3.com/en-us/profile/VulcanRaven-2573/)       |      2190      | 0                 |      -      | 2021-08-19 13:18:07 |
-| 845  | [buZ#2997](https://eu.diablo3.com/en-us/profile/buZ-2997/)                       |      2189      | 0                 |      -      | 2021-08-19 17:10:59 |
-| 846  | [RuneR#2335](https://eu.diablo3.com/en-us/profile/RuneR-2335/)                   |      2188      | 0                 |      -      | 2021-08-12 14:24:57 |
-| 847  | [Van1977#2613](https://eu.diablo3.com/en-us/profile/Van1977-2613/)               |      2185      | 0                 |      -      | 2021-08-19 16:11:16 |
-| 848  | [BigBlackCat#21672](https://eu.diablo3.com/en-us/profile/BigBlackCat-21672/)     |      2183      | 0                 |      -      | 2021-08-19 17:01:21 |
-| 849  | [Aragorn#2406](https://eu.diablo3.com/en-us/profile/Aragorn-2406/)               |      2177      | 0                 |      -      | 2021-08-19 16:50:26 |
-| 850  | [Aguares#2156](https://eu.diablo3.com/en-us/profile/Aguares-2156/)               |      2176      | 0                 |      -      | 2021-08-19 17:17:42 |
-| 851  | [дедмаксим#2264](https://eu.diablo3.com/en-us/profile/дедмаксим-2264/)           |      2175      | 0                 |      -      | 2021-08-19 16:06:35 |
-| 852  | [Mutsu#2414](https://eu.diablo3.com/en-us/profile/Mutsu-2414/)                   |      2175      | 0                 |      -      | 2021-08-19 17:19:21 |
-| 853  | [Meandmyself#21447](https://eu.diablo3.com/en-us/profile/Meandmyself-21447/)     |      2173      | 0                 |      -      | 2021-08-19 00:43:01 |
-| 854  | [meschkens#2151](https://eu.diablo3.com/en-us/profile/meschkens-2151/)           |      2157      | 0                 |      -      | 2021-08-19 16:14:48 |
-| 855  | [zetor#2636](https://eu.diablo3.com/en-us/profile/zetor-2636/)                   |      2155      | 0                 |      -      | 2021-08-17 20:24:49 |
-| 856  | [Keyra#2356](https://eu.diablo3.com/en-us/profile/Keyra-2356/)                   |      2154      | 0                 |      -      | 2021-08-08 18:20:12 |
-| 857  | [Kikyō#2232](https://eu.diablo3.com/en-us/profile/Kikyō-2232/)                   |      2152      | 0                 |      -      | 2021-08-19 16:04:00 |
-| 858  | [DeanReno#2636](https://eu.diablo3.com/en-us/profile/DeanReno-2636/)             |      2151      | 0                 |      -      | 2021-08-18 20:36:27 |
-| 859  | [goldovya#2717](https://eu.diablo3.com/en-us/profile/goldovya-2717/)             |      2142      | 0                 |      -      | 2021-08-19 01:12:23 |
-| 860  | [bARTO#2309](https://eu.diablo3.com/en-us/profile/bARTO-2309/)                   |      2135      | 0                 |      -      | 2021-08-19 04:19:22 |
-| 861  | [PATRYCJA#21112](https://eu.diablo3.com/en-us/profile/PATRYCJA-21112/)           |      2133      | 0                 |      -      | 2021-08-18 22:58:42 |
-| 862  | [Thassi#2745](https://eu.diablo3.com/en-us/profile/Thassi-2745/)                 |      2132      | 0                 |      -      | 2021-08-17 22:29:24 |
-| 863  | [Nikolit#1490](https://eu.diablo3.com/en-us/profile/Nikolit-1490/)               |      2129      | 0                 |      -      | 2021-08-14 21:38:43 |
-| 864  | [zylfr#2903](https://eu.diablo3.com/en-us/profile/zylfr-2903/)                   |      2128      | 0                 |      -      | 2021-08-19 11:43:46 |
-| 865  | [DaNe#2846](https://eu.diablo3.com/en-us/profile/DaNe-2846/)                     |      2122      | 0                 |      -      | 2021-08-18 21:48:37 |
-| 866  | [Realgeist#2595](https://eu.diablo3.com/en-us/profile/Realgeist-2595/)           |      2121      | 0                 |      -      | 2021-08-18 19:01:10 |
-| 867  | [ProPaHD#2790](https://eu.diablo3.com/en-us/profile/ProPaHD-2790/)               |      2121      | 0                 |      -      | 2021-08-19 17:09:28 |
-| 868  | [Ghandy#2428](https://eu.diablo3.com/en-us/profile/Ghandy-2428/)                 |      2119      | 0                 |      -      | 2021-08-19 14:47:06 |
-| 869  | [RahmiKerim#2254](https://eu.diablo3.com/en-us/profile/RahmiKerim-2254/)         |      2118      | 0                 |      -      | 2021-08-19 17:26:19 |
-| 870  | [FLOW#22538](https://eu.diablo3.com/en-us/profile/FLOW-22538/)                   |      2116      | 0                 |      -      | 2021-08-19 17:17:30 |
-| 871  | [Gandalf#2849](https://eu.diablo3.com/en-us/profile/Gandalf-2849/)               |      2112      | 0                 |      -      | 2021-08-17 22:19:36 |
-| 872  | [Bankster#21504](https://eu.diablo3.com/en-us/profile/Bankster-21504/)           |      2112      | 0                 |      -      | 2021-08-17 00:05:05 |
-| 873  | [nicwit#1357](https://eu.diablo3.com/en-us/profile/nicwit-1357/)                 |      2110      | 0                 |      -      | 2021-08-15 09:39:44 |
-| 874  | [Proformance#2206](https://eu.diablo3.com/en-us/profile/Proformance-2206/)       |      2109      | 0                 |      -      | 2021-08-19 14:36:50 |
-| 875  | [Vetono#2305](https://eu.diablo3.com/en-us/profile/Vetono-2305/)                 |      2109      | 0                 |      -      | 2021-08-17 21:42:59 |
-| 876  | [Lily#2688](https://eu.diablo3.com/en-us/profile/Lily-2688/)                     |      2108      | 0                 |      -      | 2021-08-19 17:35:41 |
-| 877  | [kingcobra#21106](https://eu.diablo3.com/en-us/profile/kingcobra-21106/)         |      2107      | 0                 |      -      | 2021-08-19 17:16:15 |
-| 878  | [CHIPIE#2793](https://eu.diablo3.com/en-us/profile/CHIPIE-2793/)                 |      2101      | 0                 |      -      | 2021-08-19 17:19:34 |
-| 879  | [Omnislash#21451](https://eu.diablo3.com/en-us/profile/Omnislash-21451/)         |      2100      | 0                 |      -      | 2021-08-19 15:25:12 |
-| 880  | [WildPants#2170936](https://eu.diablo3.com/en-us/profile/WildPants-2170936/)     |      2099      | 0                 |      -      | 2021-08-16 07:17:17 |
-| 881  | [termos85#2532](https://eu.diablo3.com/en-us/profile/termos85-2532/)             |      2099      | 0                 |      -      | 2021-08-19 12:32:02 |
-| 882  | [Balo#2476](https://eu.diablo3.com/en-us/profile/Balo-2476/)                     |      2097      | 0                 |      -      | 2021-08-19 17:02:06 |
-| 883  | [Eisenherz#2480](https://eu.diablo3.com/en-us/profile/Eisenherz-2480/)           |      2095      | 0                 |      -      | 2021-08-18 01:15:05 |
-| 884  | [MARGO#2766](https://eu.diablo3.com/en-us/profile/MARGO-2766/)                   |      2094      | 0                 |      -      | 2021-08-19 17:33:28 |
-| 885  | [Niels#22872](https://eu.diablo3.com/en-us/profile/Niels-22872/)                 |      2090      | 0                 |      -      | 2021-08-18 17:12:25 |
-| 886  | [Noct#21550](https://eu.diablo3.com/en-us/profile/Noct-21550/)                   |      2085      | 0                 |      -      | 2021-08-19 17:04:38 |
-| 887  | [lunczar#2488](https://eu.diablo3.com/en-us/profile/lunczar-2488/)               |      2082      | 0                 |      -      | 2021-08-19 11:16:51 |
-| 888  | [DragonLord#2370](https://eu.diablo3.com/en-us/profile/DragonLord-2370/)         |      2070      | 0                 |      -      | 2021-08-08 13:05:38 |
-| 889  | [SoH#21223](https://eu.diablo3.com/en-us/profile/SoH-21223/)                     |      2067      | 0                 |      -      | 2021-08-09 16:21:33 |
-| 890  | [Skarpetovits#2174](https://eu.diablo3.com/en-us/profile/Skarpetovits-2174/)     |      2067      | 0                 |      -      | 2021-08-19 13:18:49 |
-| 891  | [DANTES#2710](https://eu.diablo3.com/en-us/profile/DANTES-2710/)                 |      2066      | 0                 |      -      | 2021-08-19 17:26:28 |
-| 892  | [Scarface68#2672](https://eu.diablo3.com/en-us/profile/Scarface68-2672/)         |      2065      | 0                 |      -      | 2021-08-19 17:32:37 |
-| 893  | [killass#2506](https://eu.diablo3.com/en-us/profile/killass-2506/)               |      2062      | 0                 |      -      | 2021-08-18 23:35:36 |
-| 894  | [Misiek#2224](https://eu.diablo3.com/en-us/profile/Misiek-2224/)                 |      2056      | 0                 |      -      | 2021-08-19 17:01:05 |
-| 895  | [Sifu#2303](https://eu.diablo3.com/en-us/profile/Sifu-2303/)                     |      2052      | 0                 |      -      | 2021-08-19 04:13:44 |
-| 896  | [mackfly#1655](https://eu.diablo3.com/en-us/profile/mackfly-1655/)               |      2052      | 0                 |      -      | 2021-08-19 11:03:09 |
-| 897  | [pewpew#2808](https://eu.diablo3.com/en-us/profile/pewpew-2808/)                 |      2051      | 0                 |      -      | 2021-08-18 21:51:54 |
-| 898  | [Xprotec#2424](https://eu.diablo3.com/en-us/profile/Xprotec-2424/)               |      2050      | 0                 |      -      | 2021-08-19 17:24:42 |
-| 899  | [mamanjenny#2972](https://eu.diablo3.com/en-us/profile/mamanjenny-2972/)         |      2049      | 0                 |      -      | 2021-08-13 11:12:38 |
-| 900  | [HexOmega#2980](https://eu.diablo3.com/en-us/profile/HexOmega-2980/)             |      2047      | 0                 |      -      | 2021-08-14 16:51:25 |
-| 901  | [raziellica#2753](https://eu.diablo3.com/en-us/profile/raziellica-2753/)         |      2044      | 0                 |      -      | 2021-08-19 17:33:02 |
-| 902  | [Alucard149#2667](https://eu.diablo3.com/en-us/profile/Alucard149-2667/)         |      2043      | 0                 |      -      | 2021-08-19 16:30:23 |
-| 903  | [JayBe#21206](https://eu.diablo3.com/en-us/profile/JayBe-21206/)                 |      2037      | 0                 |      -      | 2021-08-08 12:53:20 |
-| 904  | [Xpto#2486](https://eu.diablo3.com/en-us/profile/Xpto-2486/)                     |      2035      | 0                 |      -      | 2021-08-19 17:30:15 |
-| 905  | [Annihilatrix#2503](https://eu.diablo3.com/en-us/profile/Annihilatrix-2503/)     |      2031      | 0                 |      -      | 2021-08-19 12:01:03 |
-| 906  | [ishalt#21943](https://eu.diablo3.com/en-us/profile/ishalt-21943/)               |      2025      | 0                 |      -      | 2021-08-13 23:51:01 |
-| 907  | [Eulemitkeule#21654](https://eu.diablo3.com/en-us/profile/Eulemitkeule-21654/)   |      2021      | 0                 |      -      | 2021-08-19 16:44:15 |
-| 908  | [GreenGo#21614](https://eu.diablo3.com/en-us/profile/GreenGo-21614/)             |      2020      | 0                 |      -      | 2021-08-19 17:22:21 |
-| 909  | [DrGene#2845](https://eu.diablo3.com/en-us/profile/DrGene-2845/)                 |      2011      | 0                 |      -      | 2021-08-19 17:30:49 |
-| 910  | [Mick#2315](https://eu.diablo3.com/en-us/profile/Mick-2315/)                     |      2010      | 0                 |      -      | 2021-08-19 17:19:05 |
-| 911  | [gerdan#2221](https://eu.diablo3.com/en-us/profile/gerdan-2221/)                 |      2009      | 0                 |      -      | 2021-08-19 03:35:50 |
-| 912  | [BountyBOT#2530](https://eu.diablo3.com/en-us/profile/BountyBOT-2530/)           |      2001      | 0                 |      -      | 2021-08-10 22:30:16 |
-| 913  | [Kutakizukari#2168](https://eu.diablo3.com/en-us/profile/Kutakizukari-2168/)     |      1999      | 0                 |      -      | 2021-08-19 17:07:35 |
-| 914  | [Exoduris#2213](https://eu.diablo3.com/en-us/profile/Exoduris-2213/)             |      1996      | 0                 |      -      | 2021-08-18 21:40:31 |
-| 915  | [Sechmet#21657](https://eu.diablo3.com/en-us/profile/Sechmet-21657/)             |      1989      | 0                 |      -      | 2021-08-19 00:08:33 |
-| 916  | [Georgiana#2484](https://eu.diablo3.com/en-us/profile/Georgiana-2484/)           |      1988      | 0                 |      -      | 2021-08-19 16:55:42 |
-| 917  | [Elelinka#2223](https://eu.diablo3.com/en-us/profile/Elelinka-2223/)             |      1976      | 0                 |      -      | 2021-08-19 16:44:42 |
-| 918  | [Koxx007#2939](https://eu.diablo3.com/en-us/profile/Koxx007-2939/)               |      1974      | 0                 |      -      | 2021-08-17 20:21:11 |
-| 919  | [PAM3AH#21535](https://eu.diablo3.com/en-us/profile/PAM3AH-21535/)               |      1967      | 0                 |      -      | 2021-08-18 22:40:49 |
-| 920  | [moZart#22307](https://eu.diablo3.com/en-us/profile/moZart-22307/)               |      1966      | 0                 |      -      | 2021-08-19 02:52:47 |
-| 921  | [La0mba0rdo#2590](https://eu.diablo3.com/en-us/profile/La0mba0rdo-2590/)         |      1966      | 0                 |      -      | 2021-08-18 19:40:02 |
-| 922  | [Sandro193#2394](https://eu.diablo3.com/en-us/profile/Sandro193-2394/)           |      1963      | 0                 |      -      | 2021-08-13 18:50:09 |
-| 923  | [Axman#21735](https://eu.diablo3.com/en-us/profile/Axman-21735/)                 |      1956      | 0                 |      -      | 2021-08-10 23:31:33 |
-| 924  | [Falco#2937](https://eu.diablo3.com/en-us/profile/Falco-2937/)                   |      1954      | 0                 |      -      | 2021-08-18 22:41:38 |
-| 925  | [Jumper#22888](https://eu.diablo3.com/en-us/profile/Jumper-22888/)               |      1951      | 0                 |      -      | 2021-08-19 15:55:55 |
-| 926  | [spiikeurs#21225](https://eu.diablo3.com/en-us/profile/spiikeurs-21225/)         |      1950      | 0                 |      -      | 2021-08-19 11:17:37 |
-| 927  | [АссистентТ#2781](https://eu.diablo3.com/en-us/profile/АссистентТ-2781/)         |      1945      | 0                 |      -      | 2021-08-19 17:18:32 |
-| 928  | [TigsPL#2619](https://eu.diablo3.com/en-us/profile/TigsPL-2619/)                 |      1943      | 0                 |      -      | 2021-08-19 16:30:51 |
-| 929  | [ombladon#2542](https://eu.diablo3.com/en-us/profile/ombladon-2542/)             |      1941      | 0                 |      -      | 2021-08-18 21:51:40 |
-| 930  | [Ditz#21849](https://eu.diablo3.com/en-us/profile/Ditz-21849/)                   |      1938      | 0                 |      -      | 2021-08-19 15:14:15 |
-| 931  | [Kraven#2126](https://eu.diablo3.com/en-us/profile/Kraven-2126/)                 |      1936      | 0                 |      -      | 2021-08-19 17:05:30 |
-| 932  | [Thor74#2602](https://eu.diablo3.com/en-us/profile/Thor74-2602/)                 |      1936      | 0                 |      -      | 2021-08-19 17:30:59 |
-| 933  | [Pinnswin#2619](https://eu.diablo3.com/en-us/profile/Pinnswin-2619/)             |      1935      | 0                 |      -      | 2021-08-19 15:36:54 |
-| 934  | [PHOENIX#2613](https://eu.diablo3.com/en-us/profile/PHOENIX-2613/)               |      1933      | 0                 |      -      | 2021-08-19 13:39:54 |
-| 935  | [Seba#2425](https://eu.diablo3.com/en-us/profile/Seba-2425/)                     |      1932      | 0                 |      -      | 2021-08-19 08:13:39 |
-| 936  | [Tw1s73rN8#2329](https://eu.diablo3.com/en-us/profile/Tw1s73rN8-2329/)           |      1929      | 0                 |      -      | 2021-08-12 19:32:08 |
-| 937  | [Dragonfly#22828](https://eu.diablo3.com/en-us/profile/Dragonfly-22828/)         |      1920      | 0                 |      -      | 2021-08-17 22:41:12 |
-| 938  | [IKELUK#2761](https://eu.diablo3.com/en-us/profile/IKELUK-2761/)                 |      1919      | 0                 |      -      | 2021-08-19 09:28:08 |
-| 939  | [t1p#2638](https://eu.diablo3.com/en-us/profile/t1p-2638/)                       |      1913      | 0                 |      -      | 2021-08-18 21:11:35 |
-| 940  | [Devildriver#2343](https://eu.diablo3.com/en-us/profile/Devildriver-2343/)       |      1908      | 0                 |      -      | 2021-08-12 19:39:24 |
-| 941  | [xYukioox#2702](https://eu.diablo3.com/en-us/profile/xYukioox-2702/)             |      1904      | 0                 |      -      | 2021-08-07 16:44:48 |
-| 942  | [Merpheus#2709](https://eu.diablo3.com/en-us/profile/Merpheus-2709/)             |      1897      | 0                 |      -      | 2021-08-15 10:43:47 |
-| 943  | [Virgoshaka#21159](https://eu.diablo3.com/en-us/profile/Virgoshaka-21159/)       |      1895      | 0                 |      -      | 2021-08-16 03:03:04 |
-| 944  | [Gilavar#2818](https://eu.diablo3.com/en-us/profile/Gilavar-2818/)               |      1876      | 0                 |      -      | 2021-08-19 17:05:10 |
-| 945  | [kentaro#2730](https://eu.diablo3.com/en-us/profile/kentaro-2730/)               |      1868      | 0                 |      -      | 2021-08-19 17:17:10 |
-| 946  | [Miikeul#2752](https://eu.diablo3.com/en-us/profile/Miikeul-2752/)               |      1852      | 0                 |      -      | 2021-08-17 04:24:07 |
-| 947  | [ADATHOR#2942](https://eu.diablo3.com/en-us/profile/ADATHOR-2942/)               |      1848      | 0                 |      -      | 2021-08-19 08:16:37 |
-| 948  | [Flo124#2600](https://eu.diablo3.com/en-us/profile/Flo124-2600/)                 |      1848      | 0                 |      -      | 2021-08-11 01:29:15 |
-| 949  | [SCATANA#1588](https://eu.diablo3.com/en-us/profile/SCATANA-1588/)               |      1842      | 0                 |      -      | 2021-08-19 16:21:07 |
-| 950  | [Ranerous#2507](https://eu.diablo3.com/en-us/profile/Ranerous-2507/)             |      1835      | 0                 |      -      | 2021-08-15 18:04:50 |
-| 951  | [DLV#21290](https://eu.diablo3.com/en-us/profile/DLV-21290/)                     |      1823      | 0                 |      -      | 2021-08-19 17:40:18 |
-| 952  | [SilentStorm#22481](https://eu.diablo3.com/en-us/profile/SilentStorm-22481/)     |      1822      | 0                 |      -      | 2021-08-15 02:16:29 |
-| 953  | [Ghostx3#21610](https://eu.diablo3.com/en-us/profile/Ghostx3-21610/)             |      1814      | 0                 |      -      | 2021-08-15 11:06:11 |
-| 954  | [FreeMan#22581](https://eu.diablo3.com/en-us/profile/FreeMan-22581/)             |      1812      | 0                 |      -      | 2021-08-13 11:31:28 |
-| 955  | [Хома#2304](https://eu.diablo3.com/en-us/profile/Хома-2304/)                     |      1807      | 0                 |      -      | 2021-08-18 22:42:51 |
-| 956  | [bullet#2389](https://eu.diablo3.com/en-us/profile/bullet-2389/)                 |      1800      | 0                 |      -      | 2021-08-18 22:49:36 |
-| 957  | [Infest#21896](https://eu.diablo3.com/en-us/profile/Infest-21896/)               |      1799      | 0                 |      -      | 2021-08-15 14:29:54 |
-| 958  | [golfik#21441](https://eu.diablo3.com/en-us/profile/golfik-21441/)               |      1798      | 0                 |      -      | 2021-08-18 23:07:03 |
-| 959  | [LADYLUCK666#2848](https://eu.diablo3.com/en-us/profile/LADYLUCK666-2848/)       |      1793      | 0                 |      -      | 2021-08-12 22:49:00 |
-| 960  | [Dragur#21999](https://eu.diablo3.com/en-us/profile/Dragur-21999/)               |      1791      | 0                 |      -      | 2021-08-19 17:27:25 |
-| 961  | [Sfynx100#2795](https://eu.diablo3.com/en-us/profile/Sfynx100-2795/)             |      1785      | 0                 |      -      | 2021-08-19 15:56:54 |
-| 962  | [ijk#21739](https://eu.diablo3.com/en-us/profile/ijk-21739/)                     |      1780      | 0                 |      -      | 2021-08-19 02:20:19 |
-| 963  | [KiLLeR#210360](https://eu.diablo3.com/en-us/profile/KiLLeR-210360/)             |      1776      | 0                 |      -      | 2021-08-19 17:13:52 |
-| 964  | [Adaś#21108](https://eu.diablo3.com/en-us/profile/Adaś-21108/)                   |      1776      | 0                 |      -      | 2021-08-17 15:25:59 |
-| 965  | [ezy#2405](https://eu.diablo3.com/en-us/profile/ezy-2405/)                       |      1772      | 0                 |      -      | 2021-08-19 04:24:02 |
-| 966  | [SneakySquid#22141](https://eu.diablo3.com/en-us/profile/SneakySquid-22141/)     |      1772      | 0                 |      -      | 2021-08-19 16:52:05 |
-| 967  | [blackbeard83#1866](https://eu.diablo3.com/en-us/profile/blackbeard83-1866/)     |      1771      | 0                 |      -      | 2021-08-19 17:16:26 |
-| 968  | [chocsam#2340](https://eu.diablo3.com/en-us/profile/chocsam-2340/)               |      1770      | 0                 |      -      | 2021-08-19 08:09:55 |
-| 969  | [DRAGON#21542](https://eu.diablo3.com/en-us/profile/DRAGON-21542/)               |      1760      | 0                 |      -      | 2021-08-19 10:46:00 |
-| 970  | [Spyra#2335](https://eu.diablo3.com/en-us/profile/Spyra-2335/)                   |      1759      | 0                 |      -      | 2021-08-19 00:39:45 |
-| 971  | [coolman#22401](https://eu.diablo3.com/en-us/profile/coolman-22401/)             |      1752      | 0                 |      -      | 2021-08-19 12:37:17 |
-| 972  | [Skye#21738](https://eu.diablo3.com/en-us/profile/Skye-21738/)                   |      1751      | 0                 |      -      | 2021-08-19 16:45:47 |
-| 973  | [luffygreece#2669](https://eu.diablo3.com/en-us/profile/luffygreece-2669/)       |      1751      | 0                 |      -      | 2021-08-16 09:59:57 |
-| 974  | [Matri#2245](https://eu.diablo3.com/en-us/profile/Matri-2245/)                   |      1751      | 0                 |      -      | 2021-08-09 21:01:33 |
-| 975  | [biye#2341](https://eu.diablo3.com/en-us/profile/biye-2341/)                     |      1745      | 0                 |      -      | 2021-08-19 10:52:00 |
-| 976  | [Николь#21601](https://eu.diablo3.com/en-us/profile/Николь-21601/)               |      1744      | 0                 |      -      | 2021-08-19 16:13:09 |
-| 977  | [Nahuatl#2825](https://eu.diablo3.com/en-us/profile/Nahuatl-2825/)               |      1742      | 0                 |      -      | 2021-08-19 17:34:48 |
-| 978  | [JeTTcom#2931](https://eu.diablo3.com/en-us/profile/JeTTcom-2931/)               |      1741      | 0                 |      -      | 2021-08-15 23:46:35 |
-| 979  | [Windux#2292](https://eu.diablo3.com/en-us/profile/Windux-2292/)                 |      1739      | 0                 |      -      | 2021-08-16 19:59:43 |
-| 980  | [MatStar988#2159](https://eu.diablo3.com/en-us/profile/MatStar988-2159/)         |      1737      | 0                 |      -      | 2021-08-18 22:31:46 |
-| 981  | [BugFREE#21448](https://eu.diablo3.com/en-us/profile/BugFREE-21448/)             |      1732      | 0                 |      -      | 2021-08-19 16:35:47 |
-| 982  | [Fafhnir#21829](https://eu.diablo3.com/en-us/profile/Fafhnir-21829/)             |      1730      | 0                 |      -      | 2021-08-10 23:23:41 |
-| 983  | [Executioner#2522](https://eu.diablo3.com/en-us/profile/Executioner-2522/)       |      1724      | 0                 |      -      | 2021-08-19 00:24:36 |
-| 984  | [HUAN75#2747](https://eu.diablo3.com/en-us/profile/HUAN75-2747/)                 |      1724      | 0                 |      -      | 2021-08-19 00:13:14 |
-| 985  | [Mefisto56#2696](https://eu.diablo3.com/en-us/profile/Mefisto56-2696/)           |      1723      | 0                 |      -      | 2021-08-19 17:23:39 |
-| 986  | [Reyna#21322](https://eu.diablo3.com/en-us/profile/Reyna-21322/)                 |      1721      | 0                 |      -      | 2021-08-19 06:42:02 |
-| 987  | [DarkVision#21376](https://eu.diablo3.com/en-us/profile/DarkVision-21376/)       |      1703      | 0                 |      -      | 2021-08-17 19:32:59 |
-| 988  | [Julia#24844](https://eu.diablo3.com/en-us/profile/Julia-24844/)                 |      1702      | 0                 |      -      | 2021-08-18 13:39:26 |
-| 989  | [MatiNS134#2482](https://eu.diablo3.com/en-us/profile/MatiNS134-2482/)           |      1698      | 0                 |      -      | 2021-08-19 15:39:07 |
-| 990  | [DeadMakerHB#2846](https://eu.diablo3.com/en-us/profile/DeadMakerHB-2846/)       |      1677      | 0                 |      -      | 2021-08-18 23:20:04 |
-| 991  | [CAPUTMUNDI#21471](https://eu.diablo3.com/en-us/profile/CAPUTMUNDI-21471/)       |      1666      | 0                 |      -      | 2021-08-18 00:25:55 |
-| 992  | [PLZ#21750](https://eu.diablo3.com/en-us/profile/PLZ-21750/)                     |      1665      | 0                 |      -      | 2021-08-16 12:45:07 |
-| 993  | [Zarathustra#2567](https://eu.diablo3.com/en-us/profile/Zarathustra-2567/)       |      1663      | 0                 |      -      | 2021-08-18 22:27:59 |
-| 994  | [Kettensäge#2523](https://eu.diablo3.com/en-us/profile/Kettensäge-2523/)         |      1662      | 0                 |      -      | 2021-08-18 23:16:08 |
-| 995  | [ALca1D#2430](https://eu.diablo3.com/en-us/profile/ALca1D-2430/)                 |      1652      | 0                 |      -      | 2021-08-19 02:16:00 |
-| 996  | [Alternative4#21669](https://eu.diablo3.com/en-us/profile/Alternative4-21669/)   |      1649      | 0                 |      -      | 2021-08-17 18:03:58 |
-| 997  | [Leliana#21450](https://eu.diablo3.com/en-us/profile/Leliana-21450/)             |      1645      | 0                 |      -      | 2021-08-19 09:10:20 |
-| 998  | [Kikipasso#2101](https://eu.diablo3.com/en-us/profile/Kikipasso-2101/)           |      1643      | 0                 |      -      | 2021-08-15 22:03:37 |
-| 999  | [mleczyk30#2439](https://eu.diablo3.com/en-us/profile/mleczyk30-2439/)           |      1634      | 0                 |      -      | 2021-08-11 00:20:57 |
-| 1000 | [Zecke#2678](https://eu.diablo3.com/en-us/profile/Zecke-2678/)                   |      1600      | 0                 |      -      | 2021-08-18 23:20:08 |
-| 1001 | [Saab2012#2550](https://eu.diablo3.com/en-us/profile/Saab2012-2550/)             |      1579      | 0                 |      -      | 2021-08-15 00:47:57 |
-| 1002 | [eSsex#2905](https://eu.diablo3.com/en-us/profile/eSsex-2905/)                   |      1577      | 0                 |      -      | 2021-08-19 17:13:51 |
-| 1003 | [Akille#2196](https://eu.diablo3.com/en-us/profile/Akille-2196/)                 |      1574      | 0                 |      -      | 2021-08-18 16:58:16 |
-| 1004 | [Saschinzki#2619](https://eu.diablo3.com/en-us/profile/Saschinzki-2619/)         |      1570      | 0                 |      -      | 2021-08-15 15:35:06 |
-| 1005 | [Tanya#21271](https://eu.diablo3.com/en-us/profile/Tanya-21271/)                 |      1570      | 0                 |      -      | 2021-08-04 13:22:34 |
-| 1006 | [HEMI300c#2279](https://eu.diablo3.com/en-us/profile/HEMI300c-2279/)             |      1556      | 0                 |      -      | 2021-08-18 23:50:26 |
-| 1007 | [Dimon#21865](https://eu.diablo3.com/en-us/profile/Dimon-21865/)                 |      1554      | 0                 |      -      | 2021-08-19 16:52:46 |
-| 1008 | [WiLo#2603](https://eu.diablo3.com/en-us/profile/WiLo-2603/)                     |      1547      | 0                 |      -      | 2021-08-15 00:05:31 |
-| 1009 | [Braither90#1260](https://eu.diablo3.com/en-us/profile/Braither90-1260/)         |      1542      | 0                 |      -      | 2021-08-19 17:14:51 |
-| 1010 | [Grudol#2163](https://eu.diablo3.com/en-us/profile/Grudol-2163/)                 |      1536      | 0                 |      -      | 2021-08-19 17:40:31 |
-| 1011 | [ReFi#2895](https://eu.diablo3.com/en-us/profile/ReFi-2895/)                     |      1529      | 0                 |      -      | 2021-08-13 20:49:21 |
-| 1012 | [Neosid#2950](https://eu.diablo3.com/en-us/profile/Neosid-2950/)                 |      1526      | 0                 |      -      | 2021-08-07 03:48:05 |
-| 1013 | [dragon1#2872](https://eu.diablo3.com/en-us/profile/dragon1-2872/)               |      1492      | 0                 |      -      | 2021-08-19 09:57:11 |
-| 1014 | [Myry#2963](https://eu.diablo3.com/en-us/profile/Myry-2963/)                     |      1480      | 0                 |      -      | 2021-08-17 19:36:02 |
-| 1015 | [Powerboy#2329](https://eu.diablo3.com/en-us/profile/Powerboy-2329/)             |      1475      | 0                 |      -      | 2021-08-19 02:35:06 |
-| 1016 | [Ramboo#2225](https://eu.diablo3.com/en-us/profile/Ramboo-2225/)                 |      1474      | 0                 |      -      | 2021-08-15 00:00:45 |
-| 1017 | [Neithotep#21794](https://eu.diablo3.com/en-us/profile/Neithotep-21794/)         |      1451      | 0                 |      -      | 2021-08-18 11:59:41 |
-| 1018 | [Geronimo#2421](https://eu.diablo3.com/en-us/profile/Geronimo-2421/)             |      1448      | 0                 |      -      | 2021-08-18 01:00:41 |
-| 1019 | [Uzziel#2571](https://eu.diablo3.com/en-us/profile/Uzziel-2571/)                 |      1438      | 0                 |      -      | 2021-08-15 15:00:11 |
-| 1020 | [SCer0525#2179](https://eu.diablo3.com/en-us/profile/SCer0525-2179/)             |      1412      | 0                 |      -      | 2021-08-18 23:23:07 |
-| 1021 | [ToLooz#2378](https://eu.diablo3.com/en-us/profile/ToLooz-2378/)                 |      1405      | 0                 |      -      | 2021-08-10 18:50:24 |
-| 1022 | [Bruttal#2206](https://eu.diablo3.com/en-us/profile/Bruttal-2206/)               |      1351      | 0                 |      -      | 2021-08-19 14:13:57 |
-| 1023 | [fireboy#2329](https://eu.diablo3.com/en-us/profile/fireboy-2329/)               |      1345      | 0                 |      -      | 2021-08-12 00:48:41 |
-| 1024 | [Nataly#21950](https://eu.diablo3.com/en-us/profile/Nataly-21950/)               |      1338      | 0                 |      -      | 2021-08-10 11:04:58 |
-| 1025 | [MisterM#21834](https://eu.diablo3.com/en-us/profile/MisterM-21834/)             |      1329      | 0                 |      -      | 2021-08-19 17:25:58 |
-| 1026 | [Aleky#2904](https://eu.diablo3.com/en-us/profile/Aleky-2904/)                   |      1292      | 0                 |      -      | 2021-08-19 17:13:22 |
-| 1027 | [mike193#2806](https://eu.diablo3.com/en-us/profile/mike193-2806/)               |      1285      | 0                 |      -      | 2021-08-09 23:02:44 |
-| 1028 | [Feliks#2335](https://eu.diablo3.com/en-us/profile/Feliks-2335/)                 |      1257      | 0                 |      -      | 2021-08-19 16:06:04 |
-| 1029 | [Mátéúr#2750](https://eu.diablo3.com/en-us/profile/Mátéúr-2750/)                 |      1246      | 0                 |      -      | 2021-08-15 21:58:59 |
-| 1030 | [daniel55#21481](https://eu.diablo3.com/en-us/profile/daniel55-21481/)           |      1235      | 0                 |      -      | 2021-08-19 15:05:43 |
-| 1031 | [naib#2316](https://eu.diablo3.com/en-us/profile/naib-2316/)                     |      1207      | 0                 |      -      | 2021-08-18 03:21:31 |
-| 1032 | [kitkat13#2614](https://eu.diablo3.com/en-us/profile/kitkat13-2614/)             |      1194      | 0                 |      -      | 2021-08-18 15:10:55 |
-| 1033 | [bodek#21929](https://eu.diablo3.com/en-us/profile/bodek-21929/)                 |      1191      | 0                 |      -      | 2021-08-19 17:08:23 |
-| 1034 | [cjisverige#2170](https://eu.diablo3.com/en-us/profile/cjisverige-2170/)         |      1171      | 0                 |      -      | 2021-08-12 01:07:58 |
-| 1035 | [TheBenDs#2454](https://eu.diablo3.com/en-us/profile/TheBenDs-2454/)             |      1163      | 0                 |      -      | 2021-08-19 16:39:49 |
-| 1036 | [pepejohnson#21635](https://eu.diablo3.com/en-us/profile/pepejohnson-21635/)     |      1154      | 0                 |      -      | 2021-08-19 13:47:06 |
-| 1037 | [Ice#23259](https://eu.diablo3.com/en-us/profile/Ice-23259/)                     |      1150      | 0                 |      -      | 2021-08-18 13:53:04 |
-| 1038 | [XLKZS#2394](https://eu.diablo3.com/en-us/profile/XLKZS-2394/)                   |      1024      | 0                 |      -      | 2021-08-16 02:26:53 |
+| 1    | [Timpas#21447](https://eu.diablo3.com/en-us/profile/Timpas-21447/)               |      6169      | 3.74 Quadrillion  |     DH      | 2021-08-19 17:10:36 |
+| 2    | [NameZU#1734](https://eu.diablo3.com/en-us/profile/NameZU-1734/)                 |      5889      | 3.24 Quadrillion  |    Necro    | 2021-08-19 17:04:24 |
+| 3    | [WudiWhoooo89#2355](https://eu.diablo3.com/en-us/profile/WudiWhoooo89-2355/)     |      5836      | 3.15 Quadrillion  |     DH      | 2021-08-19 17:12:02 |
+| 4    | [TimeToBleed#21857](https://eu.diablo3.com/en-us/profile/TimeToBleed-21857/)     |      5752      | 3.01 Quadrillion  |     DH      | 2021-08-19 17:16:25 |
+| 5    | [NorMal#21937](https://eu.diablo3.com/en-us/profile/NorMal-21937/)               |      5722      | 2.96 Quadrillion  |     DH      | 2021-08-19 17:05:02 |
+| 6    | [Ultra#22909](https://eu.diablo3.com/en-us/profile/Ultra-22909/)                 |      5712      | 2.94 Quadrillion  |     DH      | 2021-08-19 17:06:19 |
+| 7    | [TheyThem#2597](https://eu.diablo3.com/en-us/profile/TheyThem-2597/)             |      5663      | 2.86 Quadrillion  |     DH      | 2021-08-19 17:05:13 |
+| 8    | [NoSleep#21277](https://eu.diablo3.com/en-us/profile/NoSleep-21277/)             |      5639      | 2.83 Quadrillion  |     DH      | 2021-08-19 17:12:56 |
+| 9    | [bergarina#2133](https://eu.diablo3.com/en-us/profile/bergarina-2133/)           |      5593      | 2.76 Quadrillion  |    Necro    | 2021-08-19 17:04:29 |
+| 10   | [Wenoo#2123](https://eu.diablo3.com/en-us/profile/Wenoo-2123/)                   |      5587      | 2.75 Quadrillion  |    Necro    | 2021-08-19 17:03:51 |
+| 11   | [Izanagi#21147](https://eu.diablo3.com/en-us/profile/Izanagi-21147/)             |      5572      | 2.72 Quadrillion  |     DH      | 2021-08-19 16:43:34 |
+| 12   | [GabON#21672](https://eu.diablo3.com/en-us/profile/GabON-21672/)                 |      5563      | 2.71 Quadrillion  |     DH      | 2021-08-19 17:08:07 |
+| 13   | [Fullvuxen#2268](https://eu.diablo3.com/en-us/profile/Fullvuxen-2268/)           |      5507      | 2.63 Quadrillion  |     DH      | 2021-08-19 15:04:22 |
+| 14   | [allbymyself#21511](https://eu.diablo3.com/en-us/profile/allbymyself-21511/)     |      5507      | 2.63 Quadrillion  |     DH      | 2021-08-19 17:05:01 |
+| 15   | [BigPoppa#12715](https://eu.diablo3.com/en-us/profile/BigPoppa-12715/)           |      5427      | 2.51 Quadrillion  |    Necro    | 2021-08-19 10:56:08 |
+| 16   | [MLGPogO#2933](https://eu.diablo3.com/en-us/profile/MLGPogO-2933/)               |      5381      | 2.44 Quadrillion  |     DH      | 2021-08-19 17:13:52 |
+| 17   | [grrr#21541](https://eu.diablo3.com/en-us/profile/grrr-21541/)                   |      5379      | 2.44 Quadrillion  |     DH      | 2021-08-19 17:06:21 |
+| 18   | [MonkeyLick#2279](https://eu.diablo3.com/en-us/profile/MonkeyLick-2279/)         |      5257      | 2.27 Quadrillion  |     DH      | 2021-08-19 07:37:27 |
+| 19   | [Portioli#11894](https://eu.diablo3.com/en-us/profile/Portioli-11894/)           |      5250      | 2.26 Quadrillion  |     DH      | 2021-08-19 16:23:36 |
+| 20   | [Celevin#11137](https://eu.diablo3.com/en-us/profile/Celevin-11137/)             |      5247      | 2.26 Quadrillion  |     DH      | 2021-08-19 10:46:45 |
+| 21   | [シシ#2933](https://eu.diablo3.com/en-us/profile/シシ-2933/)                         |      5228      | 2.23 Quadrillion  |     DH      | 2021-08-19 17:03:34 |
+| 22   | [Becks23485#21244](https://eu.diablo3.com/en-us/profile/Becks23485-21244/)       |      5221      | 2.22 Quadrillion  |     DH      | 2021-08-19 17:17:52 |
+| 23   | [uWu#23563](https://eu.diablo3.com/en-us/profile/uWu-23563/)                     |      5167      | 2.15 Quadrillion  |    Necro    | 2021-08-19 17:06:22 |
+| 24   | [JHHDPP#2914](https://eu.diablo3.com/en-us/profile/JHHDPP-2914/)                 |      5107      | 2.07 Quadrillion  |     DH      | 2021-08-19 17:11:33 |
+| 25   | [ElBumbo#1705](https://eu.diablo3.com/en-us/profile/ElBumbo-1705/)               |      5094      | 2.06 Quadrillion  |     DH      | 2021-08-19 17:05:57 |
+| 26   | [Bamse#2676](https://eu.diablo3.com/en-us/profile/Bamse-2676/)                   |      5029      | 1.98 Quadrillion  |     DH      | 2021-08-19 17:17:19 |
+| 27   | [KirmesBoxer#21808](https://eu.diablo3.com/en-us/profile/KirmesBoxer-21808/)     |      5027      | 1.97 Quadrillion  |    Monk     | 2021-08-16 18:03:39 |
+| 28   | [Kemo#2360](https://eu.diablo3.com/en-us/profile/Kemo-2360/)                     |      5004      | 1.94 Quadrillion  |     DH      | 2021-08-19 16:58:12 |
+| 29   | [ag2r#21388](https://eu.diablo3.com/en-us/profile/ag2r-21388/)                   |      4996      | 1.93 Quadrillion  |     DH      | 2021-08-19 16:39:53 |
+| 30   | [Nyvaxad#2855](https://eu.diablo3.com/en-us/profile/Nyvaxad-2855/)               |      4991      | 1.93 Quadrillion  |     DH      | 2021-08-19 16:54:08 |
+| 31   | [Blue#23344](https://eu.diablo3.com/en-us/profile/Blue-23344/)                   |      4933      | 1.86 Quadrillion  |     DH      | 2021-08-19 17:13:25 |
+| 32   | [Wenda#2629](https://eu.diablo3.com/en-us/profile/Wenda-2629/)                   |      4922      | 1.85 Quadrillion  |     DH      | 2021-08-19 17:24:14 |
+| 33   | [Ray#24586](https://eu.diablo3.com/en-us/profile/Ray-24586/)                     |      4919      | 1.84 Quadrillion  |     DH      | 2021-08-19 17:09:13 |
+| 34   | [Divine#21325](https://eu.diablo3.com/en-us/profile/Divine-21325/)               |      4919      | 1.84 Quadrillion  |    Necro    | 2021-08-19 17:23:54 |
+| 35   | [DeadEye#22973](https://eu.diablo3.com/en-us/profile/DeadEye-22973/)             |      4907      | 1.83 Quadrillion  |     DH      | 2021-08-19 11:51:09 |
+| 36   | [Idontcare#22762](https://eu.diablo3.com/en-us/profile/Idontcare-22762/)         |      4879      | 1.8 Quadrillion   |    Monk     | 2021-08-19 17:08:18 |
+| 37   | [Django#22943](https://eu.diablo3.com/en-us/profile/Django-22943/)               |      4870      | 1.79 Quadrillion  |     DH      | 2021-08-19 15:47:24 |
+| 38   | [Ex1t66#2352](https://eu.diablo3.com/en-us/profile/Ex1t66-2352/)                 |      4865      | 1.78 Quadrillion  |     DH      | 2021-08-19 17:14:01 |
+| 39   | [Clem#22526](https://eu.diablo3.com/en-us/profile/Clem-22526/)                   |      4854      | 1.77 Quadrillion  |     DH      | 2021-08-19 17:14:01 |
+| 40   | [ganzfeld#21462](https://eu.diablo3.com/en-us/profile/ganzfeld-21462/)           |      4845      | 1.76 Quadrillion  |     DH      | 2021-08-19 16:41:54 |
+| 41   | [r4uschi#21732](https://eu.diablo3.com/en-us/profile/r4uschi-21732/)             |      4820      | 1.73 Quadrillion  |     DH      | 2021-08-19 17:11:55 |
+| 42   | [Udopeters85#2275](https://eu.diablo3.com/en-us/profile/Udopeters85-2275/)       |      4804      | 1.71 Quadrillion  |     DH      | 2021-08-19 12:13:00 |
+| 43   | [Zarrowz#2451](https://eu.diablo3.com/en-us/profile/Zarrowz-2451/)               |      4801      | 1.71 Quadrillion  |     DH      | 2021-08-19 17:12:34 |
+| 44   | [Migi#11594](https://eu.diablo3.com/en-us/profile/Migi-11594/)                   |      4781      | 1.69 Quadrillion  |     DH      | 2021-08-19 16:22:50 |
+| 45   | [Zik#22653](https://eu.diablo3.com/en-us/profile/Zik-22653/)                     |      4759      | 1.66 Quadrillion  |     DH      | 2021-08-19 17:08:07 |
+| 46   | [Roberto#23385](https://eu.diablo3.com/en-us/profile/Roberto-23385/)             |      4711      | 1.61 Quadrillion  |     DH      | 2021-08-19 17:08:36 |
+| 47   | [TheVengeful#21317](https://eu.diablo3.com/en-us/profile/TheVengeful-21317/)     |      4687      | 1.58 Quadrillion  |     DH      | 2021-08-19 17:25:36 |
+| 48   | [smurf#23976](https://eu.diablo3.com/en-us/profile/smurf-23976/)                 |      4684      | 1.58 Quadrillion  |     DH      | 2021-08-19 15:29:35 |
+| 49   | [Sculptura#2769](https://eu.diablo3.com/en-us/profile/Sculptura-2769/)           |      4675      | 1.57 Quadrillion  |     DH      | 2021-08-19 16:52:13 |
+| 50   | [iTwixX#2765](https://eu.diablo3.com/en-us/profile/iTwixX-2765/)                 |      4664      | 1.56 Quadrillion  |    Necro    | 2021-08-19 17:13:51 |
+| 51   | [ТриЯйца#21369](https://eu.diablo3.com/en-us/profile/ТриЯйца-21369/)             |      4656      | 1.55 Quadrillion  |     DH      | 2021-08-19 17:13:26 |
+| 52   | [Inarius#2952](https://eu.diablo3.com/en-us/profile/Inarius-2952/)               |      4652      | 1.55 Quadrillion  |    Necro    | 2021-08-19 17:11:32 |
+| 53   | [Hansel#21318](https://eu.diablo3.com/en-us/profile/Hansel-21318/)               |      4649      | 1.54 Quadrillion  |     DH      | 2021-08-19 07:26:38 |
+| 54   | [TDMguapio#2729](https://eu.diablo3.com/en-us/profile/TDMguapio-2729/)           |      4649      | 1.54 Quadrillion  |     DH      | 2021-08-19 17:19:19 |
+| 55   | [Nash#22677](https://eu.diablo3.com/en-us/profile/Nash-22677/)                   |      4634      | 1.53 Quadrillion  |     DH      | 2021-08-19 16:37:47 |
+| 56   | [stuka#2715](https://eu.diablo3.com/en-us/profile/stuka-2715/)                   |      4614      | 1.51 Quadrillion  |     DH      | 2021-08-19 17:11:12 |
+| 57   | [KarmaPolice2#2170](https://eu.diablo3.com/en-us/profile/KarmaPolice2-2170/)     |      4610      | 1.5 Quadrillion   |   Wizard    | 2021-08-19 17:05:04 |
+| 58   | [oWo#22627](https://eu.diablo3.com/en-us/profile/oWo-22627/)                     |      4597      | 1.49 Quadrillion  |    Necro    | 2021-08-19 17:06:25 |
+| 59   | [TETEMUR#2168](https://eu.diablo3.com/en-us/profile/TETEMUR-2168/)               |      4577      | 1.47 Quadrillion  |     DH      | 2021-08-19 16:31:50 |
+| 60   | [Winter#22631](https://eu.diablo3.com/en-us/profile/Winter-22631/)               |      4554      | 1.45 Quadrillion  |     DH      | 2021-08-19 16:52:15 |
+| 61   | [Jay#26871](https://eu.diablo3.com/en-us/profile/Jay-26871/)                     |      4546      | 1.44 Quadrillion  |   Wizard    | 2021-08-19 17:12:27 |
+| 62   | [Lúcifer#21239](https://eu.diablo3.com/en-us/profile/Lúcifer-21239/)             |      4518      | 1.41 Quadrillion  |   Wizard    | 2021-08-19 16:54:25 |
+| 63   | [Twizzy#21798](https://eu.diablo3.com/en-us/profile/Twizzy-21798/)               |      4511      | 1.4 Quadrillion   |     DH      | 2021-08-19 16:53:10 |
+| 64   | [Achilles#22515](https://eu.diablo3.com/en-us/profile/Achilles-22515/)           |      4488      | 1.38 Quadrillion  |     DH      | 2021-08-19 17:07:33 |
+| 65   | [Datlau#2239](https://eu.diablo3.com/en-us/profile/Datlau-2239/)                 |      4465      | 1.36 Quadrillion  |     DH      | 2021-08-19 15:18:13 |
+| 66   | [dbq#2527](https://eu.diablo3.com/en-us/profile/dbq-2527/)                       |      4460      | 1.35 Quadrillion  |   Wizard    | 2021-08-19 17:08:47 |
+| 67   | [Eugene#27665](https://eu.diablo3.com/en-us/profile/Eugene-27665/)               |      4457      | 1.35 Quadrillion  |     DH      | 2021-08-19 17:25:51 |
+| 68   | [Seazy#11685](https://eu.diablo3.com/en-us/profile/Seazy-11685/)                 |      4454      | 1.35 Quadrillion  |     DH      | 2021-08-19 17:10:21 |
+| 69   | [VMwareWork#2491](https://eu.diablo3.com/en-us/profile/VMwareWork-2491/)         |      4438      | 1.33 Quadrillion  |     DH      | 2021-08-19 17:04:55 |
+| 70   | [BryusVilkin#2770](https://eu.diablo3.com/en-us/profile/BryusVilkin-2770/)       |      4422      | 1.32 Quadrillion  |     DH      | 2021-08-19 16:50:56 |
+| 71   | [BlaskLight#1171](https://eu.diablo3.com/en-us/profile/BlaskLight-1171/)         |      4418      | 1.31 Quadrillion  |     DH      | 2021-08-19 16:40:08 |
+| 72   | [snts#21913](https://eu.diablo3.com/en-us/profile/snts-21913/)                   |      4398      | 1.3 Quadrillion   |     DH      | 2021-08-19 17:06:47 |
+| 73   | [Lennart#22538](https://eu.diablo3.com/en-us/profile/Lennart-22538/)             |      4390      | 1.29 Quadrillion  |     DH      | 2021-08-19 17:15:05 |
+| 74   | [PuurgeTV#2458](https://eu.diablo3.com/en-us/profile/PuurgeTV-2458/)             |      4388      | 1.29 Quadrillion  |     DH      | 2021-08-19 17:04:43 |
+| 75   | [RuLeS#2932](https://eu.diablo3.com/en-us/profile/RuLeS-2932/)                   |      4369      | 1.27 Quadrillion  |     DH      | 2021-08-19 17:14:55 |
+| 76   | [Venruchi#2806](https://eu.diablo3.com/en-us/profile/Venruchi-2806/)             |      4346      | 1.25 Quadrillion  |     DH      | 2021-08-17 17:54:59 |
+| 77   | [KingKarlos#2160](https://eu.diablo3.com/en-us/profile/KingKarlos-2160/)         |      4344      | 1.25 Quadrillion  |     DH      | 2021-08-19 17:14:10 |
+| 78   | [Dumbo#21742](https://eu.diablo3.com/en-us/profile/Dumbo-21742/)                 |      4343      | 1.24 Quadrillion  |     DH      | 2021-08-19 16:34:34 |
+| 79   | [Chopride#21137](https://eu.diablo3.com/en-us/profile/Chopride-21137/)           |      4342      | 1.24 Quadrillion  |     DH      | 2021-08-19 16:46:04 |
+| 80   | [fekabacsi#2958](https://eu.diablo3.com/en-us/profile/fekabacsi-2958/)           |      4315      | 1.22 Quadrillion  |     DH      | 2021-08-19 17:01:14 |
+| 81   | [Provt#1624](https://eu.diablo3.com/en-us/profile/Provt-1624/)                   |      4311      | 1.22 Quadrillion  |     DH      | 2021-08-19 15:12:21 |
+| 82   | [Bread#21167](https://eu.diablo3.com/en-us/profile/Bread-21167/)                 |      4297      | 1.2 Quadrillion   |     DH      | 2021-08-16 02:42:55 |
+| 83   | [WillyDoc#2587](https://eu.diablo3.com/en-us/profile/WillyDoc-2587/)             |      4295      | 1.2 Quadrillion   |     DH      | 2021-08-19 16:39:10 |
+| 84   | [NoLimmits#2283](https://eu.diablo3.com/en-us/profile/NoLimmits-2283/)           |      4280      | 1.19 Quadrillion  |     DH      | 2021-08-19 17:02:00 |
+| 85   | [PaeLezzar#2630](https://eu.diablo3.com/en-us/profile/PaeLezzar-2630/)           |      4275      | 1.18 Quadrillion  |    Monk     | 2021-08-19 16:26:06 |
+| 86   | [Hephaistos#21870](https://eu.diablo3.com/en-us/profile/Hephaistos-21870/)       |      4271      | 1.18 Quadrillion  |     DH      | 2021-08-19 17:19:11 |
+| 87   | [CaptainIlle#2486](https://eu.diablo3.com/en-us/profile/CaptainIlle-2486/)       |      4247      | 1.16 Quadrillion  |  Barbarian  | 2021-08-19 06:53:01 |
+| 88   | [kOzO#21423](https://eu.diablo3.com/en-us/profile/kOzO-21423/)                   |      4227      | 1.14 Quadrillion  |     DH      | 2021-08-19 17:18:15 |
+| 89   | [FoAMDFun#2297](https://eu.diablo3.com/en-us/profile/FoAMDFun-2297/)             |      4221      | 1.14 Quadrillion  |     DH      | 2021-08-19 17:02:49 |
+| 90   | [d2k2#21225](https://eu.diablo3.com/en-us/profile/d2k2-21225/)                   |      4220      | 1.14 Quadrillion  |   Wizard    | 2021-08-19 17:05:05 |
+| 91   | [Whatcha#21297](https://eu.diablo3.com/en-us/profile/Whatcha-21297/)             |      4205      | 1.12 Quadrillion  |     DH      | 2021-08-19 15:11:31 |
+| 92   | [itsmegeforce#2951](https://eu.diablo3.com/en-us/profile/itsmegeforce-2951/)     |      4204      | 1.12 Quadrillion  |     DH      | 2021-08-19 16:08:12 |
+| 93   | [MICH43L#21115](https://eu.diablo3.com/en-us/profile/MICH43L-21115/)             |      4199      | 1.12 Quadrillion  |   Wizard    | 2021-08-19 16:39:03 |
+| 94   | [b0nE#2911](https://eu.diablo3.com/en-us/profile/b0nE-2911/)                     |      4189      | 1.11 Quadrillion  |     DH      | 2021-08-19 16:47:09 |
+| 95   | [Pr15k0#2237](https://eu.diablo3.com/en-us/profile/Pr15k0-2237/)                 |      4172      | 1.1 Quadrillion   |     DH      | 2021-08-19 16:58:54 |
+| 96   | [Tropic#2787](https://eu.diablo3.com/en-us/profile/Tropic-2787/)                 |      4150      | 1.08 Quadrillion  |     DH      | 2021-08-19 16:47:50 |
+| 97   | [DerFeldHase#2701](https://eu.diablo3.com/en-us/profile/DerFeldHase-2701/)       |      4146      | 1.08 Quadrillion  |     DH      | 2021-08-19 12:05:02 |
+| 98   | [Pala00#2546](https://eu.diablo3.com/en-us/profile/Pala00-2546/)                 |      4141      | 1.07 Quadrillion  |     DH      | 2021-08-19 17:06:47 |
+| 99   | [IveGSL#2551](https://eu.diablo3.com/en-us/profile/IveGSL-2551/)                 |      4134      | 1.07 Quadrillion  |    Monk     | 2021-08-19 16:07:20 |
+| 100  | [BaHkoMaT#2293](https://eu.diablo3.com/en-us/profile/BaHkoMaT-2293/)             |      4131      | 1.06 Quadrillion  |     DH      | 2021-08-19 17:06:39 |
+| 101  | [RuRu#21568](https://eu.diablo3.com/en-us/profile/RuRu-21568/)                   |      4129      | 1.06 Quadrillion  |     DH      | 2021-08-19 16:50:09 |
+| 102  | [Rava#2714](https://eu.diablo3.com/en-us/profile/Rava-2714/)                     |      4124      | 1.06 Quadrillion  |    Necro    | 2021-08-19 14:25:11 |
+| 103  | [Chris#113588](https://eu.diablo3.com/en-us/profile/Chris-113588/)               |      4120      | 1.05 Quadrillion  |     DH      | 2021-08-19 16:34:30 |
+| 104  | [rOot#22405](https://eu.diablo3.com/en-us/profile/rOot-22405/)                   |      4118      | 1.05 Quadrillion  |     DH      | 2021-08-19 17:12:07 |
+| 105  | [Nikator#2220](https://eu.diablo3.com/en-us/profile/Nikator-2220/)               |      4117      | 1.05 Quadrillion  |     DH      | 2021-08-19 17:14:40 |
+| 106  | [Rasputin#21350](https://eu.diablo3.com/en-us/profile/Rasputin-21350/)           |      4112      | 1.05 Quadrillion  |   Wizard    | 2021-08-19 17:21:23 |
+| 107  | [rejko#2208](https://eu.diablo3.com/en-us/profile/rejko-2208/)                   |      4110      | 1.05 Quadrillion  |     DH      | 2021-08-18 17:09:23 |
+| 108  | [o0Christian#2458](https://eu.diablo3.com/en-us/profile/o0Christian-2458/)       |      4099      | 1.04 Quadrillion  |     DH      | 2021-08-18 23:35:13 |
+| 109  | [Lider#2491](https://eu.diablo3.com/en-us/profile/Lider-2491/)                   |      4091      | 1.03 Quadrillion  |     DH      | 2021-08-19 17:06:25 |
+| 110  | [QuartoPanna#2482](https://eu.diablo3.com/en-us/profile/QuartoPanna-2482/)       |      4090      | 1.03 Quadrillion  |     DH      | 2021-08-15 20:12:30 |
+| 111  | [FisT#2992](https://eu.diablo3.com/en-us/profile/FisT-2992/)                     |      4088      | 1.03 Quadrillion  |     DH      | 2021-08-19 12:52:27 |
+| 112  | [Grishnackh#21364](https://eu.diablo3.com/en-us/profile/Grishnackh-21364/)       |      4085      | 1.03 Quadrillion  |     DH      | 2021-08-19 15:13:20 |
+| 113  | [Gazelle21#2417](https://eu.diablo3.com/en-us/profile/Gazelle21-2417/)           |      4083      | 1.02 Quadrillion  |     DH      | 2021-08-19 16:58:32 |
+| 114  | [Hensley#21363](https://eu.diablo3.com/en-us/profile/Hensley-21363/)             |      4081      | 1.02 Quadrillion  |     DH      | 2021-08-19 17:25:46 |
+| 115  | [Nevetser#21182](https://eu.diablo3.com/en-us/profile/Nevetser-21182/)           |      4071      | 1.01 Quadrillion  |    Monk     | 2021-08-19 15:16:09 |
+| 116  | [MrTurtle#21621](https://eu.diablo3.com/en-us/profile/MrTurtle-21621/)           |      4065      | 1.01 Quadrillion  |     DH      | 2021-08-19 16:59:50 |
+| 117  | [Soulnsane#2303](https://eu.diablo3.com/en-us/profile/Soulnsane-2303/)           |      4058      | 1.0 Quadrillion   |    Monk     | 2021-08-19 16:26:38 |
+| 118  | [TheGodSon#2128](https://eu.diablo3.com/en-us/profile/TheGodSon-2128/)           |      4055      | 1.0 Quadrillion   |     DH      | 2021-08-19 17:14:54 |
+| 119  | [Johnzr#21581](https://eu.diablo3.com/en-us/profile/Johnzr-21581/)               |      4047      | 996.03 Trillion   |     DH      | 2021-08-19 17:19:41 |
+| 120  | [Totti#22703](https://eu.diablo3.com/en-us/profile/Totti-22703/)                 |      4043      | 992.92 Trillion   |     DH      | 2021-08-19 17:16:42 |
+| 121  | [banzie#2734](https://eu.diablo3.com/en-us/profile/banzie-2734/)                 |      4042      | 992.14 Trillion   |     DH      | 2021-08-19 17:13:41 |
+| 122  | [Illu#21609](https://eu.diablo3.com/en-us/profile/Illu-21609/)                   |      4037      | 988.27 Trillion   |    Monk     | 2021-08-19 17:16:09 |
+| 123  | [AngryBoy#11829](https://eu.diablo3.com/en-us/profile/AngryBoy-11829/)           |      4031      | 983.63 Trillion   |     DH      | 2021-08-19 16:06:02 |
+| 124  | [Filius#2897](https://eu.diablo3.com/en-us/profile/Filius-2897/)                 |      4030      | 982.86 Trillion   |     DH      | 2021-08-19 17:07:44 |
+| 125  | [Rockstone#21373](https://eu.diablo3.com/en-us/profile/Rockstone-21373/)         |      4029      | 982.09 Trillion   |     DH      | 2021-08-19 17:02:55 |
+| 126  | [ShadowBeast#21200](https://eu.diablo3.com/en-us/profile/ShadowBeast-21200/)     |      4024      | 978.24 Trillion   |     DH      | 2021-08-19 16:00:12 |
+| 127  | [Somi#21399](https://eu.diablo3.com/en-us/profile/Somi-21399/)                   |      4022      | 976.7 Trillion    |     DH      | 2021-08-19 17:12:30 |
+| 128  | [Bachir#2448](https://eu.diablo3.com/en-us/profile/Bachir-2448/)                 |      4022      | 976.7 Trillion    |     DH      | 2021-08-19 15:49:51 |
+| 129  | [PetitBN#21183](https://eu.diablo3.com/en-us/profile/PetitBN-21183/)             |      4017      | 972.87 Trillion   |     DH      | 2021-08-16 15:06:37 |
+| 130  | [MAXIS#21235](https://eu.diablo3.com/en-us/profile/MAXIS-21235/)                 |      4007      | 965.23 Trillion   |     DH      | 2021-08-19 16:59:26 |
+| 131  | [RobotTurtle#21924](https://eu.diablo3.com/en-us/profile/RobotTurtle-21924/)     |      3993      | 954.61 Trillion   |     DH      | 2021-08-19 16:49:15 |
+| 132  | [Neyor#2768](https://eu.diablo3.com/en-us/profile/Neyor-2768/)                   |      3992      | 953.85 Trillion   |     DH      | 2021-08-19 17:12:44 |
+| 133  | [Gugan#21220](https://eu.diablo3.com/en-us/profile/Gugan-21220/)                 |      3984      | 947.82 Trillion   |     DH      | 2021-08-19 17:07:39 |
+| 134  | [Zacku#21926](https://eu.diablo3.com/en-us/profile/Zacku-21926/)                 |      3979      | 944.06 Trillion   |     DH      | 2021-08-19 17:09:07 |
+| 135  | [Hearl#2120](https://eu.diablo3.com/en-us/profile/Hearl-2120/)                   |      3972      | 938.82 Trillion   |     DH      | 2021-08-17 14:40:27 |
+| 136  | [Cypher#22636](https://eu.diablo3.com/en-us/profile/Cypher-22636/)               |      3967      | 935.09 Trillion   |   Wizard    | 2021-08-19 17:08:47 |
+| 137  | [Viec#21849](https://eu.diablo3.com/en-us/profile/Viec-21849/)                   |      3953      | 924.69 Trillion   |     DH      | 2021-08-19 17:00:33 |
+| 138  | [Bay#21252](https://eu.diablo3.com/en-us/profile/Bay-21252/)                     |      3952      | 923.95 Trillion   |     DH      | 2021-08-19 14:16:58 |
+| 139  | [eQuaL#2133](https://eu.diablo3.com/en-us/profile/eQuaL-2133/)                   |      3947      | 920.26 Trillion   |    Necro    | 2021-08-19 17:28:53 |
+| 140  | [ecimania#2917](https://eu.diablo3.com/en-us/profile/ecimania-2917/)             |      3931      | 908.51 Trillion   |   Wizard    | 2021-08-19 17:01:50 |
+| 141  | [WiWiV3#2471](https://eu.diablo3.com/en-us/profile/WiWiV3-2471/)                 |      3925      | 904.13 Trillion   |     DH      | 2021-08-15 15:18:37 |
+| 142  | [Pätsch#2736](https://eu.diablo3.com/en-us/profile/Pätsch-2736/)                 |      3910      | 893.25 Trillion   |     DH      | 2021-08-19 15:09:30 |
+| 143  | [Pray#2942](https://eu.diablo3.com/en-us/profile/Pray-2942/)                     |      3910      | 893.25 Trillion   |     DH      | 2021-08-18 16:37:48 |
+| 144  | [Otaku#21178](https://eu.diablo3.com/en-us/profile/Otaku-21178/)                 |      3905      | 889.64 Trillion   |     DH      | 2021-08-19 16:43:53 |
+| 145  | [WamselVoraus#2647](https://eu.diablo3.com/en-us/profile/WamselVoraus-2647/)     |      3901      | 886.76 Trillion   |    Monk     | 2021-08-19 17:12:03 |
+| 146  | [Quake#21646](https://eu.diablo3.com/en-us/profile/Quake-21646/)                 |      3900      | 886.05 Trillion   |     DH      | 2021-08-18 10:49:51 |
+| 147  | [Paris2012#2830](https://eu.diablo3.com/en-us/profile/Paris2012-2830/)           |      3877      | 869.62 Trillion   |   Wizard    | 2021-08-19 16:55:38 |
+| 148  | [AngryReturns#21585](https://eu.diablo3.com/en-us/profile/AngryReturns-21585/)   |      3875      | 868.21 Trillion   |     DH      | 2021-08-19 16:52:31 |
+| 149  | [TrollPuncher#21957](https://eu.diablo3.com/en-us/profile/TrollPuncher-21957/)   |      3870      | 864.67 Trillion   |     DH      | 2021-08-19 16:49:23 |
+| 150  | [LuffySenpai#21712](https://eu.diablo3.com/en-us/profile/LuffySenpai-21712/)     |      3868      | 863.26 Trillion   |     DH      | 2021-08-19 15:59:33 |
+| 151  | [Tesla#21443](https://eu.diablo3.com/en-us/profile/Tesla-21443/)                 |      3858      | 856.22 Trillion   |    Monk     | 2021-08-19 16:39:45 |
+| 152  | [Lobo#2833](https://eu.diablo3.com/en-us/profile/Lobo-2833/)                     |      3857      | 855.51 Trillion   |     DH      | 2021-08-19 17:13:45 |
+| 153  | [Wolfmaan#21204](https://eu.diablo3.com/en-us/profile/Wolfmaan-21204/)           |      3854      | 853.41 Trillion   |     DH      | 2021-08-19 16:45:45 |
+| 154  | [Pocahontas#21861](https://eu.diablo3.com/en-us/profile/Pocahontas-21861/)       |      3853      | 852.71 Trillion   |    Monk     | 2021-08-19 17:01:56 |
+| 155  | [Insotzius#2660](https://eu.diablo3.com/en-us/profile/Insotzius-2660/)           |      3851      | 851.31 Trillion   |     DH      | 2021-08-17 22:26:04 |
+| 156  | [Makinahhh#2729](https://eu.diablo3.com/en-us/profile/Makinahhh-2729/)           |      3849      | 849.91 Trillion   |   Wizard    | 2021-08-19 17:02:19 |
+| 157  | [Peyo#21982](https://eu.diablo3.com/en-us/profile/Peyo-21982/)                   |      3848      | 849.22 Trillion   |    Necro    | 2021-08-19 14:36:30 |
+| 158  | [Mastermind#22697](https://eu.diablo3.com/en-us/profile/Mastermind-22697/)       |      3848      | 849.22 Trillion   |    Monk     | 2021-08-19 15:54:15 |
+| 159  | [Nobady#21595](https://eu.diablo3.com/en-us/profile/Nobady-21595/)               |      3847      | 848.52 Trillion   |     DH      | 2021-08-19 17:12:01 |
+| 160  | [Plagen#1932](https://eu.diablo3.com/en-us/profile/Plagen-1932/)                 |      3844      | 846.43 Trillion   |     DH      | 2021-08-19 17:07:52 |
+| 161  | [Pummel#21421](https://eu.diablo3.com/en-us/profile/Pummel-21421/)               |      3843      | 845.73 Trillion   |     DH      | 2021-08-19 17:08:53 |
+| 162  | [Jag#21452](https://eu.diablo3.com/en-us/profile/Jag-21452/)                     |      3837      | 841.56 Trillion   |     DH      | 2021-08-19 17:01:46 |
+| 163  | [ExiLent#2799](https://eu.diablo3.com/en-us/profile/ExiLent-2799/)               |      3829      | 836.03 Trillion   |   Wizard    | 2021-08-19 17:08:43 |
+| 164  | [AvaLoN#2232](https://eu.diablo3.com/en-us/profile/AvaLoN-2232/)                 |      3828      | 835.33 Trillion   |     DH      | 2021-08-19 17:09:17 |
+| 165  | [Босоногий#2522](https://eu.diablo3.com/en-us/profile/Босоногий-2522/)           |      3828      | 835.33 Trillion   |     DH      | 2021-08-19 17:29:51 |
+| 166  | [Gadwin#21285](https://eu.diablo3.com/en-us/profile/Gadwin-21285/)               |      3826      | 833.96 Trillion   |     DH      | 2021-08-19 17:08:47 |
+| 167  | [allcatraz#2175](https://eu.diablo3.com/en-us/profile/allcatraz-2175/)           |      3824      | 832.58 Trillion   |     DH      | 2021-08-17 23:05:33 |
+| 168  | [Zvink#2966](https://eu.diablo3.com/en-us/profile/Zvink-2966/)                   |      3823      | 831.89 Trillion   |     DH      | 2021-08-18 17:04:16 |
+| 169  | [NeverWøød#2143](https://eu.diablo3.com/en-us/profile/NeverWøød-2143/)           |      3813      | 825.03 Trillion   |     DH      | 2021-08-15 20:45:38 |
+| 170  | [Szybki#21268](https://eu.diablo3.com/en-us/profile/Szybki-21268/)               |      3807      | 820.93 Trillion   |     DH      | 2021-08-19 16:13:08 |
+| 171  | [Morfei#21442](https://eu.diablo3.com/en-us/profile/Morfei-21442/)               |      3805      | 819.56 Trillion   |   Wizard    | 2021-08-19 15:45:42 |
+| 172  | [Baskenater#21360](https://eu.diablo3.com/en-us/profile/Baskenater-21360/)       |      3800      | 816.16 Trillion   |    Monk     | 2021-08-19 16:34:27 |
+| 173  | [fake#22582](https://eu.diablo3.com/en-us/profile/fake-22582/)                   |      3796      | 813.45 Trillion   |    Monk     | 2021-08-19 17:07:41 |
+| 174  | [Zmart#2457](https://eu.diablo3.com/en-us/profile/Zmart-2457/)                   |      3794      | 812.09 Trillion   |    Monk     | 2021-08-19 17:10:21 |
+| 175  | [Nexrate#2126](https://eu.diablo3.com/en-us/profile/Nexrate-2126/)               |      3791      | 810.06 Trillion   |     DH      | 2021-08-18 21:22:42 |
+| 176  | [AllesEasy#2148](https://eu.diablo3.com/en-us/profile/AllesEasy-2148/)           |      3786      | 806.69 Trillion   |     DH      | 2021-08-19 15:06:09 |
+| 177  | [Cruelty#2641](https://eu.diablo3.com/en-us/profile/Cruelty-2641/)               |      3786      | 806.69 Trillion   |     DH      | 2021-08-19 17:24:30 |
+| 178  | [Neo#27312](https://eu.diablo3.com/en-us/profile/Neo-27312/)                     |      3785      | 806.02 Trillion   |     DH      | 2021-08-19 17:00:04 |
+| 179  | [Bazzi#2782](https://eu.diablo3.com/en-us/profile/Bazzi-2782/)                   |      3783      | 804.67 Trillion   |   Wizard    | 2021-08-17 22:07:44 |
+| 180  | [Néoslacksaxo#2883](https://eu.diablo3.com/en-us/profile/Néoslacksaxo-2883/)     |      3780      | 802.65 Trillion   |     DH      | 2021-08-19 17:15:06 |
+| 181  | [MTLRMC#2789](https://eu.diablo3.com/en-us/profile/MTLRMC-2789/)                 |      3772      | 797.29 Trillion   |     DH      | 2021-08-19 17:20:00 |
+| 182  | [Legit#21773](https://eu.diablo3.com/en-us/profile/Legit-21773/)                 |      3771      | 796.63 Trillion   |     DH      | 2021-08-19 16:25:21 |
+| 183  | [Leaxy#21283](https://eu.diablo3.com/en-us/profile/Leaxy-21283/)                 |      3770      | 795.96 Trillion   |    Monk     | 2021-08-19 17:08:39 |
+| 184  | [XxXSonicXxX#21593](https://eu.diablo3.com/en-us/profile/XxXSonicXxX-21593/)     |      3765      | 792.62 Trillion   |   Wizard    | 2021-08-19 17:14:25 |
+| 185  | [TaskForce141#11624](https://eu.diablo3.com/en-us/profile/TaskForce141-11624/)   |      3754      | 785.32 Trillion   |   Wizard    | 2021-08-19 17:00:41 |
+| 186  | [technine#2958](https://eu.diablo3.com/en-us/profile/technine-2958/)             |      3753      | 784.66 Trillion   |   Wizard    | 2021-08-19 17:16:32 |
+| 187  | [Ukaî#2453](https://eu.diablo3.com/en-us/profile/Ukaî-2453/)                     |      3751      | 783.34 Trillion   |   Wizard    | 2021-08-19 17:00:36 |
+| 188  | [BladeRunner#22903](https://eu.diablo3.com/en-us/profile/BladeRunner-22903/)     |      3751      | 783.34 Trillion   |     DH      | 2021-08-19 17:04:36 |
+| 189  | [Skowi555#2268](https://eu.diablo3.com/en-us/profile/Skowi555-2268/)             |      3750      | 782.68 Trillion   |    Monk     | 2021-08-19 13:35:25 |
+| 190  | [ĴaydĔĔ#2208](https://eu.diablo3.com/en-us/profile/ĴaydĔĔ-2208/)                 |      3749      | 782.02 Trillion   |     DH      | 2021-08-14 20:05:24 |
+| 191  | [Funky#22942](https://eu.diablo3.com/en-us/profile/Funky-22942/)                 |      3748      | 781.36 Trillion   |     DH      | 2021-08-19 16:59:56 |
+| 192  | [Biotin#21856](https://eu.diablo3.com/en-us/profile/Biotin-21856/)               |      3744      | 778.73 Trillion   |     DH      | 2021-08-19 16:59:26 |
+| 193  | [WindforceGTX#2682](https://eu.diablo3.com/en-us/profile/WindforceGTX-2682/)     |      3743      | 778.07 Trillion   |   Wizard    | 2021-08-18 21:42:23 |
+| 194  | [Padlavillage#2224](https://eu.diablo3.com/en-us/profile/Padlavillage-2224/)     |      3737      | 774.13 Trillion   |     DH      | 2021-08-19 17:01:50 |
+| 195  | [Ryu#2383](https://eu.diablo3.com/en-us/profile/Ryu-2383/)                       |      3737      | 774.13 Trillion   |   Wizard    | 2021-08-19 17:16:38 |
+| 196  | [Lucasnoescg#2670](https://eu.diablo3.com/en-us/profile/Lucasnoescg-2670/)       |      3732      | 770.86 Trillion   |     DH      | 2021-08-19 15:30:57 |
+| 197  | [MasterMoos#21196](https://eu.diablo3.com/en-us/profile/MasterMoos-21196/)       |      3731      | 770.21 Trillion   |     DH      | 2021-08-19 10:33:51 |
+| 198  | [Eauxengo#2382](https://eu.diablo3.com/en-us/profile/Eauxengo-2382/)             |      3731      | 770.21 Trillion   |    Monk     | 2021-08-19 16:33:30 |
+| 199  | [OpI#2736](https://eu.diablo3.com/en-us/profile/OpI-2736/)                       |      3727      | 767.6 Trillion    |   Wizard    | 2021-08-19 16:55:51 |
+| 200  | [Maaarek#21642](https://eu.diablo3.com/en-us/profile/Maaarek-21642/)             |      3725      | 766.3 Trillion    |     DH      | 2021-08-19 17:08:45 |
+| 201  | [Maçabeyi#2168](https://eu.diablo3.com/en-us/profile/Maçabeyi-2168/)             |      3723      | 765.0 Trillion    |   Wizard    | 2021-08-19 17:18:12 |
+| 202  | [Cris#22916](https://eu.diablo3.com/en-us/profile/Cris-22916/)                   |      3721      | 763.7 Trillion    |   Wizard    | 2021-08-19 17:15:17 |
+| 203  | [GrülMeisteR#2392](https://eu.diablo3.com/en-us/profile/GrülMeisteR-2392/)       |      3719      | 762.4 Trillion    |     DH      | 2021-08-19 17:24:28 |
+| 204  | [MrPanDa#21529](https://eu.diablo3.com/en-us/profile/MrPanDa-21529/)             |      3716      | 760.46 Trillion   |    Monk     | 2021-08-19 15:55:29 |
+| 205  | [DiplJurRA#2406](https://eu.diablo3.com/en-us/profile/DiplJurRA-2406/)           |      3715      | 759.81 Trillion   |     DH      | 2021-08-19 16:20:03 |
+| 206  | [Tallaron#1953](https://eu.diablo3.com/en-us/profile/Tallaron-1953/)             |      3713      | 758.52 Trillion   |   Wizard    | 2021-08-19 17:08:35 |
+| 207  | [Northwar#21340](https://eu.diablo3.com/en-us/profile/Northwar-21340/)           |      3712      | 757.88 Trillion   |     DH      | 2021-08-19 17:10:03 |
+| 208  | [Ragnar#25943](https://eu.diablo3.com/en-us/profile/Ragnar-25943/)               |      3707      | 754.65 Trillion   |   Wizard    | 2021-08-19 17:03:16 |
+| 209  | [Tetsu#21203](https://eu.diablo3.com/en-us/profile/Tetsu-21203/)                 |      3706      | 754.01 Trillion   |   Wizard    | 2021-08-19 16:58:37 |
+| 210  | [Parmabaer#2282](https://eu.diablo3.com/en-us/profile/Parmabaer-2282/)           |      3705      | 753.37 Trillion   |     DH      | 2021-08-19 16:38:16 |
+| 211  | [Knochenjäger#21839](https://eu.diablo3.com/en-us/profile/Knochenjäger-21839/)   |      3701      | 750.8 Trillion    |   Wizard    | 2021-08-19 17:08:46 |
+| 212  | [knight#22191](https://eu.diablo3.com/en-us/profile/knight-22191/)               |      3701      | 750.8 Trillion    |     DH      | 2021-08-09 20:29:52 |
+| 213  | [Mundzso#2529](https://eu.diablo3.com/en-us/profile/Mundzso-2529/)               |      3697      | 748.23 Trillion   |     DH      | 2021-08-19 16:56:48 |
+| 214  | [Horhoga#2878](https://eu.diablo3.com/en-us/profile/Horhoga-2878/)               |      3687      | 741.85 Trillion   |     DH      | 2021-08-18 23:24:19 |
+| 215  | [BastoS#2644](https://eu.diablo3.com/en-us/profile/BastoS-2644/)                 |      3678      | 736.15 Trillion   |     DH      | 2021-08-19 16:19:02 |
+| 216  | [GS23#2466](https://eu.diablo3.com/en-us/profile/GS23-2466/)                     |      3677      | 735.51 Trillion   |     DH      | 2021-08-19 17:15:14 |
+| 217  | [Merlin#25352](https://eu.diablo3.com/en-us/profile/Merlin-25352/)               |      3676      | 734.88 Trillion   |     DH      | 2021-08-19 16:58:39 |
+| 218  | [Tjalarun#2375](https://eu.diablo3.com/en-us/profile/Tjalarun-2375/)             |      3674      | 733.62 Trillion   |   Wizard    | 2021-08-19 16:23:42 |
+| 219  | [Suntego#21495](https://eu.diablo3.com/en-us/profile/Suntego-21495/)             |      3668      | 729.84 Trillion   |     DH      | 2021-08-19 17:19:43 |
+| 220  | [Schlabatelli#2776](https://eu.diablo3.com/en-us/profile/Schlabatelli-2776/)     |      3664      | 727.32 Trillion   |   Wizard    | 2021-08-19 16:46:26 |
+| 221  | [Kwiatu#21782](https://eu.diablo3.com/en-us/profile/Kwiatu-21782/)               |      3659      | 724.19 Trillion   |    Monk     | 2021-08-19 11:40:56 |
+| 222  | [MR0K#21265](https://eu.diablo3.com/en-us/profile/MR0K-21265/)                   |      3657      | 722.94 Trillion   |     DH      | 2021-08-19 17:24:53 |
+| 223  | [Infinity#24338](https://eu.diablo3.com/en-us/profile/Infinity-24338/)           |      3644      | 714.85 Trillion   |     DH      | 2021-08-19 17:08:04 |
+| 224  | [Monya777#21965](https://eu.diablo3.com/en-us/profile/Monya777-21965/)           |      3644      | 714.85 Trillion   |     DH      | 2021-08-19 16:47:22 |
+| 225  | [BattlePants#1101832](https://eu.diablo3.com/en-us/profile/BattlePants-1101832/) |      3642      | 713.61 Trillion   |     DH      | 2021-08-19 16:54:46 |
+| 226  | [Fléxiz#2709](https://eu.diablo3.com/en-us/profile/Fléxiz-2709/)                 |      3635      | 709.28 Trillion   |     DH      | 2021-08-19 14:03:18 |
+| 227  | [Nearth97#2914](https://eu.diablo3.com/en-us/profile/Nearth97-2914/)             |      3632      | 707.43 Trillion   |     DH      | 2021-08-19 16:44:01 |
+| 228  | [Loel#2607](https://eu.diablo3.com/en-us/profile/Loel-2607/)                     |      3630      | 706.2 Trillion    |   Wizard    | 2021-08-19 17:03:31 |
+| 229  | [mokaq#21555](https://eu.diablo3.com/en-us/profile/mokaq-21555/)                 |      3628      | 704.98 Trillion   |    Monk     | 2021-08-19 07:48:20 |
+| 230  | [rafcior#2591](https://eu.diablo3.com/en-us/profile/rafcior-2591/)               |      3626      | 703.75 Trillion   |    Monk     | 2021-08-19 17:26:49 |
+| 231  | [DerTomy#2397](https://eu.diablo3.com/en-us/profile/DerTomy-2397/)               |      3622      | 701.3 Trillion    |     DH      | 2021-08-19 17:26:56 |
+| 232  | [Yana#2755](https://eu.diablo3.com/en-us/profile/Yana-2755/)                     |      3621      | 700.69 Trillion   |     DH      | 2021-08-19 17:12:07 |
+| 233  | [JochenPeters#2646](https://eu.diablo3.com/en-us/profile/JochenPeters-2646/)     |      3620      | 700.07 Trillion   |     DH      | 2021-08-19 16:19:17 |
+| 234  | [INFINITY#24880](https://eu.diablo3.com/en-us/profile/INFINITY-24880/)           |      3618      | 698.85 Trillion   |   Wizard    | 2021-08-19 13:15:33 |
+| 235  | [Fredgerät#2885](https://eu.diablo3.com/en-us/profile/Fredgerät-2885/)           |      3618      | 698.85 Trillion   |     DH      | 2021-08-19 16:58:41 |
+| 236  | [CHROM#21270](https://eu.diablo3.com/en-us/profile/CHROM-21270/)                 |      3614      | 696.41 Trillion   |     DH      | 2021-08-19 15:07:27 |
+| 237  | [Lagertha#21159](https://eu.diablo3.com/en-us/profile/Lagertha-21159/)           |      3605      | 690.95 Trillion   |     DH      | 2021-08-19 17:08:54 |
+| 238  | [FajnyMnich#24506](https://eu.diablo3.com/en-us/profile/FajnyMnich-24506/)       |      3605      | 690.95 Trillion   |   Wizard    | 2021-08-19 15:17:29 |
+| 239  | [SEMIK0389#2455](https://eu.diablo3.com/en-us/profile/SEMIK0389-2455/)           |      3603      | 689.74 Trillion   |     DH      | 2021-08-19 05:01:27 |
+| 240  | [ObsidianFury#2466](https://eu.diablo3.com/en-us/profile/ObsidianFury-2466/)     |      3597      | 686.12 Trillion   |     DH      | 2021-08-19 17:15:58 |
+| 241  | [Prezes#21741](https://eu.diablo3.com/en-us/profile/Prezes-21741/)               |      3592      | 683.11 Trillion   |     DH      | 2021-08-19 16:16:08 |
+| 242  | [hugoletta#2517](https://eu.diablo3.com/en-us/profile/hugoletta-2517/)           |      3590      | 681.91 Trillion   |    Monk     | 2021-08-19 16:54:31 |
+| 243  | [Bubblan#2959](https://eu.diablo3.com/en-us/profile/Bubblan-2959/)               |      3585      | 678.91 Trillion   |     DH      | 2021-08-19 04:43:46 |
+| 244  | [czarnozeby#2305](https://eu.diablo3.com/en-us/profile/czarnozeby-2305/)         |      3583      | 677.71 Trillion   |     DH      | 2021-08-19 16:54:37 |
+| 245  | [Glukosamine#2612](https://eu.diablo3.com/en-us/profile/Glukosamine-2612/)       |      3578      | 674.73 Trillion   |    Monk     | 2021-08-19 17:22:56 |
+| 246  | [D0minatoR#21570](https://eu.diablo3.com/en-us/profile/D0minatoR-21570/)         |      3572      | 671.16 Trillion   |     DH      | 2021-08-19 17:14:09 |
+| 247  | [EXX#21690](https://eu.diablo3.com/en-us/profile/EXX-21690/)                     |      3571      | 670.57 Trillion   |     DH      | 2021-08-19 16:54:55 |
+| 248  | [arri#2889](https://eu.diablo3.com/en-us/profile/arri-2889/)                     |      3568      | 668.79 Trillion   |    Monk     | 2021-08-19 16:29:53 |
+| 249  | [DarkKing#22639](https://eu.diablo3.com/en-us/profile/DarkKing-22639/)           |      3567      | 668.2 Trillion    |    Monk     | 2021-08-18 20:51:34 |
+| 250  | [Aura#21522](https://eu.diablo3.com/en-us/profile/Aura-21522/)                   |      3560      | 664.07 Trillion   |     DH      | 2021-08-19 14:54:29 |
+| 251  | [Tarone#2177](https://eu.diablo3.com/en-us/profile/Tarone-2177/)                 |      3556      | 661.71 Trillion   |    Necro    | 2021-08-19 16:29:11 |
+| 252  | [BlackSea#21388](https://eu.diablo3.com/en-us/profile/BlackSea-21388/)           |      3556      | 661.71 Trillion   |   Wizard    | 2021-08-19 17:23:56 |
+| 253  | [Erdterraner#217431](https://eu.diablo3.com/en-us/profile/Erdterraner-217431/)   |      3555      | 661.13 Trillion   |     DH      | 2021-08-19 17:11:44 |
+| 254  | [SoloWD148#2162](https://eu.diablo3.com/en-us/profile/SoloWD148-2162/)           |      3555      | 661.13 Trillion   |     DH      | 2021-08-19 15:20:35 |
+| 255  | [ElleTaDitNoN#2541](https://eu.diablo3.com/en-us/profile/ElleTaDitNoN-2541/)     |      3552      | 659.36 Trillion   |    Necro    | 2021-08-19 17:01:30 |
+| 256  | [ChrisGrandPa#2915](https://eu.diablo3.com/en-us/profile/ChrisGrandPa-2915/)     |      3551      | 658.78 Trillion   |   Wizard    | 2021-08-19 12:59:13 |
+| 257  | [putrefaction#2524](https://eu.diablo3.com/en-us/profile/putrefaction-2524/)     |      3548      | 657.02 Trillion   |     DH      | 2021-08-19 17:18:16 |
+| 258  | [Ender#2992](https://eu.diablo3.com/en-us/profile/Ender-2992/)                   |      3546      | 655.85 Trillion   |     DH      | 2021-08-18 21:08:15 |
+| 259  | [Naguya#2131](https://eu.diablo3.com/en-us/profile/Naguya-2131/)                 |      3544      | 654.69 Trillion   |     DH      | 2021-08-18 16:45:14 |
+| 260  | [Jeras#2896](https://eu.diablo3.com/en-us/profile/Jeras-2896/)                   |      3540      | 652.36 Trillion   |     DH      | 2021-08-19 17:26:27 |
+| 261  | [Focus#22430](https://eu.diablo3.com/en-us/profile/Focus-22430/)                 |      3535      | 649.45 Trillion   |     DH      | 2021-08-19 17:07:15 |
+| 262  | [R3T04#2993](https://eu.diablo3.com/en-us/profile/R3T04-2993/)                   |      3532      | 647.71 Trillion   |     DH      | 2021-08-19 16:16:49 |
+| 263  | [RedEagledTv#2253](https://eu.diablo3.com/en-us/profile/RedEagledTv-2253/)       |      3528      | 645.4 Trillion    |    Necro    | 2021-08-19 17:17:18 |
+| 264  | [Bluuu#21607](https://eu.diablo3.com/en-us/profile/Bluuu-21607/)                 |      3525      | 643.67 Trillion   |     DH      | 2021-08-19 14:32:46 |
+| 265  | [Papu#21575](https://eu.diablo3.com/en-us/profile/Papu-21575/)                   |      3525      | 643.67 Trillion   |     DH      | 2021-08-16 10:53:48 |
+| 266  | [strsys1#2343](https://eu.diablo3.com/en-us/profile/strsys1-2343/)               |      3521      | 641.36 Trillion   |     DH      | 2021-08-19 13:00:58 |
+| 267  | [Azazel#25476](https://eu.diablo3.com/en-us/profile/Azazel-25476/)               |      3519      | 640.21 Trillion   |   Wizard    | 2021-08-19 17:03:01 |
+| 268  | [SaMaEL#23181](https://eu.diablo3.com/en-us/profile/SaMaEL-23181/)               |      3515      | 637.92 Trillion   |    Monk     | 2021-08-19 16:31:22 |
+| 269  | [wudijo#21122](https://eu.diablo3.com/en-us/profile/wudijo-21122/)               |      3513      | 636.78 Trillion   |    Monk     | 2021-08-19 17:09:59 |
+| 270  | [Raptor#23969](https://eu.diablo3.com/en-us/profile/Raptor-23969/)               |      3506      | 632.78 Trillion   |    Monk     | 2021-08-19 17:19:47 |
+| 271  | [benni#2106](https://eu.diablo3.com/en-us/profile/benni-2106/)                   |      3497      | 627.67 Trillion   |    Monk     | 2021-08-19 17:20:23 |
+| 272  | [Shiva#22889](https://eu.diablo3.com/en-us/profile/Shiva-22889/)                 |      3495      | 626.53 Trillion   |     DH      | 2021-08-19 16:51:33 |
+| 273  | [Clay#21942](https://eu.diablo3.com/en-us/profile/Clay-21942/)                   |      3493      | 625.4 Trillion    |   Wizard    | 2021-08-19 16:23:34 |
+| 274  | [Skrealz#21428](https://eu.diablo3.com/en-us/profile/Skrealz-21428/)             |      3487      | 622.02 Trillion   |   Wizard    | 2021-08-19 17:09:08 |
+| 275  | [Neon#2174](https://eu.diablo3.com/en-us/profile/Neon-2174/)                     |      3483      | 619.77 Trillion   |     DH      | 2021-08-19 16:17:54 |
+| 276  | [NeverPrimal#2763](https://eu.diablo3.com/en-us/profile/NeverPrimal-2763/)       |      3482      | 619.21 Trillion   |    Necro    | 2021-08-19 17:06:04 |
+| 277  | [kensi#21936](https://eu.diablo3.com/en-us/profile/kensi-21936/)                 |      3481      | 618.65 Trillion   |   Wizard    | 2021-08-19 17:08:38 |
+| 278  | [amba#21863](https://eu.diablo3.com/en-us/profile/amba-21863/)                   |      3478      | 616.97 Trillion   |   Wizard    | 2021-08-19 16:18:30 |
+| 279  | [Kappa#24275](https://eu.diablo3.com/en-us/profile/Kappa-24275/)                 |      3474      | 614.73 Trillion   |   Wizard    | 2021-08-19 16:59:53 |
+| 280  | [TheBiker#21497](https://eu.diablo3.com/en-us/profile/TheBiker-21497/)           |      3474      | 614.73 Trillion   |   Wizard    | 2021-08-19 17:06:01 |
+| 281  | [Saragon#2797](https://eu.diablo3.com/en-us/profile/Saragon-2797/)               |      3470      | 612.5 Trillion    |     DH      | 2021-08-19 16:51:47 |
+| 282  | [d4rkw15h#2327](https://eu.diablo3.com/en-us/profile/d4rkw15h-2327/)             |      3467      | 610.83 Trillion   |   Wizard    | 2021-08-19 16:40:28 |
+| 283  | [bob44350#2452](https://eu.diablo3.com/en-us/profile/bob44350-2452/)             |      3465      | 609.72 Trillion   |   Wizard    | 2021-08-19 16:21:25 |
+| 284  | [Palla81#2688](https://eu.diablo3.com/en-us/profile/Palla81-2688/)               |      3464      | 609.17 Trillion   |     DH      | 2021-08-19 16:47:56 |
+| 285  | [Damiyan#2545](https://eu.diablo3.com/en-us/profile/Damiyan-2545/)               |      3459      | 606.4 Trillion    |   Wizard    | 2021-08-19 05:02:56 |
+| 286  | [riLe#2988](https://eu.diablo3.com/en-us/profile/riLe-2988/)                     |      3456      | 604.74 Trillion   |    Necro    | 2021-08-19 17:02:02 |
+| 287  | [F0rmatC#2257](https://eu.diablo3.com/en-us/profile/F0rmatC-2257/)               |      3455      | 604.19 Trillion   |    Monk     | 2021-08-19 11:49:29 |
+| 288  | [Rampampam#21976](https://eu.diablo3.com/en-us/profile/Rampampam-21976/)         |      3455      | 604.19 Trillion   |   Wizard    | 2021-08-19 17:21:12 |
+| 289  | [MasteSc4Real#2694](https://eu.diablo3.com/en-us/profile/MasteSc4Real-2694/)     |      3453      | 603.08 Trillion   |     DH      | 2021-08-19 15:34:19 |
+| 290  | [Mimozo#2688](https://eu.diablo3.com/en-us/profile/Mimozo-2688/)                 |      3451      | 601.98 Trillion   |   Wizard    | 2021-08-19 16:23:50 |
+| 291  | [Chipsi#2451](https://eu.diablo3.com/en-us/profile/Chipsi-2451/)                 |      3450      | 601.43 Trillion   |     DH      | 2021-08-17 21:17:19 |
+| 292  | [Dalgaard#21262](https://eu.diablo3.com/en-us/profile/Dalgaard-21262/)           |      3447      | 599.79 Trillion   |    Monk     | 2021-08-19 16:51:38 |
+| 293  | [Gimli#22413](https://eu.diablo3.com/en-us/profile/Gimli-22413/)                 |      3432      | 591.59 Trillion   |     DH      | 2021-08-19 17:16:16 |
+| 294  | [PcGamerHaze#2631](https://eu.diablo3.com/en-us/profile/PcGamerHaze-2631/)       |      3429      | 589.96 Trillion   |    Monk     | 2021-08-14 14:05:45 |
+| 295  | [Crayzer#21896](https://eu.diablo3.com/en-us/profile/Crayzer-21896/)             |      3428      | 589.42 Trillion   |  Barbarian  | 2021-08-19 17:18:12 |
+| 296  | [Amon#2526](https://eu.diablo3.com/en-us/profile/Amon-2526/)                     |      3423      | 586.72 Trillion   |  Barbarian  | 2021-08-19 15:47:07 |
+| 297  | [Ellynd#2982](https://eu.diablo3.com/en-us/profile/Ellynd-2982/)                 |      3422      | 586.18 Trillion   |    Monk     | 2021-08-19 14:45:31 |
+| 298  | [Kikaha#2290](https://eu.diablo3.com/en-us/profile/Kikaha-2290/)                 |      3415      | 582.4 Trillion    |     DH      | 2021-08-18 21:58:51 |
+| 299  | [BASSB0XXX#2737](https://eu.diablo3.com/en-us/profile/BASSB0XXX-2737/)           |      3413      | 581.33 Trillion   |   Wizard    | 2021-08-19 11:48:34 |
+| 300  | [joe#24578](https://eu.diablo3.com/en-us/profile/joe-24578/)                     |      3412      | 580.79 Trillion   |   Wizard    | 2021-08-19 12:59:40 |
+| 301  | [Mahala#21737](https://eu.diablo3.com/en-us/profile/Mahala-21737/)               |      3410      | 579.72 Trillion   |     DH      | 2021-08-16 13:52:34 |
+| 302  | [YourBaby#21839](https://eu.diablo3.com/en-us/profile/YourBaby-21839/)           |      3410      | 579.72 Trillion   |    Monk     | 2021-08-19 16:58:19 |
+| 303  | [Glazier#21420](https://eu.diablo3.com/en-us/profile/Glazier-21420/)             |      3407      | 578.11 Trillion   |   Wizard    | 2021-08-19 16:47:18 |
+| 304  | [Aquilles#2344](https://eu.diablo3.com/en-us/profile/Aquilles-2344/)             |      3407      | 578.11 Trillion   |   Wizard    | 2021-08-19 12:26:07 |
+| 305  | [Proximity#2619](https://eu.diablo3.com/en-us/profile/Proximity-2619/)           |      3400      | 574.38 Trillion   |  Barbarian  | 2021-08-19 12:53:12 |
+| 306  | [Duncan#22642](https://eu.diablo3.com/en-us/profile/Duncan-22642/)               |      3399      | 573.85 Trillion   |   Wizard    | 2021-08-19 17:03:03 |
+| 307  | [Fjord#21136](https://eu.diablo3.com/en-us/profile/Fjord-21136/)                 |      3398      | 573.32 Trillion   |   Wizard    | 2021-08-19 16:29:23 |
+| 308  | [bafo33#2992](https://eu.diablo3.com/en-us/profile/bafo33-2992/)                 |      3398      | 573.32 Trillion   |     DH      | 2021-08-19 17:11:39 |
+| 309  | [waVe#2894](https://eu.diablo3.com/en-us/profile/waVe-2894/)                     |      3396      | 572.25 Trillion   |   Wizard    | 2021-08-19 16:00:51 |
+| 310  | [BruceWilles#21904](https://eu.diablo3.com/en-us/profile/BruceWilles-21904/)     |      3389      | 568.54 Trillion   |     DH      | 2021-08-19 16:55:48 |
+| 311  | [Elfriede#2191](https://eu.diablo3.com/en-us/profile/Elfriede-2191/)             |      3387      | 567.49 Trillion   |     DH      | 2021-08-19 11:03:48 |
+| 312  | [ligmena#21471](https://eu.diablo3.com/en-us/profile/ligmena-21471/)             |      3387      | 567.49 Trillion   |     DH      | 2021-08-18 00:56:23 |
+| 313  | [SpiderBiBis#2143](https://eu.diablo3.com/en-us/profile/SpiderBiBis-2143/)       |      3385      | 566.43 Trillion   |     DH      | 2021-08-13 08:59:34 |
+| 314  | [Arkeon#21613](https://eu.diablo3.com/en-us/profile/Arkeon-21613/)               |      3381      | 564.33 Trillion   |     DH      | 2021-08-19 16:47:16 |
+| 315  | [ULIANKA#2446](https://eu.diablo3.com/en-us/profile/ULIANKA-2446/)               |      3381      | 564.33 Trillion   |   Wizard    | 2021-08-19 17:30:50 |
+| 316  | [selpicsid#21432](https://eu.diablo3.com/en-us/profile/selpicsid-21432/)         |      3380      | 563.8 Trillion    |     DH      | 2021-08-19 03:06:37 |
+| 317  | [momper#2880](https://eu.diablo3.com/en-us/profile/momper-2880/)                 |      3376      | 561.7 Trillion    |     DH      | 2021-08-19 12:23:47 |
+| 318  | [Leo#212965](https://eu.diablo3.com/en-us/profile/Leo-212965/)                   |      3374      | 560.66 Trillion   |   Wizard    | 2021-08-19 16:58:25 |
+| 319  | [Kingschaffi#2182](https://eu.diablo3.com/en-us/profile/Kingschaffi-2182/)       |      3373      | 560.13 Trillion   |     DH      | 2021-08-19 17:16:58 |
+| 320  | [GhostDog#2147495](https://eu.diablo3.com/en-us/profile/GhostDog-2147495/)       |      3373      | 560.13 Trillion   |    Necro    | 2021-08-19 16:50:15 |
+| 321  | [Mausi98#2566](https://eu.diablo3.com/en-us/profile/Mausi98-2566/)               |      3369      | 558.04 Trillion   |     DH      | 2021-08-19 17:01:26 |
+| 322  | [Yav6#2434](https://eu.diablo3.com/en-us/profile/Yav6-2434/)                     |      3369      | 558.04 Trillion   |     DH      | 2021-08-19 17:17:57 |
+| 323  | [Nilac#2283](https://eu.diablo3.com/en-us/profile/Nilac-2283/)                   |      3368      | 557.52 Trillion   |     DH      | 2021-08-19 17:09:45 |
+| 324  | [Rud0lphRossa#2741](https://eu.diablo3.com/en-us/profile/Rud0lphRossa-2741/)     |      3363      | 554.92 Trillion   |     DH      | 2021-08-19 17:23:11 |
+| 325  | [gamjack#2603](https://eu.diablo3.com/en-us/profile/gamjack-2603/)               |      3362      | 554.4 Trillion    |  Barbarian  | 2021-08-19 17:08:43 |
+| 326  | [Fiend#21152](https://eu.diablo3.com/en-us/profile/Fiend-21152/)                 |      3362      | 554.4 Trillion    |     DH      | 2021-08-19 10:16:06 |
+| 327  | [Almighty#2821](https://eu.diablo3.com/en-us/profile/Almighty-2821/)             |      3360      | 553.36 Trillion   |   Wizard    | 2021-08-19 17:13:19 |
+| 328  | [DraZen#21668](https://eu.diablo3.com/en-us/profile/DraZen-21668/)               |      3353      | 549.74 Trillion   |     DH      | 2021-08-15 16:37:53 |
+| 329  | [Mafafla#2834](https://eu.diablo3.com/en-us/profile/Mafafla-2834/)               |      3345      | 545.62 Trillion   |  Barbarian  | 2021-08-17 13:24:27 |
+| 330  | [mario91#21729](https://eu.diablo3.com/en-us/profile/mario91-21729/)             |      3344      | 545.11 Trillion   |   Wizard    | 2021-08-19 17:17:34 |
+| 331  | [Catsby#11311](https://eu.diablo3.com/en-us/profile/Catsby-11311/)               |      3344      | 545.11 Trillion   |     DH      | 2021-08-19 17:05:51 |
+| 332  | [zhazhabo#2903](https://eu.diablo3.com/en-us/profile/zhazhabo-2903/)             |      3344      | 545.11 Trillion   |   Wizard    | 2021-08-06 18:20:57 |
+| 333  | [Iao#21842](https://eu.diablo3.com/en-us/profile/Iao-21842/)                     |      3343      | 544.6 Trillion    |   Wizard    | 2021-08-14 20:46:44 |
+| 334  | [KoKoo19#2301](https://eu.diablo3.com/en-us/profile/KoKoo19-2301/)               |      3342      | 544.08 Trillion   |   Wizard    | 2021-08-19 16:58:26 |
+| 335  | [Possesd#2943](https://eu.diablo3.com/en-us/profile/Possesd-2943/)               |      3336      | 541.01 Trillion   |   Wizard    | 2021-08-19 16:54:19 |
+| 336  | [Seara#21885](https://eu.diablo3.com/en-us/profile/Seara-21885/)                 |      3330      | 537.96 Trillion   |     DH      | 2021-08-16 23:29:17 |
+| 337  | [Aeilene#2938](https://eu.diablo3.com/en-us/profile/Aeilene-2938/)               |      3322      | 533.9 Trillion    |   Wizard    | 2021-08-10 07:48:06 |
+| 338  | [LeGeNDa#22651](https://eu.diablo3.com/en-us/profile/LeGeNDa-22651/)             |      3321      | 533.4 Trillion    |     DH      | 2021-08-19 17:12:37 |
+| 339  | [PoiSoN#21189](https://eu.diablo3.com/en-us/profile/PoiSoN-21189/)               |      3320      | 532.89 Trillion   |     DH      | 2021-08-19 17:03:06 |
+| 340  | [Garrus#21132](https://eu.diablo3.com/en-us/profile/Garrus-21132/)               |      3317      | 531.38 Trillion   |     DH      | 2021-08-19 11:03:36 |
+| 341  | [Killerz#2171](https://eu.diablo3.com/en-us/profile/Killerz-2171/)               |      3314      | 529.87 Trillion   |     DH      | 2021-08-19 16:57:12 |
+| 342  | [Вульф#2669](https://eu.diablo3.com/en-us/profile/Вульф-2669/)                   |      3307      | 526.36 Trillion   |   Wizard    | 2021-08-19 17:02:29 |
+| 343  | [Phoenix#21836](https://eu.diablo3.com/en-us/profile/Phoenix-21836/)             |      3306      | 525.86 Trillion   |    Necro    | 2021-08-19 17:23:31 |
+| 344  | [CrazyDay07#2244](https://eu.diablo3.com/en-us/profile/CrazyDay07-2244/)         |      3303      | 524.36 Trillion   |   Wizard    | 2021-08-19 16:11:02 |
+| 345  | [MIEDZ#2452](https://eu.diablo3.com/en-us/profile/MIEDZ-2452/)                   |      3303      | 524.36 Trillion   |     DH      | 2021-08-19 04:58:16 |
+| 346  | [Ragen#21860](https://eu.diablo3.com/en-us/profile/Ragen-21860/)                 |      3300      | 522.86 Trillion   |     DH      | 2021-08-19 15:56:20 |
+| 347  | [BurnedManga#2992](https://eu.diablo3.com/en-us/profile/BurnedManga-2992/)       |      3298      | 521.87 Trillion   |   Wizard    | 2021-08-19 16:13:35 |
+| 348  | [Cømandante#2795](https://eu.diablo3.com/en-us/profile/Cømandante-2795/)         |      3295      | 520.37 Trillion   |   Wizard    | 2021-08-19 17:10:34 |
+| 349  | [Abspoh#2727](https://eu.diablo3.com/en-us/profile/Abspoh-2727/)                 |      3294      | 519.88 Trillion   |   Wizard    | 2021-08-19 17:08:18 |
+| 350  | [MQMF#2809](https://eu.diablo3.com/en-us/profile/MQMF-2809/)                     |      3294      | 519.88 Trillion   |   Wizard    | 2021-08-19 17:05:08 |
+| 351  | [kev#2124](https://eu.diablo3.com/en-us/profile/kev-2124/)                       |      3293      | 519.38 Trillion   |   Wizard    | 2021-08-19 07:10:06 |
+| 352  | [grembi#21236](https://eu.diablo3.com/en-us/profile/grembi-21236/)               |      3292      | 518.89 Trillion   |     DH      | 2021-08-19 16:54:33 |
+| 353  | [Dream#23850](https://eu.diablo3.com/en-us/profile/Dream-23850/)                 |      3291      | 518.39 Trillion   |    Necro    | 2021-08-18 20:33:44 |
+| 354  | [Killer#211511](https://eu.diablo3.com/en-us/profile/Killer-211511/)             |      3291      | 518.39 Trillion   |    Monk     | 2021-08-19 17:10:42 |
+| 355  | [Noktus#2285](https://eu.diablo3.com/en-us/profile/Noktus-2285/)                 |      3291      | 518.39 Trillion   |    Monk     | 2021-08-19 17:28:32 |
+| 356  | [Candy#1864](https://eu.diablo3.com/en-us/profile/Candy-1864/)                   |      3287      | 516.41 Trillion   |    Necro    | 2021-08-19 16:50:52 |
+| 357  | [Bjo#21767](https://eu.diablo3.com/en-us/profile/Bjo-21767/)                     |      3285      | 515.43 Trillion   |     DH      | 2021-08-19 04:37:44 |
+| 358  | [Felix#24478](https://eu.diablo3.com/en-us/profile/Felix-24478/)                 |      3283      | 514.44 Trillion   |     DH      | 2021-08-18 21:21:09 |
+| 359  | [ZiNoU#2791](https://eu.diablo3.com/en-us/profile/ZiNoU-2791/)                   |      3282      | 513.95 Trillion   |   Wizard    | 2021-08-19 17:26:09 |
+| 360  | [Storm#25794](https://eu.diablo3.com/en-us/profile/Storm-25794/)                 |      3274      | 510.02 Trillion   |   Wizard    | 2021-08-19 16:39:41 |
+| 361  | [Chigur#2932](https://eu.diablo3.com/en-us/profile/Chigur-2932/)                 |      3272      | 509.04 Trillion   |    Necro    | 2021-08-19 13:52:36 |
+| 362  | [kalash#2590](https://eu.diablo3.com/en-us/profile/kalash-2590/)                 |      3271      | 508.56 Trillion   |     DH      | 2021-08-19 16:49:17 |
+| 363  | [Marv#22282](https://eu.diablo3.com/en-us/profile/Marv-22282/)                   |      3268      | 507.09 Trillion   |   Wizard    | 2021-08-19 16:49:47 |
+| 364  | [Musutruk#2364](https://eu.diablo3.com/en-us/profile/Musutruk-2364/)             |      3267      | 506.6 Trillion    |     DH      | 2021-08-18 10:18:20 |
+| 365  | [MeMory#2289](https://eu.diablo3.com/en-us/profile/MeMory-2289/)                 |      3263      | 504.66 Trillion   |   Wizard    | 2021-08-19 04:47:24 |
+| 366  | [Vanïa#2147](https://eu.diablo3.com/en-us/profile/Vanïa-2147/)                   |      3259      | 502.72 Trillion   |     DH      | 2021-08-18 18:15:51 |
+| 367  | [Redfox13#1285](https://eu.diablo3.com/en-us/profile/Redfox13-1285/)             |      3257      | 501.75 Trillion   |    Monk     | 2021-08-19 16:57:02 |
+| 368  | [Auratus#21538](https://eu.diablo3.com/en-us/profile/Auratus-21538/)             |      3257      | 501.75 Trillion   |   Wizard    | 2021-08-19 17:20:25 |
+| 369  | [i7Lntees#2949](https://eu.diablo3.com/en-us/profile/i7Lntees-2949/)             |      3254      | 500.3 Trillion    |    Monk     | 2021-08-19 16:54:58 |
+| 370  | [kijenn#2924](https://eu.diablo3.com/en-us/profile/kijenn-2924/)                 |      3249      | 497.89 Trillion   |     DH      | 2021-08-19 04:39:14 |
+| 371  | [WidoWmFist#2125](https://eu.diablo3.com/en-us/profile/WidoWmFist-2125/)         |      3247      | 496.93 Trillion   |     DH      | 2021-08-19 17:22:55 |
+| 372  | [Strychoza#2337](https://eu.diablo3.com/en-us/profile/Strychoza-2337/)           |      3242      | 494.53 Trillion   |     DH      | 2021-08-19 13:49:32 |
+| 373  | [Elektra#2616](https://eu.diablo3.com/en-us/profile/Elektra-2616/)               |      3239      | 493.1 Trillion    |     DH      | 2021-08-19 12:48:22 |
+| 374  | [SALKTAN#2310](https://eu.diablo3.com/en-us/profile/SALKTAN-2310/)               |      3235      | 491.19 Trillion   |    Monk     | 2021-08-19 15:53:34 |
+| 375  | [TikeHun#2179](https://eu.diablo3.com/en-us/profile/TikeHun-2179/)               |      3233      | 490.23 Trillion   |  Barbarian  | 2021-08-19 17:13:39 |
+| 376  | [GeOrGeKaLaC#2284](https://eu.diablo3.com/en-us/profile/GeOrGeKaLaC-2284/)       |      3232      | 489.76 Trillion   |    Necro    | 2021-08-19 16:36:27 |
+| 377  | [Venom#25650](https://eu.diablo3.com/en-us/profile/Venom-25650/)                 |      3230      | 488.81 Trillion   |    Monk     | 2021-08-19 17:20:55 |
+| 378  | [Gizlok83#2504](https://eu.diablo3.com/en-us/profile/Gizlok83-2504/)             |      3230      | 488.81 Trillion   |   Wizard    | 2021-08-19 11:34:39 |
+| 379  | [clorky#21314](https://eu.diablo3.com/en-us/profile/clorky-21314/)               |      3229      | 488.33 Trillion   |     DH      | 2021-08-19 16:36:50 |
+| 380  | [Gin#2800](https://eu.diablo3.com/en-us/profile/Gin-2800/)                       |      3227      | 487.39 Trillion   |   Wizard    | 2021-08-19 10:47:50 |
+| 381  | [ashlambert#2733](https://eu.diablo3.com/en-us/profile/ashlambert-2733/)         |      3226      | 486.91 Trillion   |  Barbarian  | 2021-08-19 17:20:46 |
+| 382  | [Wookie#2424](https://eu.diablo3.com/en-us/profile/Wookie-2424/)                 |      3224      | 485.96 Trillion   |  Barbarian  | 2021-08-19 13:18:10 |
+| 383  | [Mûffins#2739](https://eu.diablo3.com/en-us/profile/Mûffins-2739/)               |      3222      | 485.02 Trillion   |   Wizard    | 2021-08-19 17:25:24 |
+| 384  | [Zombiax#21740](https://eu.diablo3.com/en-us/profile/Zombiax-21740/)             |      3218      | 483.13 Trillion   |   Wizard    | 2021-08-19 17:08:57 |
+| 385  | [srgollo#2794](https://eu.diablo3.com/en-us/profile/srgollo-2794/)               |      3216      | 482.19 Trillion   |     DH      | 2021-08-19 16:59:44 |
+| 386  | [patrick#2821](https://eu.diablo3.com/en-us/profile/patrick-2821/)               |      3214      | 481.25 Trillion   |     DH      | 2021-08-19 17:02:15 |
+| 387  | [Start7x#2769](https://eu.diablo3.com/en-us/profile/Start7x-2769/)               |      3213      | 480.78 Trillion   |     DH      | 2021-08-19 08:05:45 |
+| 388  | [Souhyen#2742](https://eu.diablo3.com/en-us/profile/Souhyen-2742/)               |      3209      | 478.91 Trillion   |     DH      | 2021-08-19 16:28:45 |
+| 389  | [Aid#21580](https://eu.diablo3.com/en-us/profile/Aid-21580/)                     |      3205      | 477.04 Trillion   |   Wizard    | 2021-08-19 16:51:18 |
+| 390  | [Roberto#22865](https://eu.diablo3.com/en-us/profile/Roberto-22865/)             |      3204      | 476.57 Trillion   |     DH      | 2021-08-19 14:02:59 |
+| 391  | [Bukaj#22300](https://eu.diablo3.com/en-us/profile/Bukaj-22300/)                 |      3204      | 476.57 Trillion   |     DH      | 2021-08-19 17:24:04 |
+| 392  | [banzai#22316](https://eu.diablo3.com/en-us/profile/banzai-22316/)               |      3203      | 476.11 Trillion   |     DH      | 2021-08-19 17:14:42 |
+| 393  | [Atlas#2830](https://eu.diablo3.com/en-us/profile/Atlas-2830/)                   |      3201      | 475.18 Trillion   |     DH      | 2021-08-18 21:20:32 |
+| 394  | [Fouine#2902](https://eu.diablo3.com/en-us/profile/Fouine-2902/)                 |      3201      | 475.18 Trillion   |     DH      | 2021-08-19 17:17:52 |
+| 395  | [NEV#2614](https://eu.diablo3.com/en-us/profile/NEV-2614/)                       |      3199      | 474.25 Trillion   |    Monk     | 2021-08-19 17:14:20 |
+| 396  | [Ile86#2725](https://eu.diablo3.com/en-us/profile/Ile86-2725/)                   |      3196      | 472.85 Trillion   |     DH      | 2021-08-19 17:15:59 |
+| 397  | [Luiska#2814](https://eu.diablo3.com/en-us/profile/Luiska-2814/)                 |      3190      | 470.08 Trillion   |    Monk     | 2021-08-19 14:29:40 |
+| 398  | [Klarkar#2624](https://eu.diablo3.com/en-us/profile/Klarkar-2624/)               |      3189      | 469.61 Trillion   |    Monk     | 2021-08-18 15:55:49 |
+| 399  | [TQDrago#2566](https://eu.diablo3.com/en-us/profile/TQDrago-2566/)               |      3185      | 467.77 Trillion   |     DH      | 2021-08-19 17:28:04 |
+| 400  | [Araval#2151](https://eu.diablo3.com/en-us/profile/Araval-2151/)                 |      3184      | 467.31 Trillion   |   Wizard    | 2021-08-19 17:07:19 |
+| 401  | [IruYS#2280](https://eu.diablo3.com/en-us/profile/IruYS-2280/)                   |      3183      | 466.85 Trillion   |     DH      | 2021-08-19 14:54:45 |
+| 402  | [Fekszonn#1521](https://eu.diablo3.com/en-us/profile/Fekszonn-1521/)             |      3177      | 464.1 Trillion    |   Wizard    | 2021-08-19 16:49:05 |
+| 403  | [NewAge#21463](https://eu.diablo3.com/en-us/profile/NewAge-21463/)               |      3175      | 463.19 Trillion   |    Monk     | 2021-08-19 15:55:37 |
+| 404  | [Templar#2623](https://eu.diablo3.com/en-us/profile/Templar-2623/)               |      3172      | 461.82 Trillion   |     DH      | 2021-08-19 12:43:11 |
+| 405  | [KABTOP#2843](https://eu.diablo3.com/en-us/profile/KABTOP-2843/)                 |      3172      | 461.82 Trillion   |   Wizard    | 2021-08-19 15:39:20 |
+| 406  | [FGP#21684](https://eu.diablo3.com/en-us/profile/FGP-21684/)                     |      3169      | 460.45 Trillion   |   Wizard    | 2021-08-19 10:23:46 |
+| 407  | [siddhartha#2238](https://eu.diablo3.com/en-us/profile/siddhartha-2238/)         |      3168      | 460.0 Trillion    |    Monk     | 2021-08-19 14:17:59 |
+| 408  | [HAJGUMA#2701](https://eu.diablo3.com/en-us/profile/HAJGUMA-2701/)               |      3167      | 459.54 Trillion   |    Monk     | 2021-08-19 17:15:34 |
+| 409  | [CrazySlayTV#2874](https://eu.diablo3.com/en-us/profile/CrazySlayTV-2874/)       |      3163      | 457.73 Trillion   |   Wizard    | 2021-08-19 17:14:50 |
+| 410  | [Nightcap#2936](https://eu.diablo3.com/en-us/profile/Nightcap-2936/)             |      3162      | 457.27 Trillion   |    Monk     | 2021-08-19 12:33:28 |
+| 411  | [Adreno#2291](https://eu.diablo3.com/en-us/profile/Adreno-2291/)                 |      3162      | 457.27 Trillion   |     DH      | 2021-08-19 16:55:12 |
+| 412  | [Luyana#21914](https://eu.diablo3.com/en-us/profile/Luyana-21914/)               |      3161      | 456.82 Trillion   |     DH      | 2021-08-19 16:10:17 |
+| 413  | [Maggus#21211](https://eu.diablo3.com/en-us/profile/Maggus-21211/)               |      3157      | 455.02 Trillion   |    Necro    | 2021-08-19 16:55:53 |
+| 414  | [Faliure#2574](https://eu.diablo3.com/en-us/profile/Faliure-2574/)               |      3157      | 455.02 Trillion   |   Wizard    | 2021-08-18 22:17:26 |
+| 415  | [Quentinment#1864](https://eu.diablo3.com/en-us/profile/Quentinment-1864/)       |      3153      | 453.21 Trillion   |   Wizard    | 2021-08-18 08:11:57 |
+| 416  | [Rob#2628](https://eu.diablo3.com/en-us/profile/Rob-2628/)                       |      3152      | 452.76 Trillion   |   Wizard    | 2021-08-13 15:18:23 |
+| 417  | [Djul#2264](https://eu.diablo3.com/en-us/profile/Djul-2264/)                     |      3150      | 451.87 Trillion   |     WD      | 2021-08-19 16:46:10 |
+| 418  | [NotLikeThis#21635](https://eu.diablo3.com/en-us/profile/NotLikeThis-21635/)     |      3147      | 450.52 Trillion   |     DH      | 2021-08-19 17:05:04 |
+| 419  | [djtazman#2925](https://eu.diablo3.com/en-us/profile/djtazman-2925/)             |      3145      | 449.63 Trillion   |   Wizard    | 2021-08-19 11:27:41 |
+| 420  | [Romeo#2310](https://eu.diablo3.com/en-us/profile/Romeo-2310/)                   |      3143      | 448.73 Trillion   |   Wizard    | 2021-08-19 17:16:12 |
+| 421  | [Sexi#21271](https://eu.diablo3.com/en-us/profile/Sexi-21271/)                   |      3139      | 446.95 Trillion   |   Wizard    | 2021-08-19 17:02:03 |
+| 422  | [mASS#2459](https://eu.diablo3.com/en-us/profile/mASS-2459/)                     |      3138      | 446.5 Trillion    |   Wizard    | 2021-08-18 23:08:09 |
+| 423  | [Oleg#25114](https://eu.diablo3.com/en-us/profile/Oleg-25114/)                   |      3134      | 444.73 Trillion   |     DH      | 2021-08-19 16:29:28 |
+| 424  | [reNe#2585](https://eu.diablo3.com/en-us/profile/reNe-2585/)                     |      3133      | 444.28 Trillion   |     DH      | 2021-08-19 10:25:43 |
+| 425  | [SamusAran#2517](https://eu.diablo3.com/en-us/profile/SamusAran-2517/)           |      3129      | 442.51 Trillion   |    Necro    | 2021-08-19 16:55:59 |
+| 426  | [KTinsest#2259](https://eu.diablo3.com/en-us/profile/KTinsest-2259/)             |      3128      | 442.07 Trillion   |     DH      | 2021-08-19 16:20:04 |
+| 427  | [Ascari#2956](https://eu.diablo3.com/en-us/profile/Ascari-2956/)                 |      3127      | 441.63 Trillion   |     DH      | 2021-08-19 17:01:26 |
+| 428  | [SilentStorm#2129604](https://eu.diablo3.com/en-us/profile/SilentStorm-2129604/) |      3124      | 440.3 Trillion    |     DH      | 2021-08-19 16:43:45 |
+| 429  | [ordamus#21771](https://eu.diablo3.com/en-us/profile/ordamus-21771/)             |      3123      | 439.86 Trillion   |   Wizard    | 2021-08-19 17:16:07 |
+| 430  | [Savanster#2549](https://eu.diablo3.com/en-us/profile/Savanster-2549/)           |      3122      | 439.42 Trillion   |  Barbarian  | 2021-08-19 17:29:59 |
+| 431  | [Storm#24659](https://eu.diablo3.com/en-us/profile/Storm-24659/)                 |      3121      | 438.98 Trillion   |   Wizard    | 2021-08-19 17:14:25 |
+| 432  | [Monty#2873](https://eu.diablo3.com/en-us/profile/Monty-2873/)                   |      3121      | 438.98 Trillion   |    Necro    | 2021-08-19 16:43:24 |
+| 433  | [Bubulle#21275](https://eu.diablo3.com/en-us/profile/Bubulle-21275/)             |      3119      | 438.11 Trillion   |     WD      | 2021-08-19 16:24:01 |
+| 434  | [toBsoR#21493](https://eu.diablo3.com/en-us/profile/toBsoR-21493/)               |      3119      | 438.11 Trillion   |     DH      | 2021-08-19 16:54:38 |
+| 435  | [Zoxny#21989](https://eu.diablo3.com/en-us/profile/Zoxny-21989/)                 |      3114      | 435.92 Trillion   |     DH      | 2021-08-19 17:11:49 |
+| 436  | [GertsJasper#2736](https://eu.diablo3.com/en-us/profile/GertsJasper-2736/)       |      3114      | 435.92 Trillion   |     DH      | 2021-08-19 11:48:40 |
+| 437  | [FuriousSam#2471](https://eu.diablo3.com/en-us/profile/FuriousSam-2471/)         |      3112      | 435.04 Trillion   |    Monk     | 2021-08-19 16:11:11 |
+| 438  | [CooLcarD#2841](https://eu.diablo3.com/en-us/profile/CooLcarD-2841/)             |      3111      | 434.6 Trillion    |    Monk     | 2021-08-19 17:16:12 |
+| 439  | [Serafim#21730](https://eu.diablo3.com/en-us/profile/Serafim-21730/)             |      3108      | 433.3 Trillion    |     DH      | 2021-08-19 15:36:45 |
+| 440  | [Estromenza#2525](https://eu.diablo3.com/en-us/profile/Estromenza-2525/)         |      3108      | 433.3 Trillion    |    Monk     | 2021-08-19 17:20:12 |
+| 441  | [ArChiMoZe#2336](https://eu.diablo3.com/en-us/profile/ArChiMoZe-2336/)           |      3107      | 432.86 Trillion   |   Wizard    | 2021-08-19 16:44:56 |
+| 442  | [DonGeilo#2884](https://eu.diablo3.com/en-us/profile/DonGeilo-2884/)             |      3106      | 432.43 Trillion   |    Monk     | 2021-08-19 17:13:08 |
+| 443  | [litti5658#2511](https://eu.diablo3.com/en-us/profile/litti5658-2511/)           |      3105      | 431.99 Trillion   |     DH      | 2021-08-18 12:01:08 |
+| 444  | [JordanJambo#2665](https://eu.diablo3.com/en-us/profile/JordanJambo-2665/)       |      3104      | 431.56 Trillion   |  Crusader   | 2021-08-19 17:23:37 |
+| 445  | [sl3py#2832](https://eu.diablo3.com/en-us/profile/sl3py-2832/)                   |      3102      | 430.69 Trillion   |    Monk     | 2021-08-19 17:11:23 |
+| 446  | [Les#21568](https://eu.diablo3.com/en-us/profile/Les-21568/)                     |      3100      | 429.82 Trillion   |     DH      | 2021-08-19 16:51:54 |
+| 447  | [Body#21862](https://eu.diablo3.com/en-us/profile/Body-21862/)                   |      3097      | 428.53 Trillion   |     DH      | 2021-08-19 05:21:16 |
+| 448  | [CREDO#21309](https://eu.diablo3.com/en-us/profile/CREDO-21309/)                 |      3095      | 427.66 Trillion   |    Monk     | 2021-08-19 16:51:19 |
+| 449  | [electronics#21258](https://eu.diablo3.com/en-us/profile/electronics-21258/)     |      3094      | 427.23 Trillion   |   Wizard    | 2021-08-18 20:40:10 |
+| 450  | [kolmpunkti#2866](https://eu.diablo3.com/en-us/profile/kolmpunkti-2866/)         |      3093      | 426.8 Trillion    |     DH      | 2021-08-19 17:15:32 |
+| 451  | [pablo37#2894](https://eu.diablo3.com/en-us/profile/pablo37-2894/)               |      3091      | 425.94 Trillion   |     DH      | 2021-08-19 16:54:44 |
+| 452  | [Эдик#21853](https://eu.diablo3.com/en-us/profile/Эдик-21853/)                   |      3091      | 425.94 Trillion   |     DH      | 2021-08-19 16:41:53 |
+| 453  | [blacksoul#2154](https://eu.diablo3.com/en-us/profile/blacksoul-2154/)           |      3086      | 423.79 Trillion   |    Monk     | 2021-08-18 20:47:00 |
+| 454  | [pizzamax#21772](https://eu.diablo3.com/en-us/profile/pizzamax-21772/)           |      3083      | 422.51 Trillion   |   Wizard    | 2021-08-17 09:35:07 |
+| 455  | [Stella#2362](https://eu.diablo3.com/en-us/profile/Stella-2362/)                 |      3082      | 422.08 Trillion   |  Barbarian  | 2021-08-19 17:04:39 |
+| 456  | [oliji#2395](https://eu.diablo3.com/en-us/profile/oliji-2395/)                   |      3082      | 422.08 Trillion   |   Wizard    | 2021-08-19 16:37:58 |
+| 457  | [Death#25884](https://eu.diablo3.com/en-us/profile/Death-25884/)                 |      3079      | 420.8 Trillion    |   Wizard    | 2021-08-19 16:40:14 |
+| 458  | [SilentCrazy#2620](https://eu.diablo3.com/en-us/profile/SilentCrazy-2620/)       |      3078      | 420.38 Trillion   |   Wizard    | 2021-08-19 15:21:07 |
+| 459  | [Teledin#21634](https://eu.diablo3.com/en-us/profile/Teledin-21634/)             |      3071      | 0                 |      -      | 2021-08-19 14:12:18 |
+| 460  | [Sm0KingZ#2219](https://eu.diablo3.com/en-us/profile/Sm0KingZ-2219/)             |      3066      | 415.29 Trillion   |    Monk     | 2021-08-19 17:15:22 |
+| 461  | [STYLA#21389](https://eu.diablo3.com/en-us/profile/STYLA-21389/)                 |      3065      | 414.87 Trillion   |    Monk     | 2021-08-19 17:26:00 |
+| 462  | [Flügger#2199](https://eu.diablo3.com/en-us/profile/Flügger-2199/)               |      3063      | 414.02 Trillion   |     DH      | 2021-08-19 15:21:09 |
+| 463  | [ILENDEL#2105](https://eu.diablo3.com/en-us/profile/ILENDEL-2105/)               |      3061      | 413.18 Trillion   |  Barbarian  | 2021-08-19 16:25:13 |
+| 464  | [Herakles#2265](https://eu.diablo3.com/en-us/profile/Herakles-2265/)             |      3059      | 412.34 Trillion   |    Monk     | 2021-08-19 16:39:02 |
+| 465  | [Owjat#2367](https://eu.diablo3.com/en-us/profile/Owjat-2367/)                   |      3057      | 411.5 Trillion    |     WD      | 2021-08-19 17:16:07 |
+| 466  | [Missandei#21949](https://eu.diablo3.com/en-us/profile/Missandei-21949/)         |      3056      | 411.08 Trillion   |     DH      | 2021-08-19 09:48:31 |
+| 467  | [pez978ita#2527](https://eu.diablo3.com/en-us/profile/pez978ita-2527/)           |      3055      | 410.66 Trillion   |     DH      | 2021-08-19 16:55:25 |
+| 468  | [JuZamDjinN#2132](https://eu.diablo3.com/en-us/profile/JuZamDjinN-2132/)         |      3055      | 410.66 Trillion   |   Wizard    | 2021-08-19 09:02:45 |
+| 469  | [Kaitow#2155](https://eu.diablo3.com/en-us/profile/Kaitow-2155/)                 |      3054      | 410.24 Trillion   |    Monk     | 2021-08-17 21:55:55 |
+| 470  | [CunTxCrusheR#2214](https://eu.diablo3.com/en-us/profile/CunTxCrusheR-2214/)     |      3052      | 409.41 Trillion   |     DH      | 2021-08-19 00:52:28 |
+| 471  | [Nutrion#21572](https://eu.diablo3.com/en-us/profile/Nutrion-21572/)             |      3052      | 409.41 Trillion   |     DH      | 2021-08-19 16:14:38 |
+| 472  | [Deeway#2564](https://eu.diablo3.com/en-us/profile/Deeway-2564/)                 |      3050      | 408.57 Trillion   |     DH      | 2021-08-19 17:03:49 |
+| 473  | [Sergei#22921](https://eu.diablo3.com/en-us/profile/Sergei-22921/)               |      3048      | 407.74 Trillion   |    Necro    | 2021-08-18 18:31:05 |
+| 474  | [san#22255](https://eu.diablo3.com/en-us/profile/san-22255/)                     |      3048      | 407.74 Trillion   |   Wizard    | 2021-08-19 17:14:35 |
+| 475  | [tangarosa#2552](https://eu.diablo3.com/en-us/profile/tangarosa-2552/)           |      3044      | 406.08 Trillion   |     DH      | 2021-08-19 17:15:45 |
+| 476  | [Tandrljacha#2632](https://eu.diablo3.com/en-us/profile/Tandrljacha-2632/)       |      3044      | 406.08 Trillion   |   Wizard    | 2021-08-19 17:14:30 |
+| 477  | [SirHeinrich#2721](https://eu.diablo3.com/en-us/profile/SirHeinrich-2721/)       |      3043      | 405.66 Trillion   |     DH      | 2021-08-15 23:20:45 |
+| 478  | [Mirton#2734](https://eu.diablo3.com/en-us/profile/Mirton-2734/)                 |      3040      | 404.42 Trillion   |    Monk     | 2021-08-19 17:05:27 |
+| 479  | [mkay#2819](https://eu.diablo3.com/en-us/profile/mkay-2819/)                     |      3038      | 403.59 Trillion   |    Monk     | 2021-08-19 16:57:55 |
+| 480  | [Isllo#2875](https://eu.diablo3.com/en-us/profile/Isllo-2875/)                   |      3037      | 403.18 Trillion   |   Wizard    | 2021-08-19 17:12:14 |
+| 481  | [Evgemig#2541](https://eu.diablo3.com/en-us/profile/Evgemig-2541/)               |      3037      | 403.18 Trillion   |    Monk     | 2021-08-19 17:16:05 |
+| 482  | [Омен#2165](https://eu.diablo3.com/en-us/profile/Омен-2165/)                     |      3027      | 399.06 Trillion   |   Wizard    | 2021-08-18 21:57:14 |
+| 483  | [HARTHOR44#2440](https://eu.diablo3.com/en-us/profile/HARTHOR44-2440/)           |      3027      | 399.06 Trillion   |     DH      | 2021-08-19 17:00:37 |
+| 484  | [Hercule#2248](https://eu.diablo3.com/en-us/profile/Hercule-2248/)               |      3024      | 397.83 Trillion   |     DH      | 2021-08-19 15:52:34 |
+| 485  | [Jozo#2638](https://eu.diablo3.com/en-us/profile/Jozo-2638/)                     |      3020      | 396.2 Trillion    |     DH      | 2021-08-19 04:08:34 |
+| 486  | [Schno#2267](https://eu.diablo3.com/en-us/profile/Schno-2267/)                   |      3018      | 395.38 Trillion   |   Wizard    | 2021-08-19 17:22:07 |
+| 487  | [SongoTan#2654](https://eu.diablo3.com/en-us/profile/SongoTan-2654/)             |      3013      | 393.35 Trillion   |   Wizard    | 2021-08-19 00:39:27 |
+| 488  | [Kajko#21925](https://eu.diablo3.com/en-us/profile/Kajko-21925/)                 |      3007      | 390.92 Trillion   |     DH      | 2021-08-19 17:16:49 |
+| 489  | [Ennorath#2729](https://eu.diablo3.com/en-us/profile/Ennorath-2729/)             |      3004      | 389.71 Trillion   |    Monk     | 2021-08-19 17:13:59 |
+| 490  | [Sortaf#21816](https://eu.diablo3.com/en-us/profile/Sortaf-21816/)               |      3004      | 389.71 Trillion   |   Wizard    | 2021-08-19 01:33:57 |
+| 491  | [raif#21157](https://eu.diablo3.com/en-us/profile/raif-21157/)                   |      3003      | 389.31 Trillion   |  Barbarian  | 2021-08-19 15:55:35 |
+| 492  | [stratoa#2216](https://eu.diablo3.com/en-us/profile/stratoa-2216/)               |      3000      | 388.1 Trillion    |    Monk     | 2021-08-19 11:45:28 |
+| 493  | [Terror#2582](https://eu.diablo3.com/en-us/profile/Terror-2582/)                 |      2996      | 386.5 Trillion    |     DH      | 2021-08-19 16:28:31 |
+| 494  | [LoONeY#21573](https://eu.diablo3.com/en-us/profile/LoONeY-21573/)               |      2987      | 382.9 Trillion    |     DH      | 2021-08-19 17:27:43 |
+| 495  | [Nasun#1551](https://eu.diablo3.com/en-us/profile/Nasun-1551/)                   |      2985      | 382.11 Trillion   |     DH      | 2021-08-19 17:14:45 |
+| 496  | [Synotrax#21488](https://eu.diablo3.com/en-us/profile/Synotrax-21488/)           |      2982      | 380.92 Trillion   |  Barbarian  | 2021-08-19 15:55:48 |
+| 497  | [Borgo#21408](https://eu.diablo3.com/en-us/profile/Borgo-21408/)                 |      2982      | 380.92 Trillion   |   Wizard    | 2021-08-17 19:08:40 |
+| 498  | [quinn#2791](https://eu.diablo3.com/en-us/profile/quinn-2791/)                   |      2979      | 379.73 Trillion   |   Wizard    | 2021-08-19 16:46:50 |
+| 499  | [konterbube#2637](https://eu.diablo3.com/en-us/profile/konterbube-2637/)         |      2973      | 377.36 Trillion   |   Wizard    | 2021-08-19 17:29:46 |
+| 500  | [monkybar#1534](https://eu.diablo3.com/en-us/profile/monkybar-1534/)             |      2972      | 376.97 Trillion   |    Monk     | 2021-08-19 16:57:52 |
+| 501  | [Kmieć#2500](https://eu.diablo3.com/en-us/profile/Kmieć-2500/)                   |      2970      | 376.19 Trillion   |  Barbarian  | 2021-08-19 17:21:26 |
+| 502  | [Raziel#1143](https://eu.diablo3.com/en-us/profile/Raziel-1143/)                 |      2969      | 375.79 Trillion   |     DH      | 2021-08-19 14:43:04 |
+| 503  | [Voyager#2532](https://eu.diablo3.com/en-us/profile/Voyager-2532/)               |      2968      | 375.4 Trillion    |     DH      | 2021-08-19 16:15:05 |
+| 504  | [Brennei#2747](https://eu.diablo3.com/en-us/profile/Brennei-2747/)               |      2967      | 375.01 Trillion   |     DH      | 2021-08-18 22:30:47 |
+| 505  | [Anchon#21243](https://eu.diablo3.com/en-us/profile/Anchon-21243/)               |      2965      | 374.23 Trillion   |     DH      | 2021-08-11 18:26:10 |
+| 506  | [GOMEZ#2258](https://eu.diablo3.com/en-us/profile/GOMEZ-2258/)                   |      2961      | 372.66 Trillion   |    Monk     | 2021-08-19 16:58:54 |
+| 507  | [SWiSTAG#2463](https://eu.diablo3.com/en-us/profile/SWiSTAG-2463/)               |      2956      | 370.72 Trillion   |   Wizard    | 2021-08-19 17:20:18 |
+| 508  | [Slavabien#2837](https://eu.diablo3.com/en-us/profile/Slavabien-2837/)           |      2953      | 369.55 Trillion   |     DH      | 2021-08-18 10:54:27 |
+| 509  | [Omega#24372](https://eu.diablo3.com/en-us/profile/Omega-24372/)                 |      2945      | 366.46 Trillion   |    Necro    | 2021-08-18 21:56:56 |
+| 510  | [Astraea#21655](https://eu.diablo3.com/en-us/profile/Astraea-21655/)             |      2945      | 366.46 Trillion   |  Crusader   | 2021-08-19 16:29:07 |
+| 511  | [teachneh#2474](https://eu.diablo3.com/en-us/profile/teachneh-2474/)             |      2944      | 366.08 Trillion   |   Wizard    | 2021-08-19 16:28:06 |
+| 512  | [Sêlina#2319](https://eu.diablo3.com/en-us/profile/Sêlina-2319/)                 |      2940      | 364.54 Trillion   |   Wizard    | 2021-08-18 20:45:25 |
+| 513  | [Xiurn#2198](https://eu.diablo3.com/en-us/profile/Xiurn-2198/)                   |      2938      | 363.78 Trillion   |    Monk     | 2021-08-19 16:30:26 |
+| 514  | [Czeczot360#2532](https://eu.diablo3.com/en-us/profile/Czeczot360-2532/)         |      2937      | 363.39 Trillion   |   Wizard    | 2021-08-19 16:57:40 |
+| 515  | [Ettariel#2164](https://eu.diablo3.com/en-us/profile/Ettariel-2164/)             |      2935      | 362.63 Trillion   |     DH      | 2021-08-16 14:52:06 |
+| 516  | [WinGarbo#1356](https://eu.diablo3.com/en-us/profile/WinGarbo-1356/)             |      2934      | 362.25 Trillion   |     DH      | 2021-08-13 20:08:36 |
+| 517  | [TYRAN#2730](https://eu.diablo3.com/en-us/profile/TYRAN-2730/)                   |      2933      | 361.87 Trillion   |   Wizard    | 2021-08-19 17:22:19 |
+| 518  | [Ungeraecht#2635](https://eu.diablo3.com/en-us/profile/Ungeraecht-2635/)         |      2927      | 359.58 Trillion   |     DH      | 2021-08-19 16:05:42 |
+| 519  | [manu#24378](https://eu.diablo3.com/en-us/profile/manu-24378/)                   |      2925      | 358.82 Trillion   |    Monk     | 2021-08-19 16:25:20 |
+| 520  | [YoLo#21866](https://eu.diablo3.com/en-us/profile/YoLo-21866/)                   |      2923      | 358.07 Trillion   |   Wizard    | 2021-08-19 17:18:44 |
+| 521  | [H3in0#21668](https://eu.diablo3.com/en-us/profile/H3in0-21668/)                 |      2919      | 356.55 Trillion   |     DH      | 2021-08-18 22:42:08 |
+| 522  | [Necrodaddy#2683](https://eu.diablo3.com/en-us/profile/Necrodaddy-2683/)         |      2918      | 356.18 Trillion   |   Wizard    | 2021-08-19 14:30:14 |
+| 523  | [Boerke#2748](https://eu.diablo3.com/en-us/profile/Boerke-2748/)                 |      2917      | 355.8 Trillion    |  Barbarian  | 2021-08-19 16:51:23 |
+| 524  | [Ash#25975](https://eu.diablo3.com/en-us/profile/Ash-25975/)                     |      2916      | 355.42 Trillion   |     DH      | 2021-08-19 17:02:37 |
+| 525  | [gollum56#2553](https://eu.diablo3.com/en-us/profile/gollum56-2553/)             |      2912      | 353.92 Trillion   |     DH      | 2021-08-19 10:50:01 |
+| 526  | [Savior#21802](https://eu.diablo3.com/en-us/profile/Savior-21802/)               |      2912      | 353.92 Trillion   |   Wizard    | 2021-08-19 13:29:48 |
+| 527  | [DeathKnight#22920](https://eu.diablo3.com/en-us/profile/DeathKnight-22920/)     |      2912      | 353.92 Trillion   |     DH      | 2021-08-08 13:20:51 |
+| 528  | [dubbwoy#2106](https://eu.diablo3.com/en-us/profile/dubbwoy-2106/)               |      2910      | 353.17 Trillion   |   Wizard    | 2021-08-19 17:23:57 |
+| 529  | [Redflag#2636](https://eu.diablo3.com/en-us/profile/Redflag-2636/)               |      2909      | 352.8 Trillion    |     DH      | 2021-08-16 18:04:23 |
+| 530  | [kore821#2954](https://eu.diablo3.com/en-us/profile/kore821-2954/)               |      2908      | 352.42 Trillion   |   Wizard    | 2021-08-13 17:31:18 |
+| 531  | [mayuri#21778](https://eu.diablo3.com/en-us/profile/mayuri-21778/)               |      2908      | 352.42 Trillion   |     DH      | 2021-08-19 17:26:19 |
+| 532  | [ElBrujo#21328](https://eu.diablo3.com/en-us/profile/ElBrujo-21328/)             |      2899      | 349.07 Trillion   |   Wizard    | 2021-08-19 14:22:48 |
+| 533  | [Shizoster#2365](https://eu.diablo3.com/en-us/profile/Shizoster-2365/)           |      2896      | 347.95 Trillion   |     DH      | 2021-08-19 16:33:08 |
+| 534  | [dogtown622#2462](https://eu.diablo3.com/en-us/profile/dogtown622-2462/)         |      2896      | 347.95 Trillion   |    Monk     | 2021-08-19 17:13:56 |
+| 535  | [Battalgazi#2611](https://eu.diablo3.com/en-us/profile/Battalgazi-2611/)         |      2895      | 347.58 Trillion   |     WD      | 2021-08-19 15:29:02 |
+| 536  | [Tomek#22328](https://eu.diablo3.com/en-us/profile/Tomek-22328/)                 |      2895      | 347.58 Trillion   |     DH      | 2021-08-19 07:30:41 |
+| 537  | [Bigevgeny78#2219](https://eu.diablo3.com/en-us/profile/Bigevgeny78-2219/)       |      2895      | 347.58 Trillion   |   Wizard    | 2021-08-19 17:16:47 |
+| 538  | [BlackVIKING#21972](https://eu.diablo3.com/en-us/profile/BlackVIKING-21972/)     |      2894      | 347.21 Trillion   |    Monk     | 2021-08-19 17:10:12 |
+| 539  | [Daniel#212469](https://eu.diablo3.com/en-us/profile/Daniel-212469/)             |      2894      | 347.21 Trillion   |  Barbarian  | 2021-08-19 16:41:31 |
+| 540  | [Möcky#21392](https://eu.diablo3.com/en-us/profile/Möcky-21392/)                 |      2891      | 346.11 Trillion   |    Monk     | 2021-08-19 17:03:41 |
+| 541  | [Erbse#2341](https://eu.diablo3.com/en-us/profile/Erbse-2341/)                   |      2890      | 345.74 Trillion   |     DH      | 2021-08-19 17:07:35 |
+| 542  | [Cianix#2522](https://eu.diablo3.com/en-us/profile/Cianix-2522/)                 |      2887      | 344.63 Trillion   |     DH      | 2021-08-19 13:56:31 |
+| 543  | [Undertaker#2781](https://eu.diablo3.com/en-us/profile/Undertaker-2781/)         |      2885      | 343.9 Trillion    |    Monk     | 2021-08-19 17:14:29 |
+| 544  | [one#2249](https://eu.diablo3.com/en-us/profile/one-2249/)                       |      2885      | 343.9 Trillion    |   Wizard    | 2021-08-19 15:36:41 |
+| 545  | [Kindleworm#2863](https://eu.diablo3.com/en-us/profile/Kindleworm-2863/)         |      2882      | 342.8 Trillion    |     DH      | 2021-08-19 09:16:36 |
+| 546  | [Darkan#2826](https://eu.diablo3.com/en-us/profile/Darkan-2826/)                 |      2881      | 342.43 Trillion   |    Monk     | 2021-08-19 12:17:21 |
+| 547  | [Kapzaz#2511](https://eu.diablo3.com/en-us/profile/Kapzaz-2511/)                 |      2879      | 341.7 Trillion    |    Monk     | 2021-08-19 16:56:06 |
+| 548  | [Fred06#2333](https://eu.diablo3.com/en-us/profile/Fred06-2333/)                 |      2879      | 341.7 Trillion    |     DH      | 2021-08-09 19:28:27 |
+| 549  | [MuschiKO#2317](https://eu.diablo3.com/en-us/profile/MuschiKO-2317/)             |      2878      | 341.33 Trillion   |     DH      | 2021-08-19 13:35:56 |
+| 550  | [Softa#2169](https://eu.diablo3.com/en-us/profile/Softa-2169/)                   |      2877      | 340.97 Trillion   |     DH      | 2021-08-19 05:15:38 |
+| 551  | [redrum#2105](https://eu.diablo3.com/en-us/profile/redrum-2105/)                 |      2875      | 340.24 Trillion   |    Monk     | 2021-08-19 13:32:38 |
+| 552  | [EntspannDich#21228](https://eu.diablo3.com/en-us/profile/EntspannDich-21228/)   |      2871      | 338.78 Trillion   |   Wizard    | 2021-08-19 16:42:32 |
+| 553  | [Blender#2404](https://eu.diablo3.com/en-us/profile/Blender-2404/)               |      2868      | 337.7 Trillion    |  Barbarian  | 2021-08-19 16:32:47 |
+| 554  | [HickuuLaaa#2132](https://eu.diablo3.com/en-us/profile/HickuuLaaa-2132/)         |      2868      | 337.7 Trillion    |    Monk     | 2021-08-17 20:18:14 |
+| 555  | [Joaha#2914](https://eu.diablo3.com/en-us/profile/Joaha-2914/)                   |      2868      | 337.7 Trillion    |   Wizard    | 2021-08-19 16:56:05 |
+| 556  | [Anima99#2212](https://eu.diablo3.com/en-us/profile/Anima99-2212/)               |      2865      | 336.61 Trillion   |     DH      | 2021-08-19 17:19:54 |
+| 557  | [rrrrrraph#2695](https://eu.diablo3.com/en-us/profile/rrrrrraph-2695/)           |      2852      | 331.94 Trillion   |   Wizard    | 2021-08-19 17:20:52 |
+| 558  | [alosinon224#2251](https://eu.diablo3.com/en-us/profile/alosinon224-2251/)       |      2849      | 330.87 Trillion   |     DH      | 2021-08-19 15:24:17 |
+| 559  | [Cronos#22123](https://eu.diablo3.com/en-us/profile/Cronos-22123/)               |      2848      | 330.51 Trillion   |     DH      | 2021-08-18 23:19:12 |
+| 560  | [Miku#22917](https://eu.diablo3.com/en-us/profile/Miku-22917/)                   |      2848      | 330.51 Trillion   |     DH      | 2021-08-13 17:42:28 |
+| 561  | [HeraKles#21306](https://eu.diablo3.com/en-us/profile/HeraKles-21306/)           |      2847      | 330.15 Trillion   |    Monk     | 2021-08-19 12:35:18 |
+| 562  | [Adebar#2877](https://eu.diablo3.com/en-us/profile/Adebar-2877/)                 |      2844      | 329.09 Trillion   |   Wizard    | 2021-08-19 17:21:52 |
+| 563  | [Iceman#2890](https://eu.diablo3.com/en-us/profile/Iceman-2890/)                 |      2841      | 328.02 Trillion   |  Barbarian  | 2021-08-19 16:48:54 |
+| 564  | [MAS#21365](https://eu.diablo3.com/en-us/profile/MAS-21365/)                     |      2837      | 326.61 Trillion   |  Barbarian  | 2021-08-13 10:57:49 |
+| 565  | [CrowdControl#2759](https://eu.diablo3.com/en-us/profile/CrowdControl-2759/)     |      2836      | 326.25 Trillion   |    Monk     | 2021-08-19 17:11:36 |
+| 566  | [Koalag#2577](https://eu.diablo3.com/en-us/profile/Koalag-2577/)                 |      2833      | 325.2 Trillion    |  Barbarian  | 2021-08-19 17:10:41 |
+| 567  | [MrPink#2165](https://eu.diablo3.com/en-us/profile/MrPink-2165/)                 |      2832      | 324.85 Trillion   |  Barbarian  | 2021-08-14 23:02:16 |
+| 568  | [Strunzdoof#2805](https://eu.diablo3.com/en-us/profile/Strunzdoof-2805/)         |      2831      | 324.49 Trillion   |   Wizard    | 2021-08-19 16:54:35 |
+| 569  | [good4u#2475](https://eu.diablo3.com/en-us/profile/good4u-2475/)                 |      2830      | 324.14 Trillion   |     DH      | 2021-08-18 23:13:14 |
+| 570  | [cemetary#2358](https://eu.diablo3.com/en-us/profile/cemetary-2358/)             |      2825      | 322.39 Trillion   |    Monk     | 2021-08-18 21:42:09 |
+| 571  | [ZeFir#21444](https://eu.diablo3.com/en-us/profile/ZeFir-21444/)                 |      2821      | 320.99 Trillion   |     DH      | 2021-08-19 17:08:53 |
+| 572  | [Icem#21875](https://eu.diablo3.com/en-us/profile/Icem-21875/)                   |      2821      | 320.99 Trillion   |    Monk     | 2021-08-19 07:32:46 |
+| 573  | [rastamanc#2395](https://eu.diablo3.com/en-us/profile/rastamanc-2395/)           |      2816      | 319.25 Trillion   |  Barbarian  | 2021-08-18 21:23:36 |
+| 574  | [popix1213#2613](https://eu.diablo3.com/en-us/profile/popix1213-2613/)           |      2816      | 319.25 Trillion   |  Barbarian  | 2021-08-19 13:09:05 |
+| 575  | [Yanija#2722](https://eu.diablo3.com/en-us/profile/Yanija-2722/)                 |      2815      | 318.91 Trillion   |  Barbarian  | 2021-08-19 17:25:36 |
+| 576  | [MonkeyDLuffy#22947](https://eu.diablo3.com/en-us/profile/MonkeyDLuffy-22947/)   |      2813      | 318.21 Trillion   |   Wizard    | 2021-08-19 17:20:43 |
+| 577  | [DarkNiven#2838](https://eu.diablo3.com/en-us/profile/DarkNiven-2838/)           |      2813      | 318.21 Trillion   |     WD      | 2021-08-19 16:10:03 |
+| 578  | [AndrewGreek#2817](https://eu.diablo3.com/en-us/profile/AndrewGreek-2817/)       |      2813      | 318.21 Trillion   |     DH      | 2021-08-19 17:10:36 |
+| 579  | [basch0r#2391](https://eu.diablo3.com/en-us/profile/basch0r-2391/)               |      2811      | 317.52 Trillion   |    Monk     | 2021-08-19 09:12:47 |
+| 580  | [TenTacle#2463](https://eu.diablo3.com/en-us/profile/TenTacle-2463/)             |      2807      | 316.14 Trillion   |   Wizard    | 2021-08-19 14:47:03 |
+| 581  | [Оберон#2977](https://eu.diablo3.com/en-us/profile/Оберон-2977/)                 |      2803      | 314.76 Trillion   |   Wizard    | 2021-08-19 15:02:25 |
+| 582  | [Foxdie#21397](https://eu.diablo3.com/en-us/profile/Foxdie-21397/)               |      2803      | 314.76 Trillion   |    Monk     | 2021-08-19 17:07:12 |
+| 583  | [Akhroma#21837](https://eu.diablo3.com/en-us/profile/Akhroma-21837/)             |      2802      | 314.42 Trillion   |     DH      | 2021-08-19 17:18:48 |
+| 584  | [Freem#2108](https://eu.diablo3.com/en-us/profile/Freem-2108/)                   |      2802      | 314.42 Trillion   |    Monk     | 2021-08-19 16:59:02 |
+| 585  | [Hyperion#22378](https://eu.diablo3.com/en-us/profile/Hyperion-22378/)           |      2793      | 311.34 Trillion   |    Monk     | 2021-08-17 06:53:28 |
+| 586  | [Multipower#2568](https://eu.diablo3.com/en-us/profile/Multipower-2568/)         |      2790      | 310.32 Trillion   |   Wizard    | 2021-08-19 15:42:27 |
+| 587  | [hypaeL#2665](https://eu.diablo3.com/en-us/profile/hypaeL-2665/)                 |      2789      | 309.98 Trillion   |     DH      | 2021-08-19 12:35:40 |
+| 588  | [Gidra#2424](https://eu.diablo3.com/en-us/profile/Gidra-2424/)                   |      2782      | 307.62 Trillion   |     DH      | 2021-08-19 08:25:51 |
+| 589  | [Zhed#2987](https://eu.diablo3.com/en-us/profile/Zhed-2987/)                     |      2778      | 306.27 Trillion   |  Barbarian  | 2021-08-19 17:21:05 |
+| 590  | [zzZKOTZzz#21931](https://eu.diablo3.com/en-us/profile/zzZKOTZzz-21931/)         |      2776      | 305.6 Trillion    |     DH      | 2021-08-19 13:53:56 |
+| 591  | [Chewingnom#2253](https://eu.diablo3.com/en-us/profile/Chewingnom-2253/)         |      2774      | 304.93 Trillion   |   Wizard    | 2021-08-19 16:35:36 |
+| 592  | [urych#2340](https://eu.diablo3.com/en-us/profile/urych-2340/)                   |      2770      | 303.59 Trillion   |     WD      | 2021-08-19 17:22:17 |
+| 593  | [riapa#2174](https://eu.diablo3.com/en-us/profile/riapa-2174/)                   |      2769      | 303.25 Trillion   |     DH      | 2021-08-19 17:23:30 |
+| 594  | [lazy#22864](https://eu.diablo3.com/en-us/profile/lazy-22864/)                   |      2764      | 301.59 Trillion   |   Wizard    | 2021-08-19 16:22:15 |
+| 595  | [RAGERDOG#2545](https://eu.diablo3.com/en-us/profile/RAGERDOG-2545/)             |      2764      | 301.59 Trillion   |     DH      | 2021-08-17 16:25:01 |
+| 596  | [Nemo#2142](https://eu.diablo3.com/en-us/profile/Nemo-2142/)                     |      2761      | 300.59 Trillion   |     DH      | 2021-08-19 09:27:57 |
+| 597  | [Frode#21208](https://eu.diablo3.com/en-us/profile/Frode-21208/)                 |      2760      | 300.26 Trillion   |     DH      | 2021-08-19 16:50:27 |
+| 598  | [Gwido67#2266](https://eu.diablo3.com/en-us/profile/Gwido67-2266/)               |      2757      | 299.27 Trillion   |   Wizard    | 2021-08-19 14:55:45 |
+| 599  | [Bohne#2755](https://eu.diablo3.com/en-us/profile/Bohne-2755/)                   |      2754      | 298.28 Trillion   |    Monk     | 2021-08-19 17:23:32 |
+| 600  | [BB1#2238](https://eu.diablo3.com/en-us/profile/BB1-2238/)                       |      2748      | 296.31 Trillion   |    Monk     | 2021-08-19 17:01:21 |
+| 601  | [Kyra#2456](https://eu.diablo3.com/en-us/profile/Kyra-2456/)                     |      2746      | 295.65 Trillion   |    Monk     | 2021-08-19 16:47:45 |
+| 602  | [Waallkeer#2382](https://eu.diablo3.com/en-us/profile/Waallkeer-2382/)           |      2746      | 295.65 Trillion   |   Wizard    | 2021-08-19 16:38:41 |
+| 603  | [Arvi#2339](https://eu.diablo3.com/en-us/profile/Arvi-2339/)                     |      2741      | 294.02 Trillion   |    Monk     | 2021-08-19 16:54:58 |
+| 604  | [Angel999#2859](https://eu.diablo3.com/en-us/profile/Angel999-2859/)             |      2736      | 292.39 Trillion   |     DH      | 2021-08-19 17:23:41 |
+| 605  | [MihawkEyes#2240](https://eu.diablo3.com/en-us/profile/MihawkEyes-2240/)         |      2736      | 292.39 Trillion   |     DH      | 2021-08-19 16:28:19 |
+| 606  | [MeGaMaN#2484](https://eu.diablo3.com/en-us/profile/MeGaMaN-2484/)               |      2730      | 290.45 Trillion   |    Necro    | 2021-08-19 17:02:06 |
+| 607  | [Spharex#1943](https://eu.diablo3.com/en-us/profile/Spharex-1943/)               |      2729      | 290.13 Trillion   |    Monk     | 2021-08-19 17:11:01 |
+| 608  | [Wookieecub#2418](https://eu.diablo3.com/en-us/profile/Wookieecub-2418/)         |      2729      | 290.13 Trillion   |  Barbarian  | 2021-08-19 15:24:48 |
+| 609  | [nonamera#2270](https://eu.diablo3.com/en-us/profile/nonamera-2270/)             |      2726      | 289.16 Trillion   |     DH      | 2021-08-10 00:04:26 |
+| 610  | [Ryushiniga88#2989](https://eu.diablo3.com/en-us/profile/Ryushiniga88-2989/)     |      2725      | 288.84 Trillion   |    Monk     | 2021-08-19 17:25:33 |
+| 611  | [GrandPaJohn#21759](https://eu.diablo3.com/en-us/profile/GrandPaJohn-21759/)     |      2722      | 287.88 Trillion   |    Necro    | 2021-08-19 14:32:12 |
+| 612  | [RedWarrior#2419](https://eu.diablo3.com/en-us/profile/RedWarrior-2419/)         |      2722      | 287.88 Trillion   |  Barbarian  | 2021-08-19 17:16:05 |
+| 613  | [snake#12855](https://eu.diablo3.com/en-us/profile/snake-12855/)                 |      2721      | 287.56 Trillion   |     DH      | 2021-08-19 05:04:44 |
+| 614  | [speedo#2200](https://eu.diablo3.com/en-us/profile/speedo-2200/)                 |      2720      | 287.24 Trillion   |     DH      | 2021-08-19 11:02:05 |
+| 615  | [Xees#2438](https://eu.diablo3.com/en-us/profile/Xees-2438/)                     |      2720      | 287.24 Trillion   |     DH      | 2021-08-19 16:40:02 |
+| 616  | [Verygoodest#2921](https://eu.diablo3.com/en-us/profile/Verygoodest-2921/)       |      2719      | 286.92 Trillion   |     DH      | 2021-08-14 19:32:51 |
+| 617  | [juanan742#2856](https://eu.diablo3.com/en-us/profile/juanan742-2856/)           |      2717      | 286.28 Trillion   |  Barbarian  | 2021-08-19 17:08:31 |
+| 618  | [Ray#24921](https://eu.diablo3.com/en-us/profile/Ray-24921/)                     |      2716      | 285.96 Trillion   |     DH      | 2021-08-18 23:34:19 |
+| 619  | [Hervé7#2268](https://eu.diablo3.com/en-us/profile/Hervé7-2268/)                 |      2715      | 285.64 Trillion   |   Wizard    | 2021-08-19 15:15:54 |
+| 620  | [transdecalin#2363](https://eu.diablo3.com/en-us/profile/transdecalin-2363/)     |      2714      | 285.32 Trillion   |     DH      | 2021-08-19 16:34:21 |
+| 621  | [loki#1418](https://eu.diablo3.com/en-us/profile/loki-1418/)                     |      2710      | 284.05 Trillion   |     DH      | 2021-08-19 15:23:41 |
+| 622  | [VirusKub#2929](https://eu.diablo3.com/en-us/profile/VirusKub-2929/)             |      2708      | 283.41 Trillion   |     DH      | 2021-08-19 11:33:13 |
+| 623  | [gucccio#2205](https://eu.diablo3.com/en-us/profile/gucccio-2205/)               |      2708      | 283.41 Trillion   |   Wizard    | 2021-08-19 17:03:17 |
+| 624  | [urmel#2216](https://eu.diablo3.com/en-us/profile/urmel-2216/)                   |      2705      | 282.47 Trillion   |   Wizard    | 2021-08-19 15:58:04 |
+| 625  | [ChifonPonpon#2629](https://eu.diablo3.com/en-us/profile/ChifonPonpon-2629/)     |      2700      | 280.89 Trillion   |     DH      | 2021-08-19 16:56:07 |
+| 626  | [Reeno#2776](https://eu.diablo3.com/en-us/profile/Reeno-2776/)                   |      2700      | 280.89 Trillion   |    Monk     | 2021-08-19 13:29:53 |
+| 627  | [aquado#2806](https://eu.diablo3.com/en-us/profile/aquado-2806/)                 |      2698      | 280.26 Trillion   |   Wizard    | 2021-08-05 14:40:49 |
+| 628  | [Linkou#2554](https://eu.diablo3.com/en-us/profile/Linkou-2554/)                 |      2695      | 279.32 Trillion   |     DH      | 2021-08-19 17:08:35 |
+| 629  | [Kvothe#2234](https://eu.diablo3.com/en-us/profile/Kvothe-2234/)                 |      2693      | 278.69 Trillion   |     DH      | 2021-08-19 15:08:08 |
+| 630  | [MvP#22762](https://eu.diablo3.com/en-us/profile/MvP-22762/)                     |      2693      | 278.69 Trillion   |    Necro    | 2021-08-18 18:29:16 |
+| 631  | [ghost#213104](https://eu.diablo3.com/en-us/profile/ghost-213104/)               |      2693      | 278.69 Trillion   |     DH      | 2021-08-19 17:16:05 |
+| 632  | [ShadowStorm#220418](https://eu.diablo3.com/en-us/profile/ShadowStorm-220418/)   |      2689      | 277.45 Trillion   |     DH      | 2021-08-19 16:54:34 |
+| 633  | [woytanator#2314](https://eu.diablo3.com/en-us/profile/woytanator-2314/)         |      2688      | 277.14 Trillion   |     DH      | 2021-08-19 17:21:15 |
+| 634  | [Teo#2213](https://eu.diablo3.com/en-us/profile/Teo-2213/)                       |      2687      | 276.82 Trillion   |  Barbarian  | 2021-08-13 14:46:35 |
+| 635  | [Maki#2309](https://eu.diablo3.com/en-us/profile/Maki-2309/)                     |      2686      | 276.51 Trillion   |     DH      | 2021-08-19 02:22:16 |
+| 636  | [Malevolent#2947](https://eu.diablo3.com/en-us/profile/Malevolent-2947/)         |      2685      | 276.2 Trillion    |     DH      | 2021-08-19 17:14:49 |
+| 637  | [Pedro#2295](https://eu.diablo3.com/en-us/profile/Pedro-2295/)                   |      2683      | 275.58 Trillion   |    Monk     | 2021-08-19 17:21:59 |
+| 638  | [SLǂTheff#2427](https://eu.diablo3.com/en-us/profile/SLǂTheff-2427/)             |      2674      | 272.81 Trillion   |     WD      | 2021-08-18 23:28:01 |
+| 639  | [Maxa#21217](https://eu.diablo3.com/en-us/profile/Maxa-21217/)                   |      2673      | 272.5 Trillion    |     DH      | 2021-08-16 22:53:41 |
+| 640  | [Zoztax#2320](https://eu.diablo3.com/en-us/profile/Zoztax-2320/)                 |      2672      | 272.19 Trillion   |    Monk     | 2021-08-19 05:16:51 |
+| 641  | [nafela#2440](https://eu.diablo3.com/en-us/profile/nafela-2440/)                 |      2671      | 271.88 Trillion   |  Barbarian  | 2021-08-19 17:25:26 |
+| 642  | [jpeg#2785](https://eu.diablo3.com/en-us/profile/jpeg-2785/)                     |      2670      | 271.58 Trillion   |    Monk     | 2021-08-19 16:51:42 |
+| 643  | [Swain#2339](https://eu.diablo3.com/en-us/profile/Swain-2339/)                   |      2669      | 271.27 Trillion   |     DH      | 2021-08-19 14:45:05 |
+| 644  | [Xq1#21374](https://eu.diablo3.com/en-us/profile/Xq1-21374/)                     |      2665      | 270.05 Trillion   |     DH      | 2021-08-19 17:08:07 |
+| 645  | [Riverhengel#2807](https://eu.diablo3.com/en-us/profile/Riverhengel-2807/)       |      2660      | 268.53 Trillion   |  Barbarian  | 2021-08-19 16:58:38 |
+| 646  | [xcbmn#2442](https://eu.diablo3.com/en-us/profile/xcbmn-2442/)                   |      2657      | 267.62 Trillion   |     DH      | 2021-08-05 20:10:53 |
+| 647  | [Portillo#11781](https://eu.diablo3.com/en-us/profile/Portillo-11781/)           |      2656      | 267.32 Trillion   |  Barbarian  | 2021-08-19 17:14:30 |
+| 648  | [adurge#2630](https://eu.diablo3.com/en-us/profile/adurge-2630/)                 |      2654      | 266.71 Trillion   |    Monk     | 2021-08-19 16:56:49 |
+| 649  | [Meganom#21721](https://eu.diablo3.com/en-us/profile/Meganom-21721/)             |      2654      | 266.71 Trillion   |     DH      | 2021-08-19 17:08:55 |
+| 650  | [Vertigo#2608](https://eu.diablo3.com/en-us/profile/Vertigo-2608/)               |      2651      | 265.81 Trillion   |  Barbarian  | 2021-08-18 23:35:28 |
+| 651  | [GIGAHL#2472](https://eu.diablo3.com/en-us/profile/GIGAHL-2472/)                 |      2650      | 265.51 Trillion   |     DH      | 2021-08-19 16:55:57 |
+| 652  | [NoYou#1547](https://eu.diablo3.com/en-us/profile/NoYou-1547/)                   |      2650      | 265.51 Trillion   |     DH      | 2021-08-19 17:05:56 |
+| 653  | [Schraibfeler#21823](https://eu.diablo3.com/en-us/profile/Schraibfeler-21823/)   |      2649      | 265.21 Trillion   |     DH      | 2021-08-12 08:10:47 |
+| 654  | [Hauskatze#21489](https://eu.diablo3.com/en-us/profile/Hauskatze-21489/)         |      2645      | 264.01 Trillion   |     DH      | 2021-08-07 12:24:26 |
+| 655  | [mike#24817](https://eu.diablo3.com/en-us/profile/mike-24817/)                   |      2644      | 263.71 Trillion   |   Wizard    | 2021-08-19 15:42:54 |
+| 656  | [neurofunk#1552](https://eu.diablo3.com/en-us/profile/neurofunk-1552/)           |      2643      | 263.41 Trillion   |    Monk     | 2021-08-18 20:41:38 |
+| 657  | [cCloud#21683](https://eu.diablo3.com/en-us/profile/cCloud-21683/)               |      2642      | 263.11 Trillion   |     DH      | 2021-08-19 15:20:46 |
+| 658  | [HellsDevil84#2437](https://eu.diablo3.com/en-us/profile/HellsDevil84-2437/)     |      2640      | 262.51 Trillion   |     DH      | 2021-08-16 22:54:13 |
+| 659  | [putrixx#2895](https://eu.diablo3.com/en-us/profile/putrixx-2895/)               |      2639      | 262.21 Trillion   |    Monk     | 2021-08-19 16:23:17 |
+| 660  | [Simtec#21825](https://eu.diablo3.com/en-us/profile/Simtec-21825/)               |      2637      | 261.62 Trillion   |     DH      | 2021-08-19 17:26:31 |
+| 661  | [Amaroc#2601](https://eu.diablo3.com/en-us/profile/Amaroc-2601/)                 |      2634      | 260.73 Trillion   |    Monk     | 2021-08-19 14:50:11 |
+| 662  | [Игорь#26484](https://eu.diablo3.com/en-us/profile/Игорь-26484/)                 |      2630      | 259.54 Trillion   |    Monk     | 2021-08-19 16:55:17 |
+| 663  | [Storm#24638](https://eu.diablo3.com/en-us/profile/Storm-24638/)                 |      2630      | 259.54 Trillion   |    Necro    | 2021-08-02 10:34:39 |
+| 664  | [ericks#2365](https://eu.diablo3.com/en-us/profile/ericks-2365/)                 |      2629      | 259.25 Trillion   |     DH      | 2021-08-19 16:35:38 |
+| 665  | [ange1ok#2323](https://eu.diablo3.com/en-us/profile/ange1ok-2323/)               |      2629      | 259.25 Trillion   |   Wizard    | 2021-08-19 16:53:58 |
+| 666  | [Belphégor#2659](https://eu.diablo3.com/en-us/profile/Belphégor-2659/)           |      2627      | 258.66 Trillion   |    Monk     | 2021-08-19 17:26:26 |
+| 667  | [ultraviolet#2908](https://eu.diablo3.com/en-us/profile/ultraviolet-2908/)       |      2624      | 257.77 Trillion   |     DH      | 2021-08-19 11:03:09 |
+| 668  | [uNbRaKe#2535](https://eu.diablo3.com/en-us/profile/uNbRaKe-2535/)               |      2623      | 257.48 Trillion   |  Barbarian  | 2021-08-19 03:25:23 |
+| 669  | [vhsculture#2303](https://eu.diablo3.com/en-us/profile/vhsculture-2303/)         |      2621      | 256.89 Trillion   |     DH      | 2021-08-19 06:35:44 |
+| 670  | [Dozoyashi#2326](https://eu.diablo3.com/en-us/profile/Dozoyashi-2326/)           |      2618      | 256.02 Trillion   |  Barbarian  | 2021-08-19 17:21:09 |
+| 671  | [SideSwipe#2474](https://eu.diablo3.com/en-us/profile/SideSwipe-2474/)           |      2617      | 255.72 Trillion   |     DH      | 2021-08-19 01:30:01 |
+| 672  | [Nevera#2181](https://eu.diablo3.com/en-us/profile/Nevera-2181/)                 |      2616      | 255.43 Trillion   |     DH      | 2021-08-18 20:17:37 |
+| 673  | [sigmaxx#2895](https://eu.diablo3.com/en-us/profile/sigmaxx-2895/)               |      2612      | 254.27 Trillion   |     DH      | 2021-08-19 16:55:11 |
+| 674  | [Zen#22522](https://eu.diablo3.com/en-us/profile/Zen-22522/)                     |      2611      | 253.98 Trillion   |     DH      | 2021-08-19 15:59:31 |
+| 675  | [SirPrise#2925](https://eu.diablo3.com/en-us/profile/SirPrise-2925/)             |      2610      | 253.69 Trillion   |  Barbarian  | 2021-08-19 13:36:13 |
+| 676  | [BbQ#21676](https://eu.diablo3.com/en-us/profile/BbQ-21676/)                     |      2608      | 253.11 Trillion   |     DH      | 2021-08-19 17:17:34 |
+| 677  | [topLinee#2532](https://eu.diablo3.com/en-us/profile/topLinee-2532/)             |      2607      | 252.82 Trillion   |    Monk     | 2021-08-19 17:03:39 |
+| 678  | [Berkel#1615](https://eu.diablo3.com/en-us/profile/Berkel-1615/)                 |      2606      | 252.53 Trillion   |     DH      | 2021-08-17 20:53:52 |
+| 679  | [Scooped#2241](https://eu.diablo3.com/en-us/profile/Scooped-2241/)               |      2606      | 252.53 Trillion   |     DH      | 2021-08-18 23:28:46 |
+| 680  | [zazera#2932](https://eu.diablo3.com/en-us/profile/zazera-2932/)                 |      2605      | 252.24 Trillion   |    Monk     | 2021-08-19 09:33:54 |
+| 681  | [Vespillo#2660](https://eu.diablo3.com/en-us/profile/Vespillo-2660/)             |      2602      | 251.37 Trillion   |   Wizard    | 2021-08-18 20:57:09 |
+| 682  | [Diamaniac#2275](https://eu.diablo3.com/en-us/profile/Diamaniac-2275/)           |      2600      | 250.8 Trillion    |    Monk     | 2021-08-19 17:17:57 |
+| 683  | [Flowextra#2144](https://eu.diablo3.com/en-us/profile/Flowextra-2144/)           |      2597      | 249.94 Trillion   |    Monk     | 2021-08-18 20:11:02 |
+| 684  | [Myc0se#2175](https://eu.diablo3.com/en-us/profile/Myc0se-2175/)                 |      2596      | 249.65 Trillion   |     DH      | 2021-08-19 16:31:55 |
+| 685  | [BKR#2785](https://eu.diablo3.com/en-us/profile/BKR-2785/)                       |      2593      | 248.79 Trillion   |   Wizard    | 2021-08-19 12:09:45 |
+| 686  | [shamue55#2873](https://eu.diablo3.com/en-us/profile/shamue55-2873/)             |      2590      | 247.94 Trillion   |  Barbarian  | 2021-08-18 15:01:12 |
+| 687  | [FetzerBe#2624](https://eu.diablo3.com/en-us/profile/FetzerBe-2624/)             |      2589      | 247.65 Trillion   |     DH      | 2021-08-19 17:28:59 |
+| 688  | [Drag0#21590](https://eu.diablo3.com/en-us/profile/Drag0-21590/)                 |      2585      | 246.52 Trillion   |     DH      | 2021-08-19 16:44:47 |
+| 689  | [Vomzo#2447](https://eu.diablo3.com/en-us/profile/Vomzo-2447/)                   |      2585      | 246.52 Trillion   |     DH      | 2021-08-19 15:39:42 |
+| 690  | [BattleHymns#2819](https://eu.diablo3.com/en-us/profile/BattleHymns-2819/)       |      2583      | 245.95 Trillion   |    Monk     | 2021-08-19 17:05:21 |
+| 691  | [Apoc#2364](https://eu.diablo3.com/en-us/profile/Apoc-2364/)                     |      2582      | 245.67 Trillion   |  Barbarian  | 2021-08-19 17:25:51 |
+| 692  | [lleeoo007#2113](https://eu.diablo3.com/en-us/profile/lleeoo007-2113/)           |      2581      | 245.38 Trillion   |  Barbarian  | 2021-08-04 22:39:03 |
+| 693  | [Vega#21994](https://eu.diablo3.com/en-us/profile/Vega-21994/)                   |      2581      | 245.38 Trillion   |     DH      | 2021-08-14 15:47:36 |
+| 694  | [Nexus#24656](https://eu.diablo3.com/en-us/profile/Nexus-24656/)                 |      2578      | 244.54 Trillion   |     DH      | 2021-08-19 10:45:41 |
+| 695  | [Hundefutter#2810](https://eu.diablo3.com/en-us/profile/Hundefutter-2810/)       |      2578      | 244.54 Trillion   |   Wizard    | 2021-08-19 17:27:01 |
+| 696  | [Maraquia#2505](https://eu.diablo3.com/en-us/profile/Maraquia-2505/)             |      2576      | 243.98 Trillion   |     DH      | 2021-08-19 17:09:26 |
+| 697  | [GuyRulkin#2308](https://eu.diablo3.com/en-us/profile/GuyRulkin-2308/)           |      2575      | 243.69 Trillion   |   Wizard    | 2021-08-17 22:22:32 |
+| 698  | [Sinthoras#1350](https://eu.diablo3.com/en-us/profile/Sinthoras-1350/)           |      2573      | 243.13 Trillion   |     WD      | 2021-08-18 22:53:32 |
+| 699  | [Baikamo#2550](https://eu.diablo3.com/en-us/profile/Baikamo-2550/)               |      2570      | 242.29 Trillion   |   Wizard    | 2021-08-19 13:51:00 |
+| 700  | [Cupra#2645](https://eu.diablo3.com/en-us/profile/Cupra-2645/)                   |      2569      | 242.01 Trillion   |  Barbarian  | 2021-08-19 17:21:55 |
+| 701  | [Sn4ckz0n3#2376](https://eu.diablo3.com/en-us/profile/Sn4ckz0n3-2376/)           |      2569      | 242.01 Trillion   |   Wizard    | 2021-08-19 17:19:22 |
+| 702  | [Tw1st#21683](https://eu.diablo3.com/en-us/profile/Tw1st-21683/)                 |      2567      | 241.46 Trillion   |     DH      | 2021-08-19 17:11:19 |
+| 703  | [Kendal#2647](https://eu.diablo3.com/en-us/profile/Kendal-2647/)                 |      2565      | 240.9 Trillion    |    Monk     | 2021-08-19 17:12:55 |
+| 704  | [MadMac#21516](https://eu.diablo3.com/en-us/profile/MadMac-21516/)               |      2563      | 240.34 Trillion   |    Monk     | 2021-08-19 16:40:39 |
+| 705  | [mitsukurina#21518](https://eu.diablo3.com/en-us/profile/mitsukurina-21518/)     |      2562      | 240.07 Trillion   |   Wizard    | 2021-08-16 18:45:08 |
+| 706  | [Evil#2709](https://eu.diablo3.com/en-us/profile/Evil-2709/)                     |      2556      | 238.41 Trillion   |     DH      | 2021-08-19 13:54:41 |
+| 707  | [Nix#21595](https://eu.diablo3.com/en-us/profile/Nix-21595/)                     |      2554      | 237.85 Trillion   |   Wizard    | 2021-08-19 09:36:19 |
+| 708  | [tsapoutsan#2175](https://eu.diablo3.com/en-us/profile/tsapoutsan-2175/)         |      2554      | 237.85 Trillion   |     DH      | 2021-08-19 17:16:20 |
+| 709  | [totof#2344](https://eu.diablo3.com/en-us/profile/totof-2344/)                   |      2553      | 237.58 Trillion   |   Wizard    | 2021-08-19 16:09:08 |
+| 710  | [GMOX#1290](https://eu.diablo3.com/en-us/profile/GMOX-1290/)                     |      2550      | 236.75 Trillion   |     DH      | 2021-08-18 22:10:23 |
+| 711  | [Nass#21490](https://eu.diablo3.com/en-us/profile/Nass-21490/)                   |      2547      | 235.93 Trillion   |  Barbarian  | 2021-08-19 05:34:13 |
+| 712  | [KCneVenKC#2282](https://eu.diablo3.com/en-us/profile/KCneVenKC-2282/)           |      2547      | 235.93 Trillion   |     DH      | 2021-08-19 16:40:45 |
+| 713  | [FtLoLtDkoosz#2820](https://eu.diablo3.com/en-us/profile/FtLoLtDkoosz-2820/)     |      2547      | 235.93 Trillion   |     DH      | 2021-08-19 12:57:35 |
+| 714  | [AlexPHD#21973](https://eu.diablo3.com/en-us/profile/AlexPHD-21973/)             |      2546      | 235.66 Trillion   |     DH      | 2021-08-19 08:49:55 |
+| 715  | [Karixø#2243](https://eu.diablo3.com/en-us/profile/Karixø-2243/)                 |      2546      | 235.66 Trillion   |   Wizard    | 2021-08-19 00:39:47 |
+| 716  | [GRANOLA#21407](https://eu.diablo3.com/en-us/profile/GRANOLA-21407/)             |      2545      | 235.39 Trillion   |     DH      | 2021-08-14 19:49:58 |
+| 717  | [LENYO#21115](https://eu.diablo3.com/en-us/profile/LENYO-21115/)                 |      2543      | 234.84 Trillion   |     DH      | 2021-08-19 15:11:03 |
+| 718  | [GavGaming#2209](https://eu.diablo3.com/en-us/profile/GavGaming-2209/)           |      2542      | 234.57 Trillion   |    Monk     | 2021-08-19 15:25:58 |
+| 719  | [Makamele#2600](https://eu.diablo3.com/en-us/profile/Makamele-2600/)             |      2542      | 234.57 Trillion   |  Barbarian  | 2021-08-19 17:17:46 |
+| 720  | [Lear#2343](https://eu.diablo3.com/en-us/profile/Lear-2343/)                     |      2541      | 234.3 Trillion    |     DH      | 2021-08-19 12:55:51 |
+| 721  | [Vegeta#22134](https://eu.diablo3.com/en-us/profile/Vegeta-22134/)               |      2540      | 234.02 Trillion   |     DH      | 2021-08-19 17:10:51 |
+| 722  | [Noki#21836](https://eu.diablo3.com/en-us/profile/Noki-21836/)                   |      2539      | 233.75 Trillion   |     DH      | 2021-08-19 16:33:40 |
+| 723  | [Mondschein#2736](https://eu.diablo3.com/en-us/profile/Mondschein-2736/)         |      2537      | 233.21 Trillion   |     DH      | 2021-08-19 17:15:11 |
+| 724  | [Prometheus#2559](https://eu.diablo3.com/en-us/profile/Prometheus-2559/)         |      2535      | 232.67 Trillion   |    Monk     | 2021-08-17 21:31:03 |
+| 725  | [Grzesio#21437](https://eu.diablo3.com/en-us/profile/Grzesio-21437/)             |      2527      | 230.51 Trillion   |    Monk     | 2021-08-19 16:58:30 |
+| 726  | [bomba2881#2737](https://eu.diablo3.com/en-us/profile/bomba2881-2737/)           |      2525      | 229.98 Trillion   |   Wizard    | 2021-08-19 15:19:21 |
+| 727  | [Morkaz#2516](https://eu.diablo3.com/en-us/profile/Morkaz-2516/)                 |      2523      | 229.44 Trillion   |     DH      | 2021-08-19 15:46:52 |
+| 728  | [OLEGATOR#21386](https://eu.diablo3.com/en-us/profile/OLEGATOR-21386/)           |      2519      | 228.37 Trillion   |    Necro    | 2021-08-19 16:01:05 |
+| 729  | [yamas#2661](https://eu.diablo3.com/en-us/profile/yamas-2661/)                   |      2518      | 228.11 Trillion   |     DH      | 2021-08-19 11:05:54 |
+| 730  | [Tanata#21237](https://eu.diablo3.com/en-us/profile/Tanata-21237/)               |      2516      | 227.58 Trillion   |     DH      | 2021-08-19 17:10:45 |
+| 731  | [SekaSemiseka#2588](https://eu.diablo3.com/en-us/profile/SekaSemiseka-2588/)     |      2513      | 226.78 Trillion   |     DH      | 2021-08-19 17:02:32 |
+| 732  | [sicKl0n#2396](https://eu.diablo3.com/en-us/profile/sicKl0n-2396/)               |      2513      | 226.78 Trillion   |  Barbarian  | 2021-08-17 16:57:53 |
+| 733  | [ExecutoR#2919](https://eu.diablo3.com/en-us/profile/ExecutoR-2919/)             |      2513      | 226.78 Trillion   |     DH      | 2021-08-19 16:29:09 |
+| 734  | [Envisn#2989](https://eu.diablo3.com/en-us/profile/Envisn-2989/)                 |      2512      | 226.52 Trillion   |  Barbarian  | 2021-08-19 17:26:33 |
+| 735  | [Hrothgar#21724](https://eu.diablo3.com/en-us/profile/Hrothgar-21724/)           |      2511      | 226.25 Trillion   |     DH      | 2021-08-19 15:41:15 |
+| 736  | [DekA#21810](https://eu.diablo3.com/en-us/profile/DekA-21810/)                   |      2509      | 225.72 Trillion   |    Monk     | 2021-08-18 18:44:49 |
+| 737  | [Lenina#2959](https://eu.diablo3.com/en-us/profile/Lenina-2959/)                 |      2508      | 225.46 Trillion   |     DH      | 2021-08-17 15:31:57 |
+| 738  | [BrO#2528](https://eu.diablo3.com/en-us/profile/BrO-2528/)                       |      2507      | 225.2 Trillion    |     DH      | 2021-08-19 17:06:22 |
+| 739  | [Stefan6688#2928](https://eu.diablo3.com/en-us/profile/Stefan6688-2928/)         |      2505      | 224.67 Trillion   |   Wizard    | 2021-08-19 01:49:44 |
+| 740  | [Preester30#2443](https://eu.diablo3.com/en-us/profile/Preester30-2443/)         |      2505      | 224.67 Trillion   |     DH      | 2021-08-19 17:25:41 |
+| 741  | [missAlisA#2401](https://eu.diablo3.com/en-us/profile/missAlisA-2401/)           |      2503      | 224.15 Trillion   |     DH      | 2021-08-19 11:48:37 |
+| 742  | [ninja#2665](https://eu.diablo3.com/en-us/profile/ninja-2665/)                   |      2502      | 223.88 Trillion   |     DH      | 2021-08-19 00:17:34 |
+| 743  | [Cryptos#2354](https://eu.diablo3.com/en-us/profile/Cryptos-2354/)               |      2500      | 223.36 Trillion   |    Monk     | 2021-08-16 17:15:24 |
+| 744  | [Diiidiii#2947](https://eu.diablo3.com/en-us/profile/Diiidiii-2947/)             |      2500      | 223.36 Trillion   |   Wizard    | 2021-08-19 01:48:24 |
+| 745  | [Underverse#2384](https://eu.diablo3.com/en-us/profile/Underverse-2384/)         |      2500      | 223.36 Trillion   |     DH      | 2021-08-19 03:16:09 |
+| 746  | [Loffgreen#2510](https://eu.diablo3.com/en-us/profile/Loffgreen-2510/)           |      2491      | 221.02 Trillion   |    Monk     | 2021-08-11 11:53:14 |
+| 747  | [Antiek#2896](https://eu.diablo3.com/en-us/profile/Antiek-2896/)                 |      2490      | 220.76 Trillion   |     DH      | 2021-08-19 11:30:04 |
+| 748  | [Messiah87#21510](https://eu.diablo3.com/en-us/profile/Messiah87-21510/)         |      2476      | 217.16 Trillion   |  Barbarian  | 2021-08-18 19:56:51 |
+| 749  | [hennya#2904](https://eu.diablo3.com/en-us/profile/hennya-2904/)                 |      2475      | 216.9 Trillion    |    Monk     | 2021-08-18 12:58:59 |
+| 750  | [XenaCharon#2254](https://eu.diablo3.com/en-us/profile/XenaCharon-2254/)         |      2471      | 215.89 Trillion   |     DH      | 2021-08-19 17:13:23 |
+| 751  | [pofa#2156](https://eu.diablo3.com/en-us/profile/pofa-2156/)                     |      2471      | 215.89 Trillion   |    Monk     | 2021-08-19 17:14:16 |
+| 752  | [Vance#2990](https://eu.diablo3.com/en-us/profile/Vance-2990/)                   |      2469      | 215.38 Trillion   |     DH      | 2021-08-14 07:40:55 |
+| 753  | [Soulreaver#2928](https://eu.diablo3.com/en-us/profile/Soulreaver-2928/)         |      2467      | 214.87 Trillion   |     DH      | 2021-08-19 16:55:00 |
+| 754  | [Haka#2156](https://eu.diablo3.com/en-us/profile/Haka-2156/)                     |      2461      | 213.36 Trillion   |    Monk     | 2021-08-19 14:22:35 |
+| 755  | [Fonzie#2724](https://eu.diablo3.com/en-us/profile/Fonzie-2724/)                 |      2459      | 212.85 Trillion   |     DH      | 2021-08-19 17:20:54 |
+| 756  | [Samuel#2653](https://eu.diablo3.com/en-us/profile/Samuel-2653/)                 |      2459      | 212.85 Trillion   |    Monk     | 2021-08-19 03:34:41 |
+| 757  | [Therry#21776](https://eu.diablo3.com/en-us/profile/Therry-21776/)               |      2457      | 212.35 Trillion   |     DH      | 2021-08-19 15:13:00 |
+| 758  | [ULTRAllooll#2593](https://eu.diablo3.com/en-us/profile/ULTRAllooll-2593/)       |      2452      | 211.1 Trillion    |  Barbarian  | 2021-08-18 21:19:36 |
+| 759  | [Snowman#22116](https://eu.diablo3.com/en-us/profile/Snowman-22116/)             |      2451      | 210.85 Trillion   |  Crusader   | 2021-08-19 17:01:25 |
+| 760  | [MrJanika#2901](https://eu.diablo3.com/en-us/profile/MrJanika-2901/)             |      2443      | 208.87 Trillion   |     DH      | 2021-08-19 14:03:56 |
+| 761  | [Kyô#2252](https://eu.diablo3.com/en-us/profile/Kyô-2252/)                       |      2442      | 208.62 Trillion   |   Wizard    | 2021-08-19 14:26:53 |
+| 762  | [BoogieGus#2758](https://eu.diablo3.com/en-us/profile/BoogieGus-2758/)           |      2438      | 207.64 Trillion   |   Wizard    | 2021-08-16 17:35:43 |
+| 763  | [Daywalker#2471](https://eu.diablo3.com/en-us/profile/Daywalker-2471/)           |      2436      | 207.15 Trillion   |    Monk     | 2021-08-19 16:47:56 |
+| 764  | [hodor#2839](https://eu.diablo3.com/en-us/profile/hodor-2839/)                   |      2436      | 207.15 Trillion   |     DH      | 2021-08-19 15:09:32 |
+| 765  | [Sephirothys#2319](https://eu.diablo3.com/en-us/profile/Sephirothys-2319/)       |      2434      | 206.66 Trillion   |  Barbarian  | 2021-08-18 23:16:01 |
+| 766  | [ZvikaSGL#2451](https://eu.diablo3.com/en-us/profile/ZvikaSGL-2451/)             |      2434      | 206.66 Trillion   |    Monk     | 2021-08-19 17:18:00 |
+| 767  | [Unknown#23910](https://eu.diablo3.com/en-us/profile/Unknown-23910/)             |      2433      | 206.41 Trillion   |    Monk     | 2021-08-19 17:09:28 |
+| 768  | [sidi#2629](https://eu.diablo3.com/en-us/profile/sidi-2629/)                     |      2428      | 205.19 Trillion   |  Barbarian  | 2021-08-19 17:17:31 |
+| 769  | [Akdabra#2204](https://eu.diablo3.com/en-us/profile/Akdabra-2204/)               |      2428      | 205.19 Trillion   |     DH      | 2021-08-10 15:17:00 |
+| 770  | [FaRXaD#21149](https://eu.diablo3.com/en-us/profile/FaRXaD-21149/)               |      2421      | 203.49 Trillion   |  Barbarian  | 2021-08-18 19:51:12 |
+| 771  | [Jurrant#2217](https://eu.diablo3.com/en-us/profile/Jurrant-2217/)               |      2421      | 203.49 Trillion   |     DH      | 2021-08-19 16:54:32 |
+| 772  | [PeterPan#2444](https://eu.diablo3.com/en-us/profile/PeterPan-2444/)             |      2419      | 203.01 Trillion   |   Wizard    | 2021-08-18 17:30:20 |
+| 773  | [Margol#2569](https://eu.diablo3.com/en-us/profile/Margol-2569/)                 |      2419      | 203.01 Trillion   |  Barbarian  | 2021-08-19 15:46:26 |
+| 774  | [TORMENT#2433](https://eu.diablo3.com/en-us/profile/TORMENT-2433/)               |      2417      | 202.53 Trillion   |     DH      | 2021-08-19 17:17:33 |
+| 775  | [Lasher#2525](https://eu.diablo3.com/en-us/profile/Lasher-2525/)                 |      2414      | 201.81 Trillion   |  Barbarian  | 2021-08-18 20:19:43 |
+| 776  | [fishman#21171](https://eu.diablo3.com/en-us/profile/fishman-21171/)             |      2413      | 201.57 Trillion   |     DH      | 2021-08-01 18:50:07 |
+| 777  | [resa#2302](https://eu.diablo3.com/en-us/profile/resa-2302/)                     |      2411      | 201.09 Trillion   |  Barbarian  | 2021-08-19 06:33:05 |
+| 778  | [teppemon#2686](https://eu.diablo3.com/en-us/profile/teppemon-2686/)             |      2411      | 201.09 Trillion   |     DH      | 2021-08-19 17:03:44 |
+| 779  | [Maldezar#2858](https://eu.diablo3.com/en-us/profile/Maldezar-2858/)             |      2410      | 200.85 Trillion   |  Barbarian  | 2021-08-19 17:14:05 |
+| 780  | [Infer#2758](https://eu.diablo3.com/en-us/profile/Infer-2758/)                   |      2410      | 200.85 Trillion   |  Barbarian  | 2021-08-15 01:25:08 |
+| 781  | [Stephan#2887](https://eu.diablo3.com/en-us/profile/Stephan-2887/)               |      2410      | 200.85 Trillion   |   Wizard    | 2021-08-19 16:45:22 |
+| 782  | [LitilDivil#2158](https://eu.diablo3.com/en-us/profile/LitilDivil-2158/)         |      2408      | 200.37 Trillion   |    Monk     | 2021-08-19 13:31:31 |
+| 783  | [TWBolek#2425](https://eu.diablo3.com/en-us/profile/TWBolek-2425/)               |      2408      | 200.37 Trillion   |     WD      | 2021-08-19 17:27:16 |
+| 784  | [Dronox#2771](https://eu.diablo3.com/en-us/profile/Dronox-2771/)                 |      2408      | 200.37 Trillion   |    Monk     | 2021-08-19 15:05:45 |
+| 785  | [Hoopx#2503](https://eu.diablo3.com/en-us/profile/Hoopx-2503/)                   |      2403      | 199.18 Trillion   |    Monk     | 2021-08-19 13:28:16 |
+| 786  | [BaneBoy#2561](https://eu.diablo3.com/en-us/profile/BaneBoy-2561/)               |      2391      | 196.36 Trillion   |    Monk     | 2021-08-18 23:02:26 |
+| 787  | [kruemelOP#2587](https://eu.diablo3.com/en-us/profile/kruemelOP-2587/)           |      2385      | 194.95 Trillion   |    Monk     | 2021-08-19 02:24:31 |
+| 788  | [Numbnutz#2847](https://eu.diablo3.com/en-us/profile/Numbnutz-2847/)             |      2385      | 194.95 Trillion   |  Barbarian  | 2021-08-18 01:03:26 |
+| 789  | [flashgordon#2127](https://eu.diablo3.com/en-us/profile/flashgordon-2127/)       |      2384      | 194.72 Trillion   |  Barbarian  | 2021-08-19 17:13:16 |
+| 790  | [Bounce#21842](https://eu.diablo3.com/en-us/profile/Bounce-21842/)               |      2383      | 194.49 Trillion   |  Barbarian  | 2021-08-18 13:02:59 |
+| 791  | [pantera#2157](https://eu.diablo3.com/en-us/profile/pantera-2157/)               |      2381      | 194.03 Trillion   |    Monk     | 2021-08-19 17:25:15 |
+| 792  | [NewProject64#2976](https://eu.diablo3.com/en-us/profile/NewProject64-2976/)     |      2379      | 193.56 Trillion   |     DH      | 2021-08-19 17:02:31 |
+| 793  | [Krieszyn#2882](https://eu.diablo3.com/en-us/profile/Krieszyn-2882/)             |      2371      | 191.72 Trillion   |    Monk     | 2021-08-19 14:38:46 |
+| 794  | [psyxO#2780](https://eu.diablo3.com/en-us/profile/psyxO-2780/)                   |      2368      | 191.03 Trillion   |    Monk     | 2021-08-19 17:18:45 |
+| 795  | [Heartless#1243](https://eu.diablo3.com/en-us/profile/Heartless-1243/)           |      2363      | 189.89 Trillion   |     DH      | 2021-08-13 01:43:17 |
+| 796  | [skykyo#3441](https://eu.diablo3.com/en-us/profile/skykyo-3441/)                 |      2359      | 188.98 Trillion   |     DH      | 2021-08-18 23:53:51 |
+| 797  | [Spb#21156](https://eu.diablo3.com/en-us/profile/Spb-21156/)                     |      2357      | 188.53 Trillion   |   Wizard    | 2021-08-19 16:25:58 |
+| 798  | [Michael#25815](https://eu.diablo3.com/en-us/profile/Michael-25815/)             |      2351      | 187.18 Trillion   |  Barbarian  | 2021-08-19 17:02:23 |
+| 799  | [KIV#2879](https://eu.diablo3.com/en-us/profile/KIV-2879/)                       |      2342      | 185.17 Trillion   |     DH      | 2021-08-19 15:58:12 |
+| 800  | [YooPiter#2261](https://eu.diablo3.com/en-us/profile/YooPiter-2261/)             |      2338      | 184.28 Trillion   |     DH      | 2021-08-19 15:23:08 |
+| 801  | [Yosh#21800](https://eu.diablo3.com/en-us/profile/Yosh-21800/)                   |      2337      | 184.06 Trillion   |  Barbarian  | 2021-08-14 21:17:38 |
+| 802  | [RavenOne#21218](https://eu.diablo3.com/en-us/profile/RavenOne-21218/)           |      2329      | 182.3 Trillion    |     DH      | 2021-08-19 17:06:30 |
+| 803  | [Boxi#21691](https://eu.diablo3.com/en-us/profile/Boxi-21691/)                   |      2328      | 182.08 Trillion   |    Monk     | 2021-08-19 07:05:51 |
+| 804  | [wilzuu#2369](https://eu.diablo3.com/en-us/profile/wilzuu-2369/)                 |      2321      | 180.55 Trillion   |    Monk     | 2021-08-16 22:13:31 |
+| 805  | [Mountain#21982](https://eu.diablo3.com/en-us/profile/Mountain-21982/)           |      2320      | 180.33 Trillion   |    Monk     | 2021-08-11 22:57:50 |
+| 806  | [fearyy#2448](https://eu.diablo3.com/en-us/profile/fearyy-2448/)                 |      2320      | 180.33 Trillion   |     DH      | 2021-08-18 23:16:07 |
+| 807  | [Reaper#2399](https://eu.diablo3.com/en-us/profile/Reaper-2399/)                 |      2312      | 178.6 Trillion    |   Wizard    | 2021-08-19 17:13:49 |
+| 808  | [Robin#2763](https://eu.diablo3.com/en-us/profile/Robin-2763/)                   |      2310      | 178.17 Trillion   |    Monk     | 2021-08-19 16:19:14 |
+| 809  | [Tushna#2927](https://eu.diablo3.com/en-us/profile/Tushna-2927/)                 |      2310      | 178.17 Trillion   |     DH      | 2021-08-17 02:58:02 |
+| 810  | [polineusz#1910](https://eu.diablo3.com/en-us/profile/polineusz-1910/)           |      2305      | 177.1 Trillion    |  Barbarian  | 2021-08-19 00:08:49 |
+| 811  | [ImLandruinAn#2388](https://eu.diablo3.com/en-us/profile/ImLandruinAn-2388/)     |      2300      | 176.04 Trillion   |   Wizard    | 2021-08-13 13:53:24 |
+| 812  | [Keeeenny#2106](https://eu.diablo3.com/en-us/profile/Keeeenny-2106/)             |      2295      | 174.98 Trillion   |  Barbarian  | 2021-08-19 16:56:40 |
+| 813  | [R3D#21932](https://eu.diablo3.com/en-us/profile/R3D-21932/)                     |      2291      | 174.13 Trillion   |   Wizard    | 2021-08-17 07:42:52 |
+| 814  | [Валли#21981](https://eu.diablo3.com/en-us/profile/Валли-21981/)                 |      2289      | 173.71 Trillion   |    Necro    | 2021-08-19 17:21:28 |
+| 815  | [witewidow91#2652](https://eu.diablo3.com/en-us/profile/witewidow91-2652/)       |      2289      | 173.71 Trillion   |    Monk     | 2021-08-17 13:29:50 |
+| 816  | [GEDROKS#2924](https://eu.diablo3.com/en-us/profile/GEDROKS-2924/)               |      2287      | 173.29 Trillion   |     DH      | 2021-08-17 21:30:13 |
+| 817  | [FCDT#2849](https://eu.diablo3.com/en-us/profile/FCDT-2849/)                     |      2286      | 173.08 Trillion   |     DH      | 2021-08-19 16:35:38 |
+| 818  | [M0rD#2768](https://eu.diablo3.com/en-us/profile/M0rD-2768/)                     |      2285      | 172.87 Trillion   |  Barbarian  | 2021-08-19 16:54:09 |
+| 819  | [ZORROOOOO#2918](https://eu.diablo3.com/en-us/profile/ZORROOOOO-2918/)           |      2285      | 172.87 Trillion   |  Barbarian  | 2021-08-19 17:08:02 |
+| 820  | [Haupti#21387](https://eu.diablo3.com/en-us/profile/Haupti-21387/)               |      2277      | 171.21 Trillion   |    Monk     | 2021-08-19 17:08:18 |
+| 821  | [Revenant85#2208](https://eu.diablo3.com/en-us/profile/Revenant85-2208/)         |      2275      | 170.8 Trillion    |  Barbarian  | 2021-08-19 16:40:55 |
+| 822  | [Anarquia#21429](https://eu.diablo3.com/en-us/profile/Anarquia-21429/)           |      2271      | 169.97 Trillion   |     DH      | 2021-08-19 16:23:01 |
+| 823  | [thebest1a#2787](https://eu.diablo3.com/en-us/profile/thebest1a-2787/)           |      2267      | 169.15 Trillion   |     DH      | 2021-08-19 16:51:12 |
+| 824  | [Hellraise#21856](https://eu.diablo3.com/en-us/profile/Hellraise-21856/)         |      2265      | 168.74 Trillion   |   Wizard    | 2021-08-02 17:06:44 |
+| 825  | [Martin#22509](https://eu.diablo3.com/en-us/profile/Martin-22509/)               |      2264      | 168.54 Trillion   |  Barbarian  | 2021-08-01 13:23:26 |
+| 826  | [killerbee#2169](https://eu.diablo3.com/en-us/profile/killerbee-2169/)           |      2264      | 168.54 Trillion   |    Monk     | 2021-08-19 11:55:53 |
+| 827  | [Juan#2645](https://eu.diablo3.com/en-us/profile/Juan-2645/)                     |      2262      | 168.13 Trillion   |     DH      | 2021-08-18 20:21:24 |
+| 828  | [TazDevil#21700](https://eu.diablo3.com/en-us/profile/TazDevil-21700/)           |      2246      | 164.9 Trillion    |    Necro    | 2021-08-18 20:25:56 |
+| 829  | [Suni#2929](https://eu.diablo3.com/en-us/profile/Suni-2929/)                     |      2243      | 164.3 Trillion    |   Wizard    | 2021-08-19 16:00:07 |
+| 830  | [Carnivore#2448](https://eu.diablo3.com/en-us/profile/Carnivore-2448/)           |      2241      | 163.9 Trillion    |   Wizard    | 2021-08-12 19:47:16 |
+| 831  | [DANIO29#2475](https://eu.diablo3.com/en-us/profile/DANIO29-2475/)               |      2233      | 162.31 Trillion   |   Wizard    | 2021-08-19 10:30:27 |
+| 832  | [Promo#2993](https://eu.diablo3.com/en-us/profile/Promo-2993/)                   |      2229      | 161.51 Trillion   |  Barbarian  | 2021-08-19 12:37:50 |
+| 833  | [Böckel#2495](https://eu.diablo3.com/en-us/profile/Böckel-2495/)                 |      2228      | 161.31 Trillion   |     DH      | 2021-08-19 17:07:35 |
+| 834  | [Wall#2619](https://eu.diablo3.com/en-us/profile/Wall-2619/)                     |      2224      | 160.52 Trillion   |   Wizard    | 2021-08-19 00:44:20 |
+| 835  | [Egomaniac#1948](https://eu.diablo3.com/en-us/profile/Egomaniac-1948/)           |      2218      | 159.34 Trillion   |   Wizard    | 2021-08-18 11:57:28 |
+| 836  | [BigBlackCat#21672](https://eu.diablo3.com/en-us/profile/BigBlackCat-21672/)     |      2217      | 159.14 Trillion   |     DH      | 2021-08-19 17:06:35 |
+| 837  | [Sìnister#2383](https://eu.diablo3.com/en-us/profile/Sìnister-2383/)             |      2217      | 159.14 Trillion   |  Barbarian  | 2021-08-19 11:09:23 |
+| 838  | [Wanxed#2658](https://eu.diablo3.com/en-us/profile/Wanxed-2658/)                 |      2217      | 159.14 Trillion   |  Barbarian  | 2021-08-15 20:26:54 |
+| 839  | [Orbi#2520](https://eu.diablo3.com/en-us/profile/Orbi-2520/)                     |      2216      | 158.95 Trillion   |    Monk     | 2021-08-10 19:16:43 |
+| 840  | [MrBulletz#21867](https://eu.diablo3.com/en-us/profile/MrBulletz-21867/)         |      2208      | 157.38 Trillion   |     DH      | 2021-08-15 14:50:12 |
+| 841  | [Alextheman#2116](https://eu.diablo3.com/en-us/profile/Alextheman-2116/)         |      2207      | 157.18 Trillion   |     DH      | 2021-08-18 14:31:36 |
+| 842  | [Fingod#2765](https://eu.diablo3.com/en-us/profile/Fingod-2765/)                 |      2205      | 156.79 Trillion   |     WD      | 2021-08-18 03:22:39 |
+| 843  | [Seeker#2184](https://eu.diablo3.com/en-us/profile/Seeker-2184/)                 |      2204      | 156.6 Trillion    |     DH      | 2021-08-19 05:21:48 |
+| 844  | [buZ#2997](https://eu.diablo3.com/en-us/profile/buZ-2997/)                       |      2200      | 155.82 Trillion   |    Monk     | 2021-08-19 17:03:21 |
+| 845  | [Sztywny#2383](https://eu.diablo3.com/en-us/profile/Sztywny-2383/)               |      2200      | 155.82 Trillion   |    Monk     | 2021-08-16 20:10:23 |
+| 846  | [Mutsu#2414](https://eu.diablo3.com/en-us/profile/Mutsu-2414/)                   |      2194      | 154.65 Trillion   |  Barbarian  | 2021-08-19 16:50:24 |
+| 847  | [VulcanRaven#2573](https://eu.diablo3.com/en-us/profile/VulcanRaven-2573/)       |      2190      | 153.87 Trillion   |    Monk     | 2021-08-19 11:18:07 |
+| 848  | [RuneR#2335](https://eu.diablo3.com/en-us/profile/RuneR-2335/)                   |      2188      | 153.49 Trillion   |     DH      | 2021-08-12 12:24:57 |
+| 849  | [Van1977#2613](https://eu.diablo3.com/en-us/profile/Van1977-2613/)               |      2185      | 152.91 Trillion   |     DH      | 2021-08-19 14:11:16 |
+| 850  | [Aragorn#2406](https://eu.diablo3.com/en-us/profile/Aragorn-2406/)               |      2182      | 152.33 Trillion   |     DH      | 2021-08-19 16:20:13 |
+| 851  | [дедмаксим#2264](https://eu.diablo3.com/en-us/profile/дедмаксим-2264/)           |      2178      | 151.56 Trillion   |  Barbarian  | 2021-08-19 16:23:03 |
+| 852  | [Aguares#2156](https://eu.diablo3.com/en-us/profile/Aguares-2156/)               |      2177      | 151.37 Trillion   |    Monk     | 2021-08-19 17:08:01 |
+| 853  | [Meandmyself#21447](https://eu.diablo3.com/en-us/profile/Meandmyself-21447/)     |      2173      | 150.6 Trillion    |     DH      | 2021-08-18 22:43:01 |
+| 854  | [meschkens#2151](https://eu.diablo3.com/en-us/profile/meschkens-2151/)           |      2157      | 147.56 Trillion   |     DH      | 2021-08-19 17:10:46 |
+| 855  | [zetor#2636](https://eu.diablo3.com/en-us/profile/zetor-2636/)                   |      2155      | 147.18 Trillion   |     DH      | 2021-08-17 18:24:49 |
+| 856  | [Keyra#2356](https://eu.diablo3.com/en-us/profile/Keyra-2356/)                   |      2154      | 146.99 Trillion   |  Barbarian  | 2021-08-08 16:20:12 |
+| 857  | [FLOW#22538](https://eu.diablo3.com/en-us/profile/FLOW-22538/)                   |      2154      | 146.99 Trillion   |     DH      | 2021-08-19 17:28:12 |
+| 858  | [Kikyō#2232](https://eu.diablo3.com/en-us/profile/Kikyō-2232/)                   |      2152      | 146.61 Trillion   |    Monk     | 2021-08-19 14:04:00 |
+| 859  | [DeanReno#2636](https://eu.diablo3.com/en-us/profile/DeanReno-2636/)             |      2151      | 146.42 Trillion   |     DH      | 2021-08-18 18:36:27 |
+| 860  | [Omnislash#21451](https://eu.diablo3.com/en-us/profile/Omnislash-21451/)         |      2148      | 145.86 Trillion   |    Monk     | 2021-08-19 17:09:10 |
+| 861  | [goldovya#2717](https://eu.diablo3.com/en-us/profile/goldovya-2717/)             |      2142      | 144.73 Trillion   |     DH      | 2021-08-18 23:12:23 |
+| 862  | [bARTO#2309](https://eu.diablo3.com/en-us/profile/bARTO-2309/)                   |      2135      | 143.42 Trillion   |    Monk     | 2021-08-19 02:19:22 |
+| 863  | [kingcobra#21106](https://eu.diablo3.com/en-us/profile/kingcobra-21106/)         |      2133      | 143.05 Trillion   |     DH      | 2021-08-19 17:18:49 |
+| 864  | [PATRYCJA#21112](https://eu.diablo3.com/en-us/profile/PATRYCJA-21112/)           |      2133      | 143.05 Trillion   |     DH      | 2021-08-18 20:58:42 |
+| 865  | [Thassi#2745](https://eu.diablo3.com/en-us/profile/Thassi-2745/)                 |      2132      | 142.86 Trillion   |     DH      | 2021-08-17 20:29:24 |
+| 866  | [Nikolit#1490](https://eu.diablo3.com/en-us/profile/Nikolit-1490/)               |      2129      | 142.3 Trillion    |     DH      | 2021-08-14 19:38:43 |
+| 867  | [zylfr#2903](https://eu.diablo3.com/en-us/profile/zylfr-2903/)                   |      2128      | 142.11 Trillion   |    Monk     | 2021-08-19 09:43:46 |
+| 868  | [DaNe#2846](https://eu.diablo3.com/en-us/profile/DaNe-2846/)                     |      2122      | 141.0 Trillion    |  Barbarian  | 2021-08-19 17:17:48 |
+| 869  | [Realgeist#2595](https://eu.diablo3.com/en-us/profile/Realgeist-2595/)           |      2121      | 140.82 Trillion   |    Monk     | 2021-08-19 17:04:53 |
+| 870  | [ProPaHD#2790](https://eu.diablo3.com/en-us/profile/ProPaHD-2790/)               |      2121      | 140.82 Trillion   |    Monk     | 2021-08-19 15:45:12 |
+| 871  | [Ghandy#2428](https://eu.diablo3.com/en-us/profile/Ghandy-2428/)                 |      2119      | 140.45 Trillion   |   Wizard    | 2021-08-19 12:47:06 |
+| 872  | [RahmiKerim#2254](https://eu.diablo3.com/en-us/profile/RahmiKerim-2254/)         |      2118      | 140.26 Trillion   |  Barbarian  | 2021-08-19 17:23:14 |
+| 873  | [Balo#2476](https://eu.diablo3.com/en-us/profile/Balo-2476/)                     |      2117      | 140.08 Trillion   |     DH      | 2021-08-19 17:14:03 |
+| 874  | [CHIPIE#2793](https://eu.diablo3.com/en-us/profile/CHIPIE-2793/)                 |      2113      | 139.34 Trillion   |     DH      | 2021-08-19 16:58:42 |
+| 875  | [Gandalf#2849](https://eu.diablo3.com/en-us/profile/Gandalf-2849/)               |      2112      | 139.16 Trillion   |    Monk     | 2021-08-17 20:19:36 |
+| 876  | [Bankster#21504](https://eu.diablo3.com/en-us/profile/Bankster-21504/)           |      2112      | 139.16 Trillion   |    Monk     | 2021-08-16 22:05:05 |
+| 877  | [Lily#2688](https://eu.diablo3.com/en-us/profile/Lily-2688/)                     |      2112      | 139.16 Trillion   |     DH      | 2021-08-19 16:56:53 |
+| 878  | [nicwit#1357](https://eu.diablo3.com/en-us/profile/nicwit-1357/)                 |      2110      | 138.79 Trillion   |  Barbarian  | 2021-08-15 07:39:44 |
+| 879  | [Proformance#2206](https://eu.diablo3.com/en-us/profile/Proformance-2206/)       |      2109      | 138.61 Trillion   |     DH      | 2021-08-19 15:41:52 |
+| 880  | [Vetono#2305](https://eu.diablo3.com/en-us/profile/Vetono-2305/)                 |      2109      | 138.61 Trillion   |    Monk     | 2021-08-17 19:42:59 |
+| 881  | [MARGO#2766](https://eu.diablo3.com/en-us/profile/MARGO-2766/)                   |      2105      | 137.87 Trillion   |     DH      | 2021-08-19 16:56:13 |
+| 882  | [WildPants#2170936](https://eu.diablo3.com/en-us/profile/WildPants-2170936/)     |      2099      | 136.78 Trillion   |     DH      | 2021-08-16 05:17:17 |
+| 883  | [termos85#2532](https://eu.diablo3.com/en-us/profile/termos85-2532/)             |      2099      | 136.78 Trillion   |  Barbarian  | 2021-08-19 10:32:02 |
+| 884  | [Eisenherz#2480](https://eu.diablo3.com/en-us/profile/Eisenherz-2480/)           |      2095      | 136.05 Trillion   |    Monk     | 2021-08-17 23:15:05 |
+| 885  | [Niels#22872](https://eu.diablo3.com/en-us/profile/Niels-22872/)                 |      2090      | 135.14 Trillion   |  Barbarian  | 2021-08-18 15:12:25 |
+| 886  | [Benifios#2988](https://eu.diablo3.com/en-us/profile/Benifios-2988/)             |      2087      | 134.6 Trillion    |   Wizard    | 2021-08-19 16:57:24 |
+| 887  | [Noct#21550](https://eu.diablo3.com/en-us/profile/Noct-21550/)                   |      2085      | 134.24 Trillion   |     DH      | 2021-08-19 15:04:38 |
+| 888  | [Skarpetovits#2174](https://eu.diablo3.com/en-us/profile/Skarpetovits-2174/)     |      2085      | 134.24 Trillion   |    Monk     | 2021-08-19 17:15:03 |
+| 889  | [lunczar#2488](https://eu.diablo3.com/en-us/profile/lunczar-2488/)               |      2082      | 133.69 Trillion   |  Barbarian  | 2021-08-19 09:16:51 |
+| 890  | [Misiek#2224](https://eu.diablo3.com/en-us/profile/Misiek-2224/)                 |      2071      | 131.72 Trillion   |     DH      | 2021-08-19 16:54:35 |
+| 891  | [DragonLord#2370](https://eu.diablo3.com/en-us/profile/DragonLord-2370/)         |      2070      | 131.54 Trillion   |    Monk     | 2021-08-19 15:36:39 |
+| 892  | [SoH#21223](https://eu.diablo3.com/en-us/profile/SoH-21223/)                     |      2067      | 131.0 Trillion    |  Barbarian  | 2021-08-09 14:21:33 |
+| 893  | [DANTES#2710](https://eu.diablo3.com/en-us/profile/DANTES-2710/)                 |      2066      | 130.83 Trillion   |    Monk     | 2021-08-19 15:26:28 |
+| 894  | [Scarface68#2672](https://eu.diablo3.com/en-us/profile/Scarface68-2672/)         |      2066      | 130.83 Trillion   |     DH      | 2021-08-19 16:20:24 |
+| 895  | [killass#2506](https://eu.diablo3.com/en-us/profile/killass-2506/)               |      2062      | 130.11 Trillion   |    Monk     | 2021-08-19 16:40:37 |
+| 896  | [Sifu#2303](https://eu.diablo3.com/en-us/profile/Sifu-2303/)                     |      2052      | 128.34 Trillion   |     DH      | 2021-08-19 02:13:44 |
+| 897  | [Xprotec#2424](https://eu.diablo3.com/en-us/profile/Xprotec-2424/)               |      2052      | 128.34 Trillion   |     DH      | 2021-08-19 17:25:14 |
+| 898  | [mackfly#1655](https://eu.diablo3.com/en-us/profile/mackfly-1655/)               |      2052      | 128.34 Trillion   |     DH      | 2021-08-19 09:03:09 |
+| 899  | [pewpew#2808](https://eu.diablo3.com/en-us/profile/pewpew-2808/)                 |      2051      | 128.16 Trillion   |  Barbarian  | 2021-08-18 19:51:54 |
+| 900  | [mamanjenny#2972](https://eu.diablo3.com/en-us/profile/mamanjenny-2972/)         |      2049      | 127.81 Trillion   |     DH      | 2021-08-13 09:12:38 |
+| 901  | [DrGene#2845](https://eu.diablo3.com/en-us/profile/DrGene-2845/)                 |      2049      | 127.81 Trillion   |    Monk     | 2021-08-19 17:03:06 |
+| 902  | [HexOmega#2980](https://eu.diablo3.com/en-us/profile/HexOmega-2980/)             |      2047      | 127.46 Trillion   |    Necro    | 2021-08-14 14:51:25 |
+| 903  | [Alucard149#2667](https://eu.diablo3.com/en-us/profile/Alucard149-2667/)         |      2045      | 127.11 Trillion   |    Monk     | 2021-08-19 17:19:00 |
+| 904  | [raziellica#2753](https://eu.diablo3.com/en-us/profile/raziellica-2753/)         |      2045      | 127.11 Trillion   |    Monk     | 2021-08-19 17:22:42 |
+| 905  | [JayBe#21206](https://eu.diablo3.com/en-us/profile/JayBe-21206/)                 |      2037      | 125.71 Trillion   |     DH      | 2021-08-08 10:53:20 |
+| 906  | [Xpto#2486](https://eu.diablo3.com/en-us/profile/Xpto-2486/)                     |      2036      | 125.53 Trillion   |    Monk     | 2021-08-19 16:58:56 |
+| 907  | [Annihilatrix#2503](https://eu.diablo3.com/en-us/profile/Annihilatrix-2503/)     |      2031      | 124.66 Trillion   |     DH      | 2021-08-19 10:01:03 |
+| 908  | [GreenGo#21614](https://eu.diablo3.com/en-us/profile/GreenGo-21614/)             |      2030      | 124.49 Trillion   |     DH      | 2021-08-19 17:10:18 |
+| 909  | [ishalt#21943](https://eu.diablo3.com/en-us/profile/ishalt-21943/)               |      2025      | 123.62 Trillion   |   Wizard    | 2021-08-13 21:51:01 |
+| 910  | [Eulemitkeule#21654](https://eu.diablo3.com/en-us/profile/Eulemitkeule-21654/)   |      2022      | 123.1 Trillion    |    Monk     | 2021-08-19 16:38:31 |
+| 911  | [Georgiana#2484](https://eu.diablo3.com/en-us/profile/Georgiana-2484/)           |      2021      | 122.93 Trillion   |     DH      | 2021-08-19 17:01:50 |
+| 912  | [Kutakizukari#2168](https://eu.diablo3.com/en-us/profile/Kutakizukari-2168/)     |      2019      | 122.58 Trillion   |  Barbarian  | 2021-08-19 17:06:14 |
+| 913  | [Mick#2315](https://eu.diablo3.com/en-us/profile/Mick-2315/)                     |      2011      | 121.2 Trillion    |     DH      | 2021-08-19 17:26:35 |
+| 914  | [gerdan#2221](https://eu.diablo3.com/en-us/profile/gerdan-2221/)                 |      2009      | 120.86 Trillion   |     DH      | 2021-08-19 17:09:04 |
+| 915  | [BountyBOT#2530](https://eu.diablo3.com/en-us/profile/BountyBOT-2530/)           |      2001      | 119.5 Trillion    |  Barbarian  | 2021-08-10 20:30:16 |
+| 916  | [Exoduris#2213](https://eu.diablo3.com/en-us/profile/Exoduris-2213/)             |      1996      | 118.64 Trillion   |  Barbarian  | 2021-08-18 19:40:31 |
+| 917  | [Sechmet#21657](https://eu.diablo3.com/en-us/profile/Sechmet-21657/)             |      1989      | 117.46 Trillion   |     DH      | 2021-08-18 22:08:33 |
+| 918  | [Elelinka#2223](https://eu.diablo3.com/en-us/profile/Elelinka-2223/)             |      1981      | 116.11 Trillion   |    Monk     | 2021-08-19 16:20:03 |
+| 919  | [Koxx007#2939](https://eu.diablo3.com/en-us/profile/Koxx007-2939/)               |      1974      | 114.94 Trillion   |  Barbarian  | 2021-08-17 18:21:11 |
+| 920  | [PAM3AH#21535](https://eu.diablo3.com/en-us/profile/PAM3AH-21535/)               |      1967      | 113.77 Trillion   |  Barbarian  | 2021-08-19 17:12:04 |
+| 921  | [moZart#22307](https://eu.diablo3.com/en-us/profile/moZart-22307/)               |      1966      | 113.61 Trillion   |  Barbarian  | 2021-08-19 00:52:47 |
+| 922  | [La0mba0rdo#2590](https://eu.diablo3.com/en-us/profile/La0mba0rdo-2590/)         |      1966      | 113.61 Trillion   |     DH      | 2021-08-18 17:40:02 |
+| 923  | [Sandro193#2394](https://eu.diablo3.com/en-us/profile/Sandro193-2394/)           |      1963      | 113.11 Trillion   |     DH      | 2021-08-13 16:50:09 |
+| 924  | [Thor74#2602](https://eu.diablo3.com/en-us/profile/Thor74-2602/)                 |      1957      | 112.12 Trillion   |     DH      | 2021-08-19 17:23:45 |
+| 925  | [Axman#21735](https://eu.diablo3.com/en-us/profile/Axman-21735/)                 |      1956      | 111.95 Trillion   |    Monk     | 2021-08-10 21:31:33 |
+| 926  | [Falco#2937](https://eu.diablo3.com/en-us/profile/Falco-2937/)                   |      1954      | 111.62 Trillion   |  Barbarian  | 2021-08-18 20:41:38 |
+| 927  | [Jumper#22888](https://eu.diablo3.com/en-us/profile/Jumper-22888/)               |      1951      | 111.13 Trillion   |     DH      | 2021-08-19 13:55:55 |
+| 928  | [spiikeurs#21225](https://eu.diablo3.com/en-us/profile/spiikeurs-21225/)         |      1950      | 110.97 Trillion   |   Wizard    | 2021-08-19 17:27:09 |
+| 929  | [АссистентТ#2781](https://eu.diablo3.com/en-us/profile/АссистентТ-2781/)         |      1945      | 110.15 Trillion   |     DH      | 2021-08-19 15:18:32 |
+| 930  | [TigsPL#2619](https://eu.diablo3.com/en-us/profile/TigsPL-2619/)                 |      1943      | 109.82 Trillion   |  Barbarian  | 2021-08-19 14:30:51 |
+| 931  | [ombladon#2542](https://eu.diablo3.com/en-us/profile/ombladon-2542/)             |      1941      | 109.5 Trillion    |  Barbarian  | 2021-08-18 19:51:40 |
+| 932  | [Ditz#21849](https://eu.diablo3.com/en-us/profile/Ditz-21849/)                   |      1938      | 109.01 Trillion   |  Barbarian  | 2021-08-19 13:14:15 |
+| 933  | [Kraven#2126](https://eu.diablo3.com/en-us/profile/Kraven-2126/)                 |      1936      | 108.68 Trillion   |     DH      | 2021-08-19 15:05:30 |
+| 934  | [Pinnswin#2619](https://eu.diablo3.com/en-us/profile/Pinnswin-2619/)             |      1935      | 108.52 Trillion   |   Wizard    | 2021-08-19 13:36:54 |
+| 935  | [PHOENIX#2613](https://eu.diablo3.com/en-us/profile/PHOENIX-2613/)               |      1933      | 108.2 Trillion    |   Wizard    | 2021-08-19 11:39:54 |
+| 936  | [Seba#2425](https://eu.diablo3.com/en-us/profile/Seba-2425/)                     |      1932      | 108.03 Trillion   |    Monk     | 2021-08-19 06:13:39 |
+| 937  | [Tw1s73rN8#2329](https://eu.diablo3.com/en-us/profile/Tw1s73rN8-2329/)           |      1929      | 107.55 Trillion   |     WD      | 2021-08-12 17:32:08 |
+| 938  | [Dragonfly#22828](https://eu.diablo3.com/en-us/profile/Dragonfly-22828/)         |      1920      | 106.1 Trillion    |     DH      | 2021-08-17 20:41:12 |
+| 939  | [IKELUK#2761](https://eu.diablo3.com/en-us/profile/IKELUK-2761/)                 |      1919      | 105.94 Trillion   |    Monk     | 2021-08-19 07:28:08 |
+| 940  | [t1p#2638](https://eu.diablo3.com/en-us/profile/t1p-2638/)                       |      1913      | 104.98 Trillion   |  Barbarian  | 2021-08-18 19:11:35 |
+| 941  | [Devildriver#2343](https://eu.diablo3.com/en-us/profile/Devildriver-2343/)       |      1908      | 104.18 Trillion   |     DH      | 2021-08-12 17:39:24 |
+| 942  | [xYukioox#2702](https://eu.diablo3.com/en-us/profile/xYukioox-2702/)             |      1904      | 103.55 Trillion   |     DH      | 2021-08-07 14:44:48 |
+| 943  | [Merpheus#2709](https://eu.diablo3.com/en-us/profile/Merpheus-2709/)             |      1897      | 102.44 Trillion   |  Barbarian  | 2021-08-15 08:43:47 |
+| 944  | [Virgoshaka#21159](https://eu.diablo3.com/en-us/profile/Virgoshaka-21159/)       |      1895      | 102.13 Trillion   |     DH      | 2021-08-16 01:03:04 |
+| 945  | [Gilavar#2818](https://eu.diablo3.com/en-us/profile/Gilavar-2818/)               |      1889      | 101.19 Trillion   |     WD      | 2021-08-19 17:19:11 |
+| 946  | [kentaro#2730](https://eu.diablo3.com/en-us/profile/kentaro-2730/)               |      1868      | 97.92 Trillion    |     DH      | 2021-08-19 15:17:10 |
+| 947  | [ADATHOR#2942](https://eu.diablo3.com/en-us/profile/ADATHOR-2942/)               |      1857      | 96.24 Trillion    |    Monk     | 2021-08-19 16:29:02 |
+| 948  | [Miikeul#2752](https://eu.diablo3.com/en-us/profile/Miikeul-2752/)               |      1852      | 95.47 Trillion    |    Monk     | 2021-08-17 02:24:07 |
+| 949  | [DLV#21290](https://eu.diablo3.com/en-us/profile/DLV-21290/)                     |      1849      | 95.02 Trillion    |     DH      | 2021-08-19 17:22:51 |
+| 950  | [Flo124#2600](https://eu.diablo3.com/en-us/profile/Flo124-2600/)                 |      1848      | 94.87 Trillion    |   Wizard    | 2021-08-10 23:29:15 |
+| 951  | [SCATANA#1588](https://eu.diablo3.com/en-us/profile/SCATANA-1588/)               |      1842      | 93.96 Trillion    |    Monk     | 2021-08-19 14:21:07 |
+| 952  | [Ranerous#2507](https://eu.diablo3.com/en-us/profile/Ranerous-2507/)             |      1835      | 92.91 Trillion    |    Necro    | 2021-08-15 16:04:50 |
+| 953  | [Ghostx3#21610](https://eu.diablo3.com/en-us/profile/Ghostx3-21610/)             |      1830      | 92.16 Trillion    |    Monk     | 2021-08-19 16:58:29 |
+| 954  | [SilentStorm#22481](https://eu.diablo3.com/en-us/profile/SilentStorm-22481/)     |      1822      | 90.97 Trillion    |     DH      | 2021-08-15 00:16:29 |
+| 955  | [FreeMan#22581](https://eu.diablo3.com/en-us/profile/FreeMan-22581/)             |      1812      | 89.49 Trillion    |     DH      | 2021-08-13 09:31:28 |
+| 956  | [Хома#2304](https://eu.diablo3.com/en-us/profile/Хома-2304/)                     |      1807      | 88.75 Trillion    |     DH      | 2021-08-18 20:42:51 |
+| 957  | [golfik#21441](https://eu.diablo3.com/en-us/profile/golfik-21441/)               |      1803      | 88.17 Trillion    |  Barbarian  | 2021-08-19 17:19:15 |
+| 958  | [bullet#2389](https://eu.diablo3.com/en-us/profile/bullet-2389/)                 |      1800      | 87.73 Trillion    |     DH      | 2021-08-18 20:49:36 |
+| 959  | [Infest#21896](https://eu.diablo3.com/en-us/profile/Infest-21896/)               |      1799      | 87.58 Trillion    |     DH      | 2021-08-15 12:29:54 |
+| 960  | [LADYLUCK666#2848](https://eu.diablo3.com/en-us/profile/LADYLUCK666-2848/)       |      1793      | 86.71 Trillion    |     DH      | 2021-08-12 20:49:00 |
+| 961  | [Dragur#21999](https://eu.diablo3.com/en-us/profile/Dragur-21999/)               |      1792      | 86.57 Trillion    |     DH      | 2021-08-19 17:08:00 |
+| 962  | [Sfynx100#2795](https://eu.diablo3.com/en-us/profile/Sfynx100-2795/)             |      1785      | 85.56 Trillion    |     DH      | 2021-08-19 13:56:54 |
+| 963  | [ijk#21739](https://eu.diablo3.com/en-us/profile/ijk-21739/)                     |      1780      | 84.84 Trillion    |     DH      | 2021-08-19 00:20:19 |
+| 964  | [SneakySquid#22141](https://eu.diablo3.com/en-us/profile/SneakySquid-22141/)     |      1780      | 84.84 Trillion    |    Monk     | 2021-08-19 16:50:27 |
+| 965  | [KiLLeR#210360](https://eu.diablo3.com/en-us/profile/KiLLeR-210360/)             |      1777      | 84.41 Trillion    |    Monk     | 2021-08-19 15:57:34 |
+| 966  | [Adaś#21108](https://eu.diablo3.com/en-us/profile/Adaś-21108/)                   |      1776      | 84.27 Trillion    |   Wizard    | 2021-08-17 13:25:59 |
+| 967  | [blackbeard83#1866](https://eu.diablo3.com/en-us/profile/blackbeard83-1866/)     |      1773      | 83.84 Trillion    |   Wizard    | 2021-08-19 17:25:07 |
+| 968  | [ezy#2405](https://eu.diablo3.com/en-us/profile/ezy-2405/)                       |      1772      | 83.7 Trillion     |     DH      | 2021-08-19 02:24:02 |
+| 969  | [chocsam#2340](https://eu.diablo3.com/en-us/profile/chocsam-2340/)               |      1770      | 83.41 Trillion    |    Monk     | 2021-08-19 06:09:55 |
+| 970  | [DRAGON#21542](https://eu.diablo3.com/en-us/profile/DRAGON-21542/)               |      1760      | 82.0 Trillion     |     DH      | 2021-08-19 08:46:00 |
+| 971  | [Spyra#2335](https://eu.diablo3.com/en-us/profile/Spyra-2335/)                   |      1759      | 81.86 Trillion    |     DH      | 2021-08-18 22:39:45 |
+| 972  | [Nahuatl#2825](https://eu.diablo3.com/en-us/profile/Nahuatl-2825/)               |      1752      | 80.88 Trillion    |     DH      | 2021-08-19 17:26:41 |
+| 973  | [coolman#22401](https://eu.diablo3.com/en-us/profile/coolman-22401/)             |      1752      | 80.88 Trillion    |    Monk     | 2021-08-19 10:37:17 |
+| 974  | [Skye#21738](https://eu.diablo3.com/en-us/profile/Skye-21738/)                   |      1751      | 80.74 Trillion    |    Monk     | 2021-08-19 17:07:58 |
+| 975  | [luffygreece#2669](https://eu.diablo3.com/en-us/profile/luffygreece-2669/)       |      1751      | 80.74 Trillion    |    Monk     | 2021-08-16 07:59:57 |
+| 976  | [Matri#2245](https://eu.diablo3.com/en-us/profile/Matri-2245/)                   |      1751      | 80.74 Trillion    |    Monk     | 2021-08-09 19:01:33 |
+| 977  | [Николь#21601](https://eu.diablo3.com/en-us/profile/Николь-21601/)               |      1746      | 80.04 Trillion    |     DH      | 2021-08-19 17:13:18 |
+| 978  | [biye#2341](https://eu.diablo3.com/en-us/profile/biye-2341/)                     |      1745      | 79.9 Trillion     |     DH      | 2021-08-19 08:52:00 |
+| 979  | [BugFREE#21448](https://eu.diablo3.com/en-us/profile/BugFREE-21448/)             |      1742      | 79.48 Trillion    |  Barbarian  | 2021-08-19 17:14:01 |
+| 980  | [JeTTcom#2931](https://eu.diablo3.com/en-us/profile/JeTTcom-2931/)               |      1741      | 79.34 Trillion    |    Monk     | 2021-08-15 21:46:35 |
+| 981  | [Windux#2292](https://eu.diablo3.com/en-us/profile/Windux-2292/)                 |      1739      | 79.07 Trillion    |    Monk     | 2021-08-16 17:59:43 |
+| 982  | [MatStar988#2159](https://eu.diablo3.com/en-us/profile/MatStar988-2159/)         |      1737      | 78.79 Trillion    |  Barbarian  | 2021-08-18 20:31:46 |
+| 983  | [Fafhnir#21829](https://eu.diablo3.com/en-us/profile/Fafhnir-21829/)             |      1730      | 77.83 Trillion    |     DH      | 2021-08-10 21:23:41 |
+| 984  | [Mefisto56#2696](https://eu.diablo3.com/en-us/profile/Mefisto56-2696/)           |      1726      | 77.28 Trillion    |    Monk     | 2021-08-19 17:29:58 |
+| 985  | [Executioner#2522](https://eu.diablo3.com/en-us/profile/Executioner-2522/)       |      1724      | 77.01 Trillion    |     DH      | 2021-08-18 22:24:36 |
+| 986  | [HUAN75#2747](https://eu.diablo3.com/en-us/profile/HUAN75-2747/)                 |      1724      | 77.01 Trillion    |     DH      | 2021-08-18 22:13:14 |
+| 987  | [Reyna#21322](https://eu.diablo3.com/en-us/profile/Reyna-21322/)                 |      1721      | 76.6 Trillion     |     DH      | 2021-08-19 04:42:02 |
+| 988  | [DarkVision#21376](https://eu.diablo3.com/en-us/profile/DarkVision-21376/)       |      1703      | 74.17 Trillion    |   Wizard    | 2021-08-17 17:32:59 |
+| 989  | [Julia#24844](https://eu.diablo3.com/en-us/profile/Julia-24844/)                 |      1702      | 74.04 Trillion    |  Barbarian  | 2021-08-18 11:39:26 |
+| 990  | [MatiNS134#2482](https://eu.diablo3.com/en-us/profile/MatiNS134-2482/)           |      1698      | 73.5 Trillion     |     DH      | 2021-08-19 13:39:07 |
+| 991  | [DeadMakerHB#2846](https://eu.diablo3.com/en-us/profile/DeadMakerHB-2846/)       |      1677      | 70.73 Trillion    |    Monk     | 2021-08-19 15:42:32 |
+| 992  | [CAPUTMUNDI#21471](https://eu.diablo3.com/en-us/profile/CAPUTMUNDI-21471/)       |      1666      | 69.3 Trillion     |     DH      | 2021-08-17 22:25:55 |
+| 993  | [PLZ#21750](https://eu.diablo3.com/en-us/profile/PLZ-21750/)                     |      1665      | 69.17 Trillion    |     DH      | 2021-08-16 10:45:07 |
+| 994  | [Zarathustra#2567](https://eu.diablo3.com/en-us/profile/Zarathustra-2567/)       |      1663      | 68.91 Trillion    |  Barbarian  | 2021-08-18 20:27:59 |
+| 995  | [Kettensäge#2523](https://eu.diablo3.com/en-us/profile/Kettensäge-2523/)         |      1662      | 68.78 Trillion    |     DH      | 2021-08-18 21:16:08 |
+| 996  | [ALca1D#2430](https://eu.diablo3.com/en-us/profile/ALca1D-2430/)                 |      1652      | 67.5 Trillion     |     DH      | 2021-08-19 00:16:00 |
+| 997  | [Alternative4#21669](https://eu.diablo3.com/en-us/profile/Alternative4-21669/)   |      1649      | 67.12 Trillion    |     DH      | 2021-08-17 16:03:58 |
+| 998  | [Leliana#21450](https://eu.diablo3.com/en-us/profile/Leliana-21450/)             |      1645      | 66.61 Trillion    |    Monk     | 2021-08-19 07:10:20 |
+| 999  | [Kikipasso#2101](https://eu.diablo3.com/en-us/profile/Kikipasso-2101/)           |      1643      | 66.36 Trillion    |     DH      | 2021-08-15 20:03:37 |
+| 1000 | [mleczyk30#2439](https://eu.diablo3.com/en-us/profile/mleczyk30-2439/)           |      1634      | 65.22 Trillion    |     DH      | 2021-08-10 22:20:57 |
+| 1001 | [Zecke#2678](https://eu.diablo3.com/en-us/profile/Zecke-2678/)                   |      1600      | 61.03 Trillion    |    Monk     | 2021-08-18 21:20:08 |
+| 1002 | [Saab2012#2550](https://eu.diablo3.com/en-us/profile/Saab2012-2550/)             |      1579      | 58.51 Trillion    |     DH      | 2021-08-14 22:47:57 |
+| 1003 | [eSsex#2905](https://eu.diablo3.com/en-us/profile/eSsex-2905/)                   |      1577      | 58.27 Trillion    |  Barbarian  | 2021-08-19 16:59:44 |
+| 1004 | [Akille#2196](https://eu.diablo3.com/en-us/profile/Akille-2196/)                 |      1574      | 57.92 Trillion    |  Barbarian  | 2021-08-18 14:58:16 |
+| 1005 | [Saschinzki#2619](https://eu.diablo3.com/en-us/profile/Saschinzki-2619/)         |      1570      | 57.45 Trillion    |  Barbarian  | 2021-08-15 13:35:06 |
+| 1006 | [Tanya#21271](https://eu.diablo3.com/en-us/profile/Tanya-21271/)                 |      1570      | 57.45 Trillion    |   Wizard    | 2021-08-04 11:22:34 |
+| 1007 | [HEMI300c#2279](https://eu.diablo3.com/en-us/profile/HEMI300c-2279/)             |      1557      | 55.93 Trillion    |  Crusader   | 2021-08-19 16:33:02 |
+| 1008 | [Dimon#21865](https://eu.diablo3.com/en-us/profile/Dimon-21865/)                 |      1554      | 55.58 Trillion    |     DH      | 2021-08-19 17:08:58 |
+| 1009 | [WiLo#2603](https://eu.diablo3.com/en-us/profile/WiLo-2603/)                     |      1547      | 54.78 Trillion    |  Barbarian  | 2021-08-14 22:05:31 |
+| 1010 | [Braither90#1260](https://eu.diablo3.com/en-us/profile/Braither90-1260/)         |      1546      | 54.66 Trillion    |     DH      | 2021-08-19 17:16:45 |
+| 1011 | [Grudol#2163](https://eu.diablo3.com/en-us/profile/Grudol-2163/)                 |      1538      | 53.75 Trillion    |   Wizard    | 2021-08-19 17:29:48 |
+| 1012 | [ReFi#2895](https://eu.diablo3.com/en-us/profile/ReFi-2895/)                     |      1529      | 52.73 Trillion    |    Monk     | 2021-08-13 18:49:21 |
+| 1013 | [Neosid#2950](https://eu.diablo3.com/en-us/profile/Neosid-2950/)                 |      1526      | 52.39 Trillion    |    Monk     | 2021-08-07 01:48:05 |
+| 1014 | [Powerboy#2329](https://eu.diablo3.com/en-us/profile/Powerboy-2329/)             |      1506      | 50.17 Trillion    |  Barbarian  | 2021-08-19 17:12:16 |
+| 1015 | [dragon1#2872](https://eu.diablo3.com/en-us/profile/dragon1-2872/)               |      1492      | 48.65 Trillion    |     DH      | 2021-08-19 07:57:11 |
+| 1016 | [Myry#2963](https://eu.diablo3.com/en-us/profile/Myry-2963/)                     |      1480      | 47.36 Trillion    |    Monk     | 2021-08-17 17:36:02 |
+| 1017 | [Ramboo#2225](https://eu.diablo3.com/en-us/profile/Ramboo-2225/)                 |      1474      | 46.73 Trillion    |  Barbarian  | 2021-08-14 22:00:45 |
+| 1018 | [Neithotep#21794](https://eu.diablo3.com/en-us/profile/Neithotep-21794/)         |      1451      | 44.32 Trillion    |     DH      | 2021-08-18 09:59:41 |
+| 1019 | [Geronimo#2421](https://eu.diablo3.com/en-us/profile/Geronimo-2421/)             |      1448      | 44.01 Trillion    |    Monk     | 2021-08-17 23:00:41 |
+| 1020 | [Uzziel#2571](https://eu.diablo3.com/en-us/profile/Uzziel-2571/)                 |      1438      | 42.99 Trillion    |    Monk     | 2021-08-15 13:00:11 |
+| 1021 | [SCer0525#2179](https://eu.diablo3.com/en-us/profile/SCer0525-2179/)             |      1412      | 40.4 Trillion     |     DH      | 2021-08-18 21:23:07 |
+| 1022 | [ToLooz#2378](https://eu.diablo3.com/en-us/profile/ToLooz-2378/)                 |      1405      | 39.71 Trillion    |    Monk     | 2021-08-10 16:50:24 |
+| 1023 | [Bruttal#2206](https://eu.diablo3.com/en-us/profile/Bruttal-2206/)               |      1351      | 34.63 Trillion    |    Monk     | 2021-08-19 16:51:11 |
+| 1024 | [fireboy#2329](https://eu.diablo3.com/en-us/profile/fireboy-2329/)               |      1345      | 34.09 Trillion    |     DH      | 2021-08-11 22:48:41 |
+| 1025 | [Nataly#21950](https://eu.diablo3.com/en-us/profile/Nataly-21950/)               |      1338      | 33.46 Trillion    |    Monk     | 2021-08-10 09:04:58 |
+| 1026 | [Aleky#2904](https://eu.diablo3.com/en-us/profile/Aleky-2904/)                   |      1330      | 32.75 Trillion    |     DH      | 2021-08-19 16:53:29 |
+| 1027 | [MisterM#21834](https://eu.diablo3.com/en-us/profile/MisterM-21834/)             |      1329      | 32.67 Trillion    |     DH      | 2021-08-19 17:18:17 |
+| 1028 | [mike193#2806](https://eu.diablo3.com/en-us/profile/mike193-2806/)               |      1285      | 28.91 Trillion    |    Monk     | 2021-08-09 21:02:44 |
+| 1029 | [Feliks#2335](https://eu.diablo3.com/en-us/profile/Feliks-2335/)                 |      1257      | 26.64 Trillion    |     DH      | 2021-08-19 15:48:35 |
+| 1030 | [Mátéúr#2750](https://eu.diablo3.com/en-us/profile/Mátéúr-2750/)                 |      1246      | 25.78 Trillion    |     DH      | 2021-08-15 19:58:59 |
+| 1031 | [daniel55#21481](https://eu.diablo3.com/en-us/profile/daniel55-21481/)           |      1235      | 24.93 Trillion    |    Monk     | 2021-08-19 13:05:43 |
+| 1032 | [bodek#21929](https://eu.diablo3.com/en-us/profile/bodek-21929/)                 |      1212      | 23.2 Trillion     |     DH      | 2021-08-19 17:16:53 |
+| 1033 | [naib#2316](https://eu.diablo3.com/en-us/profile/naib-2316/)                     |      1207      | 22.83 Trillion    |     DH      | 2021-08-18 01:21:31 |
+| 1034 | [kitkat13#2614](https://eu.diablo3.com/en-us/profile/kitkat13-2614/)             |      1194      | 21.89 Trillion    |    Monk     | 2021-08-18 13:10:55 |
+| 1035 | [cjisverige#2170](https://eu.diablo3.com/en-us/profile/cjisverige-2170/)         |      1171      | 20.28 Trillion    |     DH      | 2021-08-11 23:07:58 |
+| 1036 | [TheBenDs#2454](https://eu.diablo3.com/en-us/profile/TheBenDs-2454/)             |      1166      | 19.93 Trillion    |     DH      | 2021-08-19 16:28:35 |
+| 1037 | [pepejohnson#21635](https://eu.diablo3.com/en-us/profile/pepejohnson-21635/)     |      1154      | 19.13 Trillion    |     DH      | 2021-08-19 11:47:06 |
+| 1038 | [Ice#23259](https://eu.diablo3.com/en-us/profile/Ice-23259/)                     |      1150      | 18.86 Trillion    |   Wizard    | 2021-08-19 17:17:24 |
+| 1039 | [XLKZS#2394](https://eu.diablo3.com/en-us/profile/XLKZS-2394/)                   |      1024      | 11.49 Trillion    |     DH      | 2021-08-16 00:26:53 |
