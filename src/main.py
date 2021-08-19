@@ -77,7 +77,7 @@ for region in regions:
     # Remove accounts to untrack
     for new, old in remove_if_new_collected.items():
         # If an account could be collected for the new battletag. To circumvent mysterious "Downstream error"
-        if len([a for a in accounts if a.battletag == new.battletag]) > 0:
+        if len([a for a in accounts if a.battleTag == new.battletag]) > 0:
             db.remove_tracked_account(old)
 
 make_site()
