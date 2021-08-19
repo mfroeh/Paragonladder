@@ -43,6 +43,7 @@ jobs:
           
       - name: Commit new files
         run: |
+          git pull -s ours
           git add -A
           git commit -m "Generated new files"
           git push
