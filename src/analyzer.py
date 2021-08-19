@@ -8,13 +8,13 @@ from constants import Region
 @dataclass
 class AccountInfo:
     battletag: str
-    paragon_season: int
-    paragon_nonseason: int
-    playtime: float
-    playtime_distribution: Mapping[str, float]
-    most_played_class: str
-    xp_gained: int
-    last_update: int
+    paragon_season: int = 0
+    paragon_nonseason: int = 0
+    playtime: float = 0.0
+    playtime_distribution: Mapping[str, float] = None
+    most_played_class: str = None
+    xp_gained: int = 0
+    last_update: int = 0
 
 
 class Analyzer:
