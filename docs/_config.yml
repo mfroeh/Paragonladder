@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
 name: Diablo3 Paragonladder
-title: null
+remote_theme: DigitalMindCH/gridster-jekyll-theme
