@@ -1,16 +1,13 @@
 import io
 from pathlib import Path
-from diablo_api import Region
+from analyzer import AccountInfo
 from typing import List, Tuple
-from extractor import AccountInfo
 import datetime as dt
 from database import Database
 from constants import regions
-from itertools import chain
 
 left_rule = {"<": ":", "^": ":", ">": "-"}
 right_rule = {"<": "-", "^": ":", ">": ":"}
-
 
 class_names = {
     "demon-hunter": "DH",
@@ -41,7 +38,7 @@ def make_site():
 
         md = f"# Season {season} (ALL)\n\n---\n"
         md += f"Table created at {dt.datetime.now()}\n\n"
-        md += table_from_mixed_account_infos(season, infos)
+        md += table_for_all(season, infos)
 
         save_path = f"../docs/{season}/all.md"
         Path(f"../docs/{season}").mkdir(parents=True, exist_ok=True)
@@ -56,69 +53,66 @@ def make_site():
             db = Database(season, region)
             infos = db.get_account_infos()
 
-            md = f"# Season {season} ({str.upper(region.value)})\n\n---\n"
+            md = f"# Season {season} ({str.upper(region)})\n\n---\n"
             md += f"Table created at {dt.datetime.now()}\n\n"
-            md += table_from_account_infos(season, region, infos)
+            md += table_for_region(season, region, infos)
 
-            save_path = f"../docs/{season}/{region.value}.md"
-            Path(f"../docs/{season}").mkdir(parents=True, exist_ok=True)
-
-            f = io.open(save_path, "w+", encoding="utf-8")
+            f = io.open(f"../docs/{season}/{region}.md", "w+", encoding="utf-8")
             f.write(md)
 
-            toc += f"* [{str.upper(region.value)}]({season}/{region.value}.md)\n"
+            toc += f"* [{str.upper(region)}]({season}/{region}.md)\n"
+
+    toc += "\n\n"
 
     f = io.open("../docs/index.md", "w+")
     f.write(toc)
 
 
-def table_from_mixed_account_infos(
-    season: int, infos: List[Tuple[Region, AccountInfo]]
-) -> str:
+def table_for_all(infos: List[Tuple[str, AccountInfo]]) -> str:
+    """
+    Generates a doxygen-flavored markdown table from the given account information.
+    """
     headings = [
         "#",
         "Region",
         "BattleTag",
         "Paragon Season",
+        "Experience gained",
         "Most played",
-        "Paragon NonSeason",
         "Last update",
     ]
-    print(infos)
-    _sorted = sorted(infos, key=lambda a: a[1].paragon_season, reverse=True)
+
+    _sorted = sorted(infos, key=lambda tuple: tuple[1].paragon_season, reverse=True)
 
     data = [
         (
             i + 1,
-            str.upper(a[0].value),
-            f"[{a[1].battletag}](https://{a[0].value}.diablo3.com/en-us/profile/{a[1].battletag.replace('#', '-')}/)",
-            a[1].paragon_season,
-            class_names[a[1].most_played_class],
-            a[1].paragon_nonseason,
-            dt.datetime.fromtimestamp(a[1].last_update),
+            str.upper(tuple[0]),
+            f"[{tuple[1].battletag}](https://{tuple[0]}.diablo3.com/en-us/profile/{tuple[1].battletag.replace('#', '-')}/)",
+            tuple[1].paragon_season,
+            class_names[tuple[1].most_played_class],
+            tuple[1].paragon_nonseason,
+            dt.datetime.fromtimestamp(tuple[1].last_update),
         )
-        for i, a in enumerate(_sorted)
-        if a[1].last_update
+        for i, tuple in enumerate(_sorted)
+        if tuple[1].last_update
     ]
-    fields = [0, 1, 2, 3, 4, 5, 6]
     align = [
         ("^", "<"),
         ("^", "^"),
         ("^", "<"),
         ("^", "^"),
-        ("^", "^"),
+        ("^", "<"),
         ("^", "^"),
         ("^", "<"),
     ]
 
-    return table(data, fields, headings, align)
+    return table(data, headings, align)
 
 
-def table_from_account_infos(
-    season: int, region: Region, infos: List[AccountInfo]
-) -> str:
+def table_for_region(region: str, infos: List[AccountInfo]) -> str:
     """
-    Generates a doxygen-flavored markdown table from the account information.
+    Generates a doxygen-flavored markdown table from the given account information.
     """
     headings = [
         "#",
@@ -128,24 +122,30 @@ def table_from_account_infos(
         "Paragon NonSeason",
         "Last update",
     ]
-    _sorted = sorted(infos, key=lambda a: a.paragon_season, reverse=True)
+    _sorted = sorted(infos, key=lambda info: info.paragon_season, reverse=True)
 
     data = [
         (
             i + 1,
-            f"[{a.battletag}](https://{region.value}.diablo3.com/en-us/profile/{a.battletag.replace('#', '-')}/)",
-            a.paragon_season,
-            class_names[a.most_played_class],
-            a.paragon_nonseason,
-            dt.datetime.fromtimestamp(a.last_update),
+            f"[{info.battletag}](https://{region}.diablo3.com/en-us/profile/{info.battletag.replace('#', '-')}/)",
+            info.paragon_season,
+            class_names[info.most_played_class],
+            info.paragon_nonseason,
+            dt.datetime.fromtimestamp(info.last_update),
         )
-        for i, a in enumerate(_sorted)
-        if a.last_update
+        for i, info in enumerate(_sorted)
+        if info.last_update
     ]
-    fields = [0, 1, 2, 3, 4, 5]
-    align = [("^", "<"), ("^", "<"), ("^", "^"), ("^", "^"), ("^", "^"), ("^", "<")]
 
-    return table(data, fields, headings, align)
+    align = [
+        ("^", "<"),
+        ("^", "<"),
+        ("^", "^"),
+        ("^", "<"),
+        ("^", "^"),
+        ("^", "<"),
+    ]
+    return table(data, headings, align)
 
 
 def evalute_field(record, field_spec) -> str:
@@ -160,16 +160,11 @@ def evalute_field(record, field_spec) -> str:
         return str(field_spec(record))
 
 
-def table(records, fields, headings, alignment=None) -> str:
+def table(records, headings, alignment=None) -> str:
     """
     Generate a Doxygen-flavor Markdown table from records.
 
     records -- Iterable.  Rows will be generated from this.
-    fields -- List of fields for each row.  Each entry may be an integer,
-        string or a function.  If the entry is an integer, it is assumed to be
-        an index of each record.  If the entry is a string, it is assumed to be
-        a field of each record.  If the entry is a function, it is called with
-        the record and its return value is taken as the value of the field.
     headings -- List of column headings.
     alignment - List of pairs alignment characters.  The first of the pair
         specifies the alignment of the header, (Doxygen won't respect this, but
@@ -182,8 +177,8 @@ def table(records, fields, headings, alignment=None) -> str:
             '^' = Center (default for column headings)
     """
 
-    num_columns = len(fields)
-    assert len(headings) == num_columns
+    num_columns = len(headings)
+    fields = range(num_columns)
 
     # Compute the table cell data
     columns = [[] for i in range(num_columns)]
