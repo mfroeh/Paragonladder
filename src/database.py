@@ -13,18 +13,18 @@ class Database:
         Path(f"../database/{season}").mkdir(parents=True, exist_ok=True)
         self.db = TinyDB(f"../database/{season}/{region}.json")
 
-    def update_account_infos(self, infos: List[AccountInfo]) -> NoReturn:
+    def update_tracked_accounts(self, infos: List[AccountInfo]) -> NoReturn:
         for info in infos:
             self.db.update(asdict(info), Query().battletag == info.battletag)
 
-    def insert_battletags(self, battletags: List[str]) -> NoReturn:
-        i = 0
-        for btag in battletags:
-            if not self.db.search(Query().battletag == btag):
-                self.db.insert(asdict(AccountInfo(battletag=btag)))
-                i += 1
+    # def insert_battletags(self, battletags: List[str]) -> NoReturn:
+    #     i = 0
+    #     for btag in battletags:
+    #         if not self.db.search(Query().battletag == btag):
+    #             self.db.insert(asdict(AccountInfo(battletag=btag)))
+    #             i += 1
 
-        print(f"Inserted {i} new battletags")
+    #     print(f"Inserted {i} new battletags")
 
     def get_account_infos(self) -> List[AccountInfo]:
         """

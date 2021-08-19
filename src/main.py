@@ -1,6 +1,6 @@
 from analyzer import Analyzer
 from collector import Collector
-from constants import Locale, regions
+from constants import Locale, Region, regions
 from diablo_api import DiabloApi
 from database import Database
 from blizzardapi import BlizzardApi
@@ -21,7 +21,6 @@ client_id = args["client_id"]
 client_secret = args["client_secret"]
 
 api = DiabloApi(BlizzardApi(client_id, client_secret), Locale.EN_US)
-
 for region in regions:
     current_season = api.get_current_season(region)
     if not current_season:
@@ -33,12 +32,13 @@ for region in regions:
     analyzer = Analyzer(current_season, region)
 
     btags = collector.collect_battletags()
+    print(btags)
     db.insert_battletags(btags)
 
     battletags = db.get_battltags()
     accounts = collector.collect_accounts(battletags)
     infos = analyzer.analyze_accounts(accounts)
 
-    db.update_account_infos(infos)
+    db.update_tracked_accounts(infos)
 
 make_site()
