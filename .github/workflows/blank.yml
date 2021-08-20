@@ -35,9 +35,11 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/$GITHUB_REPOSITORY
           git checkout "${GITHUB_REF:11}"
           
+      - name: Install requirements
+        run: pip install -r requirements.txt
+          
       - name: Generate new files
         run: |
-          pip install -r requirements.txt
           cd src
           python main.py --client_id=${{secrets.CLIENT_ID}} --client_secret=${{secrets.CLIENT_SECRET}}
           
