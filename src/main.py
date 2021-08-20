@@ -22,9 +22,10 @@ client_secret = args["client_secret"]
 
 api = DiabloApi(BlizzardApi(client_id, client_secret), Locale.EN_US)
 for region in regions:
+    print(f">>> {region}")
     current_season = api.get_current_season(region)
     if not current_season:
-        print(f"Failed to get current season for {region}. Skipping it.")
+        print(f"Failed to get current season, skipping the region.")
         continue
 
     db = Database(current_season, region)
@@ -39,7 +40,7 @@ for region in regions:
 
     # Collect battletags from all leaderboards
     btags = collector.collect_battletags()
-    print(f"Collected a total of {len(btags)} unique battletags for {region}.")
+    print(f"Collected a total of {len(btags)} unique battletags.")
 
     # Determine which new accounts to track
     tracked = {a.battletag: a.paragon_season for a in db.get_tracked()}
