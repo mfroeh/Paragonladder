@@ -3,7 +3,7 @@
 A seasonal paragon-ladder for Diablo III hosted at https://vocaltrance.github.io/Paragonladder/. \
 All data is received through calls to Blizzards Diablo API.\
 The leaderboard is updated via github-workflow on the beginning of every hour.\
-Every account that appeared on the four player leaderboard at one point is tracked.
+Accounts that appeared on any of the leaderboards at one point are candidates for beeing tracked.
 
 
 ## Known Issues
@@ -12,6 +12,6 @@ Whilst the accounts are still tracked, the account information can not be receiv
 This can exemplary be observed with the battletag `Tok#11317`.
 
 This project was started whilst Diablo III Season 24 was already running, which is why
-> Every battletag that appeared on the four player leaderboard at one point is tracked.
+> Accounts that appeared on any of the leaderboards at one point are candidates for beeing tracked. 
 
-does only apply to accounts that appear on the four player leaderboard after the projects start.
+does only apply to accounts that appeared on the leaderboards after the projects start.
