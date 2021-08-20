@@ -39,7 +39,7 @@ class Collector:
         accounts = []
         for i, btag in enumerate(battletags):
             account = self.api.get_account(self.region, btag)
-            if account:
+            if account and account.battleTag:
                 accounts.append(account)
 
             if i > 0 and i % 20 == 0:
