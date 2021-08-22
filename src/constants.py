@@ -26,4 +26,4 @@ class HeroClass:
 
 
 regions = [Region.CN, Region.EU, Region.US, Region.KR_TW]
-track_count = 500
+track_count = 300

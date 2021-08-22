@@ -44,8 +44,15 @@ for region in regions:
 
     # Determine which new accounts to track
     tracked = {a.battletag: a.paragon_season for a in db.get_tracked()}
+
+    # If there are more accounts tracked than is allowed
+    if len(tracked) > track_count:
+        descending_tuples = sorted(tracked.items(), key=lambda x: x[1], reverse=True)
+        tracked = dict(descending_tuples[:track_count])
+        for btag, _ in descending_tuples[track_count - 1 :]:
+            db.remove_tracked_account(btag)
     # If there arent as many accounts tracked as is allowed, insert dummies
-    if len(tracked) < track_count:
+    elif len(tracked) < track_count:
         for i in range(track_count - len(tracked)):
             tracked[i] = 0
 
