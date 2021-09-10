@@ -1,7 +1,7 @@
 # Season 24 (CN)
 
 ---
-Table created at 2021-09-10 07:36:45.648915
+Table created at 2021-09-10 11:10:04.496873
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
