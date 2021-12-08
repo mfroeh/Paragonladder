@@ -1,7 +1,7 @@
 # Season 24 (CN)
 
 ---
-Table created at 2021-12-08 12:01:07.211494
+Table created at 2021-12-08 13:17:17.862899
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -151,7 +151,7 @@ Table created at 2021-12-08 12:01:07.211494
 | 144 | [红心#51269](https://d3.blizzard.cn/profile/红心-51269/)                   |     11096      | 22.69 Quadrillion |    Monk     | 2021-12-02 18:27:46 |
 | 145 | [跳跳熊#5364399](https://d3.blizzard.cn/profile/跳跳熊-5364399/)             |     11094      | 22.68 Quadrillion |    Monk     | 2021-11-24 05:12:17 |
 | 146 | [羡我伴风月将月邀#5261](https://d3.blizzard.cn/profile/羡我伴风月将月邀-5261/)         |     11092      | 22.67 Quadrillion |    Monk     | 2021-11-28 08:52:19 |
-| 147 | [清羽#51259](https://d3.blizzard.cn/profile/清羽-51259/)                   |     11080      | 22.59 Quadrillion |    Monk     | 2021-12-02 02:57:49 |
+| 147 | [清羽#51259](https://d3.blizzard.cn/profile/清羽-51259/)                   |     11080      | 22.59 Quadrillion |    Monk     | 2021-12-08 12:31:38 |
 | 148 | [小小魔#51902](https://d3.blizzard.cn/profile/小小魔-51902/)                 |     11079      | 22.59 Quadrillion |    Monk     | 2021-12-05 11:39:07 |
 | 149 | [我是大神#5979](https://d3.blizzard.cn/profile/我是大神-5979/)                 |     11053      | 22.43 Quadrillion |    Monk     | 2021-11-13 13:09:28 |
 | 150 | [神神叨叨#52328](https://d3.blizzard.cn/profile/神神叨叨-52328/)               |     11046      | 22.38 Quadrillion |    Monk     | 2021-12-02 03:34:54 |
