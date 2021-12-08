@@ -1,7 +1,7 @@
 # Season 24 (KR)
 
 ---
-Table created at 2021-12-08 01:56:50.088530
+Table created at 2021-12-08 04:06:29.710890
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -164,7 +164,7 @@ Table created at 2021-12-08 01:56:50.088530
 | 157 | [千絲系方寸#4503](https://kr.diablo3.com/profile/千絲系方寸-4503/)                   |       0        | 0                 |    Monk     | 2021-12-08 00:42:12 |
 | 158 | [봉봉#32230](https://kr.diablo3.com/profile/봉봉-32230/)                       |       0        | 0                 |    Monk     | 2021-12-05 15:13:52 |
 | 159 | [Starmoon#21783](https://kr.diablo3.com/profile/Starmoon-21783/)           |       0        | 0                 |    Monk     | 2021-12-07 06:27:28 |
-| 160 | [그린티#3140](https://kr.diablo3.com/profile/그린티-3140/)                       |       0        | 0                 |    Monk     | 2021-12-05 09:08:14 |
+| 160 | [그린티#3140](https://kr.diablo3.com/profile/그린티-3140/)                       |       0        | 0                 |    Monk     | 2021-12-08 03:44:17 |
 | 161 | [인프리#3711](https://kr.diablo3.com/profile/인프리-3711/)                       |       0        | 0                 |    Monk     | 2021-12-08 00:38:14 |
 | 162 | [씨엔아이#3751](https://kr.diablo3.com/profile/씨엔아이-3751/)                     |       0        | 0                 |    Monk     | 2021-12-07 09:51:27 |
 | 163 | [sseth#11468](https://kr.diablo3.com/profile/sseth-11468/)                 |       0        | 0                 |     DH      | 2021-12-08 00:37:23 |
