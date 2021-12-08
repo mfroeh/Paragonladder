@@ -1,7 +1,7 @@
 # Season 24 (KR)
 
 ---
-Table created at 2021-12-08 00:08:13.918726
+Table created at 2021-12-08 01:56:50.088530
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -9,15 +9,15 @@ Table created at 2021-12-08 00:08:13.918726
 | 2   | [JK38#3765](https://kr.diablo3.com/profile/JK38-3765/)                     |     12314      | 31.14 Quadrillion |    Monk     | 2021-12-06 06:11:53 |
 | 3   | [ingoon#31186](https://kr.diablo3.com/profile/ingoon-31186/)               |     11829      | 27.57 Quadrillion |    Monk     | 2021-12-04 15:31:45 |
 | 4   | [Apdo#31635](https://kr.diablo3.com/profile/Apdo-31635/)                   |     11632      | 26.19 Quadrillion |    Monk     | 2021-12-03 13:23:44 |
-| 5   | [DeepBlue#31279](https://kr.diablo3.com/profile/DeepBlue-31279/)           |     11572      | 25.79 Quadrillion |    Monk     | 2021-12-07 23:13:03 |
+| 5   | [DeepBlue#31279](https://kr.diablo3.com/profile/DeepBlue-31279/)           |     11572      | 25.79 Quadrillion |    Monk     | 2021-12-08 00:32:19 |
 | 6   | [으흐흐#3844](https://kr.diablo3.com/profile/으흐흐-3844/)                       |     11542      | 25.58 Quadrillion |    Monk     | 2021-12-07 10:04:31 |
-| 7   | [의초#3831](https://kr.diablo3.com/profile/의초-3831/)                         |     11500      | 25.3 Quadrillion  |    Monk     | 2021-12-07 23:57:27 |
+| 7   | [의초#3831](https://kr.diablo3.com/profile/의초-3831/)                         |     11500      | 25.3 Quadrillion  |    Monk     | 2021-12-08 00:29:06 |
 | 8   | [불타는눈꺼풀#3625](https://kr.diablo3.com/profile/불타는눈꺼풀-3625/)                 |     11414      | 24.73 Quadrillion |    Monk     | 2021-12-07 00:40:26 |
-| 9   | [cadmus#31352](https://kr.diablo3.com/profile/cadmus-31352/)               |     11364      | 24.4 Quadrillion  |    Monk     | 2021-12-07 23:51:26 |
+| 9   | [cadmus#31352](https://kr.diablo3.com/profile/cadmus-31352/)               |     11364      | 24.4 Quadrillion  |    Monk     | 2021-12-08 00:42:12 |
 | 10  | [DireRaven#3270](https://kr.diablo3.com/profile/DireRaven-3270/)           |     11350      | 24.31 Quadrillion |    Monk     | 2021-12-05 12:25:32 |
-| 11  | [swin#11340](https://kr.diablo3.com/profile/swin-11340/)                   |     11279      | 23.85 Quadrillion |    Monk     | 2021-12-07 23:13:42 |
+| 11  | [swin#11340](https://kr.diablo3.com/profile/swin-11340/)                   |     11279      | 23.85 Quadrillion |    Monk     | 2021-12-08 00:35:56 |
 | 12  | [서바이버#3986](https://kr.diablo3.com/profile/서바이버-3986/)                     |     11143      | 22.99 Quadrillion |    Monk     | 2021-11-28 10:39:38 |
-| 13  | [GregPacker#2856](https://kr.diablo3.com/profile/GregPacker-2856/)         |     11102      | 22.73 Quadrillion |    Monk     | 2021-12-07 23:49:52 |
+| 13  | [GregPacker#2856](https://kr.diablo3.com/profile/GregPacker-2856/)         |     11102      | 22.73 Quadrillion |    Monk     | 2021-12-08 00:30:36 |
 | 14  | [HIHIcomeback#3462](https://kr.diablo3.com/profile/HIHIcomeback-3462/)     |     11057      | 22.45 Quadrillion |    Monk     | 2021-11-19 11:50:20 |
 | 15  | [TwinMoons#4168](https://kr.diablo3.com/profile/TwinMoons-4168/)           |     11038      | 22.33 Quadrillion |    Monk     | 2021-11-22 06:59:17 |
 | 16  | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)                 |     11029      | 22.28 Quadrillion |    Monk     | 2021-12-06 04:48:04 |
@@ -32,7 +32,7 @@ Table created at 2021-12-08 00:08:13.918726
 | 25  | [Jingo#31432](https://kr.diablo3.com/profile/Jingo-31432/)                 |     10454      | 18.93 Quadrillion |    Monk     | 2021-11-02 23:47:22 |
 | 26  | [bonny#3252](https://kr.diablo3.com/profile/bonny-3252/)                   |     10426      | 18.77 Quadrillion |    Monk     | 2021-12-05 05:37:05 |
 | 27  | [euu#31845](https://kr.diablo3.com/profile/euu-31845/)                     |     10381      | 18.53 Quadrillion |    Monk     | 2021-11-12 02:57:30 |
-| 28  | [Faker#24793](https://kr.diablo3.com/profile/Faker-24793/)                 |     10379      | 18.52 Quadrillion |    Monk     | 2021-12-07 23:56:27 |
+| 28  | [Faker#24793](https://kr.diablo3.com/profile/Faker-24793/)                 |     10379      | 18.52 Quadrillion |    Monk     | 2021-12-08 00:29:47 |
 | 29  | [Cloud#33132](https://kr.diablo3.com/profile/Cloud-33132/)                 |     10350      | 18.36 Quadrillion |    Monk     | 2021-11-04 16:44:52 |
 | 30  | [Kerrigann#3496](https://kr.diablo3.com/profile/Kerrigann-3496/)           |     10322      | 18.21 Quadrillion |    Monk     | 2021-11-30 12:57:00 |
 | 31  | [연후#3621](https://kr.diablo3.com/profile/연후-3621/)                         |     10296      | 18.07 Quadrillion |    Monk     | 2021-12-06 05:15:19 |
@@ -136,22 +136,22 @@ Table created at 2021-12-08 00:08:13.918726
 | 129 | [몽실몽실#31626](https://kr.diablo3.com/profile/몽실몽실-31626/)                   |      7482      | 6.79 Quadrillion  |    Monk     | 2021-09-13 02:25:36 |
 | 130 | [BLANCO#31647](https://kr.diablo3.com/profile/BLANCO-31647/)               |      7426      | 6.64 Quadrillion  |    Monk     | 2021-11-15 14:06:52 |
 | 131 | [chilgun#3675](https://kr.diablo3.com/profile/chilgun-3675/)               |      1109      | 16.25 Trillion    |    Monk     | 2021-12-07 14:58:54 |
-| 132 | [정신나간#3531](https://kr.diablo3.com/profile/정신나간-3531/)                     |      973       | 9.06 Trillion     |    Monk     | 2021-12-07 22:54:16 |
+| 132 | [정신나간#3531](https://kr.diablo3.com/profile/정신나간-3531/)                     |      973       | 9.06 Trillion     |    Monk     | 2021-12-08 00:42:12 |
 | 133 | [장비익덕#3420](https://kr.diablo3.com/profile/장비익덕-3420/)                     |      696       | 1.4 Trillion      |    Monk     | 2021-12-05 14:20:31 |
-| 134 | [MOLA#31186](https://kr.diablo3.com/profile/MOLA-31186/)                   |      648       | 931.74 Billion    |    Monk     | 2021-12-07 22:48:03 |
+| 134 | [MOLA#31186](https://kr.diablo3.com/profile/MOLA-31186/)                   |      648       | 931.74 Billion    |    Monk     | 2021-12-08 00:38:35 |
 | 135 | [EVO#12399](https://kr.diablo3.com/profile/EVO-12399/)                     |      635       | 834.47 Billion    |     DH      | 2021-12-06 16:03:20 |
 | 136 | [방실#31212](https://kr.diablo3.com/profile/방실-31212/)                       |      631       | 806.62 Billion    |     DH      | 2021-12-07 22:59:05 |
-| 137 | [혜리#3437](https://kr.diablo3.com/profile/혜리-3437/)                         |      606       | 654.74 Billion    |    Monk     | 2021-12-07 22:33:42 |
-| 138 | [대군#3453](https://kr.diablo3.com/profile/대군-3453/)                         |      334       | 100.37 Billion    |    Monk     | 2021-12-08 00:03:04 |
-| 139 | [GoonyunG#3894](https://kr.diablo3.com/profile/GoonyunG-3894/)             |      197       | 30.76 Billion     |    Monk     | 2021-12-08 00:06:27 |
+| 137 | [혜리#3437](https://kr.diablo3.com/profile/혜리-3437/)                         |      606       | 654.74 Billion    |    Monk     | 2021-12-08 00:42:12 |
+| 138 | [대군#3453](https://kr.diablo3.com/profile/대군-3453/)                         |      334       | 100.37 Billion    |    Monk     | 2021-12-08 00:27:35 |
+| 139 | [GoonyunG#3894](https://kr.diablo3.com/profile/GoonyunG-3894/)             |      197       | 30.76 Billion     |    Monk     | 2021-12-08 00:25:54 |
 | 140 | [彼得潘#4927](https://kr.diablo3.com/profile/彼得潘-4927/)                       |      188       | 28.01 Billion     |    Monk     | 2021-12-08 00:00:29 |
-| 141 | [kimo#3926](https://kr.diablo3.com/profile/kimo-3926/)                     |      105       | 9.43 Billion      |    Monk     | 2021-12-08 00:02:56 |
-| 142 | [사랑이#3401](https://kr.diablo3.com/profile/사랑이-3401/)                       |       87       | 6.5 Billion       |    Monk     | 2021-12-08 00:00:31 |
-| 143 | [DaftJisoo#3264](https://kr.diablo3.com/profile/DaftJisoo-3264/)           |       73       | 4.45 Billion      |    Monk     | 2021-12-08 00:04:40 |
+| 141 | [kimo#3926](https://kr.diablo3.com/profile/kimo-3926/)                     |      105       | 9.43 Billion      |    Monk     | 2021-12-08 00:37:54 |
+| 142 | [사랑이#3401](https://kr.diablo3.com/profile/사랑이-3401/)                       |       87       | 6.5 Billion       |    Monk     | 2021-12-08 00:27:23 |
+| 143 | [DaftJisoo#3264](https://kr.diablo3.com/profile/DaftJisoo-3264/)           |       73       | 4.45 Billion      |    Monk     | 2021-12-08 00:32:44 |
 | 144 | [아리수#3302](https://kr.diablo3.com/profile/아리수-3302/)                       |       60       | 2.98 Billion      |    Monk     | 2021-12-07 07:49:42 |
-| 145 | [치우#31216](https://kr.diablo3.com/profile/치우-31216/)                       |       36       | 1.17 Billion      |    Monk     | 2021-12-07 23:52:17 |
-| 146 | [슈퍼스타#31181](https://kr.diablo3.com/profile/슈퍼스타-31181/)                   |       24       | 570.24 Million    |    Monk     | 2021-12-07 23:21:40 |
-| 147 | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)                 |       19       | 383.04 Million    |    Monk     | 2021-12-08 00:04:57 |
+| 145 | [치우#31216](https://kr.diablo3.com/profile/치우-31216/)                       |       36       | 1.17 Billion      |    Monk     | 2021-12-08 00:40:17 |
+| 146 | [슈퍼스타#31181](https://kr.diablo3.com/profile/슈퍼스타-31181/)                   |       24       | 570.24 Million    |    Monk     | 2021-12-08 00:42:12 |
+| 147 | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)                 |       19       | 383.04 Million    |    Monk     | 2021-12-08 00:42:12 |
 | 148 | [흰꽃#31875](https://kr.diablo3.com/profile/흰꽃-31875/)                       |       3        | 25.92 Million     |    Monk     | 2021-12-05 15:34:53 |
 | 149 | [BaBBosS#3687](https://kr.diablo3.com/profile/BaBBosS-3687/)               |       3        | 25.92 Million     |    Monk     | 2021-12-05 11:16:45 |
 | 150 | [YoungNikko#3855](https://kr.diablo3.com/profile/YoungNikko-3855/)         |       0        | 0                 |    Monk     | 2021-12-07 23:16:34 |
@@ -161,19 +161,19 @@ Table created at 2021-12-08 00:08:13.918726
 | 154 | [거포#3500](https://kr.diablo3.com/profile/거포-3500/)                         |       0        | 0                 |    Monk     | 2021-12-07 11:42:05 |
 | 155 | [아이#3204](https://kr.diablo3.com/profile/아이-3204/)                         |       0        | 0                 |    Monk     | 2021-12-07 14:13:46 |
 | 156 | [Sorry#6887](https://kr.diablo3.com/profile/Sorry-6887/)                   |       0        | 0                 |    Monk     | 2021-12-05 19:04:08 |
-| 157 | [千絲系方寸#4503](https://kr.diablo3.com/profile/千絲系方寸-4503/)                   |       0        | 0                 |    Monk     | 2021-12-07 23:50:13 |
+| 157 | [千絲系方寸#4503](https://kr.diablo3.com/profile/千絲系方寸-4503/)                   |       0        | 0                 |    Monk     | 2021-12-08 00:42:12 |
 | 158 | [봉봉#32230](https://kr.diablo3.com/profile/봉봉-32230/)                       |       0        | 0                 |    Monk     | 2021-12-05 15:13:52 |
 | 159 | [Starmoon#21783](https://kr.diablo3.com/profile/Starmoon-21783/)           |       0        | 0                 |    Monk     | 2021-12-07 06:27:28 |
 | 160 | [그린티#3140](https://kr.diablo3.com/profile/그린티-3140/)                       |       0        | 0                 |    Monk     | 2021-12-05 09:08:14 |
-| 161 | [인프리#3711](https://kr.diablo3.com/profile/인프리-3711/)                       |       0        | 0                 |    Monk     | 2021-12-08 00:03:46 |
+| 161 | [인프리#3711](https://kr.diablo3.com/profile/인프리-3711/)                       |       0        | 0                 |    Monk     | 2021-12-08 00:38:14 |
 | 162 | [씨엔아이#3751](https://kr.diablo3.com/profile/씨엔아이-3751/)                     |       0        | 0                 |    Monk     | 2021-12-07 09:51:27 |
-| 163 | [sseth#11468](https://kr.diablo3.com/profile/sseth-11468/)                 |       0        | 0                 |     DH      | 2021-12-08 00:03:25 |
+| 163 | [sseth#11468](https://kr.diablo3.com/profile/sseth-11468/)                 |       0        | 0                 |     DH      | 2021-12-08 00:37:23 |
 | 164 | [닝개미#3218](https://kr.diablo3.com/profile/닝개미-3218/)                       |       0        | 0                 |    Monk     | 2021-12-07 07:00:28 |
 | 165 | [SomeTime#11206](https://kr.diablo3.com/profile/SomeTime-11206/)           |       0        | 0                 |    Monk     | 2021-12-07 12:32:12 |
 | 166 | [Rudepaper#31429](https://kr.diablo3.com/profile/Rudepaper-31429/)         |       0        | 0                 |    Monk     | 2021-12-07 10:46:31 |
-| 167 | [SkyBlue#3642](https://kr.diablo3.com/profile/SkyBlue-3642/)               |       0        | 0                 |    Monk     | 2021-12-07 23:53:55 |
+| 167 | [SkyBlue#3642](https://kr.diablo3.com/profile/SkyBlue-3642/)               |       0        | 0                 |    Monk     | 2021-12-08 00:40:28 |
 | 168 | [mark#1334](https://kr.diablo3.com/profile/mark-1334/)                     |       0        | 0                 |    Monk     | 2021-12-05 11:05:37 |
-| 169 | [Mangchi#31493](https://kr.diablo3.com/profile/Mangchi-31493/)             |       0        | 0                 |    Monk     | 2021-12-07 23:13:09 |
+| 169 | [Mangchi#31493](https://kr.diablo3.com/profile/Mangchi-31493/)             |       0        | 0                 |    Monk     | 2021-12-08 00:42:12 |
 | 170 | [킬러#3361](https://kr.diablo3.com/profile/킬러-3361/)                         |       0        | 0                 |    Monk     | 2021-12-07 23:59:26 |
 | 171 | [뽕브라단속반#31949](https://kr.diablo3.com/profile/뽕브라단속반-31949/)               |       0        | 0                 |    Monk     | 2021-12-07 22:18:17 |
 | 172 | [클릭#3209](https://kr.diablo3.com/profile/클릭-3209/)                         |       0        | 0                 |    Monk     | 2021-12-07 23:24:31 |
@@ -182,7 +182,7 @@ Table created at 2021-12-08 00:08:13.918726
 | 175 | [LastChaos#3929](https://kr.diablo3.com/profile/LastChaos-3929/)           |       0        | 0                 |     DH      | 2021-12-07 15:07:36 |
 | 176 | [olvidados#3142](https://kr.diablo3.com/profile/olvidados-3142/)           |       0        | 0                 |    Monk     | 2021-12-08 00:01:41 |
 | 177 | [부엉이#32384](https://kr.diablo3.com/profile/부엉이-32384/)                     |       0        | 0                 |    Monk     | 2021-12-07 13:26:31 |
-| 178 | [광폭한까마귀#31697](https://kr.diablo3.com/profile/광폭한까마귀-31697/)               |       0        | 0                 |    Monk     | 2021-12-07 23:31:22 |
+| 178 | [광폭한까마귀#31697](https://kr.diablo3.com/profile/광폭한까마귀-31697/)               |       0        | 0                 |    Monk     | 2021-12-08 00:42:12 |
 | 179 | [네오스티#3521](https://kr.diablo3.com/profile/네오스티-3521/)                     |       0        | 0                 |    Monk     | 2021-12-06 08:50:09 |
 | 180 | [Ferrari#31465](https://kr.diablo3.com/profile/Ferrari-31465/)             |       0        | 0                 |    Monk     | 2021-12-07 05:33:01 |
 | 181 | [곤스곤스피곤스#3239](https://kr.diablo3.com/profile/곤스곤스피곤스-3239/)               |       0        | 0                 |    Monk     | 2021-12-06 08:39:03 |
@@ -190,18 +190,18 @@ Table created at 2021-12-08 00:08:13.918726
 | 183 | [초악몽#3139](https://kr.diablo3.com/profile/초악몽-3139/)                       |       0        | 0                 |    Monk     | 2021-12-07 06:21:10 |
 | 184 | [ClayMore#31169](https://kr.diablo3.com/profile/ClayMore-31169/)           |       0        | 0                 |    Monk     | 2021-12-07 23:41:47 |
 | 185 | [胖叔叔#4187](https://kr.diablo3.com/profile/胖叔叔-4187/)                       |       0        | 0                 |    Monk     | 2021-12-08 00:06:26 |
-| 186 | [福老哥#3940](https://kr.diablo3.com/profile/福老哥-3940/)                       |       0        | 0                 |    Monk     | 2021-12-07 23:59:49 |
+| 186 | [福老哥#3940](https://kr.diablo3.com/profile/福老哥-3940/)                       |       0        | 0                 |    Monk     | 2021-12-08 00:34:34 |
 | 187 | [DTRT#3608](https://kr.diablo3.com/profile/DTRT-3608/)                     |       0        | 0                 |    Monk     | 2021-12-07 04:48:51 |
 | 188 | [關公賣包子#4504](https://kr.diablo3.com/profile/關公賣包子-4504/)                   |       0        | 0                 |    Monk     | 2021-12-06 10:04:33 |
-| 189 | [Desperado#31119](https://kr.diablo3.com/profile/Desperado-31119/)         |       0        | 0                 |    Monk     | 2021-12-07 23:48:45 |
+| 189 | [Desperado#31119](https://kr.diablo3.com/profile/Desperado-31119/)         |       0        | 0                 |    Monk     | 2021-12-08 00:42:12 |
 | 190 | [Assy#31868](https://kr.diablo3.com/profile/Assy-31868/)                   |       0        | 0                 |    Monk     | 2021-12-07 13:05:46 |
 | 191 | [비주얼스튜디오#31114](https://kr.diablo3.com/profile/비주얼스튜디오-31114/)             |       0        | 0                 |    Monk     | 2021-12-06 12:56:39 |
 | 192 | [한우마블링#3317](https://kr.diablo3.com/profile/한우마블링-3317/)                   |       0        | 0                 |    Monk     | 2021-12-07 10:07:12 |
 | 193 | [Assinis#3667](https://kr.diablo3.com/profile/Assinis-3667/)               |       0        | 0                 |    Monk     | 2021-12-07 01:58:39 |
-| 194 | [GrumpyPants#1201980](https://kr.diablo3.com/profile/GrumpyPants-1201980/) |       0        | 0                 |    Monk     | 2021-12-07 23:56:07 |
-| 195 | [Vita#31343](https://kr.diablo3.com/profile/Vita-31343/)                   |       0        | 0                 |    Monk     | 2021-12-08 00:02:40 |
+| 194 | [GrumpyPants#1201980](https://kr.diablo3.com/profile/GrumpyPants-1201980/) |       0        | 0                 |    Monk     | 2021-12-08 00:42:12 |
+| 195 | [Vita#31343](https://kr.diablo3.com/profile/Vita-31343/)                   |       0        | 0                 |    Monk     | 2021-12-08 00:34:21 |
 | 196 | [하하하#3232](https://kr.diablo3.com/profile/하하하-3232/)                       |       0        | 0                 |    Monk     | 2021-12-07 20:36:54 |
 | 197 | [MG42#3780](https://kr.diablo3.com/profile/MG42-3780/)                     |       0        | 0                 |    Monk     | 2021-12-07 23:56:25 |
-| 198 | [Ssfa#1854](https://kr.diablo3.com/profile/Ssfa-1854/)                     |       0        | 0                 |    Monk     | 2021-12-08 00:04:22 |
+| 198 | [Ssfa#1854](https://kr.diablo3.com/profile/Ssfa-1854/)                     |       0        | 0                 |    Monk     | 2021-12-08 00:27:21 |
 | 199 | [현장취재24시#3748](https://kr.diablo3.com/profile/현장취재24시-3748/)               |       0        | 0                 |    Monk     | 2021-12-07 09:41:15 |
-| 200 | [ccfer#4427](https://kr.diablo3.com/profile/ccfer-4427/)                   |       0        | 0                 |     DH      | 2021-12-08 00:06:57 |
+| 200 | [ccfer#4427](https://kr.diablo3.com/profile/ccfer-4427/)                   |       0        | 0                 |     DH      | 2021-12-08 00:42:13 |
