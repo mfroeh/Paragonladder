@@ -1,7 +1,7 @@
 # Season 24 (EU)
 
 ---
-Table created at 2021-12-09 17:46:37.789236
+Table created at 2021-12-09 19:01:50.069420
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -172,7 +172,7 @@ Table created at 2021-12-09 17:46:37.789236
 | 165 | [Qwertz198#2852](https://eu.diablo3.com/profile/Qwertz198-2852/)           |      7415      | 6.61 Quadrillion  |    Monk     | 2021-12-05 20:41:32 |
 | 166 | [XuanWolf#2143](https://eu.diablo3.com/profile/XuanWolf-2143/)             |      7404      | 6.58 Quadrillion  |    Monk     | 2021-10-23 20:37:06 |
 | 167 | [Leo#212965](https://eu.diablo3.com/profile/Leo-212965/)                   |      7400      | 6.57 Quadrillion  |    Monk     | 2021-12-06 13:10:45 |
-| 168 | [Bluuu#21607](https://eu.diablo3.com/profile/Bluuu-21607/)                 |      7388      | 6.53 Quadrillion  |    Monk     | 2021-12-06 17:36:54 |
+| 168 | [Bluuu#21607](https://eu.diablo3.com/profile/Bluuu-21607/)                 |      7388      | 6.53 Quadrillion  |    Monk     | 2021-12-09 18:48:16 |
 | 169 | [Yav6#2434](https://eu.diablo3.com/profile/Yav6-2434/)                     |      7366      | 6.47 Quadrillion  |    Monk     | 2021-12-05 17:19:23 |
 | 170 | [JayJay#22140](https://eu.diablo3.com/profile/JayJay-22140/)               |      7365      | 6.47 Quadrillion  |    Monk     | 2021-10-21 20:00:44 |
 | 171 | [grini#21228](https://eu.diablo3.com/profile/grini-21228/)                 |      7338      | 6.4 Quadrillion   |    Monk     | 2021-10-23 15:34:06 |

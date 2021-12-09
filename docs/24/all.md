@@ -1,7 +1,7 @@
 # Season 24 (ALL)
 
 ---
-Table created at 2021-12-09 17:46:37.775120
+Table created at 2021-12-09 19:01:50.057754
 
 |  #  | Region |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----: | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -623,7 +623,7 @@ Table created at 2021-12-09 17:46:37.775120
 | 616 |   US   | [oio#1976](https://us.diablo3.com/profile/oio-1976/)                         |      7404      | 6.58 Quadrillion  |    Monk     | 2021-12-07 18:14:55 |
 | 617 |   US   | [ZonZa#1104](https://us.diablo3.com/profile/ZonZa-1104/)                     |      7402      | 6.57 Quadrillion  |    Monk     | 2021-09-29 15:35:22 |
 | 618 |   EU   | [Leo#212965](https://eu.diablo3.com/profile/Leo-212965/)                     |      7400      | 6.57 Quadrillion  |    Monk     | 2021-12-06 13:10:45 |
-| 619 |   EU   | [Bluuu#21607](https://eu.diablo3.com/profile/Bluuu-21607/)                   |      7388      | 6.53 Quadrillion  |    Monk     | 2021-12-06 17:36:54 |
+| 619 |   EU   | [Bluuu#21607](https://eu.diablo3.com/profile/Bluuu-21607/)                   |      7388      | 6.53 Quadrillion  |    Monk     | 2021-12-09 18:48:16 |
 | 620 |   US   | [Herocommando#2525](https://us.diablo3.com/profile/Herocommando-2525/)       |      7383      | 6.52 Quadrillion  |   Wizard    | 2021-12-07 03:59:11 |
 | 621 |   US   | [PewpyPant#1411](https://us.diablo3.com/profile/PewpyPant-1411/)             |      7381      | 6.52 Quadrillion  |     DH      | 2021-12-07 19:32:51 |
 | 622 |   US   | [BabyJohn#11865](https://us.diablo3.com/profile/BabyJohn-11865/)             |      7372      | 6.49 Quadrillion  |    Monk     | 2021-11-15 22:34:23 |
