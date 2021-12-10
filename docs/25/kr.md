@@ -1,7 +1,7 @@
 # Season 25 (KR)
 
 ---
-Table created at 2021-12-10 16:47:27.211561
+Table created at 2021-12-10 17:41:26.296064
 
 | #  |                        BattleTag                         | Paragon Season | Experience gained | Most played |     Last update     |
 | :- | :------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
