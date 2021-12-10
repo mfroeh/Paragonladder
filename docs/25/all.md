@@ -1,8 +1,8 @@
 # Season 25 (ALL)
 
 ---
-Table created at 2021-12-10 13:42:44.224101
+Table created at 2021-12-10 14:36:54.368539
 
 | #  | Region |                        BattleTag                         | Paragon Season | Experience gained | Most played |     Last update     |
 | :- | :----: | :------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1  |   KR   | [暗影飛龍#42796](https://kr.diablo3.com/profile/暗影飛龍-42796/) |      219       | 38.19 Billion     |    Monk     | 2021-12-10 13:37:42 |
+| 1  |   KR   | [暗影飛龍#42796](https://kr.diablo3.com/profile/暗影飛龍-42796/) |      313       | 85.16 Billion     |    Monk     | 2021-12-10 14:11:58 |
