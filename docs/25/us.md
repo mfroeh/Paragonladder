@@ -1,7 +1,7 @@
 # Season 25 (US)
 
 ---
-Table created at 2021-12-11 06:39:35.470595
+Table created at 2021-12-11 07:36:00.553462
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
