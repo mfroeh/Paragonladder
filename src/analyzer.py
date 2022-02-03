@@ -23,30 +23,35 @@ class Analyzer:
         self.region = region
 
     def analyze_accounts(self, accounts: List[Account]) -> List[AccountInfo]:
-        return [self.analyze_account(account) for account in accounts]
+        return [self.analyze_account(account) for account in accounts if self.analyze_account(account)]
 
     def analyze_account(self, account: Account) -> AccountInfo:
         """
         Analyzes a given account.
         """
-        playtime_distrubution = next(
-            x for x in account.seasonalProfiles.values() if x.seasonId == self.season
-        ).timePlayed
+        try:
+            playtime_distrubution = next(
+                x for x in account.seasonalProfiles.values() if x.seasonId == self.season
+            ).timePlayed
 
-        playtime = sum(playtime_distrubution.values())
-        most_played = max(playtime_distrubution, key=playtime_distrubution.get)
-        total_xp_gained = xp_from_paragon_level(account.paragonLevelSeason)
+            playtime = sum(playtime_distrubution.values())
+            most_played = max(playtime_distrubution, key=playtime_distrubution.get)
+            total_xp_gained = xp_from_paragon_level(account.paragonLevelSeason)
 
-        return AccountInfo(
-            battletag=account.battleTag,
-            paragon_season=account.paragonLevelSeason,
-            paragon_nonseason=account.paragonLevel,
-            last_update=account.lastUpdated,
-            playtime=playtime,
-            playtime_distribution=playtime_distrubution,
-            most_played_class=most_played,
-            xp_gained=total_xp_gained,
-        )
+            return AccountInfo(
+                battletag=account.battleTag,
+                paragon_season=account.paragonLevelSeason,
+                paragon_nonseason=account.paragonLevel,
+                last_update=account.lastUpdated,
+                playtime=playtime,
+                playtime_distribution=playtime_distrubution,
+                most_played_class=most_played,
+                xp_gained=total_xp_gained,
+            )
+        except Exception as e:
+            print(f"{account.battleTag} has no data on play in season {self.season}.")
+            return None
+
 
 
 # Taken from https://github.com/dclamage/dclamage.github.io/blob/master/paragon1.4.js
