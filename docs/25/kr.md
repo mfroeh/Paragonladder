@@ -1,20 +1,20 @@
 # Season 25 (KR)
 
 ---
-Table created at 2022-02-20 09:49:30.405114
+Table created at 2022-02-20 14:43:47.267248
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [불타는눈꺼풀#3625](https://kr.diablo3.com/profile/불타는눈꺼풀-3625/)                 |      9594      | 14.57 Quadrillion |    Monk     | 2022-02-15 21:46:19 |
 | 2   | [DaftJisoo#3264](https://kr.diablo3.com/profile/DaftJisoo-3264/)           |      9398      | 13.68 Quadrillion |    Monk     | 2022-02-15 22:19:14 |
-| 3   | [JK38#3765](https://kr.diablo3.com/profile/JK38-3765/)                     |      9276      | 13.14 Quadrillion |    Monk     | 2022-02-06 01:46:45 |
-| 4   | [AbleA#1920](https://kr.diablo3.com/profile/AbleA-1920/)                   |      9213      | 12.87 Quadrillion |    Monk     | 2022-02-15 22:26:32 |
-| 5   | [Abstract#31299](https://kr.diablo3.com/profile/Abstract-31299/)           |      9111      | 12.44 Quadrillion |    Monk     | 2022-02-15 21:45:40 |
-| 6   | [깨비#31534](https://kr.diablo3.com/profile/깨비-31534/)                       |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-06 08:12:06 |
-| 7   | [Jean#31656](https://kr.diablo3.com/profile/Jean-31656/)                   |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-15 22:36:01 |
-| 8   | [RealSlow#3611](https://kr.diablo3.com/profile/RealSlow-3611/)             |      9087      | 12.34 Quadrillion |    Monk     | 2022-02-06 01:41:10 |
-| 9   | [성수타란#3610](https://kr.diablo3.com/profile/성수타란-3610/)                     |      9049      | 12.18 Quadrillion |    Monk     | 2022-02-15 22:05:59 |
-| 10  | [BalenD#1637](https://kr.diablo3.com/profile/BalenD-1637/)                 |      9046      | 12.17 Quadrillion |    Monk     | 2022-02-15 21:48:00 |
+| 3   | [BalenD#1637](https://kr.diablo3.com/profile/BalenD-1637/)                 |      9322      | 13.34 Quadrillion |    Monk     | 2022-02-20 10:59:31 |
+| 4   | [JK38#3765](https://kr.diablo3.com/profile/JK38-3765/)                     |      9276      | 13.14 Quadrillion |    Monk     | 2022-02-06 01:46:45 |
+| 5   | [AbleA#1920](https://kr.diablo3.com/profile/AbleA-1920/)                   |      9213      | 12.87 Quadrillion |    Monk     | 2022-02-15 22:26:32 |
+| 6   | [Abstract#31299](https://kr.diablo3.com/profile/Abstract-31299/)           |      9111      | 12.44 Quadrillion |    Monk     | 2022-02-15 21:45:40 |
+| 7   | [깨비#31534](https://kr.diablo3.com/profile/깨비-31534/)                       |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-06 08:12:06 |
+| 8   | [Jean#31656](https://kr.diablo3.com/profile/Jean-31656/)                   |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-15 22:36:01 |
+| 9   | [RealSlow#3611](https://kr.diablo3.com/profile/RealSlow-3611/)             |      9087      | 12.34 Quadrillion |    Monk     | 2022-02-06 01:41:10 |
+| 10  | [성수타란#3610](https://kr.diablo3.com/profile/성수타란-3610/)                     |      9049      | 12.18 Quadrillion |    Monk     | 2022-02-15 22:05:59 |
 | 11  | [흰꽃#31875](https://kr.diablo3.com/profile/흰꽃-31875/)                       |      9006      | 12.0 Quadrillion  |    Monk     | 2022-02-06 01:38:02 |
 | 12  | [Ty1er#4577](https://kr.diablo3.com/profile/Ty1er-4577/)                   |      8920      | 11.66 Quadrillion |    Monk     | 2022-02-06 01:55:40 |
 | 13  | [Mangchi#31493](https://kr.diablo3.com/profile/Mangchi-31493/)             |      8894      | 11.55 Quadrillion |    Monk     | 2022-02-06 01:47:56 |
