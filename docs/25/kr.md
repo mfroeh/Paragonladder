@@ -1,7 +1,7 @@
 # Season 25 (KR)
 
 ---
-Table created at 2022-03-14 16:18:32.304181
+Table created at 2022-03-14 19:56:55.787687
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -11,26 +11,26 @@ Table created at 2022-03-14 16:18:32.304181
 | 4   | [BalenD#1637](https://kr.diablo3.com/profile/BalenD-1637/)                 |     10346      | 18.34 Quadrillion |    Monk     | 2022-03-10 23:44:02 |
 | 5   | [ParavoZz#3938](https://kr.diablo3.com/profile/ParavoZz-3938/)             |     10262      | 17.89 Quadrillion |    Monk     | 2022-03-10 23:43:59 |
 | 6   | [성수타란#3610](https://kr.diablo3.com/profile/성수타란-3610/)                     |     10206      | 17.59 Quadrillion |    Monk     | 2022-03-11 00:01:29 |
-| 7   | [불타는눈꺼풀#3625](https://kr.diablo3.com/profile/불타는눈꺼풀-3625/)                 |      9594      | 14.57 Quadrillion |    Monk     | 2022-02-15 21:46:19 |
-| 8   | [DaftJisoo#3264](https://kr.diablo3.com/profile/DaftJisoo-3264/)           |      9398      | 13.68 Quadrillion |    Monk     | 2022-02-15 22:19:14 |
-| 9   | [JK38#3765](https://kr.diablo3.com/profile/JK38-3765/)                     |      9276      | 13.14 Quadrillion |    Monk     | 2022-02-06 01:46:45 |
-| 10  | [MaxWell#12996](https://kr.diablo3.com/profile/MaxWell-12996/)             |      9270      | 13.11 Quadrillion |    Monk     | 2022-02-20 10:40:12 |
-| 11  | [깨비#31534](https://kr.diablo3.com/profile/깨비-31534/)                       |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-06 08:12:06 |
-| 12  | [Jean#31656](https://kr.diablo3.com/profile/Jean-31656/)                   |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-15 22:36:01 |
-| 13  | [RealSlow#3611](https://kr.diablo3.com/profile/RealSlow-3611/)             |      9087      | 12.34 Quadrillion |    Monk     | 2022-02-06 01:41:10 |
-| 14  | [흰꽃#31875](https://kr.diablo3.com/profile/흰꽃-31875/)                       |      9006      | 12.0 Quadrillion  |    Monk     | 2022-02-06 01:38:02 |
-| 15  | [TongSu#31546](https://kr.diablo3.com/profile/TongSu-31546/)               |      8983      | 11.91 Quadrillion |    Monk     | 2022-02-20 10:37:12 |
-| 16  | [Ty1er#4577](https://kr.diablo3.com/profile/Ty1er-4577/)                   |      8920      | 11.66 Quadrillion |    Monk     | 2022-02-06 01:55:40 |
-| 17  | [Mangchi#31493](https://kr.diablo3.com/profile/Mangchi-31493/)             |      8894      | 11.55 Quadrillion |    Monk     | 2022-02-06 01:47:56 |
-| 18  | [chilgun#3675](https://kr.diablo3.com/profile/chilgun-3675/)               |      8861      | 11.42 Quadrillion |    Monk     | 2022-02-06 05:04:06 |
-| 19  | [熊宝#4711](https://kr.diablo3.com/profile/熊宝-4711/)                         |      8839      | 11.34 Quadrillion |    Monk     | 2022-02-06 01:43:29 |
-| 20  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)                 |      8829      | 11.3 Quadrillion  |    Monk     | 2022-02-06 01:48:44 |
-| 21  | [HIHIcomeback#3462](https://kr.diablo3.com/profile/HIHIcomeback-3462/)     |      8828      | 11.29 Quadrillion |    Monk     | 2022-02-06 01:51:22 |
-| 22  | [BaBBosS#3687](https://kr.diablo3.com/profile/BaBBosS-3687/)               |      8771      | 11.07 Quadrillion |    Monk     | 2022-02-06 01:45:34 |
-| 23  | [인프리#3711](https://kr.diablo3.com/profile/인프리-3711/)                       |      8728      | 10.91 Quadrillion |    Monk     | 2022-02-06 01:43:40 |
-| 24  | [MMAPPA#1629](https://kr.diablo3.com/profile/MMAPPA-1629/)                 |      8713      | 10.85 Quadrillion |    Monk     | 2022-02-06 01:47:05 |
-| 25  | [킬러#3361](https://kr.diablo3.com/profile/킬러-3361/)                         |      8678      | 10.72 Quadrillion |    Monk     | 2022-02-06 01:42:18 |
-| 26  | [ZULUL#2605](https://kr.diablo3.com/profile/ZULUL-2605/)                   |      8658      | 10.64 Quadrillion |    Monk     | 2022-02-15 23:19:58 |
+| 7   | [ZULUL#2605](https://kr.diablo3.com/profile/ZULUL-2605/)                   |      9883      | 15.95 Quadrillion |    Monk     | 2022-03-13 07:26:33 |
+| 8   | [불타는눈꺼풀#3625](https://kr.diablo3.com/profile/불타는눈꺼풀-3625/)                 |      9594      | 14.57 Quadrillion |    Monk     | 2022-02-15 21:46:19 |
+| 9   | [DaftJisoo#3264](https://kr.diablo3.com/profile/DaftJisoo-3264/)           |      9398      | 13.68 Quadrillion |    Monk     | 2022-02-15 22:19:14 |
+| 10  | [JK38#3765](https://kr.diablo3.com/profile/JK38-3765/)                     |      9276      | 13.14 Quadrillion |    Monk     | 2022-02-06 01:46:45 |
+| 11  | [MaxWell#12996](https://kr.diablo3.com/profile/MaxWell-12996/)             |      9270      | 13.11 Quadrillion |    Monk     | 2022-02-20 10:40:12 |
+| 12  | [깨비#31534](https://kr.diablo3.com/profile/깨비-31534/)                       |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-06 08:12:06 |
+| 13  | [Jean#31656](https://kr.diablo3.com/profile/Jean-31656/)                   |      9089      | 12.35 Quadrillion |    Monk     | 2022-02-15 22:36:01 |
+| 14  | [RealSlow#3611](https://kr.diablo3.com/profile/RealSlow-3611/)             |      9087      | 12.34 Quadrillion |    Monk     | 2022-02-06 01:41:10 |
+| 15  | [흰꽃#31875](https://kr.diablo3.com/profile/흰꽃-31875/)                       |      9006      | 12.0 Quadrillion  |    Monk     | 2022-02-06 01:38:02 |
+| 16  | [TongSu#31546](https://kr.diablo3.com/profile/TongSu-31546/)               |      8983      | 11.91 Quadrillion |    Monk     | 2022-02-20 10:37:12 |
+| 17  | [Ty1er#4577](https://kr.diablo3.com/profile/Ty1er-4577/)                   |      8920      | 11.66 Quadrillion |    Monk     | 2022-02-06 01:55:40 |
+| 18  | [Mangchi#31493](https://kr.diablo3.com/profile/Mangchi-31493/)             |      8894      | 11.55 Quadrillion |    Monk     | 2022-02-06 01:47:56 |
+| 19  | [chilgun#3675](https://kr.diablo3.com/profile/chilgun-3675/)               |      8861      | 11.42 Quadrillion |    Monk     | 2022-02-06 05:04:06 |
+| 20  | [熊宝#4711](https://kr.diablo3.com/profile/熊宝-4711/)                         |      8839      | 11.34 Quadrillion |    Monk     | 2022-02-06 01:43:29 |
+| 21  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)                 |      8829      | 11.3 Quadrillion  |    Monk     | 2022-02-06 01:48:44 |
+| 22  | [HIHIcomeback#3462](https://kr.diablo3.com/profile/HIHIcomeback-3462/)     |      8828      | 11.29 Quadrillion |    Monk     | 2022-02-06 01:51:22 |
+| 23  | [BaBBosS#3687](https://kr.diablo3.com/profile/BaBBosS-3687/)               |      8771      | 11.07 Quadrillion |    Monk     | 2022-02-06 01:45:34 |
+| 24  | [인프리#3711](https://kr.diablo3.com/profile/인프리-3711/)                       |      8728      | 10.91 Quadrillion |    Monk     | 2022-02-06 01:43:40 |
+| 25  | [MMAPPA#1629](https://kr.diablo3.com/profile/MMAPPA-1629/)                 |      8713      | 10.85 Quadrillion |    Monk     | 2022-02-06 01:47:05 |
+| 26  | [킬러#3361](https://kr.diablo3.com/profile/킬러-3361/)                         |      8678      | 10.72 Quadrillion |    Monk     | 2022-02-06 01:42:18 |
 | 27  | [MG42#3780](https://kr.diablo3.com/profile/MG42-3780/)                     |      8651      | 10.61 Quadrillion |    Monk     | 2022-02-06 01:36:15 |
 | 28  | [Assinis#3667](https://kr.diablo3.com/profile/Assinis-3667/)               |      8651      | 10.61 Quadrillion |    Monk     | 2022-02-06 01:39:27 |
 | 29  | [소이#31724](https://kr.diablo3.com/profile/소이-31724/)                       |      8650      | 10.61 Quadrillion |    Monk     | 2022-02-06 01:44:50 |
