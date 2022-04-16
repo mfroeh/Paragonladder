@@ -1,7 +1,7 @@
 # Season 26 (EU)
 
 ---
-Table created at 2022-04-16 19:25:17.575638
+Table created at 2022-04-16 20:29:56.465163
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
