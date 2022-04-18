@@ -1,7 +1,7 @@
 # Season 26 (KR)
 
 ---
-Table created at 2022-04-18 11:25:44.573124
+Table created at 2022-04-18 13:02:48.975860
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
