@@ -1,7 +1,7 @@
 # Season 26 (US)
 
 ---
-Table created at 2022-05-09 19:06:56.987272
+Table created at 2022-05-09 19:52:00.611287
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -54,7 +54,7 @@ Table created at 2022-05-09 19:06:56.987272
 | 47  | [Goji#11850](https://us.diablo3.com/profile/Goji-11850/)                     |      4025      | 979.01 Trillion   |    Monk     | 2022-05-01 01:21:33 |
 | 48  | [LittleTeacup#11981](https://us.diablo3.com/profile/LittleTeacup-11981/)     |      4004      | 962.95 Trillion   |    Monk     | 2022-05-09 18:28:40 |
 | 49  | [Asashin#31163](https://us.diablo3.com/profile/Asashin-31163/)               |      3989      | 951.59 Trillion   |    Monk     | 2022-05-09 16:37:22 |
-| 50  | [Ecoradical#1357](https://us.diablo3.com/profile/Ecoradical-1357/)           |      3982      | 946.31 Trillion   |    Monk     | 2022-05-09 12:36:32 |
+| 50  | [Ecoradical#1357](https://us.diablo3.com/profile/Ecoradical-1357/)           |      3982      | 946.31 Trillion   |    Monk     | 2022-05-09 17:30:14 |
 | 51  | [Momo#41487](https://us.diablo3.com/profile/Momo-41487/)                     |      3964      | 932.85 Trillion   |    Monk     | 2022-05-09 18:33:36 |
 | 52  | [GUNNERS#31322](https://us.diablo3.com/profile/GUNNERS-31322/)               |      3956      | 926.91 Trillion   |     DH      | 2022-05-09 15:42:51 |
 | 53  | [fourhead#11274](https://us.diablo3.com/profile/fourhead-11274/)             |      3910      | 893.25 Trillion   |    Monk     | 2022-05-08 02:05:04 |
@@ -165,8 +165,8 @@ Table created at 2022-05-09 19:06:56.987272
 | 158 | [SilentSword#1190881](https://us.diablo3.com/profile/SilentSword-1190881/)   |      3369      | 558.04 Trillion   |    Monk     | 2022-05-09 14:06:53 |
 | 159 | [MrZero#11838](https://us.diablo3.com/profile/MrZero-11838/)                 |      3362      | 554.4 Trillion    |    Monk     | 2022-05-09 12:59:37 |
 | 160 | [QuirkyOrc#1217227](https://us.diablo3.com/profile/QuirkyOrc-1217227/)       |      3356      | 551.29 Trillion   |    Monk     | 2022-05-09 18:33:53 |
-| 161 | [DavisTang#3192](https://us.diablo3.com/profile/DavisTang-3192/)             |      3351      | 548.71 Trillion   |    Monk     | 2022-05-09 16:44:27 |
-| 162 | [UIwing#1446](https://us.diablo3.com/profile/UIwing-1446/)                   |      3343      | 544.6 Trillion    |    Monk     | 2022-05-09 15:50:20 |
+| 161 | [UIwing#1446](https://us.diablo3.com/profile/UIwing-1446/)                   |      3355      | 550.77 Trillion   |    Monk     | 2022-05-09 18:05:28 |
+| 162 | [DavisTang#3192](https://us.diablo3.com/profile/DavisTang-3192/)             |      3351      | 548.71 Trillion   |    Monk     | 2022-05-09 16:44:27 |
 | 163 | [Kabello#1201](https://us.diablo3.com/profile/Kabello-1201/)                 |      3340      | 543.06 Trillion   |    Monk     | 2022-05-09 18:01:27 |
 | 164 | [FunkyMonk#1184507](https://us.diablo3.com/profile/FunkyMonk-1184507/)       |      3337      | 541.53 Trillion   |     DH      | 2022-05-09 17:54:48 |
 | 165 | [Wroboss#1339](https://us.diablo3.com/profile/Wroboss-1339/)                 |      3335      | 540.5 Trillion    |     DH      | 2022-05-09 18:33:36 |
