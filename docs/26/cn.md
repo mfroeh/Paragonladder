@@ -1,7 +1,7 @@
 # Season 26 (CN)
 
 ---
-Table created at 2022-06-30 21:58:36.819922
+Table created at 2022-06-30 22:55:14.812849
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -12,7 +12,7 @@ Table created at 2022-06-30 21:58:36.819922
 | 5   | [八爷#51599](https://d3.blizzard.cn/profile/八爷-51599/)                   |      9150      | 12.6 Quadrillion  |    Monk     | 2022-06-30 18:41:12 |
 | 6   | [火狐狸#5737](https://d3.blizzard.cn/profile/火狐狸-5737/)                   |      9143      | 12.57 Quadrillion |    Monk     | 2022-06-30 18:37:23 |
 | 7   | [霹雳小兔子#5750](https://d3.blizzard.cn/profile/霹雳小兔子-5750/)               |      8954      | 11.79 Quadrillion |    Monk     | 2022-06-30 18:46:44 |
-| 8   | [永远蔚蓝#5282](https://d3.blizzard.cn/profile/永远蔚蓝-5282/)                 |      8914      | 11.63 Quadrillion |    Monk     | 2022-06-30 18:46:43 |
+| 8   | [永远蔚蓝#5282](https://d3.blizzard.cn/profile/永远蔚蓝-5282/)                 |      8914      | 11.63 Quadrillion |    Monk     | 2022-06-30 22:20:04 |
 | 9   | [美不美看大腿#51232](https://d3.blizzard.cn/profile/美不美看大腿-51232/)           |      8899      | 11.57 Quadrillion |    Monk     | 2022-06-30 18:46:53 |
 | 10  | [电击威能苦难旷野#5182](https://d3.blizzard.cn/profile/电击威能苦难旷野-5182/)         |      8891      | 11.54 Quadrillion |    Monk     | 2022-06-30 18:35:36 |
 | 11  | [淡漠#5163](https://d3.blizzard.cn/profile/淡漠-5163/)                     |      8850      | 11.38 Quadrillion |    Monk     | 2022-06-30 18:34:28 |
@@ -20,7 +20,7 @@ Table created at 2022-06-30 21:58:36.819922
 | 13  | [俗人#53349](https://d3.blizzard.cn/profile/俗人-53349/)                   |      8835      | 11.32 Quadrillion |    Monk     | 2022-06-30 18:46:43 |
 | 14  | [小西闹闹#51233](https://d3.blizzard.cn/profile/小西闹闹-51233/)               |      8821      | 11.27 Quadrillion |    Monk     | 2022-06-30 18:34:38 |
 | 15  | [超凶丷#5794](https://d3.blizzard.cn/profile/超凶丷-5794/)                   |      8808      | 11.21 Quadrillion |    Monk     | 2022-06-30 18:46:53 |
-| 16  | [SKy#526755](https://d3.blizzard.cn/profile/SKy-526755/)               |      8773      | 11.08 Quadrillion |    Monk     | 2022-06-30 18:36:42 |
+| 16  | [SKy#526755](https://d3.blizzard.cn/profile/SKy-526755/)               |      8773      | 11.08 Quadrillion |    Monk     | 2022-06-30 21:30:23 |
 | 17  | [逸沐#51351](https://d3.blizzard.cn/profile/逸沐-51351/)                   |      8745      | 10.97 Quadrillion |    Monk     | 2022-06-30 18:41:21 |
 | 18  | [皮皮虾我们走#52963](https://d3.blizzard.cn/profile/皮皮虾我们走-52963/)           |      8744      | 10.97 Quadrillion |    Monk     | 2022-06-30 18:36:50 |
 | 19  | [这瓶盖呦#5196](https://d3.blizzard.cn/profile/这瓶盖呦-5196/)                 |      8722      | 10.88 Quadrillion |    Monk     | 2022-06-30 18:34:12 |
@@ -33,7 +33,7 @@ Table created at 2022-06-30 21:58:36.819922
 | 26  | [风雷#51380](https://d3.blizzard.cn/profile/风雷-51380/)                   |      8625      | 10.52 Quadrillion |    Monk     | 2022-06-30 18:37:11 |
 | 27  | [小红影#5374](https://d3.blizzard.cn/profile/小红影-5374/)                   |      8617      | 10.49 Quadrillion |    Monk     | 2022-06-30 18:34:39 |
 | 28  | [ARIA#5601](https://d3.blizzard.cn/profile/ARIA-5601/)                 |      8608      | 10.45 Quadrillion |    Monk     | 2022-06-30 18:43:49 |
-| 29  | [矜持552#5423](https://d3.blizzard.cn/profile/矜持552-5423/)               |      8590      | 10.39 Quadrillion |    Monk     | 2022-06-30 18:33:17 |
+| 29  | [矜持552#5423](https://d3.blizzard.cn/profile/矜持552-5423/)               |      8590      | 10.39 Quadrillion |    Monk     | 2022-06-30 22:05:59 |
 | 30  | [拉格宝宝#5842](https://d3.blizzard.cn/profile/拉格宝宝-5842/)                 |      8585      | 10.37 Quadrillion |    Monk     | 2022-06-30 18:38:55 |
 | 31  | [巨硕之斧#5382102](https://d3.blizzard.cn/profile/巨硕之斧-5382102/)           |      8560      | 10.28 Quadrillion |    Monk     | 2022-06-30 18:46:57 |
 | 32  | [Ciewbiubiu#5221](https://d3.blizzard.cn/profile/Ciewbiubiu-5221/)     |      8548      | 10.23 Quadrillion |    Monk     | 2022-06-30 18:34:29 |
@@ -42,10 +42,10 @@ Table created at 2022-06-30 21:58:36.819922
 | 35  | [媛雨单琴#5977](https://d3.blizzard.cn/profile/媛雨单琴-5977/)                 |      8513      | 10.1 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
 | 36  | [二营长千他嫂一炮#5990](https://d3.blizzard.cn/profile/二营长千他嫂一炮-5990/)         |      8512      | 10.1 Quadrillion  |    Monk     | 2022-06-30 18:39:52 |
 | 37  | [星辰大海的征途#51434](https://d3.blizzard.cn/profile/星辰大海的征途-51434/)         |      8507      | 10.08 Quadrillion |    Monk     | 2022-06-30 13:57:31 |
-| 38  | [小菜兔子#51135](https://d3.blizzard.cn/profile/小菜兔子-51135/)               |      8495      | 10.04 Quadrillion |    Monk     | 2022-06-30 18:44:01 |
+| 38  | [小菜兔子#51135](https://d3.blizzard.cn/profile/小菜兔子-51135/)               |      8495      | 10.04 Quadrillion |    Monk     | 2022-06-30 22:20:33 |
 | 39  | [纽布里奇盖斯特#5940](https://d3.blizzard.cn/profile/纽布里奇盖斯特-5940/)           |      8486      | 10.01 Quadrillion |    Monk     | 2022-06-30 18:32:06 |
 | 40  | [尬的丶莱克#5872](https://d3.blizzard.cn/profile/尬的丶莱克-5872/)               |      8472      | 9.95 Quadrillion  |    Monk     | 2022-06-30 19:12:23 |
-| 41  | [暗夜之鸦#518989](https://d3.blizzard.cn/profile/暗夜之鸦-518989/)             |      8468      | 9.94 Quadrillion  |    Monk     | 2022-06-30 18:37:48 |
+| 41  | [暗夜之鸦#518989](https://d3.blizzard.cn/profile/暗夜之鸦-518989/)             |      8468      | 9.94 Quadrillion  |    Monk     | 2022-06-30 21:37:44 |
 | 42  | [寻找盛夏的六月#5417](https://d3.blizzard.cn/profile/寻找盛夏的六月-5417/)           |      8464      | 9.93 Quadrillion  |    Monk     | 2022-06-30 18:46:39 |
 | 43  | [天气预报都不准#5191](https://d3.blizzard.cn/profile/天气预报都不准-5191/)           |      8455      | 9.89 Quadrillion  |    Monk     | 2022-06-30 18:37:39 |
 | 44  | [暗黑战神#51274](https://d3.blizzard.cn/profile/暗黑战神-51274/)               |      8438      | 9.83 Quadrillion  |    Monk     | 2022-06-30 18:35:57 |
@@ -117,10 +117,10 @@ Table created at 2022-06-30 21:58:36.819922
 | 110 | [黑手#52208](https://d3.blizzard.cn/profile/黑手-52208/)                   |      8061      | 8.55 Quadrillion  |    Monk     | 2022-06-29 13:00:09 |
 | 111 | [爆炸的蘑菇#5899](https://d3.blizzard.cn/profile/爆炸的蘑菇-5899/)               |      8039      | 8.47 Quadrillion  |    Monk     | 2022-06-30 18:42:14 |
 | 112 | [蓝色理想#5458](https://d3.blizzard.cn/profile/蓝色理想-5458/)                 |      8020      | 8.41 Quadrillion  |    Monk     | 2022-06-30 18:40:23 |
-| 113 | [赤道#5978](https://d3.blizzard.cn/profile/赤道-5978/)                     |      8018      | 8.41 Quadrillion  |    Monk     | 2022-06-30 18:33:57 |
+| 113 | [赤道#5978](https://d3.blizzard.cn/profile/赤道-5978/)                     |      8018      | 8.41 Quadrillion  |    Monk     | 2022-06-30 21:55:29 |
 | 114 | [热情火鸡#5822](https://d3.blizzard.cn/profile/热情火鸡-5822/)                 |      8013      | 8.39 Quadrillion  |    Monk     | 2022-06-30 18:46:44 |
 | 115 | [酒酒#52696](https://d3.blizzard.cn/profile/酒酒-52696/)                   |      8013      | 8.39 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
-| 116 | [卜卜口#51230](https://d3.blizzard.cn/profile/卜卜口-51230/)                 |      8001      | 8.35 Quadrillion  |    Monk     | 2022-06-30 21:11:43 |
+| 116 | [卜卜口#51230](https://d3.blizzard.cn/profile/卜卜口-51230/)                 |      8001      | 8.35 Quadrillion  |    Monk     | 2022-06-30 22:18:09 |
 | 117 | [不会微笑#51108](https://d3.blizzard.cn/profile/不会微笑-51108/)               |      8001      | 8.35 Quadrillion  |    Monk     | 2022-06-30 18:35:49 |
 | 118 | [风流敢死队#5658](https://d3.blizzard.cn/profile/风流敢死队-5658/)               |      7996      | 8.34 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
 | 119 | [JZZ#51889](https://d3.blizzard.cn/profile/JZZ-51889/)                 |      7992      | 8.32 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
@@ -142,9 +142,9 @@ Table created at 2022-06-30 21:58:36.819922
 | 135 | [棉团团#5581](https://d3.blizzard.cn/profile/棉团团-5581/)                   |      7891      | 8.0 Quadrillion   |    Monk     | 2022-06-30 18:40:57 |
 | 136 | [一二三#51743](https://d3.blizzard.cn/profile/一二三-51743/)                 |      7890      | 8.0 Quadrillion   |    Monk     | 2022-06-30 18:32:15 |
 | 137 | [牧野之风#51253](https://d3.blizzard.cn/profile/牧野之风-51253/)               |      7890      | 8.0 Quadrillion   |    Monk     | 2022-06-30 20:01:00 |
-| 138 | [顺势而为#51574](https://d3.blizzard.cn/profile/顺势而为-51574/)               |      7887      | 7.99 Quadrillion  |    Monk     | 2022-06-30 18:46:57 |
+| 138 | [顺势而为#51574](https://d3.blizzard.cn/profile/顺势而为-51574/)               |      7887      | 7.99 Quadrillion  |    Monk     | 2022-06-30 21:32:15 |
 | 139 | [性感鸵鸟#51873](https://d3.blizzard.cn/profile/性感鸵鸟-51873/)               |      7883      | 7.98 Quadrillion  |    Monk     | 2022-06-30 17:42:53 |
-| 140 | [睡你老婆打你娃#5614](https://d3.blizzard.cn/profile/睡你老婆打你娃-5614/)           |      7874      | 7.95 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
+| 140 | [睡你老婆打你娃#5614](https://d3.blizzard.cn/profile/睡你老婆打你娃-5614/)           |      7874      | 7.95 Quadrillion  |    Monk     | 2022-06-30 21:56:31 |
 | 141 | [萌面人#5608](https://d3.blizzard.cn/profile/萌面人-5608/)                   |      7873      | 7.95 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
 | 142 | [战斧#5459](https://d3.blizzard.cn/profile/战斧-5459/)                     |      7873      | 7.95 Quadrillion  |    Monk     | 2022-06-30 18:46:44 |
 | 143 | [osking#5477](https://d3.blizzard.cn/profile/osking-5477/)             |      7861      | 7.91 Quadrillion  |    Monk     | 2022-06-30 18:31:49 |
@@ -163,7 +163,7 @@ Table created at 2022-06-30 21:58:36.819922
 | 156 | [约翰尼丶德普#51476](https://d3.blizzard.cn/profile/约翰尼丶德普-51476/)           |      7787      | 7.68 Quadrillion  |    Monk     | 2022-06-30 18:38:10 |
 | 157 | [凤丶兮#51974](https://d3.blizzard.cn/profile/凤丶兮-51974/)                 |      7780      | 7.66 Quadrillion  |    Monk     | 2022-06-29 14:56:46 |
 | 158 | [BBBBBiSpetch#5950](https://d3.blizzard.cn/profile/BBBBBiSpetch-5950/) |      7779      | 7.66 Quadrillion  |    Monk     | 2022-06-30 18:47:09 |
-| 159 | [虎牙星语哥#5721](https://d3.blizzard.cn/profile/虎牙星语哥-5721/)               |      7778      | 7.66 Quadrillion  |    Monk     | 2022-06-30 18:46:46 |
+| 159 | [虎牙星语哥#5721](https://d3.blizzard.cn/profile/虎牙星语哥-5721/)               |      7778      | 7.66 Quadrillion  |    Monk     | 2022-06-30 21:53:11 |
 | 160 | [羽羽羽羽羽羽轩#5487](https://d3.blizzard.cn/profile/羽羽羽羽羽羽轩-5487/)           |      7777      | 7.65 Quadrillion  |    Monk     | 2022-06-30 18:47:09 |
 | 161 | [小五毛#5927](https://d3.blizzard.cn/profile/小五毛-5927/)                   |      7771      | 7.63 Quadrillion  |    Monk     | 2022-06-30 18:38:18 |
 | 162 | [惊魂之武僧#5210123](https://d3.blizzard.cn/profile/惊魂之武僧-5210123/)         |      7770      | 7.63 Quadrillion  |    Monk     | 2022-06-30 18:41:27 |
@@ -179,7 +179,7 @@ Table created at 2022-06-30 21:58:36.819922
 | 172 | [Dave#52357](https://d3.blizzard.cn/profile/Dave-52357/)               |      7745      | 7.56 Quadrillion  |    Monk     | 2022-06-30 21:23:09 |
 | 173 | [琉璃永夜#5975](https://d3.blizzard.cn/profile/琉璃永夜-5975/)                 |      7744      | 7.55 Quadrillion  |    Monk     | 2022-06-25 17:07:56 |
 | 174 | [计不住#5576](https://d3.blizzard.cn/profile/计不住-5576/)                   |      7735      | 7.53 Quadrillion  |    Monk     | 2022-06-30 18:43:43 |
-| 175 | [史诗之巨魔#520802](https://d3.blizzard.cn/profile/史诗之巨魔-520802/)           |      7729      | 7.51 Quadrillion  |    Monk     | 2022-06-30 18:46:43 |
+| 175 | [史诗之巨魔#520802](https://d3.blizzard.cn/profile/史诗之巨魔-520802/)           |      7729      | 7.51 Quadrillion  |    Monk     | 2022-06-30 22:22:44 |
 | 176 | [Brilliant#51115](https://d3.blizzard.cn/profile/Brilliant-51115/)     |      7715      | 7.47 Quadrillion  |    Monk     | 2022-06-30 14:04:59 |
 | 177 | [梦游#52326](https://d3.blizzard.cn/profile/梦游-52326/)                   |      7713      | 7.46 Quadrillion  |    Monk     | 2022-06-21 14:50:05 |
 | 178 | [小味鲜酒楼#5431](https://d3.blizzard.cn/profile/小味鲜酒楼-5431/)               |      7708      | 7.45 Quadrillion  |    Monk     | 2022-06-30 18:54:47 |
@@ -197,11 +197,10 @@ Table created at 2022-06-30 21:58:36.819922
 | 190 | [射破苍穹灬#5492](https://d3.blizzard.cn/profile/射破苍穹灬-5492/)               |      7656      | 7.29 Quadrillion  |    Monk     | 2022-06-30 18:02:57 |
 | 191 | [随风潜入夜#5834](https://d3.blizzard.cn/profile/随风潜入夜-5834/)               |      7651      | 7.28 Quadrillion  |    Monk     | 2022-06-11 16:26:59 |
 | 192 | [愚者#5259](https://d3.blizzard.cn/profile/愚者-5259/)                     |      7650      | 7.27 Quadrillion  |    Monk     | 2022-06-30 18:32:18 |
-| 193 | [海豚#51210](https://d3.blizzard.cn/profile/海豚-51210/)                   |      7650      | 7.27 Quadrillion  |    Monk     | 2022-06-30 18:47:03 |
+| 193 | [海豚#51210](https://d3.blizzard.cn/profile/海豚-51210/)                   |      7650      | 7.27 Quadrillion  |    Monk     | 2022-06-30 22:19:16 |
 | 194 | [暗黑业务虎牙小柒#5703](https://d3.blizzard.cn/profile/暗黑业务虎牙小柒-5703/)         |      7624      | 7.2 Quadrillion   |    Monk     | 2022-06-07 19:03:39 |
 | 195 | [DKSOR#5599](https://d3.blizzard.cn/profile/DKSOR-5599/)               |      7620      | 7.19 Quadrillion  |    Monk     | 2022-06-30 18:45:50 |
 | 196 | [床上的余温#5408](https://d3.blizzard.cn/profile/床上的余温-5408/)               |      7619      | 7.18 Quadrillion  |    Monk     | 2022-06-29 15:50:20 |
 | 197 | [皇阿玛#5682](https://d3.blizzard.cn/profile/皇阿玛-5682/)                   |      7610      | 7.16 Quadrillion  |    Monk     | 2022-06-30 13:14:07 |
 | 198 | [狂野之狼#5514982](https://d3.blizzard.cn/profile/狂野之狼-5514982/)           |      7586      | 7.09 Quadrillion  |    Monk     | 2022-06-30 21:11:30 |
-| 199 | [小王子徐哥哥#5892](https://d3.blizzard.cn/profile/小王子徐哥哥-5892/)             |      7573      | 7.05 Quadrillion  |    Monk     | 2022-06-30 18:41:35 |
-| 200 | [印儿#51413](https://d3.blizzard.cn/profile/印儿-51413/)                   |      3774      | 798.63 Trillion   |    Monk     | 2022-06-30 18:46:43 |
+| 199 | [白金之星#5385](https://d3.blizzard.cn/profile/白金之星-5385/)                 |      2025      | 123.62 Trillion   |     DH      | 2022-06-30 18:41:03 |
