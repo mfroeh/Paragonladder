@@ -1,194 +1,202 @@
 # Season 27 (CN)
 
 ---
-Table created at 2022-08-26 10:59:10.248014
+Table created at 2022-08-26 11:54:40.514413
 
-|  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
-| :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [秋元明#5606](https://d3.blizzard.cn/profile/秋元明-5606/)                   |       27       | 699.84 Million    |    Necro    | 2022-08-26 10:19:24 |
-| 2   | [秋仲琉璃子不语#5268](https://d3.blizzard.cn/profile/秋仲琉璃子不语-5268/)           |       27       | 699.84 Million    |     DH      | 2022-08-26 10:25:29 |
-| 3   | [咪子#51702](https://d3.blizzard.cn/profile/咪子-51702/)                   |       26       | 655.2 Million     |    Monk     | 2022-08-26 10:26:56 |
-| 4   | [二号技师小轩轩#5849](https://d3.blizzard.cn/profile/二号技师小轩轩-5849/)           |       26       | 655.2 Million     |     DH      | 2022-08-26 10:19:42 |
-| 5   | [气定大火球#51733](https://d3.blizzard.cn/profile/气定大火球-51733/)             |       25       | 612.0 Million     |     DH      | 2022-08-26 10:19:50 |
-| 6   | [透视真理#5683](https://d3.blizzard.cn/profile/透视真理-5683/)                 |       25       | 612.0 Million     |     DH      | 2022-08-26 10:27:23 |
-| 7   | [Seph1roth#5221](https://d3.blizzard.cn/profile/Seph1roth-5221/)       |       25       | 612.0 Million     |    Necro    | 2022-08-26 10:30:05 |
-| 8   | [失落的凝血#5376](https://d3.blizzard.cn/profile/失落的凝血-5376/)               |       24       | 570.24 Million    |    Necro    | 2022-08-26 10:19:39 |
-| 9   | [联盟都是猪#5350](https://d3.blizzard.cn/profile/联盟都是猪-5350/)               |       24       | 570.24 Million    |     DH      | 2022-08-26 10:25:40 |
-| 10  | [MAGA#51961](https://d3.blizzard.cn/profile/MAGA-51961/)               |       24       | 570.24 Million    |     DH      | 2022-08-26 10:25:42 |
-| 11  | [Bruce#53262](https://d3.blizzard.cn/profile/Bruce-53262/)             |       23       | 529.92 Million    |     DH      | 2022-08-26 10:09:07 |
-| 12  | [YoyiPolo#5725](https://d3.blizzard.cn/profile/YoyiPolo-5725/)         |       23       | 529.92 Million    |    Necro    | 2022-08-26 10:25:40 |
-| 13  | [白色玄铁#5720](https://d3.blizzard.cn/profile/白色玄铁-5720/)                 |       23       | 529.92 Million    |     DH      | 2022-08-26 10:18:52 |
-| 14  | [爱莉杏菜的美黑液#5536](https://d3.blizzard.cn/profile/爱莉杏菜的美黑液-5536/)         |       21       | 453.6 Million     |    Necro    | 2022-08-26 10:20:42 |
-| 15  | [万箭随缘#5331](https://d3.blizzard.cn/profile/万箭随缘-5331/)                 |       20       | 417.6 Million     |    Necro    | 2022-08-26 10:23:51 |
-| 16  | [真白是我老婆#5990](https://d3.blizzard.cn/profile/真白是我老婆-5990/)             |       19       | 383.04 Million    |    Necro    | 2022-08-26 10:23:35 |
-| 17  | [Yoshida#5428](https://d3.blizzard.cn/profile/Yoshida-5428/)           |       19       | 383.04 Million    |    Necro    | 2022-08-26 10:25:53 |
-| 18  | [钱归小鹿#51221](https://d3.blizzard.cn/profile/钱归小鹿-51221/)               |       19       | 383.04 Million    |     DH      | 2022-08-26 10:19:26 |
-| 19  | [虎牙小柒#5879](https://d3.blizzard.cn/profile/虎牙小柒-5879/)                 |       18       | 349.92 Million    |    Necro    | 2022-08-26 10:16:33 |
-| 20  | [天真小雨雨#51388](https://d3.blizzard.cn/profile/天真小雨雨-51388/)             |       18       | 349.92 Million    |     DH      | 2022-08-26 10:29:30 |
-| 21  | [火花#51224](https://d3.blizzard.cn/profile/火花-51224/)                   |       18       | 349.92 Million    |     DH      | 2022-08-26 10:28:44 |
-| 22  | [漫步丶瞬间#5709](https://d3.blizzard.cn/profile/漫步丶瞬间-5709/)               |       18       | 349.92 Million    |   Wizard    | 2022-08-26 10:32:31 |
-| 23  | [灰化肥发挥会发黑#5534](https://d3.blizzard.cn/profile/灰化肥发挥会发黑-5534/)         |       18       | 349.92 Million    |    Necro    | 2022-08-26 10:30:11 |
-| 24  | [慕容流云#5810](https://d3.blizzard.cn/profile/慕容流云-5810/)                 |       18       | 349.92 Million    |  Barbarian  | 2022-08-26 10:31:27 |
-| 25  | [污医#51421](https://d3.blizzard.cn/profile/污医-51421/)                   |       17       | 318.24 Million    |    Necro    | 2022-08-26 10:00:34 |
-| 26  | [miku#5707](https://d3.blizzard.cn/profile/miku-5707/)                 |       17       | 318.24 Million    |    Necro    | 2022-08-26 10:19:08 |
-| 27  | [我与狸奴不出门#5443](https://d3.blizzard.cn/profile/我与狸奴不出门-5443/)           |       17       | 318.24 Million    |     DH      | 2022-08-26 10:16:34 |
-| 28  | [红光#51299](https://d3.blizzard.cn/profile/红光-51299/)                   |       17       | 318.24 Million    |     DH      | 2022-08-26 10:14:41 |
-| 29  | [Mega#51943](https://d3.blizzard.cn/profile/Mega-51943/)               |       17       | 318.24 Million    |     DH      | 2022-08-26 10:26:07 |
-| 30  | [逐飏#5954](https://d3.blizzard.cn/profile/逐飏-5954/)                     |       17       | 318.24 Million    |    Necro    | 2022-08-26 10:25:57 |
-| 31  | [lenrvp#5332](https://d3.blizzard.cn/profile/lenrvp-5332/)             |       16       | 288.0 Million     |    Necro    | 2022-08-26 10:26:51 |
-| 32  | [不要名字#51169](https://d3.blizzard.cn/profile/不要名字-51169/)               |       16       | 288.0 Million     |    Necro    | 2022-08-26 10:26:01 |
-| 33  | [大海#5249](https://d3.blizzard.cn/profile/大海-5249/)                     |       16       | 288.0 Million     |     DH      | 2022-08-26 10:19:47 |
-| 34  | [Sand3tRom#5254](https://d3.blizzard.cn/profile/Sand3tRom-5254/)       |       15       | 259.2 Million     |    Necro    | 2022-08-26 10:25:04 |
-| 35  | [流浪剑客#5387](https://d3.blizzard.cn/profile/流浪剑客-5387/)                 |       15       | 259.2 Million     |    Necro    | 2022-08-26 10:21:45 |
-| 36  | [小挨拇#5331](https://d3.blizzard.cn/profile/小挨拇-5331/)                   |       15       | 259.2 Million     |     DH      | 2022-08-26 10:27:03 |
-| 37  | [糯米饭#52924](https://d3.blizzard.cn/profile/糯米饭-52924/)                 |       15       | 259.2 Million     |     DH      | 2022-08-26 10:31:45 |
-| 38  | [Joker#540832](https://d3.blizzard.cn/profile/Joker-540832/)           |       14       | 231.84 Million    |    Necro    | 2022-08-26 10:25:03 |
-| 39  | [白河寒夏#5509](https://d3.blizzard.cn/profile/白河寒夏-5509/)                 |       14       | 231.84 Million    |    Necro    | 2022-08-26 10:25:14 |
-| 40  | [明亮#51371](https://d3.blizzard.cn/profile/明亮-51371/)                   |       14       | 231.84 Million    |     DH      | 2022-08-26 10:27:12 |
-| 41  | [天穆酒仙乀#5111](https://d3.blizzard.cn/profile/天穆酒仙乀-5111/)               |       14       | 231.84 Million    |  Barbarian  | 2022-08-26 10:25:07 |
-| 42  | [Arcey#5778](https://d3.blizzard.cn/profile/Arcey-5778/)               |       14       | 231.84 Million    |    Necro    | 2022-08-26 10:29:56 |
-| 43  | [小叶叶#51882](https://d3.blizzard.cn/profile/小叶叶-51882/)                 |       14       | 231.84 Million    |    Necro    | 2022-08-26 10:26:36 |
-| 44  | [糖炒栗子#51852](https://d3.blizzard.cn/profile/糖炒栗子-51852/)               |       13       | 205.92 Million    |     DH      | 2022-08-26 10:25:39 |
-| 45  | [最后的约翰#5804](https://d3.blizzard.cn/profile/最后的约翰-5804/)               |       13       | 205.92 Million    |  Barbarian  | 2022-08-26 10:24:56 |
-| 46  | [大头#53490](https://d3.blizzard.cn/profile/大头-53490/)                   |       13       | 205.92 Million    |     DH      | 2022-08-26 10:26:41 |
-| 47  | [小肥猫丶#5894](https://d3.blizzard.cn/profile/小肥猫丶-5894/)                 |       13       | 205.92 Million    |    Necro    | 2022-08-26 10:29:43 |
-| 48  | [大帝#53365](https://d3.blizzard.cn/profile/大帝-53365/)                   |       12       | 181.44 Million    |     DH      | 2022-08-26 10:25:23 |
-| 49  | [英文字母#51940](https://d3.blizzard.cn/profile/英文字母-51940/)               |       12       | 181.44 Million    |     DH      | 2022-08-26 10:28:22 |
-| 50  | [承诺#52636](https://d3.blizzard.cn/profile/承诺-52636/)                   |       12       | 181.44 Million    |     DH      | 2022-08-26 10:29:59 |
-| 51  | [炭治郎#5748](https://d3.blizzard.cn/profile/炭治郎-5748/)                   |       11       | 158.4 Million     |    Necro    | 2022-08-26 10:24:57 |
-| 52  | [秦天#51978](https://d3.blizzard.cn/profile/秦天-51978/)                   |       11       | 158.4 Million     |    Necro    | 2022-08-26 10:08:50 |
-| 53  | [小圆园#5318](https://d3.blizzard.cn/profile/小圆园-5318/)                   |       11       | 158.4 Million     |     DH      | 2022-08-26 10:27:04 |
-| 54  | [壹克拉的悲伤#51347](https://d3.blizzard.cn/profile/壹克拉的悲伤-51347/)           |       11       | 158.4 Million     |    Necro    | 2022-08-26 10:27:13 |
-| 55  | [七号技师酸豆#5339](https://d3.blizzard.cn/profile/七号技师酸豆-5339/)             |       11       | 158.4 Million     |     DH      | 2022-08-26 10:19:51 |
-| 56  | [NotSweet#5684](https://d3.blizzard.cn/profile/NotSweet-5684/)         |       10       | 136.8 Million     |     DH      | 2022-08-26 10:31:35 |
-| 57  | [凯撒大帝丶坠凡#5215](https://d3.blizzard.cn/profile/凯撒大帝丶坠凡-5215/)           |       10       | 136.8 Million     |     DH      | 2022-08-26 10:23:52 |
-| 58  | [有毒的老司机#5739](https://d3.blizzard.cn/profile/有毒的老司机-5739/)             |       10       | 136.8 Million     |     DH      | 2022-08-26 10:29:42 |
-| 59  | [祎彤#5139](https://d3.blizzard.cn/profile/祎彤-5139/)                     |       9        | 116.64 Million    |     DH      | 2022-08-26 10:13:12 |
-| 60  | [斗战圣佛#52852](https://d3.blizzard.cn/profile/斗战圣佛-52852/)               |       9        | 116.64 Million    |     DH      | 2022-08-26 10:13:07 |
-| 61  | [不思议年华#5537](https://d3.blizzard.cn/profile/不思议年华-5537/)               |       9        | 116.64 Million    |     DH      | 2022-08-26 10:13:08 |
-| 62  | [低调的华丽#5131](https://d3.blizzard.cn/profile/低调的华丽-5131/)               |       9        | 116.64 Million    |     DH      | 2022-08-26 10:24:23 |
-| 63  | [莫妖#5754](https://d3.blizzard.cn/profile/莫妖-5754/)                     |       9        | 116.64 Million    |    Necro    | 2022-08-26 10:28:02 |
-| 64  | [太上老君#51204](https://d3.blizzard.cn/profile/太上老君-51204/)               |       9        | 116.64 Million    |     DH      | 2022-08-26 10:31:21 |
-| 65  | [星风血宇#5884](https://d3.blizzard.cn/profile/星风血宇-5884/)                 |       9        | 116.64 Million    |     DH      | 2022-08-26 10:31:58 |
-| 66  | [大铁棍子捅主任#51401](https://d3.blizzard.cn/profile/大铁棍子捅主任-51401/)         |       8        | 97.92 Million     |    Necro    | 2022-08-26 10:23:06 |
-| 67  | [半城烟火半城殇#51424](https://d3.blizzard.cn/profile/半城烟火半城殇-51424/)         |       7        | 80.64 Million     |     DH      | 2022-08-26 10:13:52 |
-| 68  | [Emmaric#51337](https://d3.blizzard.cn/profile/Emmaric-51337/)         |       7        | 80.64 Million     |     DH      | 2022-08-26 10:08:56 |
-| 69  | [小渝儿#51612](https://d3.blizzard.cn/profile/小渝儿-51612/)                 |       7        | 80.64 Million     |  Barbarian  | 2022-08-26 10:08:53 |
-| 70  | [冬瓜你个大芋头#5651](https://d3.blizzard.cn/profile/冬瓜你个大芋头-5651/)           |       7        | 80.64 Million     |    Necro    | 2022-08-26 10:31:04 |
-| 71  | [野兽的魅力#5350](https://d3.blizzard.cn/profile/野兽的魅力-5350/)               |       7        | 80.64 Million     |     DH      | 2022-08-26 10:32:52 |
-| 72  | [陈阿脸#5704](https://d3.blizzard.cn/profile/陈阿脸-5704/)                   |       6        | 64.8 Million      |     DH      | 2022-08-26 10:27:09 |
-| 73  | [夜色丶#5619](https://d3.blizzard.cn/profile/夜色丶-5619/)                   |       5        | 50.4 Million      |    Necro    | 2022-08-26 10:13:14 |
-| 74  | [画中仙#51189](https://d3.blizzard.cn/profile/画中仙-51189/)                 |       5        | 50.4 Million      |     DH      | 2022-08-26 10:13:30 |
-| 75  | [兔子#57697](https://d3.blizzard.cn/profile/兔子-57697/)                   |       5        | 50.4 Million      |     DH      | 2022-08-26 10:08:58 |
-| 76  | [Yang#52160](https://d3.blizzard.cn/profile/Yang-52160/)               |       5        | 50.4 Million      |     DH      | 2022-08-26 10:28:24 |
-| 77  | [乱舞春秋#5168](https://d3.blizzard.cn/profile/乱舞春秋-5168/)                 |       5        | 50.4 Million      |    Necro    | 2022-08-26 10:21:34 |
-| 78  | [武小闲#5603](https://d3.blizzard.cn/profile/武小闲-5603/)                   |       5        | 50.4 Million      |     DH      | 2022-08-26 10:30:27 |
-| 79  | [忧伤蛋#5421](https://d3.blizzard.cn/profile/忧伤蛋-5421/)                   |       5        | 50.4 Million      |     DH      | 2022-08-26 10:02:56 |
-| 80  | [带眼泪的微笑#51986](https://d3.blizzard.cn/profile/带眼泪的微笑-51986/)           |       5        | 50.4 Million      |    Necro    | 2022-08-26 10:28:44 |
-| 81  | [要死就死在你手里#51780](https://d3.blizzard.cn/profile/要死就死在你手里-51780/)       |       5        | 50.4 Million      |    Necro    | 2022-08-26 10:27:12 |
-| 82  | [angelgostop#5694](https://d3.blizzard.cn/profile/angelgostop-5694/)   |       4        | 37.44 Million     |    Necro    | 2022-08-26 10:07:34 |
-| 83  | [Kurenai#5465](https://d3.blizzard.cn/profile/Kurenai-5465/)           |       4        | 37.44 Million     |    Necro    | 2022-08-26 10:26:24 |
-| 84  | [刀过人抬走#5331](https://d3.blizzard.cn/profile/刀过人抬走-5331/)               |       4        | 37.44 Million     |     DH      | 2022-08-26 10:13:55 |
-| 85  | [指缝阳光#51846](https://d3.blizzard.cn/profile/指缝阳光-51846/)               |       3        | 25.92 Million     |     DH      | 2022-08-26 10:10:28 |
-| 86  | [黑暗来了#5416](https://d3.blizzard.cn/profile/黑暗来了-5416/)                 |       3        | 25.92 Million     |    Necro    | 2022-08-26 10:28:06 |
-| 87  | [teng#51201](https://d3.blizzard.cn/profile/teng-51201/)               |       3        | 25.92 Million     |    Necro    | 2022-08-26 10:25:08 |
-| 88  | [四面楚歌#51400](https://d3.blizzard.cn/profile/四面楚歌-51400/)               |       3        | 25.92 Million     |     DH      | 2022-08-26 10:15:14 |
-| 89  | [穷胸嫉恶#5888](https://d3.blizzard.cn/profile/穷胸嫉恶-5888/)                 |       3        | 25.92 Million     |    Necro    | 2022-08-26 10:20:36 |
-| 90  | [Rick666#51390](https://d3.blizzard.cn/profile/Rick666-51390/)         |       2        | 15.84 Million     |     DH      | 2022-08-26 10:21:10 |
-| 91  | [wobushidashi#5419](https://d3.blizzard.cn/profile/wobushidashi-5419/) |       2        | 15.84 Million     |     DH      | 2022-08-26 10:31:18 |
-| 92  | [东部才归一儿海#5354](https://d3.blizzard.cn/profile/东部才归一儿海-5354/)           |       2        | 15.84 Million     |    Necro    | 2022-08-26 10:15:37 |
-| 93  | [雲之飛揚#5267](https://d3.blizzard.cn/profile/雲之飛揚-5267/)                 |       2        | 15.84 Million     |     DH      | 2022-08-26 10:31:11 |
-| 94  | [谢谢#5827](https://d3.blizzard.cn/profile/谢谢-5827/)                     |       2        | 15.84 Million     |    Necro    | 2022-08-26 10:26:45 |
-| 95  | [巨硕之斧#5384499](https://d3.blizzard.cn/profile/巨硕之斧-5384499/)           |       2        | 15.84 Million     |    Necro    | 2022-08-26 10:24:21 |
-| 96  | [任道远#5223](https://d3.blizzard.cn/profile/任道远-5223/)                   |       1        | 7.2 Million       |    Necro    | 2022-08-26 10:08:35 |
-| 97  | [勤劳的小王#5305](https://d3.blizzard.cn/profile/勤劳的小王-5305/)               |       1        | 7.2 Million       |     DH      | 2022-08-26 10:09:11 |
-| 98  | [临安德鲁伊#5743](https://d3.blizzard.cn/profile/临安德鲁伊-5743/)               |       1        | 7.2 Million       |     DH      | 2022-08-26 10:09:14 |
-| 99  | [KID#5422](https://d3.blizzard.cn/profile/KID-5422/)                   |       1        | 7.2 Million       |    Necro    | 2022-08-26 10:18:03 |
-| 100 | [很猥琐丶#5553](https://d3.blizzard.cn/profile/很猥琐丶-5553/)                 |       1        | 7.2 Million       |    Necro    | 2022-08-26 10:17:29 |
-| 101 | [biubiubiu#57506](https://d3.blizzard.cn/profile/biubiubiu-57506/)     |       1        | 7.2 Million       |     DH      | 2022-08-26 10:19:59 |
-| 102 | [爱唔好#5699](https://d3.blizzard.cn/profile/爱唔好-5699/)                   |       1        | 7.2 Million       |  Barbarian  | 2022-08-26 10:26:38 |
-| 103 | [出春#5422](https://d3.blizzard.cn/profile/出春-5422/)                     |       1        | 7.2 Million       |  Barbarian  | 2022-08-26 10:22:32 |
-| 104 | [单吊玩家可笑可笑#5695](https://d3.blizzard.cn/profile/单吊玩家可笑可笑-5695/)         |       1        | 7.2 Million       |    Necro    | 2022-08-26 10:27:11 |
-| 105 | [巨硕之鼠#51328](https://d3.blizzard.cn/profile/巨硕之鼠-51328/)               |       0        | 0                 |     DH      | 2022-08-26 09:59:35 |
-| 106 | [思道#5494](https://d3.blizzard.cn/profile/思道-5494/)                     |       0        | 0                 |     DH      | 2022-08-26 09:52:54 |
-| 107 | [LZEVA#5886](https://d3.blizzard.cn/profile/LZEVA-5886/)               |       0        | 0                 |     DH      | 2022-08-26 09:52:52 |
-| 108 | [NiYa#5144](https://d3.blizzard.cn/profile/NiYa-5144/)                 |       0        | 0                 |     DH      | 2022-08-26 09:52:56 |
-| 109 | [魂淡罗#5669](https://d3.blizzard.cn/profile/魂淡罗-5669/)                   |       0        | 0                 |     DH      | 2022-08-26 09:53:01 |
-| 110 | [哇哒哒的喵#5581](https://d3.blizzard.cn/profile/哇哒哒的喵-5581/)               |       0        | 0                 |    Necro    | 2022-08-26 10:06:49 |
-| 111 | [LaoZhang#51563](https://d3.blizzard.cn/profile/LaoZhang-51563/)       |       0        | 0                 |     DH      | 2022-08-26 09:59:36 |
-| 112 | [巧克力喂猫#5537](https://d3.blizzard.cn/profile/巧克力喂猫-5537/)               |       0        | 0                 |    Necro    | 2022-08-26 10:10:18 |
-| 113 | [风行烈#51452](https://d3.blizzard.cn/profile/风行烈-51452/)                 |       0        | 0                 |     DH      | 2022-08-26 09:59:02 |
-| 114 | [RampantZQ#5333](https://d3.blizzard.cn/profile/RampantZQ-5333/)       |       0        | 0                 |     DH      | 2022-08-26 09:53:30 |
-| 115 | [瘾眦#5167](https://d3.blizzard.cn/profile/瘾眦-5167/)                     |       0        | 0                 |    Necro    | 2022-08-26 09:53:31 |
-| 116 | [sterben#5217](https://d3.blizzard.cn/profile/sterben-5217/)           |       0        | 0                 |     DH      | 2022-08-26 09:53:26 |
-| 117 | [阿笨猫#5350](https://d3.blizzard.cn/profile/阿笨猫-5350/)                   |       0        | 0                 |     DH      | 2022-08-26 09:53:33 |
-| 118 | [我是萌新#5243](https://d3.blizzard.cn/profile/我是萌新-5243/)                 |       0        | 0                 |    Necro    | 2022-08-26 10:02:54 |
-| 119 | [魏嘉俊#5861](https://d3.blizzard.cn/profile/魏嘉俊-5861/)                   |       0        | 0                 |     DH      | 2022-08-26 10:06:48 |
-| 120 | [血狼#52670](https://d3.blizzard.cn/profile/血狼-52670/)                   |       0        | 0                 |    Necro    | 2022-08-26 10:10:10 |
-| 121 | [涵雪飘绫#51930](https://d3.blizzard.cn/profile/涵雪飘绫-51930/)               |       0        | 0                 |     DH      | 2022-08-26 10:08:22 |
-| 122 | [BruceWayne#51499](https://d3.blizzard.cn/profile/BruceWayne-51499/)   |       0        | 0                 |    Necro    | 2022-08-26 10:12:42 |
-| 123 | [丨戰龍騎軍丨#5930](https://d3.blizzard.cn/profile/丨戰龍騎軍丨-5930/)             |       0        | 0                 |    Necro    | 2022-08-26 10:11:11 |
-| 124 | [randomboy#5790](https://d3.blizzard.cn/profile/randomboy-5790/)       |       0        | 0                 |    Necro    | 2022-08-26 10:10:13 |
-| 125 | [飒顶顶#5515](https://d3.blizzard.cn/profile/飒顶顶-5515/)                   |       0        | 0                 |     DH      | 2022-08-26 10:10:18 |
-| 126 | [控几不住我记几#5149](https://d3.blizzard.cn/profile/控几不住我记几-5149/)           |       0        | 0                 |    Necro    | 2022-08-26 10:10:28 |
-| 127 | [kevinl#51870](https://d3.blizzard.cn/profile/kevinl-51870/)           |       0        | 0                 |    Necro    | 2022-08-26 10:11:40 |
-| 128 | [Loveyouyo#5614](https://d3.blizzard.cn/profile/Loveyouyo-5614/)       |       0        | 0                 |  Barbarian  | 2022-08-26 10:12:46 |
-| 129 | [动力火锅#51828](https://d3.blizzard.cn/profile/动力火锅-51828/)               |       0        | 0                 |    Necro    | 2022-08-26 10:02:11 |
-| 130 | [达盖尔的旗帜#5618](https://d3.blizzard.cn/profile/达盖尔的旗帜-5618/)             |       0        | 0                 |    Necro    | 2022-08-26 10:11:10 |
-| 131 | [看毛丶卑鄙#5591](https://d3.blizzard.cn/profile/看毛丶卑鄙-5591/)               |       0        | 0                 |    Necro    | 2022-08-26 10:06:23 |
-| 132 | [Darbre#5402](https://d3.blizzard.cn/profile/Darbre-5402/)             |       0        | 0                 |     DH      | 2022-08-26 10:12:41 |
-| 133 | [陈洪宇#51910](https://d3.blizzard.cn/profile/陈洪宇-51910/)                 |       0        | 0                 |     DH      | 2022-08-26 10:08:25 |
-| 134 | [lovely#51543](https://d3.blizzard.cn/profile/lovely-51543/)           |       0        | 0                 |    Necro    | 2022-08-26 10:11:26 |
-| 135 | [二十四桥明月夜#51970](https://d3.blizzard.cn/profile/二十四桥明月夜-51970/)         |       0        | 0                 |     DH      | 2022-08-26 10:07:15 |
-| 136 | [愿人類荣光永存#5236](https://d3.blizzard.cn/profile/愿人類荣光永存-5236/)           |       0        | 0                 |    Necro    | 2022-08-26 10:03:00 |
-| 137 | [红门#5597](https://d3.blizzard.cn/profile/红门-5597/)                     |       0        | 0                 |     DH      | 2022-08-26 10:07:33 |
-| 138 | [山宝你好#5568](https://d3.blizzard.cn/profile/山宝你好-5568/)                 |       0        | 0                 |     DH      | 2022-08-26 10:10:29 |
-| 139 | [晓生#51962](https://d3.blizzard.cn/profile/晓生-51962/)                   |       0        | 0                 |    Necro    | 2022-08-26 10:11:59 |
-| 140 | [小黑皮丶#5483](https://d3.blizzard.cn/profile/小黑皮丶-5483/)                 |       0        | 0                 |     DH      | 2022-08-26 09:54:55 |
-| 141 | [Chnxi#5199](https://d3.blizzard.cn/profile/Chnxi-5199/)               |       0        | 0                 |    Necro    | 2022-08-26 10:14:06 |
-| 142 | [逍遥#52402](https://d3.blizzard.cn/profile/逍遥-52402/)                   |       0        | 0                 |    Necro    | 2022-08-26 10:12:42 |
-| 143 | [微猛先生#51278](https://d3.blizzard.cn/profile/微猛先生-51278/)               |       0        | 0                 |     DH      | 2022-08-26 10:07:31 |
-| 144 | [芬达丶#5907](https://d3.blizzard.cn/profile/芬达丶-5907/)                   |       0        | 0                 |     DH      | 2022-08-26 10:14:03 |
-| 145 | [最21暗夜之鸦#5622](https://d3.blizzard.cn/profile/最21暗夜之鸦-5622/)           |       0        | 0                 |     DH      | 2022-08-26 10:13:27 |
-| 146 | [蛇精病#5300](https://d3.blizzard.cn/profile/蛇精病-5300/)                   |       0        | 0                 |     DH      | 2022-08-26 10:10:28 |
-| 147 | [靐龘#51603](https://d3.blizzard.cn/profile/靐龘-51603/)                   |       0        | 0                 |     DH      | 2022-08-26 09:54:50 |
-| 148 | [酒酒#52696](https://d3.blizzard.cn/profile/酒酒-52696/)                   |       0        | 0                 |     DH      | 2022-08-26 09:54:57 |
-| 149 | [名字不能太铞#5602](https://d3.blizzard.cn/profile/名字不能太铞-5602/)             |       0        | 0                 |    Necro    | 2022-08-26 10:03:46 |
-| 150 | [先生苏苏里#5925](https://d3.blizzard.cn/profile/先生苏苏里-5925/)               |       0        | 0                 |    Necro    | 2022-08-26 10:03:56 |
-| 151 | [纽布里奇盖斯特#5940](https://d3.blizzard.cn/profile/纽布里奇盖斯特-5940/)           |       0        | 0                 |     DH      | 2022-08-26 10:12:47 |
-| 152 | [微笑只是一个弧度#51435](https://d3.blizzard.cn/profile/微笑只是一个弧度-51435/)       |       0        | 0                 |    Necro    | 2022-08-26 10:14:08 |
-| 153 | [妖刀#5455](https://d3.blizzard.cn/profile/妖刀-5455/)                     |       0        | 0                 |     DH      | 2022-08-26 10:11:55 |
-| 154 | [江南的鱼#51169](https://d3.blizzard.cn/profile/江南的鱼-51169/)               |       0        | 0                 |  Barbarian  | 2022-08-26 10:15:05 |
-| 155 | [陈广#5814](https://d3.blizzard.cn/profile/陈广-5814/)                     |       0        | 0                 |     DH      | 2022-08-26 10:08:33 |
-| 156 | [褚凌丽#5492](https://d3.blizzard.cn/profile/褚凌丽-5492/)                   |       0        | 0                 |     DH      | 2022-08-26 10:17:11 |
-| 157 | [Erio#51951](https://d3.blizzard.cn/profile/Erio-51951/)               |       0        | 0                 |    Necro    | 2022-08-26 10:04:23 |
-| 158 | [爱是皮卡丘#5338](https://d3.blizzard.cn/profile/爱是皮卡丘-5338/)               |       0        | 0                 |     DH      | 2022-08-26 10:07:36 |
-| 159 | [花村第一村草#5928](https://d3.blizzard.cn/profile/花村第一村草-5928/)             |       0        | 0                 |    Necro    | 2022-08-26 10:12:15 |
-| 160 | [Chaser#51163](https://d3.blizzard.cn/profile/Chaser-51163/)           |       0        | 0                 |     DH      | 2022-08-26 10:11:49 |
-| 161 | [国王大道的老司机#5501](https://d3.blizzard.cn/profile/国王大道的老司机-5501/)         |       0        | 0                 |    Necro    | 2022-08-26 10:05:18 |
-| 162 | [可她叫我哥哥阿#5486](https://d3.blizzard.cn/profile/可她叫我哥哥阿-5486/)           |       0        | 0                 |     DH      | 2022-08-26 09:55:03 |
-| 163 | [剑走偏锋我祈祷#51813](https://d3.blizzard.cn/profile/剑走偏锋我祈祷-51813/)         |       0        | 0                 |     DH      | 2022-08-26 10:13:13 |
-| 164 | [晓处牛牛#5584](https://d3.blizzard.cn/profile/晓处牛牛-5584/)                 |       0        | 0                 |   Wizard    | 2022-08-26 10:03:56 |
-| 165 | [wbjsrbdbyr#5558](https://d3.blizzard.cn/profile/wbjsrbdbyr-5558/)     |       0        | 0                 |    Necro    | 2022-08-26 10:24:24 |
-| 166 | [草莓大侠#5284](https://d3.blizzard.cn/profile/草莓大侠-5284/)                 |       0        | 0                 |    Necro    | 2022-08-26 10:03:49 |
-| 167 | [咏叹#5517](https://d3.blizzard.cn/profile/咏叹-5517/)                     |       0        | 0                 |    Necro    | 2022-08-26 10:10:07 |
-| 168 | [天壤之劫火#51639](https://d3.blizzard.cn/profile/天壤之劫火-51639/)             |       0        | 0                 |    Necro    | 2022-08-26 10:10:17 |
-| 169 | [月影#53455](https://d3.blizzard.cn/profile/月影-53455/)                   |       0        | 0                 |    Necro    | 2022-08-26 10:17:54 |
-| 170 | [包子殿下丶#5223](https://d3.blizzard.cn/profile/包子殿下丶-5223/)               |       0        | 0                 |    Necro    | 2022-08-26 10:15:12 |
-| 171 | [初音未来#5369](https://d3.blizzard.cn/profile/初音未来-5369/)                 |       0        | 0                 |    Necro    | 2022-08-26 10:09:01 |
-| 172 | [流枫雪#5932](https://d3.blizzard.cn/profile/流枫雪-5932/)                   |       0        | 0                 |    Necro    | 2022-08-26 10:19:04 |
-| 173 | [吹雪一闪#5303](https://d3.blizzard.cn/profile/吹雪一闪-5303/)                 |       0        | 0                 |     WD      | 2022-08-26 10:17:40 |
-| 174 | [大招#5921](https://d3.blizzard.cn/profile/大招-5921/)                     |       0        | 0                 |    Monk     | 2022-08-26 10:20:42 |
-| 175 | [奇葩小鸟嘣嚓嚓#5728](https://d3.blizzard.cn/profile/奇葩小鸟嘣嚓嚓-5728/)           |       0        | 0                 |  Barbarian  | 2022-08-26 10:01:56 |
-| 176 | [JK0904#5947](https://d3.blizzard.cn/profile/JK0904-5947/)             |       0        | 0                 |    Necro    | 2022-08-26 10:22:56 |
-| 177 | [JianLai#5715](https://d3.blizzard.cn/profile/JianLai-5715/)           |       0        | 0                 |     DH      | 2022-08-26 10:10:24 |
-| 178 | [会旋转的陀螺#5438](https://d3.blizzard.cn/profile/会旋转的陀螺-5438/)             |       0        | 0                 |    Necro    | 2022-08-26 10:10:59 |
-| 179 | [乌啦啦#5441](https://d3.blizzard.cn/profile/乌啦啦-5441/)                   |       0        | 0                 |     DH      | 2022-08-26 10:11:20 |
-| 180 | [个和#51923](https://d3.blizzard.cn/profile/个和-51923/)                   |       0        | 0                 |     DH      | 2022-08-26 10:20:14 |
-| 181 | [shadow#511715](https://d3.blizzard.cn/profile/shadow-511715/)         |       0        | 0                 |    Necro    | 2022-08-26 10:17:17 |
-| 182 | [迷途#5666](https://d3.blizzard.cn/profile/迷途-5666/)                     |       0        | 0                 |    Necro    | 2022-08-26 10:20:57 |
-| 183 | [天外#5389](https://d3.blizzard.cn/profile/天外-5389/)                     |       0        | 0                 |     DH      | 2022-08-26 10:10:14 |
-| 184 | [孤独的王者#52149](https://d3.blizzard.cn/profile/孤独的王者-52149/)             |       0        | 0                 |    Necro    | 2022-08-26 10:17:15 |
-| 185 | [尘世魂葬#5809](https://d3.blizzard.cn/profile/尘世魂葬-5809/)                 |       0        | 0                 |    Necro    | 2022-08-26 10:14:08 |
-| 186 | [HentaiPoi#5639](https://d3.blizzard.cn/profile/HentaiPoi-5639/)       |       0        | 0                 |  Barbarian  | 2022-08-26 10:19:03 |
-| 187 | [暖男如风#5622](https://d3.blizzard.cn/profile/暖男如风-5622/)                 |       0        | 0                 |     DH      | 2022-08-26 10:13:54 |
+|  #  |                              BattleTag                               | Paragon Season | Experience gained | Most played |     Last update     |
+| :-- | :------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
+| 1   | [秋仲琉璃子不语#5268](https://d3.blizzard.cn/profile/秋仲琉璃子不语-5268/)         |      144       | 16.91 Billion     |    Necro    | 2022-08-26 11:18:08 |
+| 2   | [思道#5494](https://d3.blizzard.cn/profile/思道-5494/)                   |      131       | 14.24 Billion     |    Necro    | 2022-08-26 11:17:01 |
+| 3   | [NiYa#5144](https://d3.blizzard.cn/profile/NiYa-5144/)               |      131       | 14.24 Billion     |     DH      | 2022-08-26 11:17:30 |
+| 4   | [MAGA#51961](https://d3.blizzard.cn/profile/MAGA-51961/)             |      131       | 14.24 Billion     |     DH      | 2022-08-26 11:18:10 |
+| 5   | [YoyiPolo#5725](https://d3.blizzard.cn/profile/YoyiPolo-5725/)       |      131       | 14.24 Billion     |    Necro    | 2022-08-26 11:18:10 |
+| 6   | [LZEVA#5886](https://d3.blizzard.cn/profile/LZEVA-5886/)             |      130       | 14.05 Billion     |     DH      | 2022-08-26 11:17:04 |
+| 7   | [魂淡罗#5669](https://d3.blizzard.cn/profile/魂淡罗-5669/)                 |      130       | 14.05 Billion     |     DH      | 2022-08-26 11:17:24 |
+| 8   | [联盟都是猪#5350](https://d3.blizzard.cn/profile/联盟都是猪-5350/)             |      130       | 14.05 Billion     |     DH      | 2022-08-26 11:18:09 |
+| 9   | [biubiubiu#57506](https://d3.blizzard.cn/profile/biubiubiu-57506/)   |      101       | 8.75 Billion      |     DH      | 2022-08-26 11:24:58 |
+| 10  | [二熊#51606](https://d3.blizzard.cn/profile/二熊-51606/)                 |       99       | 8.42 Billion      |    Necro    | 2022-08-26 11:24:11 |
+| 11  | [Bruce#53262](https://d3.blizzard.cn/profile/Bruce-53262/)           |       91       | 7.13 Billion      |    Necro    | 2022-08-26 11:12:16 |
+| 12  | [虹彩#5342](https://d3.blizzard.cn/profile/虹彩-5342/)                   |       90       | 6.97 Billion      |    Monk     | 2022-08-26 11:24:26 |
+| 13  | [justz#5504](https://d3.blizzard.cn/profile/justz-5504/)             |       90       | 6.97 Billion      |    Necro    | 2022-08-26 11:24:44 |
+| 14  | [传说之魂#5606](https://d3.blizzard.cn/profile/传说之魂-5606/)               |       88       | 6.66 Billion      |     DH      | 2022-08-26 11:26:17 |
+| 15  | [真白是我老婆#5990](https://d3.blizzard.cn/profile/真白是我老婆-5990/)           |       87       | 6.5 Billion       |    Necro    | 2022-08-26 11:19:04 |
+| 16  | [勤劳的小王#5305](https://d3.blizzard.cn/profile/勤劳的小王-5305/)             |       87       | 6.5 Billion       |     DH      | 2022-08-26 11:12:19 |
+| 17  | [ARIA#5601](https://d3.blizzard.cn/profile/ARIA-5601/)               |       85       | 6.2 Billion       |     DH      | 2022-08-26 11:24:05 |
+| 18  | [年轻人木得武德#5242](https://d3.blizzard.cn/profile/年轻人木得武德-5242/)         |       84       | 6.05 Billion      |     DH      | 2022-08-26 11:12:19 |
+| 19  | [临安德鲁伊#5743](https://d3.blizzard.cn/profile/临安德鲁伊-5743/)             |       82       | 5.75 Billion      |     DH      | 2022-08-26 11:12:26 |
+| 20  | [天真小雨雨#51388](https://d3.blizzard.cn/profile/天真小雨雨-51388/)           |       82       | 5.75 Billion      |    Necro    | 2022-08-26 11:23:54 |
+| 21  | [众星之子卡多雷#5115](https://d3.blizzard.cn/profile/众星之子卡多雷-5115/)         |       82       | 5.75 Billion      |  Crusader   | 2022-08-26 11:24:25 |
+| 22  | [爱莉杏菜的美黑液#5536](https://d3.blizzard.cn/profile/爱莉杏菜的美黑液-5536/)       |       81       | 5.6 Billion       |    Necro    | 2022-08-26 11:17:05 |
+| 23  | [小西闹闹#51233](https://d3.blizzard.cn/profile/小西闹闹-51233/)             |       81       | 5.6 Billion       |     DH      | 2022-08-26 11:24:41 |
+| 24  | [Emmaric#51337](https://d3.blizzard.cn/profile/Emmaric-51337/)       |       80       | 5.45 Billion      |     DH      | 2022-08-26 11:22:15 |
+| 25  | [污医#51421](https://d3.blizzard.cn/profile/污医-51421/)                 |       77       | 5.02 Billion      |    Necro    | 2022-08-26 11:00:07 |
+| 26  | [我是萌新#5243](https://d3.blizzard.cn/profile/我是萌新-5243/)               |       76       | 4.88 Billion      |    Necro    | 2022-08-26 11:08:59 |
+| 27  | [指缝阳光#51846](https://d3.blizzard.cn/profile/指缝阳光-51846/)             |       75       | 4.73 Billion      |     DH      | 2022-08-26 11:11:17 |
+| 28  | [承诺#52636](https://d3.blizzard.cn/profile/承诺-52636/)                 |       74       | 4.59 Billion      |    Necro    | 2022-08-26 11:16:09 |
+| 29  | [呆噜噜#5339](https://d3.blizzard.cn/profile/呆噜噜-5339/)                 |       74       | 4.59 Billion      |    Necro    | 2022-08-26 11:05:59 |
+| 30  | [兔子#57697](https://d3.blizzard.cn/profile/兔子-57697/)                 |       73       | 4.45 Billion      |     DH      | 2022-08-26 11:22:32 |
+| 31  | [阿楠大魔王#5285](https://d3.blizzard.cn/profile/阿楠大魔王-5285/)             |       73       | 4.45 Billion      |    Necro    | 2022-08-26 11:24:24 |
+| 32  | [GGbond#5434](https://d3.blizzard.cn/profile/GGbond-5434/)           |       72       | 4.32 Billion      |    Necro    | 2022-08-26 11:19:58 |
+| 33  | [那个划水的兄弟#5199](https://d3.blizzard.cn/profile/那个划水的兄弟-5199/)         |       72       | 4.32 Billion      |    Necro    | 2022-08-26 11:20:52 |
+| 34  | [守护左边#5851](https://d3.blizzard.cn/profile/守护左边-5851/)               |       71       | 4.19 Billion      |    Necro    | 2022-08-26 11:24:55 |
+| 35  | [山宝你好#5568](https://d3.blizzard.cn/profile/山宝你好-5568/)               |       69       | 3.94 Billion      |     DH      | 2022-08-26 11:12:28 |
+| 36  | [谢谢#5827](https://d3.blizzard.cn/profile/谢谢-5827/)                   |       69       | 3.94 Billion      |    Necro    | 2022-08-26 11:16:09 |
+| 37  | [阿波罗大哥#5822](https://d3.blizzard.cn/profile/阿波罗大哥-5822/)             |       69       | 3.94 Billion      |    Necro    | 2022-08-26 11:05:45 |
+| 38  | [Faker#58209](https://d3.blizzard.cn/profile/Faker-58209/)           |       69       | 3.94 Billion      |    Necro    | 2022-08-26 11:16:30 |
+| 39  | [Unreal#51630](https://d3.blizzard.cn/profile/Unreal-51630/)         |       68       | 3.82 Billion      |    Necro    | 2022-08-26 11:20:55 |
+| 40  | [miku#5707](https://d3.blizzard.cn/profile/miku-5707/)               |       67       | 3.71 Billion      |    Necro    | 2022-08-26 11:15:43 |
+| 41  | [小叶叶#51882](https://d3.blizzard.cn/profile/小叶叶-51882/)               |       67       | 3.71 Billion      |    Necro    | 2022-08-26 11:05:43 |
+| 42  | [幽魂書生#5855](https://d3.blizzard.cn/profile/幽魂書生-5855/)               |       67       | 3.71 Billion      |     DH      | 2022-08-26 11:06:23 |
+| 43  | [毛利小五郎#51577](https://d3.blizzard.cn/profile/毛利小五郎-51577/)           |       67       | 3.71 Billion      |    Necro    | 2022-08-26 11:25:00 |
+| 44  | [哇哒哒的喵#5581](https://d3.blizzard.cn/profile/哇哒哒的喵-5581/)             |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:20:14 |
+| 45  | [动力火锅#51828](https://d3.blizzard.cn/profile/动力火锅-51828/)             |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:18:35 |
+| 46  | [愿人類荣光永存#5236](https://d3.blizzard.cn/profile/愿人類荣光永存-5236/)         |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:21:20 |
+| 47  | [秦天#51978](https://d3.blizzard.cn/profile/秦天-51978/)                 |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:22:18 |
+| 48  | [JYsle5p#5925](https://d3.blizzard.cn/profile/JYsle5p-5925/)         |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:05:55 |
+| 49  | [枫桦#51340](https://d3.blizzard.cn/profile/枫桦-51340/)                 |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:21:41 |
+| 50  | [邻苯二酚#5299](https://d3.blizzard.cn/profile/邻苯二酚-5299/)               |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:18:55 |
+| 51  | [伞兵一号#5356](https://d3.blizzard.cn/profile/伞兵一号-5356/)               |       66       | 3.59 Billion      |    Necro    | 2022-08-26 11:26:51 |
+| 52  | [秋元明#5606](https://d3.blizzard.cn/profile/秋元明-5606/)                 |       65       | 3.48 Billion      |    Necro    | 2022-08-26 10:50:50 |
+| 53  | [小渝儿#51612](https://d3.blizzard.cn/profile/小渝儿-51612/)               |       65       | 3.48 Billion      |  Barbarian  | 2022-08-26 11:22:11 |
+| 54  | [东部才归一儿海#5354](https://d3.blizzard.cn/profile/东部才归一儿海-5354/)         |       65       | 3.48 Billion      |    Necro    | 2022-08-26 11:20:34 |
+| 55  | [爱唔好#5699](https://d3.blizzard.cn/profile/爱唔好-5699/)                 |       65       | 3.48 Billion      |  Barbarian  | 2022-08-26 11:05:48 |
+| 56  | [咸鱼之王#5780](https://d3.blizzard.cn/profile/咸鱼之王-5780/)               |       65       | 3.48 Billion      |    Necro    | 2022-08-26 11:12:40 |
+| 57  | [气定大火球#51733](https://d3.blizzard.cn/profile/气定大火球-51733/)           |       64       | 3.38 Billion      |     DH      | 2022-08-26 10:50:51 |
+| 58  | [lenrvp#5332](https://d3.blizzard.cn/profile/lenrvp-5332/)           |       64       | 3.38 Billion      |    Necro    | 2022-08-26 11:05:53 |
+| 59  | [夜兔神麟#5658](https://d3.blizzard.cn/profile/夜兔神麟-5658/)               |       64       | 3.38 Billion      |    Necro    | 2022-08-26 11:12:41 |
+| 60  | [程青#51827](https://d3.blizzard.cn/profile/程青-51827/)                 |       64       | 3.38 Billion      |    Necro    | 2022-08-26 11:27:00 |
+| 61  | [失落的凝血#5376](https://d3.blizzard.cn/profile/失落的凝血-5376/)             |       63       | 3.27 Billion      |    Necro    | 2022-08-26 10:50:45 |
+| 62  | [煎饼果子狸#5777](https://d3.blizzard.cn/profile/煎饼果子狸-5777/)             |       63       | 3.27 Billion      |    Necro    | 2022-08-26 11:17:58 |
+| 63  | [钱归小鹿#51221](https://d3.blizzard.cn/profile/钱归小鹿-51221/)             |       62       | 3.17 Billion      |     DH      | 2022-08-26 10:50:56 |
+| 64  | [莫妖#5754](https://d3.blizzard.cn/profile/莫妖-5754/)                   |       62       | 3.17 Billion      |    Necro    | 2022-08-26 11:18:55 |
+| 65  | [Yang#52160](https://d3.blizzard.cn/profile/Yang-52160/)             |       61       | 3.08 Billion      |     DH      | 2022-08-26 11:19:16 |
+| 66  | [尘世魂葬#5809](https://d3.blizzard.cn/profile/尘世魂葬-5809/)               |       61       | 3.08 Billion      |    Necro    | 2022-08-26 11:18:14 |
+| 67  | [风清#51237](https://d3.blizzard.cn/profile/风清-51237/)                 |       61       | 3.08 Billion      |    Necro    | 2022-08-26 11:12:37 |
+| 68  | [丿小飞丨#5677](https://d3.blizzard.cn/profile/丿小飞丨-5677/)               |       61       | 3.08 Billion      |    Necro    | 2022-08-26 11:25:05 |
+| 69  | [猫咪#51617](https://d3.blizzard.cn/profile/猫咪-51617/)                 |       61       | 3.08 Billion      |    Necro    | 2022-08-26 11:26:38 |
+| 70  | [随源#51996](https://d3.blizzard.cn/profile/随源-51996/)                 |       60       | 2.98 Billion      |    Necro    | 2022-08-26 11:18:26 |
+| 71  | [袁哒哒#5859](https://d3.blizzard.cn/profile/袁哒哒-5859/)                 |       60       | 2.98 Billion      |     DH      | 2022-08-26 11:26:44 |
+| 72  | [温柔少年生猛君丶#5998](https://d3.blizzard.cn/profile/温柔少年生猛君丶-5998/)       |       60       | 2.98 Billion      |    Necro    | 2022-08-26 11:26:47 |
+| 73  | [ken6280#5625](https://d3.blizzard.cn/profile/ken6280-5625/)         |       60       | 2.98 Billion      |    Necro    | 2022-08-26 11:26:54 |
+| 74  | [卡丨索丶#5168](https://d3.blizzard.cn/profile/卡丨索丶-5168/)               |       59       | 2.89 Billion      |     DH      | 2022-08-26 11:26:48 |
+| 75  | [浑水摸鱼小王子#5228](https://d3.blizzard.cn/profile/浑水摸鱼小王子-5228/)         |       59       | 2.89 Billion      |    Necro    | 2022-08-26 11:26:56 |
+| 76  | [老农恼怒闹老龙#51889](https://d3.blizzard.cn/profile/老农恼怒闹老龙-51889/)       |       58       | 2.8 Billion       |     DH      | 2022-08-26 11:18:47 |
+| 77  | [犹如匕首#5867](https://d3.blizzard.cn/profile/犹如匕首-5867/)               |       58       | 2.8 Billion       |     DH      | 2022-08-26 11:18:41 |
+| 78  | [我与狸奴不出门#5443](https://d3.blizzard.cn/profile/我与狸奴不出门-5443/)         |       57       | 2.71 Billion      |     DH      | 2022-08-26 10:57:09 |
+| 79  | [红光#51299](https://d3.blizzard.cn/profile/红光-51299/)                 |       57       | 2.71 Billion      |    Monk     | 2022-08-26 10:57:29 |
+| 80  | [kevinl#51870](https://d3.blizzard.cn/profile/kevinl-51870/)         |       57       | 2.71 Billion      |    Necro    | 2022-08-26 11:09:25 |
+| 81  | [黑暗来了#5416](https://d3.blizzard.cn/profile/黑暗来了-5416/)               |       57       | 2.71 Billion      |    Necro    | 2022-08-26 11:19:24 |
+| 82  | [敬爱的社长大人#5714](https://d3.blizzard.cn/profile/敬爱的社长大人-5714/)         |       57       | 2.71 Billion      |    Necro    | 2022-08-26 11:09:50 |
+| 83  | [远方的阿尔特#5560](https://d3.blizzard.cn/profile/远方的阿尔特-5560/)           |       57       | 2.71 Billion      |    Necro    | 2022-08-26 11:09:40 |
+| 84  | [小石潭记丶#5904](https://d3.blizzard.cn/profile/小石潭记丶-5904/)             |       57       | 2.71 Billion      |  Barbarian  | 2022-08-26 11:18:02 |
+| 85  | [yung#5422](https://d3.blizzard.cn/profile/yung-5422/)               |       57       | 2.71 Billion      |    Necro    | 2022-08-26 11:16:23 |
+| 86  | [Sand3tRom#5254](https://d3.blizzard.cn/profile/Sand3tRom-5254/)     |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:13:35 |
+| 87  | [很猥琐丶#5553](https://d3.blizzard.cn/profile/很猥琐丶-5553/)               |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:20:03 |
+| 88  | [饭团里面有米粒耶#5248](https://d3.blizzard.cn/profile/饭团里面有米粒耶-5248/)       |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:09:43 |
+| 89  | [簡單丶#51853](https://d3.blizzard.cn/profile/簡單丶-51853/)               |       56       | 2.62 Billion      |     DH      | 2022-08-26 11:16:57 |
+| 90  | [jp1992#5615](https://d3.blizzard.cn/profile/jp1992-5615/)           |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:18:43 |
+| 91  | [上坂茅羽耶#5449](https://d3.blizzard.cn/profile/上坂茅羽耶-5449/)             |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:18:13 |
+| 92  | [PelaMos#51385](https://d3.blizzard.cn/profile/PelaMos-51385/)       |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:25:26 |
+| 93  | [古美门研介#5504](https://d3.blizzard.cn/profile/古美门研介-5504/)             |       56       | 2.62 Billion      |    Necro    | 2022-08-26 11:25:23 |
+| 94  | [咪子#51702](https://d3.blizzard.cn/profile/咪子-51702/)                 |       55       | 2.53 Billion      |    Monk     | 2022-08-26 10:57:04 |
+| 95  | [天穆酒仙乀#5111](https://d3.blizzard.cn/profile/天穆酒仙乀-5111/)             |       55       | 2.53 Billion      |  Barbarian  | 2022-08-26 11:13:52 |
+| 96  | [壹克拉的悲伤#51347](https://d3.blizzard.cn/profile/壹克拉的悲伤-51347/)         |       55       | 2.53 Billion      |    Necro    | 2022-08-26 11:17:45 |
+| 97  | [啊童#5973](https://d3.blizzard.cn/profile/啊童-5973/)                   |       55       | 2.53 Billion      |     DH      | 2022-08-26 11:18:59 |
+| 98  | [寒尘#51613](https://d3.blizzard.cn/profile/寒尘-51613/)                 |       55       | 2.53 Billion      |     DH      | 2022-08-26 11:24:39 |
+| 99  | [Scekill#51667](https://d3.blizzard.cn/profile/Scekill-51667/)       |       55       | 2.53 Billion      |     DH      | 2022-08-26 11:25:35 |
+| 100 | [快乐之足#55993](https://d3.blizzard.cn/profile/快乐之足-55993/)             |       55       | 2.53 Billion      |    Necro    | 2022-08-26 11:18:42 |
+| 101 | [BruceWayne#51499](https://d3.blizzard.cn/profile/BruceWayne-51499/) |       54       | 2.45 Billion      |    Necro    | 2022-08-26 11:20:22 |
+| 102 | [糖炒栗子#51852](https://d3.blizzard.cn/profile/糖炒栗子-51852/)             |       54       | 2.45 Billion      |    Necro    | 2022-08-26 11:07:10 |
+| 103 | [英文字母#51940](https://d3.blizzard.cn/profile/英文字母-51940/)             |       54       | 2.45 Billion      |     DH      | 2022-08-26 11:23:33 |
+| 104 | [星兔#51890](https://d3.blizzard.cn/profile/星兔-51890/)                 |       54       | 2.45 Billion      |     DH      | 2022-08-26 11:10:27 |
+| 105 | [玫瑰店长#5588](https://d3.blizzard.cn/profile/玫瑰店长-5588/)               |       54       | 2.45 Billion      |    Necro    | 2022-08-26 11:20:17 |
+| 106 | [戚凉远尚#5464](https://d3.blizzard.cn/profile/戚凉远尚-5464/)               |       54       | 2.45 Billion      |    Monk     | 2022-08-26 11:20:12 |
+| 107 | [Loveyouyo#5614](https://d3.blizzard.cn/profile/Loveyouyo-5614/)     |       53       | 2.37 Billion      |  Barbarian  | 2022-08-26 11:20:17 |
+| 108 | [乌啦啦#5441](https://d3.blizzard.cn/profile/乌啦啦-5441/)                 |       53       | 2.37 Billion      |     DH      | 2022-08-26 11:25:09 |
+| 109 | [孤独的王者#52149](https://d3.blizzard.cn/profile/孤独的王者-52149/)           |       53       | 2.37 Billion      |    Necro    | 2022-08-26 11:21:40 |
+| 110 | [枫叶子林#5271](https://d3.blizzard.cn/profile/枫叶子林-5271/)               |       53       | 2.37 Billion      |    Necro    | 2022-08-26 11:12:44 |
+| 111 | [Joker#540832](https://d3.blizzard.cn/profile/Joker-540832/)         |       52       | 2.28 Billion      |    Necro    | 2022-08-26 11:21:06 |
+| 112 | [Darbre#5402](https://d3.blizzard.cn/profile/Darbre-5402/)           |       52       | 2.28 Billion      |     DH      | 2022-08-26 11:20:16 |
+| 113 | [宫商角徵羽之鸑鷟#5255](https://d3.blizzard.cn/profile/宫商角徵羽之鸑鷟-5255/)       |       52       | 2.28 Billion      |     DH      | 2022-08-26 11:08:13 |
+| 114 | [狗子#52567](https://d3.blizzard.cn/profile/狗子-52567/)                 |       52       | 2.28 Billion      |    Necro    | 2022-08-26 11:10:32 |
+| 115 | [巨硕之鼠#51328](https://d3.blizzard.cn/profile/巨硕之鼠-51328/)             |       51       | 2.2 Billion       |    Necro    | 2022-08-26 11:19:18 |
+| 116 | [逍遥#52402](https://d3.blizzard.cn/profile/逍遥-52402/)                 |       51       | 2.2 Billion       |    Necro    | 2022-08-26 11:20:17 |
+| 117 | [倦容#51806](https://d3.blizzard.cn/profile/倦容-51806/)                 |       51       | 2.2 Billion       |    Necro    | 2022-08-26 11:12:21 |
+| 118 | [陌上灬桑#51280](https://d3.blizzard.cn/profile/陌上灬桑-51280/)             |       51       | 2.2 Billion       |    Necro    | 2022-08-26 11:17:00 |
+| 119 | [晓生#51962](https://d3.blizzard.cn/profile/晓生-51962/)                 |       50       | 2.12 Billion      |    Necro    | 2022-08-26 11:08:15 |
+| 120 | [Seph1roth#5221](https://d3.blizzard.cn/profile/Seph1roth-5221/)     |       50       | 2.12 Billion      |    Necro    | 2022-08-26 11:15:00 |
+| 121 | [陈阿脸#5704](https://d3.blizzard.cn/profile/陈阿脸-5704/)                 |       50       | 2.12 Billion      |     DH      | 2022-08-26 10:57:53 |
+| 122 | [灰化肥发挥会发黑#5534](https://d3.blizzard.cn/profile/灰化肥发挥会发黑-5534/)       |       50       | 2.12 Billion      |    Necro    | 2022-08-26 11:19:49 |
+| 123 | [双黑法与蛮神#5555](https://d3.blizzard.cn/profile/双黑法与蛮神-5555/)           |       50       | 2.12 Billion      |     DH      | 2022-08-26 11:10:48 |
+| 124 | [大胸妖娘凡凡#5522](https://d3.blizzard.cn/profile/大胸妖娘凡凡-5522/)           |       50       | 2.12 Billion      |     DH      | 2022-08-26 11:07:52 |
+| 125 | [唯爱426#5153](https://d3.blizzard.cn/profile/唯爱426-5153/)             |       50       | 2.12 Billion      |   Wizard    | 2022-08-26 11:11:02 |
+| 126 | [LorCccc#5562](https://d3.blizzard.cn/profile/LorCccc-5562/)         |       50       | 2.12 Billion      |    Necro    | 2022-08-26 11:17:11 |
+| 127 | [麦克的爸爸#5148](https://d3.blizzard.cn/profile/麦克的爸爸-5148/)             |       50       | 2.12 Billion      |    Necro    | 2022-08-26 11:25:44 |
+| 128 | [带眼泪的微笑#51986](https://d3.blizzard.cn/profile/带眼泪的微笑-51986/)         |       49       | 2.05 Billion      |    Necro    | 2022-08-26 11:11:17 |
+| 129 | [麦哲伦#5162](https://d3.blizzard.cn/profile/麦哲伦-5162/)                 |       49       | 2.05 Billion      |    Necro    | 2022-08-26 11:10:46 |
+| 130 | [SoulReaper#5667](https://d3.blizzard.cn/profile/SoulReaper-5667/)   |       48       | 1.97 Billion      |     DH      | 2022-08-26 11:04:52 |
+| 131 | [雷英雄#51895](https://d3.blizzard.cn/profile/雷英雄-51895/)               |       48       | 1.97 Billion      |     DH      | 2022-08-26 11:04:35 |
+| 132 | [哈根达斯#51587](https://d3.blizzard.cn/profile/哈根达斯-51587/)             |       48       | 1.97 Billion      |    Necro    | 2022-08-26 10:58:05 |
+| 133 | [领悟#51565](https://d3.blizzard.cn/profile/领悟-51565/)                 |       48       | 1.97 Billion      |     DH      | 2022-08-26 11:10:32 |
+| 134 | [rain#5162](https://d3.blizzard.cn/profile/rain-5162/)               |       48       | 1.97 Billion      |    Necro    | 2022-08-26 11:12:44 |
+| 135 | [炫骨头#5962](https://d3.blizzard.cn/profile/炫骨头-5962/)                 |       48       | 1.97 Billion      |    Necro    | 2022-08-26 11:16:17 |
+| 136 | [畅哥哥丶#5701](https://d3.blizzard.cn/profile/畅哥哥丶-5701/)               |       47       | 1.9 Billion       |     DH      | 2022-08-26 11:04:40 |
+| 137 | [前田吃货酱#51624](https://d3.blizzard.cn/profile/前田吃货酱-51624/)           |       47       | 1.9 Billion       |    Necro    | 2022-08-26 11:02:04 |
+| 138 | [照仙升#5791](https://d3.blizzard.cn/profile/照仙升-5791/)                 |       47       | 1.9 Billion       |     DH      | 2022-08-26 11:14:50 |
+| 139 | [LLK#51123](https://d3.blizzard.cn/profile/LLK-51123/)               |       47       | 1.9 Billion       |    Necro    | 2022-08-26 11:15:52 |
+| 140 | [usilrel#5633](https://d3.blizzard.cn/profile/usilrel-5633/)         |       46       | 1.82 Billion      |    Necro    | 2022-08-26 11:10:57 |
+| 141 | [冰曦若离#5925](https://d3.blizzard.cn/profile/冰曦若离-5925/)               |       45       | 1.75 Billion      |    Necro    | 2022-08-26 11:07:00 |
+| 142 | [萨法利亚#5811](https://d3.blizzard.cn/profile/萨法利亚-5811/)               |       45       | 1.75 Billion      |    Necro    | 2022-08-26 11:13:02 |
+| 143 | [爱萝莉真是太好了#51269](https://d3.blizzard.cn/profile/爱萝莉真是太好了-51269/)     |       44       | 1.68 Billion      |    Necro    | 2022-08-26 11:13:43 |
+| 144 | [柒戚四十九#5938](https://d3.blizzard.cn/profile/柒戚四十九-5938/)             |       43       | 1.61 Billion      |    Necro    | 2022-08-26 11:08:04 |
+| 145 | [顺其自然#5357](https://d3.blizzard.cn/profile/顺其自然-5357/)               |       43       | 1.61 Billion      |     DH      | 2022-08-26 10:56:47 |
+| 146 | [超级无敌小学生#51695](https://d3.blizzard.cn/profile/超级无敌小学生-51695/)       |       42       | 1.54 Billion      |    Necro    | 2022-08-26 11:07:59 |
+| 147 | [灰衍#51340](https://d3.blizzard.cn/profile/灰衍-51340/)                 |       42       | 1.54 Billion      |    Necro    | 2022-08-26 11:09:11 |
+| 148 | [灰机的灰机#5952](https://d3.blizzard.cn/profile/灰机的灰机-5952/)             |       41       | 1.48 Billion      |     DH      | 2022-08-26 11:13:12 |
+| 149 | [没错我就叫塞尔达#5548](https://d3.blizzard.cn/profile/没错我就叫塞尔达-5548/)       |       41       | 1.48 Billion      |    Necro    | 2022-08-26 11:09:14 |
+| 150 | [月恒白白#5939](https://d3.blizzard.cn/profile/月恒白白-5939/)               |       40       | 1.41 Billion      |    Necro    | 2022-08-26 11:01:17 |
+| 151 | [GOTHAM#51372](https://d3.blizzard.cn/profile/GOTHAM-51372/)         |       40       | 1.41 Billion      |    Necro    | 2022-08-26 11:09:18 |
+| 152 | [跳跳精灵#521435](https://d3.blizzard.cn/profile/跳跳精灵-521435/)           |       40       | 1.41 Billion      |     DH      | 2022-08-26 11:15:05 |
+| 153 | [星语哥#51985](https://d3.blizzard.cn/profile/星语哥-51985/)               |       39       | 1.35 Billion      |     DH      | 2022-08-26 11:13:29 |
+| 154 | [恶徒丶#51199](https://d3.blizzard.cn/profile/恶徒丶-51199/)               |       39       | 1.35 Billion      |     DH      | 2022-08-26 10:55:35 |
+| 155 | [飘落的枫叶像思念#51257](https://d3.blizzard.cn/profile/飘落的枫叶像思念-51257/)     |       39       | 1.35 Billion      |    Necro    | 2022-08-26 11:09:09 |
+| 156 | [随缘一笑#5969](https://d3.blizzard.cn/profile/随缘一笑-5969/)               |       38       | 1.29 Billion      |    Necro    | 2022-08-26 10:56:04 |
+| 157 | [惩奸除恶李大侠#5699](https://d3.blizzard.cn/profile/惩奸除恶李大侠-5699/)         |       38       | 1.29 Billion      |    Necro    | 2022-08-26 11:01:14 |
+| 158 | [桔梗#51181](https://d3.blizzard.cn/profile/桔梗-51181/)                 |       38       | 1.29 Billion      |     DH      | 2022-08-26 11:12:32 |
+| 159 | [伙伙是个受#5929](https://d3.blizzard.cn/profile/伙伙是个受-5929/)             |       38       | 1.29 Billion      |    Necro    | 2022-08-26 11:06:26 |
+| 160 | [睫毛被淚水打濕#5753](https://d3.blizzard.cn/profile/睫毛被淚水打濕-5753/)         |       37       | 1.23 Billion      |     DH      | 2022-08-26 10:45:55 |
+| 161 | [帅比峰哥#51628](https://d3.blizzard.cn/profile/帅比峰哥-51628/)             |       36       | 1.17 Billion      |    Necro    | 2022-08-26 10:45:49 |
+| 162 | [冰人巫师#5148](https://d3.blizzard.cn/profile/冰人巫师-5148/)               |       36       | 1.17 Billion      |     DH      | 2022-08-26 11:08:02 |
+| 163 | [AngelFly#5850](https://d3.blizzard.cn/profile/AngelFly-5850/)       |       36       | 1.17 Billion      |    Necro    | 2022-08-26 10:59:52 |
+| 164 | [缘妙不可言#51475](https://d3.blizzard.cn/profile/缘妙不可言-51475/)           |       36       | 1.17 Billion      |    Necro    | 2022-08-26 10:51:56 |
+| 165 | [Sephiroth#5348](https://d3.blizzard.cn/profile/Sephiroth-5348/)     |       36       | 1.17 Billion      |    Necro    | 2022-08-26 11:11:58 |
+| 166 | [一剑倾心#51716](https://d3.blizzard.cn/profile/一剑倾心-51716/)             |       36       | 1.17 Billion      |    Necro    | 2022-08-26 11:06:05 |
+| 167 | [幼儿源源长#5710](https://d3.blizzard.cn/profile/幼儿源源长-5710/)             |       35       | 1.11 Billion      |     DH      | 2022-08-26 11:14:20 |
+| 168 | [回忆过往#51560](https://d3.blizzard.cn/profile/回忆过往-51560/)             |       34       | 1.05 Billion      |    Necro    | 2022-08-26 10:46:07 |
+| 169 | [阿魔#5927](https://d3.blizzard.cn/profile/阿魔-5927/)                   |       34       | 1.05 Billion      |  Barbarian  | 2022-08-26 10:59:54 |
+| 170 | [Resonator#5409](https://d3.blizzard.cn/profile/Resonator-5409/)     |       34       | 1.05 Billion      |    Necro    | 2022-08-26 10:52:01 |
+| 171 | [妈妈我喜欢学习#5673](https://d3.blizzard.cn/profile/妈妈我喜欢学习-5673/)         |       34       | 1.05 Billion      |    Necro    | 2022-08-26 11:10:52 |
+| 172 | [冃忈#5687](https://d3.blizzard.cn/profile/冃忈-5687/)                   |       34       | 1.05 Billion      |  Barbarian  | 2022-08-26 11:12:38 |
+| 173 | [过河卒#51614](https://d3.blizzard.cn/profile/过河卒-51614/)               |       34       | 1.05 Billion      |    Necro    | 2022-08-26 11:12:40 |
+| 174 | [请叫我七阿哥#5243](https://d3.blizzard.cn/profile/请叫我七阿哥-5243/)           |       34       | 1.05 Billion      |    Necro    | 2022-08-26 11:01:05 |
+| 175 | [夜雨微澜#51399](https://d3.blizzard.cn/profile/夜雨微澜-51399/)             |       34       | 1.05 Billion      |    Necro    | 2022-08-26 11:14:15 |
+| 176 | [叁华#51390](https://d3.blizzard.cn/profile/叁华-51390/)                 |       34       | 1.05 Billion      |    Necro    | 2022-08-26 11:10:49 |
+| 177 | [圣狱月影#5341](https://d3.blizzard.cn/profile/圣狱月影-5341/)               |       33       | 997.92 Million    |    Necro    | 2022-08-26 10:56:10 |
+| 178 | [在下魔王控#51464](https://d3.blizzard.cn/profile/在下魔王控-51464/)           |       33       | 997.92 Million    |    Necro    | 2022-08-26 11:00:00 |
+| 179 | [灬天选的奈非天灬#5500](https://d3.blizzard.cn/profile/灬天选的奈非天灬-5500/)       |       33       | 997.92 Million    |    Necro    | 2022-08-26 11:11:26 |
+| 180 | [矮子#51468](https://d3.blizzard.cn/profile/矮子-51468/)                 |       32       | 944.64 Million    |    Necro    | 2022-08-26 11:03:42 |
+| 181 | [可她叫我哥哥阿#5486](https://d3.blizzard.cn/profile/可她叫我哥哥阿-5486/)         |       30       | 842.4 Million     |     DH      | 2022-08-26 11:23:27 |
+| 182 | [凌蓝若水#5293](https://d3.blizzard.cn/profile/凌蓝若水-5293/)               |       30       | 842.4 Million     |     DH      | 2022-08-26 10:47:29 |
+| 183 | [王尼玛#51363](https://d3.blizzard.cn/profile/王尼玛-51363/)               |       28       | 745.92 Million    |    Necro    | 2022-08-26 10:51:50 |
+| 184 | [黄衣之王哈斯塔#5397](https://d3.blizzard.cn/profile/黄衣之王哈斯塔-5397/)         |       28       | 745.92 Million    |    Necro    | 2022-08-26 11:01:07 |
+| 185 | [双马尾赛高#5701](https://d3.blizzard.cn/profile/双马尾赛高-5701/)             |       27       | 699.84 Million    |    Necro    | 2022-08-26 10:54:31 |
+| 186 | [不给电击就撕票#5679](https://d3.blizzard.cn/profile/不给电击就撕票-5679/)         |       25       | 612.0 Million     |    Necro    | 2022-08-26 11:04:18 |
+| 187 | [Bangggg#5977](https://d3.blizzard.cn/profile/Bangggg-5977/)         |       25       | 612.0 Million     |    Necro    | 2022-08-26 10:46:24 |
+| 188 | [名字不能太铞#5602](https://d3.blizzard.cn/profile/名字不能太铞-5602/)           |       20       | 417.6 Million     |    Necro    | 2022-08-26 11:13:51 |
+| 189 | [辉煌一克#5132](https://d3.blizzard.cn/profile/辉煌一克-5132/)               |       19       | 383.04 Million    |    Necro    | 2022-08-26 10:39:28 |
+| 190 | [冬瓜你个大芋头#5651](https://d3.blizzard.cn/profile/冬瓜你个大芋头-5651/)         |       18       | 349.92 Million    |    Necro    | 2022-08-26 10:43:07 |
+| 191 | [穷胸嫉恶#5888](https://d3.blizzard.cn/profile/穷胸嫉恶-5888/)               |       18       | 349.92 Million    |    Necro    | 2022-08-26 11:02:11 |
+| 192 | [JianLai#5715](https://d3.blizzard.cn/profile/JianLai-5715/)         |       8        | 97.92 Million     |     DH      | 2022-08-26 11:04:13 |
+| 193 | [紫苑#5828](https://d3.blizzard.cn/profile/紫苑-5828/)                   |       0        | 0                 |    Monk     | 2022-08-26 10:07:03 |
+| 194 | [ZhOu#5303](https://d3.blizzard.cn/profile/ZhOu-5303/)               |       0        | 0                 |    Necro    | 2022-08-26 10:07:06 |
+| 195 | [岁岁#51635](https://d3.blizzard.cn/profile/岁岁-51635/)                 |       0        | 0                 |    Necro    | 2022-08-26 10:21:15 |
