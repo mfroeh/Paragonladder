@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2022-09-09 15:14:59.170085
+Table created at 2022-09-09 15:59:16.164308
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -45,7 +45,7 @@ Table created at 2022-09-09 15:14:59.170085
 | 38  | [SONICLANCE#1862](https://us.diablo3.com/profile/SONICLANCE-1862/)       |      3755      | 785.99 Trillion   |     DH      | 2022-09-09 14:11:06 |
 | 39  | [Coffeelust#1450](https://us.diablo3.com/profile/Coffeelust-1450/)       |      3739      | 775.44 Trillion   |     DH      | 2022-09-09 13:50:02 |
 | 40  | [MaoCZ#1871](https://us.diablo3.com/profile/MaoCZ-1871/)                 |      3705      | 753.37 Trillion   |     DH      | 2022-09-09 13:58:34 |
-| 41  | [chacha#33108](https://us.diablo3.com/profile/chacha-33108/)             |      3698      | 748.87 Trillion   |     DH      | 2022-09-09 12:58:33 |
+| 41  | [chacha#33108](https://us.diablo3.com/profile/chacha-33108/)             |      3700      | 750.16 Trillion   |     DH      | 2022-09-09 14:03:41 |
 | 42  | [nada808#11695](https://us.diablo3.com/profile/nada808-11695/)           |      3697      | 748.23 Trillion   |     DH      | 2022-09-09 14:07:07 |
 | 43  | [ThatBunnyGuy#1941](https://us.diablo3.com/profile/ThatBunnyGuy-1941/)   |      3694      | 746.32 Trillion   |     DH      | 2022-09-09 03:01:52 |
 | 44  | [SuperNova#13959](https://us.diablo3.com/profile/SuperNova-13959/)       |      3665      | 727.95 Trillion   |     DH      | 2022-09-09 07:52:47 |
@@ -167,8 +167,8 @@ Table created at 2022-09-09 15:14:59.170085
 | 160 | [BobSmiff#11861](https://us.diablo3.com/profile/BobSmiff-11861/)         |      2989      | 383.7 Trillion    |     DH      | 2022-09-09 12:56:27 |
 | 161 | [Coldbleeded#11854](https://us.diablo3.com/profile/Coldbleeded-11854/)   |      2975      | 378.15 Trillion   |     DH      | 2022-09-04 11:39:41 |
 | 162 | [qqfoimano#1150](https://us.diablo3.com/profile/qqfoimano-1150/)         |      2975      | 378.15 Trillion   |     DH      | 2022-09-07 13:52:32 |
-| 163 | [LittleWill#31880](https://us.diablo3.com/profile/LittleWill-31880/)     |      2972      | 376.97 Trillion   |     DH      | 2022-09-09 13:35:51 |
-| 164 | [LVChang#1654](https://us.diablo3.com/profile/LVChang-1654/)             |      2971      | 376.58 Trillion   |     DH      | 2022-09-09 12:38:02 |
+| 163 | [LVChang#1654](https://us.diablo3.com/profile/LVChang-1654/)             |      2974      | 377.76 Trillion   |     DH      | 2022-09-09 13:53:44 |
+| 164 | [LittleWill#31880](https://us.diablo3.com/profile/LittleWill-31880/)     |      2972      | 376.97 Trillion   |     DH      | 2022-09-09 13:35:51 |
 | 165 | [XXX3LADEXXX#6850](https://us.diablo3.com/profile/XXX3LADEXXX-6850/)     |      2967      | 375.01 Trillion   |     DH      | 2022-09-09 14:13:59 |
 | 166 | [plznobanplz#1819](https://us.diablo3.com/profile/plznobanplz-1819/)     |      2967      | 375.01 Trillion   |  Barbarian  | 2022-09-09 09:47:39 |
 | 167 | [yesjerry#1857](https://us.diablo3.com/profile/yesjerry-1857/)           |      2962      | 373.05 Trillion   |     DH      | 2022-09-09 12:02:59 |
@@ -188,7 +188,7 @@ Table created at 2022-09-09 15:14:59.170085
 | 181 | [nomatterwt#1195](https://us.diablo3.com/profile/nomatterwt-1195/)       |      2902      | 350.18 Trillion   |   Wizard    | 2022-09-09 12:37:32 |
 | 182 | [Guardhao#1303](https://us.diablo3.com/profile/Guardhao-1303/)           |      2898      | 348.7 Trillion    |     DH      | 2022-09-07 12:23:27 |
 | 183 | [Robotex#1186](https://us.diablo3.com/profile/Robotex-1186/)             |      2896      | 347.95 Trillion   |     DH      | 2022-09-09 13:39:36 |
-| 184 | [MinhHuy#1640](https://us.diablo3.com/profile/MinhHuy-1640/)             |      2892      | 346.48 Trillion   |     DH      | 2022-09-09 13:04:00 |
+| 184 | [MinhHuy#1640](https://us.diablo3.com/profile/MinhHuy-1640/)             |      2894      | 347.21 Trillion   |     DH      | 2022-09-09 14:02:24 |
 | 185 | [BuiltForSin#11587](https://us.diablo3.com/profile/BuiltForSin-11587/)   |      2878      | 341.33 Trillion   |     DH      | 2022-09-08 12:42:34 |
 | 186 | [Bishop#14888](https://us.diablo3.com/profile/Bishop-14888/)             |      2878      | 341.33 Trillion   |     DH      | 2022-09-09 12:50:51 |
 | 187 | [TanZheng#11553](https://us.diablo3.com/profile/TanZheng-11553/)         |      2876      | 340.6 Trillion    |     DH      | 2022-09-09 12:44:23 |
