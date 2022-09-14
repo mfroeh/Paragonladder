@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2022-09-14 08:06:54.704002
+Table created at 2022-09-14 08:57:50.597202
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -54,7 +54,7 @@ Table created at 2022-09-14 08:06:54.704002
 | 47  | [Stormchylde#1831](https://us.diablo3.com/profile/Stormchylde-1831/)     |      4176      | 1.1 Quadrillion   |     DH      | 2022-09-14 07:38:41 |
 | 48  | [chacha#33108](https://us.diablo3.com/profile/chacha-33108/)             |      4168      | 1.09 Quadrillion  |     DH      | 2022-09-14 07:38:08 |
 | 49  | [Ryanaman#1829](https://us.diablo3.com/profile/Ryanaman-1829/)           |      4149      | 1.08 Quadrillion  |     DH      | 2022-09-14 07:33:35 |
-| 50  | [PaleSpeedBoy#2181](https://us.diablo3.com/profile/PaleSpeedBoy-2181/)   |      4131      | 1.06 Quadrillion  |    Necro    | 2022-09-14 06:16:42 |
+| 50  | [PaleSpeedBoy#2181](https://us.diablo3.com/profile/PaleSpeedBoy-2181/)   |      4140      | 1.07 Quadrillion  |    Necro    | 2022-09-14 07:38:35 |
 | 51  | [Swank#11992](https://us.diablo3.com/profile/Swank-11992/)               |      4107      | 1.04 Quadrillion  |     DH      | 2022-09-14 07:38:31 |
 | 52  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      4107      | 1.04 Quadrillion  |     DH      | 2022-09-14 07:36:49 |
 | 53  | [intrikit#1669](https://us.diablo3.com/profile/intrikit-1669/)           |      4105      | 1.04 Quadrillion  |     DH      | 2022-09-14 07:37:02 |
@@ -85,21 +85,21 @@ Table created at 2022-09-14 08:06:54.704002
 | 78  | [Javiel#11483](https://us.diablo3.com/profile/Javiel-11483/)             |      3855      | 854.11 Trillion   |     DH      | 2022-09-13 18:27:27 |
 | 79  | [DaddyOosh#1540](https://us.diablo3.com/profile/DaddyOosh-1540/)         |      3846      | 847.82 Trillion   |     DH      | 2022-09-14 07:39:02 |
 | 80  | [UltraOwned#2363](https://us.diablo3.com/profile/UltraOwned-2363/)       |      3831      | 837.41 Trillion   |     DH      | 2022-09-14 03:49:02 |
-| 81  | [Superpig#1682](https://us.diablo3.com/profile/Superpig-1682/)           |      3827      | 834.64 Trillion   |     DH      | 2022-09-14 07:35:59 |
+| 81  | [Superpig#1682](https://us.diablo3.com/profile/Superpig-1682/)           |      3827      | 834.64 Trillion   |     DH      | 2022-09-14 08:36:18 |
 | 82  | [Qian#11435](https://us.diablo3.com/profile/Qian-11435/)                 |      3815      | 826.4 Trillion    |     DH      | 2022-09-14 07:34:03 |
 | 83  | [Shoman#1389](https://us.diablo3.com/profile/Shoman-1389/)               |      3808      | 821.61 Trillion   |     DH      | 2022-09-14 07:33:44 |
 | 84  | [PrinCeLinG#1967](https://us.diablo3.com/profile/PrinCeLinG-1967/)       |      3797      | 814.13 Trillion   |     DH      | 2022-09-14 07:40:30 |
 | 85  | [Hulsr#1859](https://us.diablo3.com/profile/Hulsr-1859/)                 |      3796      | 813.45 Trillion   |     DH      | 2022-09-14 07:38:20 |
 | 86  | [Kruela#6144](https://us.diablo3.com/profile/Kruela-6144/)               |      3796      | 813.45 Trillion   |     DH      | 2022-09-14 07:35:14 |
 | 87  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      3791      | 810.06 Trillion   |     DH      | 2022-09-14 07:38:38 |
-| 88  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      3787      | 807.36 Trillion   |     DH      | 2022-09-14 06:20:52 |
+| 88  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      3790      | 809.39 Trillion   |     DH      | 2022-09-14 07:18:44 |
 | 89  | [Gregcui#1392](https://us.diablo3.com/profile/Gregcui-1392/)             |      3787      | 807.36 Trillion   |     DH      | 2022-09-14 07:34:12 |
 | 90  | [lvyforever#1613](https://us.diablo3.com/profile/lvyforever-1613/)       |      3773      | 797.96 Trillion   |     DH      | 2022-09-14 07:14:09 |
 | 91  | [Myroeniestus#1785](https://us.diablo3.com/profile/Myroeniestus-1785/)   |      3771      | 796.63 Trillion   |     DH      | 2022-09-04 18:35:46 |
 | 92  | [AAAbeef#11212](https://us.diablo3.com/profile/AAAbeef-11212/)           |      3761      | 789.96 Trillion   |     DH      | 2022-09-14 03:11:22 |
 | 93  | [BanzaiUEMS#1648](https://us.diablo3.com/profile/BanzaiUEMS-1648/)       |      3760      | 789.3 Trillion    |     DH      | 2022-09-14 07:33:13 |
 | 94  | [Adventurer#1700169](https://us.diablo3.com/profile/Adventurer-1700169/) |      3755      | 785.99 Trillion   |    Monk     | 2022-09-14 07:40:06 |
-| 95  | [Invoker#11365](https://us.diablo3.com/profile/Invoker-11365/)           |      3754      | 785.32 Trillion   |     DH      | 2022-09-14 07:29:18 |
+| 95  | [Invoker#11365](https://us.diablo3.com/profile/Invoker-11365/)           |      3754      | 785.32 Trillion   |     DH      | 2022-09-14 07:52:22 |
 | 96  | [Alicia#1930](https://us.diablo3.com/profile/Alicia-1930/)               |      3748      | 781.36 Trillion   |     DH      | 2022-09-14 07:38:31 |
 | 97  | [MICgogo#1135](https://us.diablo3.com/profile/MICgogo-1135/)             |      3747      | 780.7 Trillion    |     DH      | 2022-09-14 07:40:17 |
 | 98  | [w3nd#1736](https://us.diablo3.com/profile/w3nd-1736/)                   |      3744      | 778.73 Trillion   |     DH      | 2022-09-14 07:39:18 |
@@ -133,7 +133,7 @@ Table created at 2022-09-14 08:06:54.704002
 | 126 | [luke#6410](https://us.diablo3.com/profile/luke-6410/)                   |      3601      | 688.53 Trillion   |     DH      | 2022-09-14 07:38:00 |
 | 127 | [hiTman#1774](https://us.diablo3.com/profile/hiTman-1774/)               |      3599      | 687.32 Trillion   |     DH      | 2022-09-14 07:39:29 |
 | 128 | [Fuzzy#12814](https://us.diablo3.com/profile/Fuzzy-12814/)               |      3599      | 687.32 Trillion   |     DH      | 2022-09-13 15:43:59 |
-| 129 | [cacherin#2739](https://us.diablo3.com/profile/cacherin-2739/)           |      3597      | 686.12 Trillion   |     DH      | 2022-09-14 07:34:46 |
+| 129 | [cacherin#2739](https://us.diablo3.com/profile/cacherin-2739/)           |      3598      | 686.72 Trillion   |     DH      | 2022-09-14 08:16:30 |
 | 130 | [Iochio#1852](https://us.diablo3.com/profile/Iochio-1852/)               |      3583      | 677.71 Trillion   |    Monk     | 2022-09-14 07:42:54 |
 | 131 | [STUHR#1595](https://us.diablo3.com/profile/STUHR-1595/)                 |      3576      | 673.54 Trillion   |   Wizard    | 2022-09-14 07:43:30 |
 | 132 | [maiconsoNo#11844](https://us.diablo3.com/profile/maiconsoNo-11844/)     |      3557      | 662.3 Trillion    |     DH      | 2022-09-10 04:36:21 |
@@ -168,8 +168,8 @@ Table created at 2022-09-14 08:06:54.704002
 | 161 | [DerNoobzilla#2389](https://us.diablo3.com/profile/DerNoobzilla-2389/)   |      3429      | 589.96 Trillion   |     DH      | 2022-09-14 07:37:26 |
 | 162 | [Zero218#11312](https://us.diablo3.com/profile/Zero218-11312/)           |      3428      | 589.42 Trillion   |    Necro    | 2022-09-14 07:38:35 |
 | 163 | [Gnarchotix#1202](https://us.diablo3.com/profile/Gnarchotix-1202/)       |      3419      | 584.56 Trillion   |     DH      | 2022-09-14 07:38:07 |
-| 164 | [khachaturian#11211](https://us.diablo3.com/profile/khachaturian-11211/) |      3412      | 580.79 Trillion   |     DH      | 2022-09-13 01:09:48 |
-| 165 | [ZoniaX7#1407](https://us.diablo3.com/profile/ZoniaX7-1407/)             |      3412      | 580.79 Trillion   |     DH      | 2022-09-14 07:32:41 |
+| 164 | [ZoniaX7#1407](https://us.diablo3.com/profile/ZoniaX7-1407/)             |      3418      | 584.02 Trillion   |     DH      | 2022-09-14 08:38:05 |
+| 165 | [khachaturian#11211](https://us.diablo3.com/profile/khachaturian-11211/) |      3412      | 580.79 Trillion   |     DH      | 2022-09-13 01:09:48 |
 | 166 | [AuroraTeemo#1179](https://us.diablo3.com/profile/AuroraTeemo-1179/)     |      3411      | 580.26 Trillion   |    Necro    | 2022-09-14 07:34:21 |
 | 167 | [qqfoimano#1150](https://us.diablo3.com/profile/qqfoimano-1150/)         |      3404      | 576.51 Trillion   |     DH      | 2022-09-14 07:39:24 |
 | 168 | [ĐŰćĸŸMçQȕąƇƘ#1747](https://us.diablo3.com/profile/ĐŰćĸŸMçQȕąƇƘ-1747/)   |      3402      | 575.45 Trillion   |     DH      | 2022-09-14 07:03:26 |
@@ -187,9 +187,9 @@ Table created at 2022-09-14 08:06:54.704002
 | 180 | [gbocaT#1596](https://us.diablo3.com/profile/gbocaT-1596/)               |      3375      | 561.18 Trillion   |     DH      | 2022-09-13 20:05:07 |
 | 181 | [XXX3LADEXXX#6850](https://us.diablo3.com/profile/XXX3LADEXXX-6850/)     |      3368      | 557.52 Trillion   |     DH      | 2022-09-14 07:21:35 |
 | 182 | [Cword#1409](https://us.diablo3.com/profile/Cword-1409/)                 |      3360      | 553.36 Trillion   |     DH      | 2022-09-14 07:42:04 |
-| 183 | [LVChang#1654](https://us.diablo3.com/profile/LVChang-1654/)             |      3355      | 550.77 Trillion   |     DH      | 2022-09-14 07:33:04 |
-| 184 | [flareblazer#11645](https://us.diablo3.com/profile/flareblazer-11645/)   |      3352      | 549.22 Trillion   |     DH      | 2022-09-14 06:11:49 |
-| 185 | [RangerDanger#11697](https://us.diablo3.com/profile/RangerDanger-11697/) |      3349      | 547.68 Trillion   |     DH      | 2022-09-14 06:17:13 |
+| 183 | [RangerDanger#11697](https://us.diablo3.com/profile/RangerDanger-11697/) |      3357      | 551.81 Trillion   |     DH      | 2022-09-14 07:57:36 |
+| 184 | [LVChang#1654](https://us.diablo3.com/profile/LVChang-1654/)             |      3356      | 551.29 Trillion   |     DH      | 2022-09-14 08:46:48 |
+| 185 | [flareblazer#11645](https://us.diablo3.com/profile/flareblazer-11645/)   |      3352      | 549.22 Trillion   |     DH      | 2022-09-14 06:11:49 |
 | 186 | [zhengfan33#1936](https://us.diablo3.com/profile/zhengfan33-1936/)       |      3348      | 547.16 Trillion   |     DH      | 2022-09-14 07:37:17 |
 | 187 | [PSN#11145](https://us.diablo3.com/profile/PSN-11145/)                   |      3348      | 547.16 Trillion   |     DH      | 2022-09-14 07:40:44 |
 | 188 | [Dkoiz#1559](https://us.diablo3.com/profile/Dkoiz-1559/)                 |      3345      | 545.62 Trillion   |     DH      | 2022-09-14 07:32:21 |
@@ -203,5 +203,5 @@ Table created at 2022-09-14 08:06:54.704002
 | 196 | [Khan#22626](https://us.diablo3.com/profile/Khan-22626/)                 |      3295      | 520.37 Trillion   |     DH      | 2022-09-14 07:32:56 |
 | 197 | [SkyRed#11110](https://us.diablo3.com/profile/SkyRed-11110/)             |      3291      | 518.39 Trillion   |     DH      | 2022-09-14 04:15:29 |
 | 198 | [LebanJames#1563](https://us.diablo3.com/profile/LebanJames-1563/)       |      3272      | 509.04 Trillion   |     DH      | 2022-09-14 03:01:18 |
-| 199 | [FunkyMonk#1130141](https://us.diablo3.com/profile/FunkyMonk-1130141/)   |      3271      | 508.56 Trillion   |     DH      | 2022-09-14 07:24:52 |
-| 200 | [Exumbra#11463](https://us.diablo3.com/profile/Exumbra-11463/)           |      3262      | 504.17 Trillion   |     DH      | 2022-09-14 04:14:56 |
+| 199 | [Exumbra#11463](https://us.diablo3.com/profile/Exumbra-11463/)           |      3272      | 509.04 Trillion   |     DH      | 2022-09-14 08:12:06 |
+| 200 | [FunkyMonk#1130141](https://us.diablo3.com/profile/FunkyMonk-1130141/)   |      3271      | 508.56 Trillion   |     DH      | 2022-09-14 07:24:52 |
