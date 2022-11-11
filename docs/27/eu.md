@@ -1,7 +1,7 @@
 # Season 27 (EU)
 
 ---
-Table created at 2022-11-11 07:49:39.240697
+Table created at 2022-11-11 08:59:46.662890
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -30,7 +30,7 @@ Table created at 2022-11-11 07:49:39.240697
 | 23  | [ArcWarden#21186](https://eu.diablo3.com/profile/ArcWarden-21186/)       |      8210      | 9.04 Quadrillion  |    Monk     | 2022-11-11 07:07:18 |
 | 24  | [xxMiLeNaxx#21444](https://eu.diablo3.com/profile/xxMiLeNaxx-21444/)     |      8185      | 8.96 Quadrillion  |    Monk     | 2022-11-11 07:05:16 |
 | 25  | [Walhalla#2960](https://eu.diablo3.com/profile/Walhalla-2960/)           |      8183      | 8.95 Quadrillion  |    Monk     | 2022-11-11 07:08:24 |
-| 26  | [烈冰#3716](https://eu.diablo3.com/profile/烈冰-3716/)                       |      8126      | 8.76 Quadrillion  |    Monk     | 2022-11-11 06:29:09 |
+| 26  | [烈冰#3716](https://eu.diablo3.com/profile/烈冰-3716/)                       |      8127      | 8.76 Quadrillion  |    Monk     | 2022-11-11 07:00:36 |
 | 27  | [TheTrollHugo#2243](https://eu.diablo3.com/profile/TheTrollHugo-2243/)   |      8082      | 8.61 Quadrillion  |    Monk     | 2022-11-11 07:10:12 |
 | 28  | [Magiuks#2749](https://eu.diablo3.com/profile/Magiuks-2749/)             |      8060      | 8.54 Quadrillion  |     DH      | 2022-11-11 07:12:24 |
 | 29  | [Venø#2279](https://eu.diablo3.com/profile/Venø-2279/)                   |      8058      | 8.54 Quadrillion  |     DH      | 2022-11-11 07:07:03 |
