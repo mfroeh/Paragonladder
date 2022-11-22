@@ -1,46 +1,46 @@
 # Season 27 (US)
 
 ---
-Table created at 2022-11-22 19:49:26.389975
+Table created at 2022-11-22 20:53:34.724875
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [CoilNova#11718](https://us.diablo3.com/profile/CoilNova-11718/)         |      9745      | 15.28 Quadrillion |    Monk     | 2022-11-22 19:37:07 |
-| 2   | [Sam#114822](https://us.diablo3.com/profile/Sam-114822/)                 |      9490      | 14.09 Quadrillion |    Monk     | 2022-11-22 19:27:12 |
-| 3   | [Yovee#21154](https://us.diablo3.com/profile/Yovee-21154/)               |      9488      | 14.08 Quadrillion |    Monk     | 2022-11-22 19:32:10 |
-| 4   | [ChillAF#1662](https://us.diablo3.com/profile/ChillAF-1662/)             |      9342      | 13.43 Quadrillion |    Monk     | 2022-11-22 19:31:32 |
+| 1   | [CoilNova#11718](https://us.diablo3.com/profile/CoilNova-11718/)         |      9747      | 15.29 Quadrillion |    Monk     | 2022-11-22 20:36:16 |
+| 2   | [Sam#114822](https://us.diablo3.com/profile/Sam-114822/)                 |      9491      | 14.09 Quadrillion |    Monk     | 2022-11-22 20:27:26 |
+| 3   | [Yovee#21154](https://us.diablo3.com/profile/Yovee-21154/)               |      9490      | 14.09 Quadrillion |    Monk     | 2022-11-22 20:42:34 |
+| 4   | [ChillAF#1662](https://us.diablo3.com/profile/ChillAF-1662/)             |      9344      | 13.44 Quadrillion |    Monk     | 2022-11-22 20:32:38 |
 | 5   | [UOF#11719](https://us.diablo3.com/profile/UOF-11719/)                   |      9254      | 13.05 Quadrillion |    Monk     | 2022-11-22 16:47:51 |
-| 6   | [JoblessATM#1149](https://us.diablo3.com/profile/JoblessATM-1149/)       |      9101      | 12.4 Quadrillion  |    Monk     | 2022-11-22 19:41:54 |
+| 6   | [JoblessATM#1149](https://us.diablo3.com/profile/JoblessATM-1149/)       |      9104      | 12.41 Quadrillion |    Monk     | 2022-11-22 20:39:30 |
 | 7   | [Ultima#22816](https://us.diablo3.com/profile/Ultima-22816/)             |      8712      | 10.84 Quadrillion |    Monk     | 2022-11-22 19:40:31 |
 | 8   | [BabyChet#2546](https://us.diablo3.com/profile/BabyChet-2546/)           |      8700      | 10.8 Quadrillion  |    Monk     | 2022-11-22 16:37:13 |
-| 9   | [Fritos#11574](https://us.diablo3.com/profile/Fritos-11574/)             |      8628      | 10.53 Quadrillion |    Monk     | 2022-11-22 19:43:33 |
+| 9   | [Fritos#11574](https://us.diablo3.com/profile/Fritos-11574/)             |      8628      | 10.53 Quadrillion |    Monk     | 2022-11-22 20:44:35 |
 | 10  | [Cuddly#11831](https://us.diablo3.com/profile/Cuddly-11831/)             |      8584      | 10.36 Quadrillion |    Monk     | 2022-11-22 16:19:11 |
-| 11  | [KINGBIGBOI#1888](https://us.diablo3.com/profile/KINGBIGBOI-1888/)       |      8552      | 10.25 Quadrillion |     DH      | 2022-11-22 19:42:57 |
-| 12  | [BanzaiUEMS#1648](https://us.diablo3.com/profile/BanzaiUEMS-1648/)       |      8531      | 10.17 Quadrillion |    Monk     | 2022-11-22 19:31:10 |
-| 13  | [Watson#11468](https://us.diablo3.com/profile/Watson-11468/)             |      8404      | 9.71 Quadrillion  |    Monk     | 2022-11-22 19:25:43 |
-| 14  | [Melon#13373](https://us.diablo3.com/profile/Melon-13373/)               |      8386      | 9.65 Quadrillion  |    Monk     | 2022-11-22 19:37:10 |
+| 11  | [KINGBIGBOI#1888](https://us.diablo3.com/profile/KINGBIGBOI-1888/)       |      8554      | 10.25 Quadrillion |     DH      | 2022-11-22 20:39:00 |
+| 12  | [BanzaiUEMS#1648](https://us.diablo3.com/profile/BanzaiUEMS-1648/)       |      8532      | 10.17 Quadrillion |    Monk     | 2022-11-22 20:34:31 |
+| 13  | [Watson#11468](https://us.diablo3.com/profile/Watson-11468/)             |      8407      | 9.72 Quadrillion  |    Monk     | 2022-11-22 20:43:29 |
+| 14  | [Melon#13373](https://us.diablo3.com/profile/Melon-13373/)               |      8388      | 9.65 Quadrillion  |    Monk     | 2022-11-22 20:18:39 |
 | 15  | [Confucious#11239](https://us.diablo3.com/profile/Confucious-11239/)     |      8347      | 9.51 Quadrillion  |     DH      | 2022-11-18 23:22:13 |
-| 16  | [xiangping#2889](https://us.diablo3.com/profile/xiangping-2889/)         |      8253      | 9.19 Quadrillion  |    Monk     | 2022-11-22 19:27:06 |
+| 16  | [xiangping#2889](https://us.diablo3.com/profile/xiangping-2889/)         |      8253      | 9.19 Quadrillion  |    Monk     | 2022-11-22 20:37:06 |
 | 17  | [Gneejack#1170](https://us.diablo3.com/profile/Gneejack-1170/)           |      8249      | 9.17 Quadrillion  |    Monk     | 2022-11-22 17:03:47 |
-| 18  | [FunkyMonk#1184507](https://us.diablo3.com/profile/FunkyMonk-1184507/)   |      8224      | 9.09 Quadrillion  |    Monk     | 2022-11-22 19:32:58 |
+| 18  | [FunkyMonk#1184507](https://us.diablo3.com/profile/FunkyMonk-1184507/)   |      8227      | 9.1 Quadrillion   |    Monk     | 2022-11-22 20:40:09 |
 | 19  | [Pandemic#1574](https://us.diablo3.com/profile/Pandemic-1574/)           |      8185      | 8.96 Quadrillion  |    Monk     | 2022-11-22 13:14:04 |
-| 20  | [SteveIsBack#1173](https://us.diablo3.com/profile/SteveIsBack-1173/)     |      8158      | 8.87 Quadrillion  |    Monk     | 2022-11-22 19:35:31 |
-| 21  | [DizzyKnight2#11401](https://us.diablo3.com/profile/DizzyKnight2-11401/) |      8100      | 8.67 Quadrillion  |    Monk     | 2022-11-22 19:31:31 |
+| 20  | [SteveIsBack#1173](https://us.diablo3.com/profile/SteveIsBack-1173/)     |      8160      | 8.87 Quadrillion  |    Monk     | 2022-11-22 20:25:22 |
+| 21  | [DizzyKnight2#11401](https://us.diablo3.com/profile/DizzyKnight2-11401/) |      8104      | 8.69 Quadrillion  |    Monk     | 2022-11-22 20:40:48 |
 | 22  | [FLM#11985](https://us.diablo3.com/profile/FLM-11985/)                   |      8094      | 8.65 Quadrillion  |    Monk     | 2022-11-22 16:23:09 |
 | 23  | [Toker#11252](https://us.diablo3.com/profile/Toker-11252/)               |      8092      | 8.65 Quadrillion  |     DH      | 2022-11-13 22:02:12 |
-| 24  | [LUCIUS#31575](https://us.diablo3.com/profile/LUCIUS-31575/)             |      8004      | 8.36 Quadrillion  |    Monk     | 2022-11-22 16:25:34 |
+| 24  | [LUCIUS#31575](https://us.diablo3.com/profile/LUCIUS-31575/)             |      8015      | 8.4 Quadrillion   |    Monk     | 2022-11-22 20:41:43 |
 | 25  | [AssassinZ#31290](https://us.diablo3.com/profile/AssassinZ-31290/)       |      7957      | 8.21 Quadrillion  |    Monk     | 2022-11-22 16:48:05 |
 | 26  | [TheFakeOne#6626](https://us.diablo3.com/profile/TheFakeOne-6626/)       |      7901      | 8.03 Quadrillion  |    Monk     | 2022-11-22 16:48:30 |
 | 27  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      7898      | 8.03 Quadrillion  |    Monk     | 2022-11-18 02:38:12 |
-| 28  | [littlephil#1795](https://us.diablo3.com/profile/littlephil-1795/)       |      7805      | 7.74 Quadrillion  |     DH      | 2022-11-22 18:55:10 |
+| 28  | [littlephil#1795](https://us.diablo3.com/profile/littlephil-1795/)       |      7809      | 7.75 Quadrillion  |     DH      | 2022-11-22 20:35:25 |
 | 29  | [TitanNova#1333](https://us.diablo3.com/profile/TitanNova-1333/)         |      7793      | 7.7 Quadrillion   |    Monk     | 2022-11-22 16:48:06 |
 | 30  | [Cword#1409](https://us.diablo3.com/profile/Cword-1409/)                 |      7688      | 7.39 Quadrillion  |    Monk     | 2022-11-22 18:54:30 |
 | 31  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7669      | 7.33 Quadrillion  |    Monk     | 2022-11-13 18:35:54 |
 | 32  | [Kévin#1597](https://us.diablo3.com/profile/Kévin-1597/)                 |      7560      | 7.01 Quadrillion  |    Monk     | 2022-11-22 12:23:07 |
 | 33  | [nozdromu#11997](https://us.diablo3.com/profile/nozdromu-11997/)         |      7486      | 6.81 Quadrillion  |    Monk     | 2022-11-20 06:44:43 |
-| 34  | [Zef#11428](https://us.diablo3.com/profile/Zef-11428/)                   |      7428      | 6.64 Quadrillion  |    Monk     | 2022-11-22 18:59:23 |
-| 35  | [dhaemonz#1563](https://us.diablo3.com/profile/dhaemonz-1563/)           |      7416      | 6.61 Quadrillion  |    Monk     | 2022-11-22 19:37:58 |
-| 36  | [陳志瑋#1214](https://us.diablo3.com/profile/陳志瑋-1214/)                     |      7382      | 6.52 Quadrillion  |    Monk     | 2022-11-22 19:31:21 |
+| 34  | [Zef#11428](https://us.diablo3.com/profile/Zef-11428/)                   |      7431      | 6.65 Quadrillion  |    Monk     | 2022-11-22 20:23:03 |
+| 35  | [dhaemonz#1563](https://us.diablo3.com/profile/dhaemonz-1563/)           |      7417      | 6.61 Quadrillion  |    Monk     | 2022-11-22 20:39:57 |
+| 36  | [陳志瑋#1214](https://us.diablo3.com/profile/陳志瑋-1214/)                     |      7385      | 6.53 Quadrillion  |    Monk     | 2022-11-22 20:38:31 |
 | 37  | [DanielCabeça#1116](https://us.diablo3.com/profile/DanielCabeça-1116/)   |      7335      | 6.39 Quadrillion  |     DH      | 2022-11-15 23:35:49 |
 | 38  | [LittleWill#31880](https://us.diablo3.com/profile/LittleWill-31880/)     |      7261      | 6.19 Quadrillion  |    Monk     | 2022-11-22 16:35:36 |
 | 39  | [Nil#11305](https://us.diablo3.com/profile/Nil-11305/)                   |      7214      | 6.07 Quadrillion  |    Monk     | 2022-11-22 16:48:27 |
@@ -49,25 +49,25 @@ Table created at 2022-11-22 19:49:26.389975
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7082      | 5.73 Quadrillion  |    Monk     | 2022-11-22 19:37:47 |
 | 43  | [Youngiwnl#1197](https://us.diablo3.com/profile/Youngiwnl-1197/)         |      7056      | 5.67 Quadrillion  |    Monk     | 2022-10-15 12:57:37 |
 | 44  | [ThatBunnyGuy#1941](https://us.diablo3.com/profile/ThatBunnyGuy-1941/)   |      7037      | 5.62 Quadrillion  |    Monk     | 2022-11-22 16:20:12 |
-| 45  | [Leandrolcds#2606](https://us.diablo3.com/profile/Leandrolcds-2606/)     |      7015      | 5.57 Quadrillion  |     DH      | 2022-11-22 16:48:29 |
+| 45  | [Leandrolcds#2606](https://us.diablo3.com/profile/Leandrolcds-2606/)     |      7018      | 5.58 Quadrillion  |     DH      | 2022-11-22 20:27:02 |
 | 46  | [Toxicant#11969](https://us.diablo3.com/profile/Toxicant-11969/)         |      7005      | 5.54 Quadrillion  |    Monk     | 2022-11-16 07:13:38 |
 | 47  | [MikeyHunt#1340](https://us.diablo3.com/profile/MikeyHunt-1340/)         |      6967      | 5.45 Quadrillion  |    Monk     | 2022-10-31 00:48:11 |
 | 48  | [XXX3LADEXXX#6850](https://us.diablo3.com/profile/XXX3LADEXXX-6850/)     |      6961      | 5.44 Quadrillion  |    Monk     | 2022-11-22 17:32:43 |
 | 49  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      6953      | 5.42 Quadrillion  |    Monk     | 2022-11-22 16:19:30 |
 | 50  | [DerNoobzilla#2389](https://us.diablo3.com/profile/DerNoobzilla-2389/)   |      6823      | 5.11 Quadrillion  |    Monk     | 2022-10-28 16:28:51 |
-| 51  | [Herocommando#2525](https://us.diablo3.com/profile/Herocommando-2525/)   |      6792      | 5.04 Quadrillion  |    Monk     | 2022-11-22 19:35:26 |
+| 51  | [Herocommando#2525](https://us.diablo3.com/profile/Herocommando-2525/)   |      6793      | 5.04 Quadrillion  |    Monk     | 2022-11-22 20:38:39 |
 | 52  | [Alicia#1930](https://us.diablo3.com/profile/Alicia-1930/)               |      6792      | 5.04 Quadrillion  |     DH      | 2022-10-26 12:15:02 |
 | 53  | [mittens#11839](https://us.diablo3.com/profile/mittens-11839/)           |      6780      | 5.01 Quadrillion  |     DH      | 2022-11-16 09:44:55 |
-| 54  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      6768      | 4.98 Quadrillion  |    Monk     | 2022-11-22 19:28:48 |
+| 54  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      6771      | 4.99 Quadrillion  |    Monk     | 2022-11-22 20:32:33 |
 | 55  | [OnlyLove#21431](https://us.diablo3.com/profile/OnlyLove-21431/)         |      6655      | 4.73 Quadrillion  |     DH      | 2022-10-30 10:37:49 |
-| 56  | [Zoro#14857](https://us.diablo3.com/profile/Zoro-14857/)                 |      6644      | 4.71 Quadrillion  |     DH      | 2022-11-22 19:33:58 |
+| 56  | [Zoro#14857](https://us.diablo3.com/profile/Zoro-14857/)                 |      6646      | 4.71 Quadrillion  |     DH      | 2022-11-22 20:34:41 |
 | 57  | [crazybread#1269](https://us.diablo3.com/profile/crazybread-1269/)       |      6596      | 4.6 Quadrillion   |     DH      | 2022-11-12 22:02:21 |
-| 58  | [Juehuowuseng#1302](https://us.diablo3.com/profile/Juehuowuseng-1302/)   |      6589      | 4.59 Quadrillion  |    Monk     | 2022-11-22 19:38:31 |
+| 58  | [Juehuowuseng#1302](https://us.diablo3.com/profile/Juehuowuseng-1302/)   |      6592      | 4.59 Quadrillion  |    Monk     | 2022-11-22 20:42:40 |
 | 59  | [Trivium#31237](https://us.diablo3.com/profile/Trivium-31237/)           |      6583      | 4.57 Quadrillion  |     DH      | 2022-11-22 18:34:54 |
 | 60  | [leon#3940](https://us.diablo3.com/profile/leon-3940/)                   |      6568      | 4.54 Quadrillion  |    Monk     | 2022-11-07 06:07:30 |
 | 61  | [Klassified#11511](https://us.diablo3.com/profile/Klassified-11511/)     |      6541      | 4.48 Quadrillion  |     DH      | 2022-11-01 19:58:11 |
 | 62  | [yesjerry#1857](https://us.diablo3.com/profile/yesjerry-1857/)           |      6538      | 4.48 Quadrillion  |    Monk     | 2022-10-26 07:43:42 |
-| 63  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      6505      | 4.41 Quadrillion  |     DH      | 2022-11-22 19:40:06 |
+| 63  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      6507      | 4.41 Quadrillion  |     DH      | 2022-11-22 20:40:33 |
 | 64  | [Stallone#1107](https://us.diablo3.com/profile/Stallone-1107/)           |      6416      | 4.22 Quadrillion  |    Monk     | 2022-10-19 15:51:48 |
 | 65  | [AntigravitY#11496](https://us.diablo3.com/profile/AntigravitY-11496/)   |      6405      | 4.2 Quadrillion   |    Monk     | 2022-10-22 16:53:30 |
 | 66  | [Javiel#11483](https://us.diablo3.com/profile/Javiel-11483/)             |      6345      | 4.08 Quadrillion  |    Monk     | 2022-10-22 04:38:48 |
@@ -86,7 +86,7 @@ Table created at 2022-11-22 19:49:26.389975
 | 79  | [Stormchylde#1831](https://us.diablo3.com/profile/Stormchylde-1831/)     |      5978      | 3.39 Quadrillion  |     DH      | 2022-11-20 10:57:29 |
 | 80  | [Qian#11435](https://us.diablo3.com/profile/Qian-11435/)                 |      5927      | 3.3 Quadrillion   |    Monk     | 2022-10-11 22:06:53 |
 | 81  | [seraphs#1944](https://us.diablo3.com/profile/seraphs-1944/)             |      5862      | 3.19 Quadrillion  |     DH      | 2022-11-04 09:20:20 |
-| 82  | [NitrusMike#1734](https://us.diablo3.com/profile/NitrusMike-1734/)       |      5815      | 3.11 Quadrillion  |    Monk     | 2022-11-22 16:48:29 |
+| 82  | [NitrusMike#1734](https://us.diablo3.com/profile/NitrusMike-1734/)       |      5817      | 3.11 Quadrillion  |    Monk     | 2022-11-22 20:35:53 |
 | 83  | [DamonL#2103](https://us.diablo3.com/profile/DamonL-2103/)               |      5805      | 3.09 Quadrillion  |    Monk     | 2022-10-17 17:34:20 |
 | 84  | [Hulsr#1859](https://us.diablo3.com/profile/Hulsr-1859/)                 |      5792      | 3.07 Quadrillion  |     DH      | 2022-10-29 02:55:40 |
 | 85  | [Yukana#1790](https://us.diablo3.com/profile/Yukana-1790/)               |      5782      | 3.06 Quadrillion  |    Monk     | 2022-10-10 05:33:39 |
