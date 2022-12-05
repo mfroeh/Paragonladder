@@ -1,7 +1,7 @@
 # Season 27 (CN)
 
 ---
-Table created at 2022-12-05 17:47:09.472699
+Table created at 2022-12-05 18:49:51.159447
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -77,8 +77,8 @@ Table created at 2022-12-05 17:47:09.472699
 | 70  | [飞翔的荷兰人#52427](https://d3.blizzard.cn/profile/飞翔的荷兰人-52427/)             |     11031      | 22.29 Quadrillion |    Monk     | 2022-12-05 15:56:06 |
 | 71  | [棒老二#5491](https://d3.blizzard.cn/profile/棒老二-5491/)                     |     11023      | 22.24 Quadrillion |    Monk     | 2022-12-05 14:46:38 |
 | 72  | [迷情#5896](https://d3.blizzard.cn/profile/迷情-5896/)                       |     11015      | 22.19 Quadrillion |    Monk     | 2022-12-05 15:54:45 |
-| 73  | [临安德鲁伊#5743](https://d3.blizzard.cn/profile/临安德鲁伊-5743/)                 |     11009      | 22.16 Quadrillion |    Monk     | 2022-12-05 15:55:25 |
-| 74  | [Gentleman#53914](https://d3.blizzard.cn/profile/Gentleman-53914/)       |     11008      | 22.15 Quadrillion |    Monk     | 2022-12-05 14:36:43 |
+| 73  | [Gentleman#53914](https://d3.blizzard.cn/profile/Gentleman-53914/)       |     11011      | 22.17 Quadrillion |    Monk     | 2022-12-05 15:59:24 |
+| 74  | [临安德鲁伊#5743](https://d3.blizzard.cn/profile/临安德鲁伊-5743/)                 |     11009      | 22.16 Quadrillion |    Monk     | 2022-12-05 15:55:25 |
 | 75  | [咆哮韩#5342](https://d3.blizzard.cn/profile/咆哮韩-5342/)                     |     11004      | 22.13 Quadrillion |    Monk     | 2022-12-05 15:55:55 |
 | 76  | [武王#51771](https://d3.blizzard.cn/profile/武王-51771/)                     |     10998      | 22.09 Quadrillion |    Monk     | 2022-12-05 14:44:19 |
 | 77  | [九州飘雪#5855](https://d3.blizzard.cn/profile/九州飘雪-5855/)                   |     10985      | 22.01 Quadrillion |    Monk     | 2022-12-05 15:59:41 |
