@@ -1,6 +1,12 @@
 # Diablo3 Paragonladder
 
 ---
+# Season 26 
+* [ALL](26/all.md)
+* [CN](26/cn.md)
+* [EU](26/eu.md)
+* [US](26/us.md)
+* [KR](26/kr.md)
 # Season 25 
 * [ALL](25/all.md)
 * [CN](25/cn.md)
@@ -19,11 +25,5 @@
 * [EU](27/eu.md)
 * [US](27/us.md)
 * [KR](27/kr.md)
-# Season 26 
-* [ALL](26/all.md)
-* [CN](26/cn.md)
-* [EU](26/eu.md)
-* [US](26/us.md)
-* [KR](26/kr.md)
 
 
