@@ -1,7 +1,7 @@
 # Season 27 (EU)
 
 ---
-Table created at 2023-01-11 23:01:43.411706
+Table created at 2023-01-11 23:56:18.469151
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -34,7 +34,7 @@ Table created at 2023-01-11 23:01:43.411706
 | 27  | [xpEnjoyer#2470](https://eu.diablo3.com/profile/xpEnjoyer-2470/)       |     10345      | 18.33 Quadrillion |    Monk     | 2023-01-11 21:35:16 |
 | 28  | [Leeroy#22760](https://eu.diablo3.com/profile/Leeroy-22760/)           |     10336      | 18.28 Quadrillion |     DH      | 2022-12-16 09:27:00 |
 | 29  | [Ultra#21307](https://eu.diablo3.com/profile/Ultra-21307/)             |     10302      | 18.1 Quadrillion  |    Monk     | 2023-01-11 18:48:20 |
-| 30  | [ArcWarden#21186](https://eu.diablo3.com/profile/ArcWarden-21186/)     |     10255      | 17.85 Quadrillion |    Monk     | 2023-01-11 21:32:05 |
+| 30  | [ArcWarden#21186](https://eu.diablo3.com/profile/ArcWarden-21186/)     |     10255      | 17.85 Quadrillion |    Monk     | 2023-01-11 21:34:45 |
 | 31  | [Broda#21131](https://eu.diablo3.com/profile/Broda-21131/)             |     10212      | 17.62 Quadrillion |    Monk     | 2023-01-11 20:55:09 |
 | 32  | [Magiuks#2749](https://eu.diablo3.com/profile/Magiuks-2749/)           |     10205      | 17.59 Quadrillion |    Monk     | 2023-01-11 19:25:09 |
 | 33  | [pepeButt#2579](https://eu.diablo3.com/profile/pepeButt-2579/)         |     10170      | 17.4 Quadrillion  |    Monk     | 2023-01-06 18:15:11 |
