@@ -1,7 +1,7 @@
 # Season 27 (CN)
 
 ---
-Table created at 2023-01-23 16:54:27.714663
+Table created at 2023-01-23 17:50:44.465112
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -72,7 +72,7 @@ Table created at 2023-01-23 16:54:27.714663
 | 65  | [SsQ#5824](https://d3.blizzard.cn/profile/SsQ-5824/)                     |     12508      | 32.66 Quadrillion |    Monk     | 2023-01-23 15:41:20 |
 | 66  | [傻呱呱呱#51629](https://d3.blizzard.cn/profile/傻呱呱呱-51629/)                 |     12504      | 32.62 Quadrillion |    Monk     | 2023-01-23 15:42:48 |
 | 67  | [Camille#52835](https://d3.blizzard.cn/profile/Camille-52835/)           |     12491      | 32.52 Quadrillion |    Monk     | 2023-01-23 15:50:59 |
-| 68  | [银色丶北伐军#5931](https://d3.blizzard.cn/profile/银色丶北伐军-5931/)               |     12468      | 32.34 Quadrillion |    Monk     | 2023-01-23 15:22:19 |
+| 68  | [银色丶北伐军#5931](https://d3.blizzard.cn/profile/银色丶北伐军-5931/)               |     12469      | 32.35 Quadrillion |    Monk     | 2023-01-23 15:50:59 |
 | 69  | [九亿少女的梦#52391](https://d3.blizzard.cn/profile/九亿少女的梦-52391/)             |     12443      | 32.14 Quadrillion |    Monk     | 2023-01-19 18:42:53 |
 | 70  | [半岛冰茶#51660](https://d3.blizzard.cn/profile/半岛冰茶-51660/)                 |     12438      | 32.1 Quadrillion  |    Monk     | 2023-01-19 10:51:53 |
 | 71  | [蛋仔哥哥#5604](https://d3.blizzard.cn/profile/蛋仔哥哥-5604/)                   |     12434      | 32.07 Quadrillion |    Monk     | 2023-01-22 11:29:03 |
