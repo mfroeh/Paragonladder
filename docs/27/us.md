@@ -1,13 +1,13 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-01-26 02:15:37.407156
+Table created at 2023-01-26 03:10:24.721766
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [Sam#114822](https://us.diablo3.com/profile/Sam-114822/)                 |     12249      | 30.65 Quadrillion |    Monk     | 2023-01-26 01:19:23 |
 | 2   | [Yovee#21154](https://us.diablo3.com/profile/Yovee-21154/)               |     12219      | 30.42 Quadrillion |    Monk     | 2023-01-26 01:19:24 |
-| 3   | [Ultima#22816](https://us.diablo3.com/profile/Ultima-22816/)             |     11459      | 25.03 Quadrillion |    Monk     | 2023-01-25 23:37:40 |
+| 3   | [Ultima#22816](https://us.diablo3.com/profile/Ultima-22816/)             |     11462      | 25.05 Quadrillion |    Monk     | 2023-01-26 01:19:09 |
 | 4   | [Fritos#11574](https://us.diablo3.com/profile/Fritos-11574/)             |     11445      | 24.93 Quadrillion |    Monk     | 2023-01-26 01:19:17 |
 | 5   | [KINGBIGBOI#1888](https://us.diablo3.com/profile/KINGBIGBOI-1888/)       |     11128      | 22.89 Quadrillion |     DH      | 2023-01-26 01:19:26 |
 | 6   | [BabyChet#2546](https://us.diablo3.com/profile/BabyChet-2546/)           |     11098      | 22.71 Quadrillion |    Monk     | 2023-01-26 01:19:12 |
