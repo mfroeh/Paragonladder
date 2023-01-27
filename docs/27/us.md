@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-01-27 11:37:09.755651
+Table created at 2023-01-27 12:56:30.434074
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -177,7 +177,7 @@ Table created at 2023-01-27 11:37:09.755651
 | 170 | [kqwrw#1443](https://us.diablo3.com/profile/kqwrw-1443/)                 |      4565      | 1.46 Quadrillion  |     DH      | 2022-09-16 02:34:38 |
 | 171 | [LuXuBu#11600](https://us.diablo3.com/profile/LuXuBu-11600/)             |      4558      | 1.45 Quadrillion  |     DH      | 2022-11-06 07:15:33 |
 | 172 | [NightRaven#3137854](https://us.diablo3.com/profile/NightRaven-3137854/) |      4544      | 1.44 Quadrillion  |     DH      | 2022-09-16 02:34:38 |
-| 173 | [SuperNova#13959](https://us.diablo3.com/profile/SuperNova-13959/)       |      4541      | 1.43 Quadrillion  |     DH      | 2022-11-12 12:54:53 |
+| 173 | [SuperNova#13959](https://us.diablo3.com/profile/SuperNova-13959/)       |      4541      | 1.43 Quadrillion  |     DH      | 2023-01-27 11:57:10 |
 | 174 | [Yumikee#1705](https://us.diablo3.com/profile/Yumikee-1705/)             |      4535      | 1.43 Quadrillion  |     DH      | 2022-09-25 13:51:00 |
 | 175 | [luke#6410](https://us.diablo3.com/profile/luke-6410/)                   |      4531      | 1.42 Quadrillion  |     DH      | 2022-09-26 12:36:24 |
 | 176 | [BabyBunny#21797](https://us.diablo3.com/profile/BabyBunny-21797/)       |      4530      | 1.42 Quadrillion  |     DH      | 2022-09-16 02:35:02 |
