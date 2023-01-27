@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-01-27 10:41:47.793782
+Table created at 2023-01-27 11:37:09.755651
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -168,7 +168,7 @@ Table created at 2023-01-27 10:41:47.793782
 | 161 | [Gregcui#1392](https://us.diablo3.com/profile/Gregcui-1392/)             |      4632      | 1.53 Quadrillion  |     DH      | 2022-09-25 23:00:03 |
 | 162 | [lowbee#1186](https://us.diablo3.com/profile/lowbee-1186/)               |      4628      | 1.52 Quadrillion  |     DH      | 2022-09-28 07:48:35 |
 | 163 | [HAI#3861](https://us.diablo3.com/profile/HAI-3861/)                     |      4623      | 1.52 Quadrillion  |    Monk     | 2022-09-16 02:34:50 |
-| 164 | [Sniffer#11941](https://us.diablo3.com/profile/Sniffer-11941/)           |      4620      | 1.51 Quadrillion  |     DH      | 2023-01-02 02:33:43 |
+| 164 | [Sniffer#11941](https://us.diablo3.com/profile/Sniffer-11941/)           |      4620      | 1.51 Quadrillion  |     DH      | 2023-01-27 10:38:52 |
 | 165 | [Player#180853](https://us.diablo3.com/profile/Player-180853/)           |      4595      | 1.49 Quadrillion  |     DH      | 2022-10-01 20:47:55 |
 | 166 | [AuroraTeemo#1179](https://us.diablo3.com/profile/AuroraTeemo-1179/)     |      4594      | 1.49 Quadrillion  |    Monk     | 2022-09-27 05:48:13 |
 | 167 | [FearTheBeard#11136](https://us.diablo3.com/profile/FearTheBeard-11136/) |      4592      | 1.48 Quadrillion  |     DH      | 2022-09-16 02:34:52 |
