@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-01-26 23:52:51.161956
+Table created at 2023-01-27 02:12:36.911649
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -65,7 +65,7 @@ Table created at 2023-01-26 23:52:51.161956
 | 58  | [Alicia#1930](https://us.diablo3.com/profile/Alicia-1930/)               |      6792      | 5.04 Quadrillion  |     DH      | 2022-10-26 12:15:02 |
 | 59  | [mittens#11839](https://us.diablo3.com/profile/mittens-11839/)           |      6786      | 5.03 Quadrillion  |     DH      | 2023-01-02 04:24:36 |
 | 60  | [Zoro#14857](https://us.diablo3.com/profile/Zoro-14857/)                 |      6778      | 5.01 Quadrillion  |     DH      | 2022-12-03 09:08:52 |
-| 61  | [NitrusMike#1734](https://us.diablo3.com/profile/NitrusMike-1734/)       |      6657      | 4.74 Quadrillion  |    Monk     | 2023-01-24 04:13:45 |
+| 61  | [NitrusMike#1734](https://us.diablo3.com/profile/NitrusMike-1734/)       |      6657      | 4.74 Quadrillion  |    Monk     | 2023-01-27 01:44:23 |
 | 62  | [OnlyLove#21431](https://us.diablo3.com/profile/OnlyLove-21431/)         |      6655      | 4.73 Quadrillion  |     DH      | 2022-10-30 10:37:49 |
 | 63  | [crazybread#1269](https://us.diablo3.com/profile/crazybread-1269/)       |      6596      | 4.6 Quadrillion   |     DH      | 2022-11-12 22:02:21 |
 | 64  | [leon#3940](https://us.diablo3.com/profile/leon-3940/)                   |      6568      | 4.54 Quadrillion  |    Monk     | 2022-11-07 06:07:30 |
