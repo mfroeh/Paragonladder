@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-01-27 15:36:42.043287
+Table created at 2023-01-27 16:45:28.139092
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -85,7 +85,7 @@ Table created at 2023-01-27 15:36:42.043287
 | 78  | [Tohka#11165](https://us.diablo3.com/profile/Tohka-11165/)               |      6028      | 3.48 Quadrillion  |    Monk     | 2022-10-23 19:35:32 |
 | 79  | [hiTman#1774](https://us.diablo3.com/profile/hiTman-1774/)               |      6027      | 3.48 Quadrillion  |     DH      | 2022-11-10 00:12:44 |
 | 80  | [Stormchylde#1831](https://us.diablo3.com/profile/Stormchylde-1831/)     |      6024      | 3.47 Quadrillion  |     DH      | 2022-12-23 04:21:27 |
-| 81  | [Wuha#1895](https://us.diablo3.com/profile/Wuha-1895/)                   |      6009      | 3.45 Quadrillion  |     DH      | 2023-01-27 15:27:50 |
+| 81  | [Wuha#1895](https://us.diablo3.com/profile/Wuha-1895/)                   |      6009      | 3.45 Quadrillion  |     DH      | 2023-01-27 15:55:22 |
 | 82  | [mailao#2147](https://us.diablo3.com/profile/mailao-2147/)               |      6008      | 3.44 Quadrillion  |    Monk     | 2022-10-27 13:53:02 |
 | 83  | [Qian#11435](https://us.diablo3.com/profile/Qian-11435/)                 |      5927      | 3.3 Quadrillion   |    Monk     | 2022-10-11 22:06:53 |
 | 84  | [seraphs#1944](https://us.diablo3.com/profile/seraphs-1944/)             |      5862      | 3.19 Quadrillion  |     DH      | 2022-11-04 09:20:20 |
