@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-01-31 09:39:07.255550
+Table created at 2023-01-31 10:38:01.342403
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -49,7 +49,7 @@ Table created at 2023-01-31 09:39:07.255550
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2022-12-23 01:42:01 |
 | 43  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
 | 44  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
-| 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7468      | 6.75 Quadrillion  |    Monk     | 2023-01-31 09:20:15 |
+| 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7468      | 6.75 Quadrillion  |    Monk     | 2023-01-31 09:41:10 |
 | 46  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7441      | 6.68 Quadrillion  |    Monk     | 2022-12-05 13:02:20 |
 | 47  | [DanielCabeça#1116](https://us.diablo3.com/profile/DanielCabeça-1116/)   |      7335      | 6.39 Quadrillion  |     DH      | 2022-11-15 23:35:49 |
 | 48  | [Nil#11305](https://us.diablo3.com/profile/Nil-11305/)                   |      7294      | 6.28 Quadrillion  |    Monk     | 2022-11-24 22:35:18 |
@@ -102,7 +102,7 @@ Table created at 2023-01-31 09:39:07.255550
 | 95  | [seesaw#1211](https://us.diablo3.com/profile/seesaw-1211/)               |      5705      | 2.93 Quadrillion  |     DH      | 2022-10-26 23:34:26 |
 | 96  | [LuckyOwl#110732](https://us.diablo3.com/profile/LuckyOwl-110732/)       |      5678      | 2.89 Quadrillion  |     DH      | 2022-10-28 04:27:10 |
 | 97  | [gbocaT#1596](https://us.diablo3.com/profile/gbocaT-1596/)               |      5651      | 2.85 Quadrillion  |     DH      | 2022-10-12 14:38:04 |
-| 98  | [Invoker#11365](https://us.diablo3.com/profile/Invoker-11365/)           |      5631      | 2.81 Quadrillion  |  Barbarian  | 2023-01-31 09:24:19 |
+| 98  | [Invoker#11365](https://us.diablo3.com/profile/Invoker-11365/)           |      5631      | 2.81 Quadrillion  |  Barbarian  | 2023-01-31 09:47:49 |
 | 99  | [Guardhao#1303](https://us.diablo3.com/profile/Guardhao-1303/)           |      5608      | 2.78 Quadrillion  |    Monk     | 2022-10-08 07:50:20 |
 | 100 | [MAXIYA#1270](https://us.diablo3.com/profile/MAXIYA-1270/)               |      5563      | 2.71 Quadrillion  |    Monk     | 2022-12-02 07:55:54 |
 | 101 | [GanjaBus#21185](https://us.diablo3.com/profile/GanjaBus-21185/)         |      5531      | 2.66 Quadrillion  |    Monk     | 2022-10-17 13:25:04 |
