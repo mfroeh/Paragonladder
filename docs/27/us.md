@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-02 15:38:19.159137
+Table created at 2023-02-02 16:51:31.635788
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -52,7 +52,7 @@ Table created at 2023-02-02 15:38:19.159137
 | 45  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
 | 46  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7442      | 6.68 Quadrillion  |    Monk     | 2023-01-31 19:22:26 |
 | 47  | [DanielCabeça#1116](https://us.diablo3.com/profile/DanielCabeça-1116/)   |      7335      | 6.39 Quadrillion  |     DH      | 2022-11-15 23:35:49 |
-| 48  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7331      | 6.38 Quadrillion  |    Monk     | 2023-02-02 15:21:29 |
+| 48  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7332      | 6.38 Quadrillion  |    Monk     | 2023-02-02 16:23:14 |
 | 49  | [Nil#11305](https://us.diablo3.com/profile/Nil-11305/)                   |      7294      | 6.28 Quadrillion  |    Monk     | 2022-11-24 22:35:18 |
 | 50  | [Leandrolcds#2606](https://us.diablo3.com/profile/Leandrolcds-2606/)     |      7266      | 6.21 Quadrillion  |     DH      | 2023-01-26 01:19:33 |
 | 51  | [lvyforever#1613](https://us.diablo3.com/profile/lvyforever-1613/)       |      7240      | 6.14 Quadrillion  |    Monk     | 2023-01-28 00:26:33 |
