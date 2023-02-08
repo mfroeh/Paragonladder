@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-08 06:42:25.524307
+Table created at 2023-02-08 07:36:16.606479
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -48,7 +48,7 @@ Table created at 2023-02-08 06:42:25.524307
 | 41  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      7898      | 8.03 Quadrillion  |    Monk     | 2022-11-18 02:38:12 |
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2023-02-02 03:05:24 |
 | 43  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
-| 44  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7523      | 6.91 Quadrillion  |    Monk     | 2023-02-08 06:32:27 |
+| 44  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7524      | 6.91 Quadrillion  |    Monk     | 2023-02-08 06:58:40 |
 | 45  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
 | 46  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7464      | 6.74 Quadrillion  |    Monk     | 2023-02-07 23:14:06 |
 | 47  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7442      | 6.68 Quadrillion  |    Monk     | 2023-01-31 19:22:26 |
@@ -97,7 +97,7 @@ Table created at 2023-02-08 06:42:25.524307
 | 90  | [lonely#1104](https://us.diablo3.com/profile/lonely-1104/)               |      5767      | 3.03 Quadrillion  |     DH      | 2023-01-29 11:01:29 |
 | 91  | [Dizzi#11936](https://us.diablo3.com/profile/Dizzi-11936/)               |      5755      | 3.01 Quadrillion  |     DH      | 2022-11-02 00:24:35 |
 | 92  | [Shoman#1389](https://us.diablo3.com/profile/Shoman-1389/)               |      5747      | 3.0 Quadrillion   |     DH      | 2022-10-09 15:38:38 |
-| 93  | [PikachuQAQ#1217](https://us.diablo3.com/profile/PikachuQAQ-1217/)       |      5746      | 3.0 Quadrillion   |    Monk     | 2023-02-08 06:27:12 |
+| 93  | [PikachuQAQ#1217](https://us.diablo3.com/profile/PikachuQAQ-1217/)       |      5746      | 3.0 Quadrillion   |    Monk     | 2023-02-08 07:03:55 |
 | 94  | [wdzepplin#11558](https://us.diablo3.com/profile/wdzepplin-11558/)       |      5745      | 3.0 Quadrillion   |     DH      | 2022-10-10 23:36:46 |
 | 95  | [DaddyOosh#1540](https://us.diablo3.com/profile/DaddyOosh-1540/)         |      5742      | 2.99 Quadrillion  |     DH      | 2023-02-08 04:20:49 |
 | 96  | [seesaw#1211](https://us.diablo3.com/profile/seesaw-1211/)               |      5705      | 2.93 Quadrillion  |     DH      | 2022-10-26 23:34:26 |
@@ -133,7 +133,7 @@ Table created at 2023-02-08 06:42:25.524307
 | 126 | [D3BestGame#1479](https://us.diablo3.com/profile/D3BestGame-1479/)       |      5135      | 2.11 Quadrillion  |     DH      | 2022-09-16 02:34:47 |
 | 127 | [Eggman#11182](https://us.diablo3.com/profile/Eggman-11182/)             |      5106      | 2.07 Quadrillion  |     DH      | 2022-09-15 21:22:02 |
 | 128 | [dustinh#11247](https://us.diablo3.com/profile/dustinh-11247/)           |      5093      | 2.06 Quadrillion  |     DH      | 2022-09-16 02:34:47 |
-| 129 | [ĐŰćĸŸMçQȕąƇƘ#1747](https://us.diablo3.com/profile/ĐŰćĸŸMçQȕąƇƘ-1747/)   |      5065      | 2.02 Quadrillion  |     DH      | 2023-02-08 06:27:52 |
+| 129 | [ĐŰćĸŸMçQȕąƇƘ#1747](https://us.diablo3.com/profile/ĐŰćĸŸMçQȕąƇƘ-1747/)   |      5065      | 2.02 Quadrillion  |     DH      | 2023-02-08 06:51:00 |
 | 130 | [kAIZI#1433](https://us.diablo3.com/profile/kAIZI-1433/)                 |      5050      | 2.0 Quadrillion   |    Monk     | 2022-10-05 09:53:13 |
 | 131 | [jago#11102](https://us.diablo3.com/profile/jago-11102/)                 |      5049      | 2.0 Quadrillion   |     DH      | 2022-09-16 02:34:48 |
 | 132 | [Fuzzy#12814](https://us.diablo3.com/profile/Fuzzy-12814/)               |      5032      | 1.98 Quadrillion  |     DH      | 2023-02-07 04:18:57 |
