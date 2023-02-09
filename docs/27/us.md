@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-09 18:40:00.531160
+Table created at 2023-02-09 19:34:12.511942
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -90,7 +90,7 @@ Table created at 2023-02-09 18:40:00.531160
 | 83  | [Qian#11435](https://us.diablo3.com/profile/Qian-11435/)                 |      5927      | 3.3 Quadrillion   |    Monk     | 2022-10-11 22:06:53 |
 | 84  | [ImABotter#3988](https://us.diablo3.com/profile/ImABotter-3988/)         |      5865      | 3.2 Quadrillion   |     DH      | 2023-02-06 23:57:50 |
 | 85  | [seraphs#1944](https://us.diablo3.com/profile/seraphs-1944/)             |      5862      | 3.19 Quadrillion  |     DH      | 2022-11-04 09:20:20 |
-| 86  | [PikachuQAQ#1217](https://us.diablo3.com/profile/PikachuQAQ-1217/)       |      5847      | 3.16 Quadrillion  |    Monk     | 2023-02-09 18:33:45 |
+| 86  | [PikachuQAQ#1217](https://us.diablo3.com/profile/PikachuQAQ-1217/)       |      5847      | 3.16 Quadrillion  |    Monk     | 2023-02-09 19:25:48 |
 | 87  | [DamonL#2103](https://us.diablo3.com/profile/DamonL-2103/)               |      5805      | 3.09 Quadrillion  |    Monk     | 2022-10-17 17:34:20 |
 | 88  | [Hulsr#1859](https://us.diablo3.com/profile/Hulsr-1859/)                 |      5792      | 3.07 Quadrillion  |     DH      | 2022-12-18 03:05:07 |
 | 89  | [Yukana#1790](https://us.diablo3.com/profile/Yukana-1790/)               |      5782      | 3.06 Quadrillion  |    Monk     | 2022-10-10 05:33:39 |
