@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-11 20:35:46.837003
+Table created at 2023-02-11 21:33:56.669182
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -48,8 +48,8 @@ Table created at 2023-02-11 20:35:46.837003
 | 41  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      7898      | 8.03 Quadrillion  |    Monk     | 2022-11-18 02:38:12 |
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2023-02-02 03:05:24 |
 | 43  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
-| 44  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7543      | 6.97 Quadrillion  |    Monk     | 2023-02-11 20:08:16 |
-| 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7536      | 6.95 Quadrillion  |    Monk     | 2023-02-11 20:21:13 |
+| 44  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7545      | 6.97 Quadrillion  |    Monk     | 2023-02-11 21:18:06 |
+| 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7537      | 6.95 Quadrillion  |    Monk     | 2023-02-11 21:16:03 |
 | 46  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
 | 47  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7442      | 6.68 Quadrillion  |    Monk     | 2023-01-31 19:22:26 |
 | 48  | [DanielCabeça#1116](https://us.diablo3.com/profile/DanielCabeça-1116/)   |      7335      | 6.39 Quadrillion  |     DH      | 2022-11-15 23:35:49 |
@@ -88,7 +88,7 @@ Table created at 2023-02-11 20:35:46.837003
 | 81  | [Wuha#1895](https://us.diablo3.com/profile/Wuha-1895/)                   |      6011      | 3.45 Quadrillion  |     DH      | 2023-02-11 02:07:15 |
 | 82  | [mailao#2147](https://us.diablo3.com/profile/mailao-2147/)               |      6008      | 3.44 Quadrillion  |    Monk     | 2022-10-27 13:53:02 |
 | 83  | [Qian#11435](https://us.diablo3.com/profile/Qian-11435/)                 |      5927      | 3.3 Quadrillion   |    Monk     | 2022-10-11 22:06:53 |
-| 84  | [ImABotter#3988](https://us.diablo3.com/profile/ImABotter-3988/)         |      5876      | 3.21 Quadrillion  |     DH      | 2023-02-11 06:22:09 |
+| 84  | [ImABotter#3988](https://us.diablo3.com/profile/ImABotter-3988/)         |      5876      | 3.21 Quadrillion  |     DH      | 2023-02-11 20:32:50 |
 | 85  | [seraphs#1944](https://us.diablo3.com/profile/seraphs-1944/)             |      5862      | 3.19 Quadrillion  |     DH      | 2022-11-04 09:20:20 |
 | 86  | [PikachuQAQ#1217](https://us.diablo3.com/profile/PikachuQAQ-1217/)       |      5847      | 3.16 Quadrillion  |    Monk     | 2023-02-09 19:25:48 |
 | 87  | [DamonL#2103](https://us.diablo3.com/profile/DamonL-2103/)               |      5805      | 3.09 Quadrillion  |    Monk     | 2022-10-17 17:34:20 |
@@ -157,7 +157,7 @@ Table created at 2023-02-11 20:35:46.837003
 | 150 | [Kyle#18585](https://us.diablo3.com/profile/Kyle-18585/)                 |      4774      | 1.68 Quadrillion  |     DH      | 2022-09-16 01:27:48 |
 | 151 | [SteLitY#11427](https://us.diablo3.com/profile/SteLitY-11427/)           |      4759      | 1.66 Quadrillion  |     DH      | 2022-09-16 02:34:51 |
 | 152 | [GoodestBoi#1712](https://us.diablo3.com/profile/GoodestBoi-1712/)       |      4752      | 1.65 Quadrillion  |     DH      | 2022-09-16 02:34:48 |
-| 153 | [Azudo#21324](https://us.diablo3.com/profile/Azudo-21324/)               |      4721      | 1.62 Quadrillion  |     DH      | 2023-02-08 23:43:40 |
+| 153 | [Azudo#21324](https://us.diablo3.com/profile/Azudo-21324/)               |      4721      | 1.62 Quadrillion  |     DH      | 2023-02-11 20:35:16 |
 | 154 | [SuperSoaker#11430](https://us.diablo3.com/profile/SuperSoaker-11430/)   |      4668      | 1.56 Quadrillion  |     DH      | 2022-09-12 14:27:03 |
 | 155 | [biggbarb#11325](https://us.diablo3.com/profile/biggbarb-11325/)         |      4651      | 1.55 Quadrillion  |     DH      | 2022-09-16 02:34:49 |
 | 156 | [Gregcui#1392](https://us.diablo3.com/profile/Gregcui-1392/)             |      4643      | 1.54 Quadrillion  |     DH      | 2023-02-07 08:36:11 |
