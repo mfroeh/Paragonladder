@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-13 03:06:14.478382
+Table created at 2023-02-13 03:43:52.386455
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -48,7 +48,7 @@ Table created at 2023-02-13 03:06:14.478382
 | 41  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      7898      | 8.03 Quadrillion  |    Monk     | 2022-11-18 02:38:12 |
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2023-02-13 02:43:14 |
 | 43  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
-| 44  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7582      | 7.08 Quadrillion  |    Monk     | 2023-02-13 02:46:15 |
+| 44  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7583      | 7.08 Quadrillion  |    Monk     | 2023-02-13 03:31:18 |
 | 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7539      | 6.95 Quadrillion  |    Monk     | 2023-02-12 07:55:20 |
 | 46  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
 | 47  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7442      | 6.68 Quadrillion  |    Monk     | 2023-01-31 19:22:26 |
@@ -136,7 +136,7 @@ Table created at 2023-02-13 03:06:14.478382
 | 129 | [ĐŰćĸŸMçQȕąƇƘ#1747](https://us.diablo3.com/profile/ĐŰćĸŸMçQȕąƇƘ-1747/)   |      5066      | 2.02 Quadrillion  |     DH      | 2023-02-11 01:03:24 |
 | 130 | [kAIZI#1433](https://us.diablo3.com/profile/kAIZI-1433/)                 |      5050      | 2.0 Quadrillion   |    Monk     | 2022-10-05 09:53:13 |
 | 131 | [jago#11102](https://us.diablo3.com/profile/jago-11102/)                 |      5049      | 2.0 Quadrillion   |     DH      | 2022-09-16 02:34:48 |
-| 132 | [Fuzzy#12814](https://us.diablo3.com/profile/Fuzzy-12814/)               |      5032      | 1.98 Quadrillion  |     DH      | 2023-02-13 02:42:46 |
+| 132 | [Fuzzy#12814](https://us.diablo3.com/profile/Fuzzy-12814/)               |      5032      | 1.98 Quadrillion  |     DH      | 2023-02-13 03:18:19 |
 | 133 | [Cornbread#11269](https://us.diablo3.com/profile/Cornbread-11269/)       |      5032      | 1.98 Quadrillion  |     DH      | 2022-09-16 02:34:47 |
 | 134 | [Yovee#1221](https://us.diablo3.com/profile/Yovee-1221/)                 |      5031      | 1.98 Quadrillion  |     DH      | 2022-09-16 02:34:50 |
 | 135 | [ChetHanx#1548](https://us.diablo3.com/profile/ChetHanx-1548/)           |      5018      | 1.96 Quadrillion  |     DH      | 2022-09-16 02:35:17 |
