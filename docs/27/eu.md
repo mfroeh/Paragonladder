@@ -1,7 +1,7 @@
 # Season 27 (EU)
 
 ---
-Table created at 2023-02-19 04:39:04.787110
+Table created at 2023-02-19 05:35:27.471472
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -121,7 +121,7 @@ Table created at 2023-02-19 04:39:04.787110
 | 114 | [And3rSon#2182](https://eu.diablo3.com/profile/And3rSon-2182/)             |      8417      | 9.76 Quadrillion  |    Monk     | 2023-02-11 16:07:45 |
 | 115 | [OBIRALOVSKIY#2740](https://eu.diablo3.com/profile/OBIRALOVSKIY-2740/)     |      8386      | 9.65 Quadrillion  |     DH      | 2023-01-26 01:19:30 |
 | 116 | [wasiu#2841](https://eu.diablo3.com/profile/wasiu-2841/)                   |      8385      | 9.64 Quadrillion  |    Monk     | 2023-01-26 01:19:32 |
-| 117 | [Xstrange#2357](https://eu.diablo3.com/profile/Xstrange-2357/)             |      8378      | 9.62 Quadrillion  |    Monk     | 2023-02-19 01:27:45 |
+| 117 | [Xstrange#2357](https://eu.diablo3.com/profile/Xstrange-2357/)             |      8385      | 9.64 Quadrillion  |    Monk     | 2023-02-19 05:06:50 |
 | 118 | [Ultraworg#220976](https://eu.diablo3.com/profile/Ultraworg-220976/)       |      8358      | 9.55 Quadrillion  |    Monk     | 2022-11-25 14:28:02 |
 | 119 | [Hanzilla79#2637](https://eu.diablo3.com/profile/Hanzilla79-2637/)         |      8351      | 9.52 Quadrillion  |  Barbarian  | 2023-01-26 01:19:23 |
 | 120 | [Takeschi#21109](https://eu.diablo3.com/profile/Takeschi-21109/)           |      8338      | 9.48 Quadrillion  |    Monk     | 2023-01-26 01:19:31 |
@@ -200,7 +200,7 @@ Table created at 2023-02-19 04:39:04.787110
 | 193 | [Camel#21707](https://eu.diablo3.com/profile/Camel-21707/)                 |      7250      | 6.17 Quadrillion  |    Monk     | 2023-02-18 15:15:09 |
 | 194 | [Godzilla#23355](https://eu.diablo3.com/profile/Godzilla-23355/)           |      3511      | 635.63 Trillion   |    Monk     | 2023-02-18 17:38:30 |
 | 195 | [LuckyHorse#21359](https://eu.diablo3.com/profile/LuckyHorse-21359/)       |      2812      | 317.87 Trillion   |     DH      | 2023-02-15 18:41:46 |
-| 196 | [d2k2#21225](https://eu.diablo3.com/profile/d2k2-21225/)                   |      852       | 4.58 Trillion     |     DH      | 2023-02-19 01:36:11 |
+| 196 | [d2k2#21225](https://eu.diablo3.com/profile/d2k2-21225/)                   |      935       | 7.46 Trillion     |     DH      | 2023-02-19 04:57:25 |
 | 197 | [Formidable#2483](https://eu.diablo3.com/profile/Formidable-2483/)         |      668       | 1.11 Trillion     |   Wizard    | 2023-02-06 16:10:27 |
 | 198 | [Venø#2279](https://eu.diablo3.com/profile/Venø-2279/)                     |      358       | 120.02 Billion    |    Monk     | 2023-02-06 23:48:12 |
 | 199 | [Andestyle#2727](https://eu.diablo3.com/profile/Andestyle-2727/)           |       0        | 0                 |     DH      | 2023-01-29 23:38:03 |
