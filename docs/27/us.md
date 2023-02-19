@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-19 17:31:42.100936
+Table created at 2023-02-19 18:36:24.664361
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -47,11 +47,11 @@ Table created at 2023-02-19 17:31:42.100936
 | 40  | [gus#12487](https://us.diablo3.com/profile/gus-12487/)                   |      7953      | 8.2 Quadrillion   |     DH      | 2023-01-26 01:20:15 |
 | 41  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      7898      | 8.03 Quadrillion  |    Monk     | 2022-11-18 02:38:12 |
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2023-02-18 10:34:39 |
-| 43  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7692      | 7.4 Quadrillion   |    Monk     | 2023-02-19 16:53:12 |
+| 43  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7694      | 7.4 Quadrillion   |    Monk     | 2023-02-19 18:21:40 |
 | 44  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
 | 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7546      | 6.97 Quadrillion  |    Monk     | 2023-02-19 06:59:27 |
 | 46  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
-| 47  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7445      | 6.69 Quadrillion  |    Monk     | 2023-02-19 17:03:22 |
+| 47  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7445      | 6.69 Quadrillion  |    Monk     | 2023-02-19 17:55:14 |
 | 48  | [DanielCabeça#1116](https://us.diablo3.com/profile/DanielCabeça-1116/)   |      7335      | 6.39 Quadrillion  |     DH      | 2022-11-15 23:35:49 |
 | 49  | [Nil#11305](https://us.diablo3.com/profile/Nil-11305/)                   |      7294      | 6.28 Quadrillion  |    Monk     | 2022-11-24 22:35:18 |
 | 50  | [Leandrolcds#2606](https://us.diablo3.com/profile/Leandrolcds-2606/)     |      7266      | 6.21 Quadrillion  |     DH      | 2023-01-26 01:19:33 |
