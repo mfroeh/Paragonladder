@@ -1,7 +1,7 @@
 # Season 27 (EU)
 
 ---
-Table created at 2023-02-20 03:40:38.508152
+Table created at 2023-02-20 04:40:13.415705
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -150,8 +150,8 @@ Table created at 2023-02-20 03:40:38.508152
 | 143 | [Kigg#21751](https://eu.diablo3.com/profile/Kigg-21751/)                   |      8042      | 8.48 Quadrillion  |    Monk     | 2023-02-19 20:01:18 |
 | 144 | [F0rmatC#2257](https://eu.diablo3.com/profile/F0rmatC-2257/)               |      8038      | 8.47 Quadrillion  |    Monk     | 2023-01-24 20:58:59 |
 | 145 | [Bzh#21965](https://eu.diablo3.com/profile/Bzh-21965/)                     |      8018      | 8.41 Quadrillion  |    Monk     | 2023-02-11 11:28:32 |
-| 146 | [ivanoos#21129](https://eu.diablo3.com/profile/ivanoos-21129/)             |      8010      | 8.38 Quadrillion  |    Monk     | 2023-02-19 19:20:22 |
-| 147 | [Shadow#26391](https://eu.diablo3.com/profile/Shadow-26391/)               |      8007      | 8.37 Quadrillion  |    Monk     | 2023-02-20 03:28:38 |
+| 146 | [ivanoos#21129](https://eu.diablo3.com/profile/ivanoos-21129/)             |      8010      | 8.38 Quadrillion  |    Monk     | 2023-02-20 03:40:34 |
+| 147 | [Shadow#26391](https://eu.diablo3.com/profile/Shadow-26391/)               |      8007      | 8.37 Quadrillion  |    Monk     | 2023-02-20 03:33:24 |
 | 148 | [Greek#22669](https://eu.diablo3.com/profile/Greek-22669/)                 |      8004      | 8.36 Quadrillion  |    Monk     | 2023-02-13 14:00:01 |
 | 149 | [Tuebs#2144](https://eu.diablo3.com/profile/Tuebs-2144/)                   |      7990      | 8.32 Quadrillion  |    Monk     | 2023-02-20 00:25:37 |
 | 150 | [Troll7age#2379](https://eu.diablo3.com/profile/Troll7age-2379/)           |      7975      | 8.27 Quadrillion  |     DH      | 2023-02-19 21:09:41 |
