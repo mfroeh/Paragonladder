@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-21 02:03:16.799907
+Table created at 2023-02-21 03:10:08.571329
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -72,7 +72,7 @@ Table created at 2023-02-21 02:03:16.799907
 | 65  | [Klassified#11511](https://us.diablo3.com/profile/Klassified-11511/)     |      6541      | 4.48 Quadrillion  |     DH      | 2023-01-26 18:43:51 |
 | 66  | [yesjerry#1857](https://us.diablo3.com/profile/yesjerry-1857/)           |      6538      | 4.48 Quadrillion  |    Monk     | 2022-10-26 07:43:42 |
 | 67  | [kvds#1519](https://us.diablo3.com/profile/kvds-1519/)                   |      6454      | 4.3 Quadrillion   |    Monk     | 2023-02-07 02:10:30 |
-| 68  | [Stallone#1107](https://us.diablo3.com/profile/Stallone-1107/)           |      6417      | 4.23 Quadrillion  |    Monk     | 2023-02-20 02:42:34 |
+| 68  | [Stallone#1107](https://us.diablo3.com/profile/Stallone-1107/)           |      6417      | 4.23 Quadrillion  |    Monk     | 2023-02-21 02:34:32 |
 | 69  | [AntigravitY#11496](https://us.diablo3.com/profile/AntigravitY-11496/)   |      6405      | 4.2 Quadrillion   |    Monk     | 2022-10-22 16:53:30 |
 | 70  | [UltraOwned#2363](https://us.diablo3.com/profile/UltraOwned-2363/)       |      6369      | 4.13 Quadrillion  |     DH      | 2023-01-29 20:33:55 |
 | 71  | [Javiel#11483](https://us.diablo3.com/profile/Javiel-11483/)             |      6345      | 4.08 Quadrillion  |    Monk     | 2023-01-26 06:31:20 |
