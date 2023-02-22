@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-22 04:39:28.385390
+Table created at 2023-02-22 05:38:27.716719
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -47,7 +47,7 @@ Table created at 2023-02-22 04:39:28.385390
 | 40  | [gus#12487](https://us.diablo3.com/profile/gus-12487/)                   |      7953      | 8.2 Quadrillion   |     DH      | 2023-01-26 01:20:15 |
 | 41  | [iNsTiNcT#12733](https://us.diablo3.com/profile/iNsTiNcT-12733/)         |      7898      | 8.03 Quadrillion  |    Monk     | 2022-11-18 02:38:12 |
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2023-02-20 01:48:13 |
-| 43  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7700      | 7.42 Quadrillion  |    Monk     | 2023-02-22 04:27:57 |
+| 43  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7700      | 7.42 Quadrillion  |    Monk     | 2023-02-22 04:44:42 |
 | 44  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
 | 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7546      | 6.97 Quadrillion  |    Monk     | 2023-02-22 03:44:40 |
 | 46  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
@@ -106,7 +106,7 @@ Table created at 2023-02-22 04:39:28.385390
 | 99  | [gbocaT#1596](https://us.diablo3.com/profile/gbocaT-1596/)               |      5651      | 2.85 Quadrillion  |     DH      | 2022-10-12 14:38:04 |
 | 100 | [Guardhao#1303](https://us.diablo3.com/profile/Guardhao-1303/)           |      5608      | 2.78 Quadrillion  |    Monk     | 2022-10-08 07:50:20 |
 | 101 | [MAXIYA#1270](https://us.diablo3.com/profile/MAXIYA-1270/)               |      5563      | 2.71 Quadrillion  |    Monk     | 2022-12-02 07:55:54 |
-| 102 | [cafeinCHARGE#1191](https://us.diablo3.com/profile/cafeinCHARGE-1191/)   |      5536      | 2.67 Quadrillion  |     DH      | 2023-02-22 04:15:48 |
+| 102 | [cafeinCHARGE#1191](https://us.diablo3.com/profile/cafeinCHARGE-1191/)   |      5536      | 2.67 Quadrillion  |     DH      | 2023-02-22 05:20:48 |
 | 103 | [GanjaBus#21185](https://us.diablo3.com/profile/GanjaBus-21185/)         |      5531      | 2.66 Quadrillion  |    Monk     | 2022-10-17 13:25:04 |
 | 104 | [Chianjojo#1468](https://us.diablo3.com/profile/Chianjojo-1468/)         |      5524      | 2.65 Quadrillion  |     DH      | 2022-12-18 18:54:08 |
 | 105 | [原田美枝子#1433](https://us.diablo3.com/profile/原田美枝子-1433/)                 |      5520      | 2.64 Quadrillion  |    Monk     | 2022-10-21 00:26:36 |
@@ -191,7 +191,7 @@ Table created at 2023-02-22 04:39:28.385390
 | 184 | [nada808#11695](https://us.diablo3.com/profile/nada808-11695/)           |      4439      | 1.33 Quadrillion  |     DH      | 2022-09-16 02:34:38 |
 | 185 | [MmFood#11194](https://us.diablo3.com/profile/MmFood-11194/)             |      4405      | 1.3 Quadrillion   |     DH      | 2022-10-14 14:46:29 |
 | 186 | [unlck#1113](https://us.diablo3.com/profile/unlck-1113/)                 |      4400      | 1.3 Quadrillion   |     DH      | 2022-09-16 02:34:51 |
-| 187 | [Pandabear#11419](https://us.diablo3.com/profile/Pandabear-11419/)       |      4393      | 1.29 Quadrillion  |     DH      | 2023-02-03 16:47:31 |
+| 187 | [Pandabear#11419](https://us.diablo3.com/profile/Pandabear-11419/)       |      4393      | 1.29 Quadrillion  |     DH      | 2023-02-22 04:37:27 |
 | 188 | [PaleSpeedBoy#2181](https://us.diablo3.com/profile/PaleSpeedBoy-2181/)   |      4387      | 1.29 Quadrillion  |    Necro    | 2022-09-16 02:34:50 |
 | 189 | [Coffeelust#1450](https://us.diablo3.com/profile/Coffeelust-1450/)       |      4387      | 1.29 Quadrillion  |     DH      | 2022-09-16 02:34:38 |
 | 190 | [FalLeN#1122](https://us.diablo3.com/profile/FalLeN-1122/)               |      4378      | 1.28 Quadrillion  |     DH      | 2022-09-25 18:14:11 |
