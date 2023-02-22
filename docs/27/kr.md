@@ -1,13 +1,13 @@
 # Season 27 (KR)
 
 ---
-Table created at 2023-02-22 03:41:53.948197
+Table created at 2023-02-22 04:39:28.388281
 
 |  #  |                              BattleTag                               | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [AAAAAAC#1484](https://kr.diablo3.com/profile/AAAAAAC-1484/)         |     14552      | 51.66 Quadrillion |    Monk     | 2023-02-21 00:58:31 |
 | 2   | [Salang2#3924](https://kr.diablo3.com/profile/Salang2-3924/)         |     14442      | 50.49 Quadrillion |    Monk     | 2023-02-20 00:37:51 |
-| 3   | [YeoRae#31847](https://kr.diablo3.com/profile/YeoRae-31847/)         |     14173      | 47.69 Quadrillion |    Monk     | 2023-02-20 01:29:59 |
+| 3   | [YeoRae#31847](https://kr.diablo3.com/profile/YeoRae-31847/)         |     14173      | 47.69 Quadrillion |    Monk     | 2023-02-22 04:29:56 |
 | 4   | [Didiaksa#3105](https://kr.diablo3.com/profile/Didiaksa-3105/)       |     14132      | 47.28 Quadrillion |    Monk     | 2023-02-21 13:31:37 |
 | 5   | [Ty1er#4577](https://kr.diablo3.com/profile/Ty1er-4577/)             |     14096      | 46.91 Quadrillion |    Monk     | 2023-02-19 21:54:43 |
 | 6   | [소이#31724](https://kr.diablo3.com/profile/소이-31724/)                 |     14047      | 46.42 Quadrillion |    Monk     | 2023-02-22 03:09:34 |
@@ -15,13 +15,13 @@ Table created at 2023-02-22 03:41:53.948197
 | 8   | [Tyche#3664](https://kr.diablo3.com/profile/Tyche-3664/)             |     13920      | 45.16 Quadrillion |    Monk     | 2023-02-20 15:31:48 |
 | 9   | [아이#3204](https://kr.diablo3.com/profile/아이-3204/)                   |     13890      | 44.87 Quadrillion |    Monk     | 2023-02-17 02:00:41 |
 | 10  | [ingoon#31186](https://kr.diablo3.com/profile/ingoon-31186/)         |     13881      | 44.78 Quadrillion |    Monk     | 2023-02-16 13:57:47 |
-| 11  | [Ares#32307](https://kr.diablo3.com/profile/Ares-32307/)             |     13875      | 44.72 Quadrillion |    Monk     | 2023-02-22 03:32:13 |
+| 11  | [Ares#32307](https://kr.diablo3.com/profile/Ares-32307/)             |     13875      | 44.72 Quadrillion |    Monk     | 2023-02-22 04:33:56 |
 | 12  | [씨엔아이#3751](https://kr.diablo3.com/profile/씨엔아이-3751/)               |     13798      | 43.97 Quadrillion |    Monk     | 2023-02-21 11:04:43 |
 | 13  | [성수타란#3610](https://kr.diablo3.com/profile/성수타란-3610/)               |     13783      | 43.83 Quadrillion |    Monk     | 2023-02-18 06:03:46 |
 | 14  | [Ryen#3957](https://kr.diablo3.com/profile/Ryen-3957/)               |     13765      | 43.66 Quadrillion |    Monk     | 2023-02-20 16:24:25 |
 | 15  | [HonGDon#3582](https://kr.diablo3.com/profile/HonGDon-3582/)         |     13742      | 43.44 Quadrillion |    Monk     | 2023-02-21 23:45:05 |
 | 16  | [Drone#31968](https://kr.diablo3.com/profile/Drone-31968/)           |     13713      | 43.16 Quadrillion |    Monk     | 2023-02-20 13:25:09 |
-| 17  | [토르#3293](https://kr.diablo3.com/profile/토르-3293/)                   |     13670      | 42.75 Quadrillion |    Monk     | 2023-02-22 02:47:09 |
+| 17  | [토르#3293](https://kr.diablo3.com/profile/토르-3293/)                   |     13670      | 42.75 Quadrillion |    Monk     | 2023-02-22 04:18:34 |
 | 18  | [yuna#31363](https://kr.diablo3.com/profile/yuna-31363/)             |     13640      | 42.47 Quadrillion |    Monk     | 2023-02-20 12:49:26 |
 | 19  | [Balgu#3128](https://kr.diablo3.com/profile/Balgu-3128/)             |     13619      | 42.27 Quadrillion |    Monk     | 2023-02-20 12:59:12 |
 | 20  | [你媽買菜必漲價#4624](https://kr.diablo3.com/profile/你媽買菜必漲價-4624/)         |     13610      | 42.18 Quadrillion |    Monk     | 2023-02-22 00:37:25 |
@@ -36,10 +36,10 @@ Table created at 2023-02-22 03:41:53.948197
 | 29  | [TongSu#31546](https://kr.diablo3.com/profile/TongSu-31546/)         |     13410      | 40.33 Quadrillion |    Monk     | 2023-02-19 13:57:03 |
 | 30  | [큰손#3465](https://kr.diablo3.com/profile/큰손-3465/)                   |     13402      | 40.26 Quadrillion |    Monk     | 2023-02-22 00:03:11 |
 | 31  | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)           |     13400      | 40.24 Quadrillion |    Monk     | 2023-02-21 10:53:06 |
-| 32  | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                   |     13328      | 39.59 Quadrillion |    Monk     | 2023-02-21 22:27:55 |
+| 32  | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                   |     13328      | 39.59 Quadrillion |    Monk     | 2023-02-22 03:51:24 |
 | 33  | [GgakDooGI#3818](https://kr.diablo3.com/profile/GgakDooGI-3818/)     |     13309      | 39.42 Quadrillion |    Monk     | 2023-02-21 20:31:04 |
 | 34  | [인프리#3711](https://kr.diablo3.com/profile/인프리-3711/)                 |     13287      | 39.22 Quadrillion |    Monk     | 2023-02-22 03:08:03 |
-| 35  | [Assy#31868](https://kr.diablo3.com/profile/Assy-31868/)             |     13236      | 38.77 Quadrillion |    Monk     | 2023-02-21 16:30:08 |
+| 35  | [Assy#31868](https://kr.diablo3.com/profile/Assy-31868/)             |     13236      | 38.77 Quadrillion |    Monk     | 2023-02-22 04:26:05 |
 | 36  | [lost#22681](https://kr.diablo3.com/profile/lost-22681/)             |     13224      | 38.66 Quadrillion |    Monk     | 2023-02-21 20:31:04 |
 | 37  | [cadmus#31352](https://kr.diablo3.com/profile/cadmus-31352/)         |     13215      | 38.58 Quadrillion |    Monk     | 2023-02-22 01:35:26 |
 | 38  | [hong#31333](https://kr.diablo3.com/profile/hong-31333/)             |     13203      | 38.48 Quadrillion |    Monk     | 2023-02-18 17:08:25 |
@@ -52,7 +52,7 @@ Table created at 2023-02-22 03:41:53.948197
 | 45  | [박치기대장#3295](https://kr.diablo3.com/profile/박치기대장-3295/)             |     13075      | 37.36 Quadrillion |    Monk     | 2023-02-21 15:15:53 |
 | 46  | [WarmCuddle#6682](https://kr.diablo3.com/profile/WarmCuddle-6682/)   |     13071      | 37.32 Quadrillion |    Monk     | 2023-02-21 11:47:33 |
 | 47  | [memories#3364](https://kr.diablo3.com/profile/memories-3364/)       |     13063      | 37.25 Quadrillion |    Monk     | 2023-02-21 16:03:48 |
-| 48  | [檳榔#3785](https://kr.diablo3.com/profile/檳榔-3785/)                   |     13057      | 37.2 Quadrillion  |    Monk     | 2023-02-21 22:58:36 |
+| 48  | [檳榔#3785](https://kr.diablo3.com/profile/檳榔-3785/)                   |     13057      | 37.2 Quadrillion  |    Monk     | 2023-02-22 04:02:11 |
 | 49  | [Bumgarner#31636](https://kr.diablo3.com/profile/Bumgarner-31636/)   |     13010      | 36.8 Quadrillion  |    Monk     | 2023-02-21 20:31:04 |
 | 50  | [Genie#11554](https://kr.diablo3.com/profile/Genie-11554/)           |     13006      | 36.76 Quadrillion |    Monk     | 2023-02-21 21:54:48 |
 | 51  | [아레스#31470](https://kr.diablo3.com/profile/아레스-31470/)               |     13004      | 36.75 Quadrillion |    Monk     | 2023-02-21 16:51:47 |
@@ -60,7 +60,7 @@ Table created at 2023-02-22 03:41:53.948197
 | 53  | [seA1Man#3171](https://kr.diablo3.com/profile/seA1Man-3171/)         |     12936      | 36.17 Quadrillion |    Monk     | 2023-02-20 10:03:33 |
 | 54  | [乳搖知馬力#4407](https://kr.diablo3.com/profile/乳搖知馬力-4407/)             |     12928      | 36.1 Quadrillion  |    Monk     | 2023-02-22 01:10:31 |
 | 55  | [赤髮#3776](https://kr.diablo3.com/profile/赤髮-3776/)                   |     12890      | 35.78 Quadrillion |    Monk     | 2023-02-22 01:17:17 |
-| 56  | [无心#4719](https://kr.diablo3.com/profile/无心-4719/)                   |     12883      | 35.72 Quadrillion |    Monk     | 2023-02-21 09:28:24 |
+| 56  | [无心#4719](https://kr.diablo3.com/profile/无心-4719/)                   |     12883      | 35.72 Quadrillion |    Monk     | 2023-02-22 04:33:25 |
 | 57  | [광까마귀#3925](https://kr.diablo3.com/profile/광까마귀-3925/)               |     12876      | 35.66 Quadrillion |    Monk     | 2023-02-12 09:39:52 |
 | 58  | [vpn#21329](https://kr.diablo3.com/profile/vpn-21329/)               |     12872      | 35.63 Quadrillion |    Monk     | 2023-02-20 04:36:27 |
 | 59  | [sede#3865](https://kr.diablo3.com/profile/sede-3865/)               |     12869      | 35.6 Quadrillion  |    Monk     | 2023-02-19 23:08:27 |
@@ -91,7 +91,7 @@ Table created at 2023-02-22 03:41:53.948197
 | 84  | [데스나이트#31652](https://kr.diablo3.com/profile/데스나이트-31652/)           |     12556      | 33.04 Quadrillion |    Monk     | 2023-02-22 02:05:26 |
 | 85  | [총알#31492](https://kr.diablo3.com/profile/총알-31492/)                 |     12540      | 32.91 Quadrillion |    Monk     | 2023-02-20 09:31:19 |
 | 86  | [재현#3810](https://kr.diablo3.com/profile/재현-3810/)                   |     12532      | 32.85 Quadrillion |    Monk     | 2023-02-20 07:38:58 |
-| 87  | [아리수#3302](https://kr.diablo3.com/profile/아리수-3302/)                 |     12521      | 32.76 Quadrillion |    Monk     | 2023-02-22 03:33:37 |
+| 87  | [아리수#3302](https://kr.diablo3.com/profile/아리수-3302/)                 |     12521      | 32.76 Quadrillion |    Monk     | 2023-02-22 03:53:11 |
 | 88  | [소리없는검#313645](https://kr.diablo3.com/profile/소리없는검-313645/)         |     12510      | 32.67 Quadrillion |    Monk     | 2023-02-20 23:02:19 |
 | 89  | [藺無雙#4998](https://kr.diablo3.com/profile/藺無雙-4998/)                 |     12506      | 32.64 Quadrillion |    Monk     | 2023-02-21 12:39:51 |
 | 90  | [감을잡다#3705](https://kr.diablo3.com/profile/감을잡다-3705/)               |     12501      | 32.6 Quadrillion  |    Monk     | 2023-02-19 22:58:06 |
@@ -101,19 +101,19 @@ Table created at 2023-02-22 03:41:53.948197
 | 94  | [九蛇#3783](https://kr.diablo3.com/profile/九蛇-3783/)                   |     12459      | 32.27 Quadrillion |    Monk     | 2023-02-22 03:14:33 |
 | 95  | [가가펴#3707](https://kr.diablo3.com/profile/가가펴-3707/)                 |     12429      | 32.03 Quadrillion |    Monk     | 2023-01-25 22:14:58 |
 | 96  | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)               |     12428      | 32.03 Quadrillion |    Monk     | 2023-02-22 01:16:18 |
-| 97  | [jiya#31532](https://kr.diablo3.com/profile/jiya-31532/)             |     12418      | 31.95 Quadrillion |    Monk     | 2023-02-22 03:38:15 |
+| 97  | [jiya#31532](https://kr.diablo3.com/profile/jiya-31532/)             |     12418      | 31.95 Quadrillion |    Monk     | 2023-02-22 04:18:11 |
 | 98  | [마고#31446](https://kr.diablo3.com/profile/마고-31446/)                 |     12390      | 31.73 Quadrillion |    Monk     | 2023-02-21 20:31:04 |
 | 99  | [매력봉#3620](https://kr.diablo3.com/profile/매력봉-3620/)                 |     12378      | 31.64 Quadrillion |    Monk     | 2023-02-22 02:29:29 |
 | 100 | [KeepOUT#31652](https://kr.diablo3.com/profile/KeepOUT-31652/)       |     12348      | 31.4 Quadrillion  |    Monk     | 2023-02-21 22:33:04 |
 | 101 | [Daegoon#3658](https://kr.diablo3.com/profile/Daegoon-3658/)         |     12333      | 31.29 Quadrillion |    Monk     | 2023-01-24 03:05:18 |
-| 102 | [Rapkyu#31312](https://kr.diablo3.com/profile/Rapkyu-31312/)         |     12331      | 31.27 Quadrillion |    Monk     | 2023-02-22 03:28:20 |
-| 103 | [bluesking#3877](https://kr.diablo3.com/profile/bluesking-3877/)     |     12328      | 31.25 Quadrillion |    Monk     | 2023-02-22 03:37:27 |
+| 102 | [Rapkyu#31312](https://kr.diablo3.com/profile/Rapkyu-31312/)         |     12331      | 31.27 Quadrillion |    Monk     | 2023-02-22 04:02:45 |
+| 103 | [bluesking#3877](https://kr.diablo3.com/profile/bluesking-3877/)     |     12328      | 31.25 Quadrillion |    Monk     | 2023-02-22 04:38:06 |
 | 104 | [lysee#4504](https://kr.diablo3.com/profile/lysee-4504/)             |     12320      | 31.19 Quadrillion |    Monk     | 2023-02-21 14:46:22 |
 | 105 | [Zet#3225](https://kr.diablo3.com/profile/Zet-3225/)                 |     12316      | 31.16 Quadrillion |    Monk     | 2023-01-24 08:36:42 |
 | 106 | [MAX#3745](https://kr.diablo3.com/profile/MAX-3745/)                 |     12305      | 31.07 Quadrillion |    Monk     | 2023-01-14 14:03:06 |
 | 107 | [나는나는나는#31821](https://kr.diablo3.com/profile/나는나는나는-31821/)         |     12251      | 30.66 Quadrillion |    Monk     | 2023-02-20 14:18:23 |
 | 108 | [춘천가는길#3775](https://kr.diablo3.com/profile/춘천가는길-3775/)             |     12249      | 30.65 Quadrillion |    Monk     | 2023-02-21 23:15:47 |
-| 109 | [무적쿤#3258](https://kr.diablo3.com/profile/무적쿤-3258/)                 |     12224      | 30.46 Quadrillion |    Monk     | 2023-02-22 02:00:29 |
+| 109 | [무적쿤#3258](https://kr.diablo3.com/profile/무적쿤-3258/)                 |     12224      | 30.46 Quadrillion |    Monk     | 2023-02-22 04:32:20 |
 | 110 | [Peter#41582](https://kr.diablo3.com/profile/Peter-41582/)           |     12224      | 30.46 Quadrillion |    Monk     | 2023-02-19 23:06:12 |
 | 111 | [TAEHWA#11428](https://kr.diablo3.com/profile/TAEHWA-11428/)         |     12208      | 30.34 Quadrillion |    Monk     | 2023-02-21 11:58:26 |
 | 112 | [老衲不帶套#4877](https://kr.diablo3.com/profile/老衲不帶套-4877/)             |     12188      | 30.19 Quadrillion |    Monk     | 2023-02-20 12:45:24 |
@@ -138,9 +138,9 @@ Table created at 2023-02-22 03:41:53.948197
 | 131 | [내사랑홍#3691](https://kr.diablo3.com/profile/내사랑홍-3691/)               |     11916      | 28.19 Quadrillion |    Monk     | 2023-02-20 11:39:05 |
 | 132 | [우희#3277](https://kr.diablo3.com/profile/우희-3277/)                   |     11912      | 28.16 Quadrillion |    Monk     | 2023-02-20 12:05:44 |
 | 133 | [악마잡자#31205](https://kr.diablo3.com/profile/악마잡자-31205/)             |     11898      | 28.06 Quadrillion |    Monk     | 2023-02-22 03:07:15 |
-| 134 | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)         |     11891      | 28.01 Quadrillion |    Monk     | 2023-02-22 02:52:05 |
+| 134 | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)         |     11891      | 28.01 Quadrillion |    Monk     | 2023-02-22 04:35:06 |
 | 135 | [하늘이#32406](https://kr.diablo3.com/profile/하늘이-32406/)               |     11889      | 27.99 Quadrillion |    Monk     | 2023-02-13 02:59:31 |
-| 136 | [湯姆嗑土司#3522](https://kr.diablo3.com/profile/湯姆嗑土司-3522/)             |     11886      | 27.97 Quadrillion |    Monk     | 2023-02-22 00:20:59 |
+| 136 | [湯姆嗑土司#3522](https://kr.diablo3.com/profile/湯姆嗑土司-3522/)             |     11886      | 27.97 Quadrillion |    Monk     | 2023-02-22 04:34:58 |
 | 137 | [근사한바지#315788](https://kr.diablo3.com/profile/근사한바지-315788/)         |     11880      | 27.93 Quadrillion |    Monk     | 2023-02-20 00:32:44 |
 | 138 | [Molla#31830](https://kr.diablo3.com/profile/Molla-31830/)           |     11862      | 27.8 Quadrillion  |    Monk     | 2023-02-21 23:12:05 |
 | 139 | [신타#31105](https://kr.diablo3.com/profile/신타-31105/)                 |     11859      | 27.78 Quadrillion |    Monk     | 2023-02-21 20:31:04 |
@@ -149,7 +149,7 @@ Table created at 2023-02-22 03:41:53.948197
 | 142 | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)           |     11842      | 27.66 Quadrillion |    Monk     | 2023-02-19 20:17:52 |
 | 143 | [이엘#31271](https://kr.diablo3.com/profile/이엘-31271/)                 |     11838      | 27.63 Quadrillion |    Monk     | 2023-02-20 10:37:24 |
 | 144 | [작살템만원시둘둘#3576](https://kr.diablo3.com/profile/작살템만원시둘둘-3576/)       |     11820      | 27.5 Quadrillion  |    Monk     | 2023-02-22 01:11:02 |
-| 145 | [권잭#31495](https://kr.diablo3.com/profile/권잭-31495/)                 |     11815      | 27.47 Quadrillion |    Monk     | 2023-02-22 03:25:20 |
+| 145 | [권잭#31495](https://kr.diablo3.com/profile/권잭-31495/)                 |     11815      | 27.47 Quadrillion |    Monk     | 2023-02-22 04:38:29 |
 | 146 | [WhiteApple#3714](https://kr.diablo3.com/profile/WhiteApple-3714/)   |     11814      | 27.46 Quadrillion |    Monk     | 2023-02-19 22:38:46 |
 | 147 | [瘋狂貓咪#315100](https://kr.diablo3.com/profile/瘋狂貓咪-315100/)           |     11813      | 27.45 Quadrillion |    Monk     | 2023-02-22 02:58:12 |
 | 148 | [아르고스#3906](https://kr.diablo3.com/profile/아르고스-3906/)               |     11795      | 27.33 Quadrillion |    Monk     | 2023-02-21 00:57:31 |
@@ -160,8 +160,8 @@ Table created at 2023-02-22 03:41:53.948197
 | 153 | [파도야#31813](https://kr.diablo3.com/profile/파도야-31813/)               |     11754      | 27.04 Quadrillion |    Monk     | 2023-02-20 12:41:53 |
 | 154 | [옛날꿀호떡#3975](https://kr.diablo3.com/profile/옛날꿀호떡-3975/)             |     11748      | 27.0 Quadrillion  |    Monk     | 2023-02-19 04:53:04 |
 | 155 | [ckscap#3990](https://kr.diablo3.com/profile/ckscap-3990/)           |     11734      | 26.9 Quadrillion  |    Monk     | 2023-02-21 05:27:58 |
-| 156 | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)             |     11727      | 26.85 Quadrillion |    Monk     | 2023-02-22 03:29:37 |
-| 157 | [EVO#12399](https://kr.diablo3.com/profile/EVO-12399/)               |     11693      | 26.61 Quadrillion |     DH      | 2023-02-21 15:02:36 |
+| 156 | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)             |     11727      | 26.85 Quadrillion |    Monk     | 2023-02-22 04:18:55 |
+| 157 | [EVO#12399](https://kr.diablo3.com/profile/EVO-12399/)               |     11693      | 26.61 Quadrillion |     DH      | 2023-02-22 04:36:59 |
 | 158 | [ssekal#3494](https://kr.diablo3.com/profile/ssekal-3494/)           |     11683      | 26.54 Quadrillion |    Monk     | 2023-02-20 09:47:20 |
 | 159 | [던질칼#3198](https://kr.diablo3.com/profile/던질칼-3198/)                 |     11668      | 26.44 Quadrillion |    Monk     | 2023-02-22 01:59:05 |
 | 160 | [헤이자기#3765](https://kr.diablo3.com/profile/헤이자기-3765/)               |     11638      | 26.24 Quadrillion |    Monk     | 2023-01-12 15:44:24 |
@@ -199,7 +199,7 @@ Table created at 2023-02-22 03:41:53.948197
 | 192 | [노답이지#3169](https://kr.diablo3.com/profile/노답이지-3169/)               |     11110      | 22.78 Quadrillion |    Monk     | 2023-01-25 12:32:59 |
 | 193 | [정해인#31166](https://kr.diablo3.com/profile/정해인-31166/)               |     11051      | 22.41 Quadrillion |    Monk     | 2023-01-15 03:53:43 |
 | 194 | [Rikka#4749](https://kr.diablo3.com/profile/Rikka-4749/)             |     11043      | 22.37 Quadrillion |    Monk     | 2023-02-21 14:50:10 |
-| 195 | [Rider#11476](https://kr.diablo3.com/profile/Rider-11476/)           |     11040      | 22.35 Quadrillion |    Monk     | 2023-02-22 02:48:07 |
+| 195 | [Rider#11476](https://kr.diablo3.com/profile/Rider-11476/)           |     11040      | 22.35 Quadrillion |    Monk     | 2023-02-22 04:10:56 |
 | 196 | [도로로#3530](https://kr.diablo3.com/profile/도로로-3530/)                 |     11035      | 22.32 Quadrillion |    Monk     | 2022-12-29 01:07:23 |
 | 197 | [SkyBlue#3642](https://kr.diablo3.com/profile/SkyBlue-3642/)         |     11034      | 22.31 Quadrillion |    Monk     | 2023-02-22 03:15:30 |
 | 198 | [태리#31123](https://kr.diablo3.com/profile/태리-31123/)                 |     11000      | 22.1 Quadrillion  |    Monk     | 2022-12-14 08:35:10 |
