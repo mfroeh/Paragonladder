@@ -1,7 +1,7 @@
 # Season 27 (US)
 
 ---
-Table created at 2023-02-24 11:36:19.758819
+Table created at 2023-02-24 12:57:58.739068
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -49,7 +49,7 @@ Table created at 2023-02-24 11:36:19.758819
 | 42  | [TurtleClub#11299](https://us.diablo3.com/profile/TurtleClub-11299/)     |      7702      | 7.43 Quadrillion  |     DH      | 2023-02-23 03:38:13 |
 | 43  | [ZǮŢǾ#1325](https://us.diablo3.com/profile/ZǮŢǾ-1325/)                   |      7700      | 7.42 Quadrillion  |    Monk     | 2023-02-24 07:41:48 |
 | 44  | [CrankyPants#112102](https://us.diablo3.com/profile/CrankyPants-112102/) |      7670      | 7.33 Quadrillion  |    Monk     | 2023-01-22 08:15:23 |
-| 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7546      | 6.97 Quadrillion  |    Monk     | 2023-02-24 11:03:40 |
+| 45  | [Nuk#11200](https://us.diablo3.com/profile/Nuk-11200/)                   |      7546      | 6.97 Quadrillion  |    Monk     | 2023-02-24 12:16:46 |
 | 46  | [Pwntang#11334](https://us.diablo3.com/profile/Pwntang-11334/)           |      7495      | 6.83 Quadrillion  |     DH      | 2023-01-26 01:19:23 |
 | 47  | [zavier#6509](https://us.diablo3.com/profile/zavier-6509/)               |      7445      | 6.69 Quadrillion  |    Monk     | 2023-02-19 17:55:14 |
 | 48  | [DanielCabeça#1116](https://us.diablo3.com/profile/DanielCabeça-1116/)   |      7335      | 6.39 Quadrillion  |     DH      | 2022-11-15 23:35:49 |
@@ -179,7 +179,7 @@ Table created at 2023-02-24 11:36:19.758819
 | 172 | [NightRaven#3137854](https://us.diablo3.com/profile/NightRaven-3137854/) |      4544      | 1.44 Quadrillion  |     DH      | 2022-09-16 02:34:38 |
 | 173 | [SuperNova#13959](https://us.diablo3.com/profile/SuperNova-13959/)       |      4541      | 1.43 Quadrillion  |     DH      | 2023-02-23 19:48:44 |
 | 174 | [Yumikee#1705](https://us.diablo3.com/profile/Yumikee-1705/)             |      4535      | 1.43 Quadrillion  |     DH      | 2022-09-25 13:51:00 |
-| 175 | [luke#6410](https://us.diablo3.com/profile/luke-6410/)                   |      4531      | 1.42 Quadrillion  |     DH      | 2023-02-23 12:29:52 |
+| 175 | [luke#6410](https://us.diablo3.com/profile/luke-6410/)                   |      4531      | 1.42 Quadrillion  |     DH      | 2023-02-24 12:22:51 |
 | 176 | [BabyBunny#21797](https://us.diablo3.com/profile/BabyBunny-21797/)       |      4530      | 1.42 Quadrillion  |     DH      | 2022-09-16 02:35:02 |
 | 177 | [LyfyWylkyr#1387](https://us.diablo3.com/profile/LyfyWylkyr-1387/)       |      4507      | 1.4 Quadrillion   |     DH      | 2022-09-16 02:34:50 |
 | 178 | [luala#1934](https://us.diablo3.com/profile/luala-1934/)                 |      4494      | 1.39 Quadrillion  |    Monk     | 2022-09-23 21:02:27 |
