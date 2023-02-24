@@ -7,6 +7,12 @@
 * [EU](24/eu.md)
 * [US](24/us.md)
 * [KR](24/kr.md)
+# Season 28 
+* [ALL](28/all.md)
+* [CN](28/cn.md)
+* [EU](28/eu.md)
+* [US](28/us.md)
+* [KR](28/kr.md)
 # Season 27 
 * [ALL](27/all.md)
 * [CN](27/cn.md)
