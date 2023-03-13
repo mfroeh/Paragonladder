@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-03-13 19:42:31.913831
+Table created at 2023-03-13 21:03:51.843176
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -182,22 +182,15 @@ Table created at 2023-03-13 19:42:31.913831
 | 175 | [月下风吟#3395](https://kr.diablo3.com/profile/月下风吟-3395/)                 |      5469      | 2.57 Quadrillion  |   Wizard    | 2023-03-08 20:00:24 |
 | 176 | [Mura#31281](https://kr.diablo3.com/profile/Mura-31281/)               |      5439      | 2.53 Quadrillion  |     DH      | 2023-03-13 14:42:55 |
 | 177 | [Redamancy#21702](https://kr.diablo3.com/profile/Redamancy-21702/)     |      5331      | 2.37 Quadrillion  |   Wizard    | 2023-03-13 18:40:51 |
-| 178 | [alistar#31507](https://kr.diablo3.com/profile/alistar-31507/)         |      3951      | 923.21 Trillion   |   Wizard    | 2023-03-13 18:41:40 |
-| 179 | [一二三#31161](https://kr.diablo3.com/profile/一二三-31161/)                 |      2913      | 354.3 Trillion    |   Wizard    | 2023-03-13 18:40:55 |
-| 180 | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)             |      2516      | 227.58 Trillion   |   Wizard    | 2023-03-13 18:40:23 |
-| 181 | [闪亮之翼#4294](https://kr.diablo3.com/profile/闪亮之翼-4294/)                 |      2466      | 214.62 Trillion   |   Wizard    | 2023-03-13 16:07:47 |
-| 182 | [Supreman#31279](https://kr.diablo3.com/profile/Supreman-31279/)       |      2144      | 145.1 Trillion    |   Wizard    | 2023-03-13 18:40:48 |
-| 183 | [死亡鹰眼#3941](https://kr.diablo3.com/profile/死亡鹰眼-3941/)                 |      1788      | 85.99 Trillion    |   Wizard    | 2023-03-13 18:40:46 |
-| 184 | [满月斩#3741](https://kr.diablo3.com/profile/满月斩-3741/)                   |      1562      | 56.51 Trillion    |   Wizard    | 2023-03-13 18:40:23 |
-| 185 | [facebaby#3711](https://kr.diablo3.com/profile/facebaby-3711/)         |      1013      | 10.94 Trillion    |   Wizard    | 2023-03-13 18:41:32 |
-| 186 | [一叶斗神#3152](https://kr.diablo3.com/profile/一叶斗神-3152/)                 |      923       | 6.99 Trillion     |   Wizard    | 2023-03-13 18:40:32 |
-| 187 | [honglian#11827](https://kr.diablo3.com/profile/honglian-11827/)       |      781       | 2.78 Trillion     |   Wizard    | 2023-03-13 18:40:24 |
-| 188 | [月无涯#31238](https://kr.diablo3.com/profile/月无涯-31238/)                 |      564       | 472.84 Billion    |   Wizard    | 2023-03-13 18:41:06 |
-| 189 | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |       0        | 0                 |   Wizard    | 2023-03-13 18:40:23 |
-| 190 | [虎牙老刀#3388](https://kr.diablo3.com/profile/虎牙老刀-3388/)                 |       0        | 0                 |   Wizard    | 2023-03-13 18:40:33 |
-| 191 | [fier#31257](https://kr.diablo3.com/profile/fier-31257/)               |       0        | 0                 |   Wizard    | 2023-03-13 18:40:29 |
-| 192 | [lengyue#31128](https://kr.diablo3.com/profile/lengyue-31128/)         |       0        | 0                 |   Wizard    | 2023-03-13 18:41:51 |
-| 193 | [rhymeslol#3822](https://kr.diablo3.com/profile/rhymeslol-3822/)       |       0        | 0                 |   Wizard    | 2023-03-13 18:41:11 |
-| 194 | [紅影#4144](https://kr.diablo3.com/profile/紅影-4144/)                     |       0        | 0                 |   Wizard    | 2023-03-13 18:41:56 |
-| 195 | [ximo#3926](https://kr.diablo3.com/profile/ximo-3926/)                 |       0        | 0                 |   Wizard    | 2023-03-13 18:40:52 |
-| 196 | [reol#11197](https://kr.diablo3.com/profile/reol-11197/)               |       0        | 0                 |   Wizard    | 2023-03-13 18:41:02 |
+| 178 | [exid#3131](https://kr.diablo3.com/profile/exid-3131/)                 |      4879      | 1.8 Quadrillion   |   Wizard    | 2023-03-13 17:51:37 |
+| 179 | [Iamkun#4739](https://kr.diablo3.com/profile/Iamkun-4739/)             |      3386      | 566.96 Trillion   |   Wizard    | 2023-03-13 18:41:31 |
+| 180 | [Tada#3114](https://kr.diablo3.com/profile/Tada-3114/)                 |      2868      | 337.7 Trillion    |     DH      | 2023-03-12 10:21:56 |
+| 181 | [Myka#31716](https://kr.diablo3.com/profile/Myka-31716/)               |      2005      | 120.18 Trillion   |   Wizard    | 2023-03-13 18:41:18 |
+| 182 | [Eclipse#14928](https://kr.diablo3.com/profile/Eclipse-14928/)         |      1573      | 57.8 Trillion     |   Wizard    | 2023-03-13 18:40:23 |
+| 183 | [Conqueror#11490](https://kr.diablo3.com/profile/Conqueror-11490/)     |      1527      | 52.51 Trillion    |   Wizard    | 2023-03-13 18:40:58 |
+| 184 | [zhubobo#1308](https://kr.diablo3.com/profile/zhubobo-1308/)           |      702       | 1.47 Trillion     |   Wizard    | 2023-03-13 18:41:24 |
+| 185 | [HuoHuoIsGay#1644](https://kr.diablo3.com/profile/HuoHuoIsGay-1644/)   |      645       | 908.38 Billion    |   Wizard    | 2023-03-13 18:40:50 |
+| 186 | [BXxX#11294](https://kr.diablo3.com/profile/BXxX-11294/)               |       0        | 0                 |   Wizard    | 2023-03-13 18:40:23 |
+| 187 | [sterben#41707](https://kr.diablo3.com/profile/sterben-41707/)         |       0        | 0                 |   Wizard    | 2023-03-13 18:41:27 |
+| 188 | [Respect#31837](https://kr.diablo3.com/profile/Respect-31837/)         |       0        | 0                 |   Wizard    | 2023-03-13 18:41:11 |
+| 189 | [Nyz#31816](https://kr.diablo3.com/profile/Nyz-31816/)                 |       0        | 0                 |   Wizard    | 2023-03-13 17:55:55 |
