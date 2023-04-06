@@ -1,7 +1,7 @@
 # Season 28 (CN)
 
 ---
-Table created at 2023-04-06 09:39:28.915185
+Table created at 2023-04-06 10:40:36.516209
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
