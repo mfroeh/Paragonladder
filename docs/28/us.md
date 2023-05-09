@@ -1,7 +1,7 @@
 # Season 28 (US)
 
 ---
-Table created at 2023-05-09 19:40:15.874852
+Table created at 2023-05-09 20:37:26.167732
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -188,7 +188,7 @@ Table created at 2023-05-09 19:40:15.874852
 | 181 | [Delacroix#11809](https://us.diablo3.com/profile/Delacroix-11809/)         |      7192      | 6.01 Quadrillion  |   Wizard    | 2023-05-08 05:23:52 |
 | 182 | [原田美枝子#1433](https://us.diablo3.com/profile/原田美枝子-1433/)                   |      7191      | 6.01 Quadrillion  |   Wizard    | 2023-04-25 07:56:30 |
 | 183 | [williamc#31262](https://us.diablo3.com/profile/williamc-31262/)           |      7185      | 6.0 Quadrillion   |   Wizard    | 2023-05-09 19:10:47 |
-| 184 | [NexxusGG#1577](https://us.diablo3.com/profile/NexxusGG-1577/)             |      7178      | 5.98 Quadrillion  |   Wizard    | 2023-05-09 18:58:04 |
+| 184 | [NexxusGG#1577](https://us.diablo3.com/profile/NexxusGG-1577/)             |      7178      | 5.98 Quadrillion  |   Wizard    | 2023-05-09 19:42:17 |
 | 185 | [Pauline#3124](https://us.diablo3.com/profile/Pauline-3124/)               |      7173      | 5.97 Quadrillion  |   Wizard    | 2023-04-23 04:54:43 |
 | 186 | [hkwhyugood#3251](https://us.diablo3.com/profile/hkwhyugood-3251/)         |      7173      | 5.97 Quadrillion  |   Wizard    | 2023-05-09 16:15:51 |
 | 187 | [allDIABLO#1283](https://us.diablo3.com/profile/allDIABLO-1283/)           |      7162      | 5.94 Quadrillion  |   Wizard    | 2023-05-08 05:28:06 |
