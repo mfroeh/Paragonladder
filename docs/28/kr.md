@@ -1,56 +1,56 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-05-16 02:58:59.572538
+Table created at 2023-05-16 03:41:49.298797
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [ABCDEF#31455](https://kr.diablo3.com/profile/ABCDEF-31455/)           |     11398      | 24.62 Quadrillion |   Wizard    | 2023-05-16 02:53:45 |
 | 2   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     11256      | 23.7 Quadrillion  |   Wizard    | 2023-05-16 01:22:32 |
 | 3   | [류작가님#3793](https://kr.diablo3.com/profile/류작가님-3793/)                 |     11048      | 22.4 Quadrillion  |   Wizard    | 2023-05-15 19:35:50 |
-| 4   | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     10961      | 21.86 Quadrillion |   Wizard    | 2023-05-16 00:35:00 |
+| 4   | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     10969      | 21.91 Quadrillion |   Wizard    | 2023-05-16 02:53:46 |
 | 5   | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                     |     10931      | 21.68 Quadrillion |   Wizard    | 2023-05-16 02:03:51 |
-| 6   | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |     10912      | 21.57 Quadrillion |   Wizard    | 2023-05-16 01:31:54 |
+| 6   | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |     10912      | 21.57 Quadrillion |   Wizard    | 2023-05-16 03:12:24 |
 | 7   | [지구#31820](https://kr.diablo3.com/profile/지구-31820/)                   |     10872      | 21.33 Quadrillion |   Wizard    | 2023-05-16 02:53:45 |
 | 8   | [메롱#31851](https://kr.diablo3.com/profile/메롱-31851/)                   |     10790      | 20.84 Quadrillion |   Wizard    | 2023-05-16 02:27:16 |
 | 9   | [transparence#1180](https://kr.diablo3.com/profile/transparence-1180/) |     10774      | 20.75 Quadrillion |   Wizard    | 2023-05-15 21:58:19 |
 | 10  | [最后的双黑法#3261](https://kr.diablo3.com/profile/最后的双黑法-3261/)             |     10765      | 20.7 Quadrillion  |   Wizard    | 2023-05-16 00:30:11 |
-| 11  | [MysteryX#3582](https://kr.diablo3.com/profile/MysteryX-3582/)         |     10756      | 20.64 Quadrillion |   Wizard    | 2023-05-16 02:36:56 |
-| 12  | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     10727      | 20.47 Quadrillion |   Wizard    | 2023-05-16 02:49:50 |
+| 11  | [MysteryX#3582](https://kr.diablo3.com/profile/MysteryX-3582/)         |     10759      | 20.66 Quadrillion |   Wizard    | 2023-05-16 03:33:46 |
+| 12  | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     10727      | 20.47 Quadrillion |   Wizard    | 2023-05-16 03:33:40 |
 | 13  | [달봉이#31855](https://kr.diablo3.com/profile/달봉이-31855/)                 |     10683      | 20.22 Quadrillion |   Wizard    | 2023-05-16 02:30:13 |
 | 14  | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     10682      | 20.21 Quadrillion |   Wizard    | 2023-05-16 02:46:56 |
 | 15  | [zll#11847](https://kr.diablo3.com/profile/zll-11847/)                 |     10681      | 20.21 Quadrillion |   Wizard    | 2023-05-16 02:00:30 |
 | 16  | [나는나는나는#31821](https://kr.diablo3.com/profile/나는나는나는-31821/)           |     10672      | 20.16 Quadrillion |   Wizard    | 2023-05-15 17:17:06 |
-| 17  | [JerryFeng#1783](https://kr.diablo3.com/profile/JerryFeng-1783/)       |     10664      | 20.11 Quadrillion |   Wizard    | 2023-05-16 02:54:21 |
+| 17  | [JerryFeng#1783](https://kr.diablo3.com/profile/JerryFeng-1783/)       |     10664      | 20.11 Quadrillion |   Wizard    | 2023-05-16 03:37:11 |
 | 18  | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     10646      | 20.01 Quadrillion |   Wizard    | 2023-05-16 02:08:37 |
-| 19  | [一叶斗神#3152](https://kr.diablo3.com/profile/一叶斗神-3152/)                 |     10619      | 19.85 Quadrillion |   Wizard    | 2023-05-15 22:14:29 |
-| 20  | [vpn#21329](https://kr.diablo3.com/profile/vpn-21329/)                 |     10607      | 19.78 Quadrillion |   Wizard    | 2023-05-16 02:14:11 |
-| 21  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)             |     10581      | 19.64 Quadrillion |   Wizard    | 2023-05-15 23:30:32 |
+| 19  | [一叶斗神#3152](https://kr.diablo3.com/profile/一叶斗神-3152/)                 |     10632      | 19.93 Quadrillion |   Wizard    | 2023-05-16 03:25:34 |
+| 20  | [vpn#21329](https://kr.diablo3.com/profile/vpn-21329/)                 |     10611      | 19.81 Quadrillion |   Wizard    | 2023-05-16 03:30:50 |
+| 21  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)             |     10590      | 19.69 Quadrillion |   Wizard    | 2023-05-16 03:35:40 |
 | 22  | [유돌#3720](https://kr.diablo3.com/profile/유돌-3720/)                     |     10532      | 19.36 Quadrillion |   Wizard    | 2023-05-15 22:48:03 |
 | 23  | [악마잡자#31205](https://kr.diablo3.com/profile/악마잡자-31205/)               |     10524      | 19.32 Quadrillion |   Wizard    | 2023-05-16 01:34:59 |
 | 24  | [alistar#31507](https://kr.diablo3.com/profile/alistar-31507/)         |     10486      | 19.1 Quadrillion  |   Wizard    | 2023-05-15 14:11:47 |
 | 25  | [Supreman#31279](https://kr.diablo3.com/profile/Supreman-31279/)       |     10475      | 19.04 Quadrillion |   Wizard    | 2023-05-11 18:21:02 |
-| 26  | [덕구#3314](https://kr.diablo3.com/profile/덕구-3314/)                     |     10456      | 18.94 Quadrillion |   Wizard    | 2023-05-16 02:51:58 |
+| 26  | [덕구#3314](https://kr.diablo3.com/profile/덕구-3314/)                     |     10457      | 18.94 Quadrillion |   Wizard    | 2023-05-16 03:31:51 |
 | 27  | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     10428      | 18.78 Quadrillion |   Wizard    | 2023-05-15 23:02:57 |
-| 28  | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     10404      | 18.65 Quadrillion |   Wizard    | 2023-05-16 02:21:47 |
-| 29  | [권잭#31495](https://kr.diablo3.com/profile/권잭-31495/)                   |     10391      | 18.58 Quadrillion |   Wizard    | 2023-05-15 17:46:14 |
-| 30  | [라스#3713](https://kr.diablo3.com/profile/라스-3713/)                     |     10358      | 18.4 Quadrillion  |   Wizard    | 2023-05-16 01:37:33 |
-| 31  | [小天尊#3503](https://kr.diablo3.com/profile/小天尊-3503/)                   |     10358      | 18.4 Quadrillion  |   Wizard    | 2023-05-16 02:55:18 |
-| 32  | [양말장수#3519](https://kr.diablo3.com/profile/양말장수-3519/)                 |     10355      | 18.39 Quadrillion |   Wizard    | 2023-05-16 00:22:17 |
-| 33  | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     10351      | 18.36 Quadrillion |   Wizard    | 2023-05-15 18:35:33 |
-| 34  | [법순잉#31340](https://kr.diablo3.com/profile/법순잉-31340/)                 |     10316      | 18.18 Quadrillion |   Wizard    | 2023-05-16 02:53:10 |
-| 35  | [柚子#41141](https://kr.diablo3.com/profile/柚子-41141/)                   |     10303      | 18.11 Quadrillion |   Wizard    | 2023-05-16 02:48:26 |
-| 36  | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                 |     10298      | 18.08 Quadrillion |   Wizard    | 2023-05-15 16:48:20 |
+| 28  | [권잭#31495](https://kr.diablo3.com/profile/권잭-31495/)                   |     10416      | 18.72 Quadrillion |   Wizard    | 2023-05-16 03:23:16 |
+| 29  | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     10404      | 18.65 Quadrillion |   Wizard    | 2023-05-16 02:21:47 |
+| 30  | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     10373      | 18.48 Quadrillion |   Wizard    | 2023-05-16 03:22:16 |
+| 31  | [라스#3713](https://kr.diablo3.com/profile/라스-3713/)                     |     10358      | 18.4 Quadrillion  |   Wizard    | 2023-05-16 01:37:33 |
+| 32  | [小天尊#3503](https://kr.diablo3.com/profile/小天尊-3503/)                   |     10358      | 18.4 Quadrillion  |   Wizard    | 2023-05-16 02:55:58 |
+| 33  | [양말장수#3519](https://kr.diablo3.com/profile/양말장수-3519/)                 |     10355      | 18.39 Quadrillion |   Wizard    | 2023-05-16 00:22:17 |
+| 34  | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                 |     10324      | 18.22 Quadrillion |   Wizard    | 2023-05-16 03:11:32 |
+| 35  | [법순잉#31340](https://kr.diablo3.com/profile/법순잉-31340/)                 |     10316      | 18.18 Quadrillion |   Wizard    | 2023-05-16 03:36:27 |
+| 36  | [柚子#41141](https://kr.diablo3.com/profile/柚子-41141/)                   |     10303      | 18.11 Quadrillion |   Wizard    | 2023-05-16 03:35:25 |
 | 37  | [honglian#11827](https://kr.diablo3.com/profile/honglian-11827/)       |     10289      | 18.03 Quadrillion |   Wizard    | 2023-05-16 01:28:32 |
-| 38  | [Handsome#31825](https://kr.diablo3.com/profile/Handsome-31825/)       |     10275      | 17.96 Quadrillion |   Wizard    | 2023-05-16 02:50:13 |
-| 39  | [EVO#12399](https://kr.diablo3.com/profile/EVO-12399/)                 |     10265      | 17.9 Quadrillion  |   Wizard    | 2023-05-16 01:59:18 |
-| 40  | [이엘#31271](https://kr.diablo3.com/profile/이엘-31271/)                   |     10258      | 17.87 Quadrillion |   Wizard    | 2023-05-16 02:43:25 |
+| 38  | [Handsome#31825](https://kr.diablo3.com/profile/Handsome-31825/)       |     10276      | 17.96 Quadrillion |   Wizard    | 2023-05-16 03:11:44 |
+| 39  | [EVO#12399](https://kr.diablo3.com/profile/EVO-12399/)                 |     10270      | 17.93 Quadrillion |   Wizard    | 2023-05-16 03:22:07 |
+| 40  | [이엘#31271](https://kr.diablo3.com/profile/이엘-31271/)                   |     10258      | 17.87 Quadrillion |   Wizard    | 2023-05-16 03:10:24 |
 | 41  | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     10251      | 17.83 Quadrillion |   Wizard    | 2023-05-16 02:12:50 |
 | 42  | [一二三#31161](https://kr.diablo3.com/profile/一二三-31161/)                 |     10227      | 17.7 Quadrillion  |   Wizard    | 2023-05-16 02:15:37 |
 | 43  | [돌고래#31983](https://kr.diablo3.com/profile/돌고래-31983/)                 |     10214      | 17.63 Quadrillion |   Wizard    | 2023-05-15 23:16:27 |
 | 44  | [Stephen#3232](https://kr.diablo3.com/profile/Stephen-3232/)           |     10185      | 17.48 Quadrillion |   Wizard    | 2023-05-15 21:33:57 |
-| 45  | [Aube#31233](https://kr.diablo3.com/profile/Aube-31233/)               |     10165      | 17.38 Quadrillion |   Wizard    | 2023-05-16 02:43:53 |
-| 46  | [九蛇#3783](https://kr.diablo3.com/profile/九蛇-3783/)                     |     10135      | 17.22 Quadrillion |   Wizard    | 2023-05-16 02:55:00 |
+| 45  | [Aube#31233](https://kr.diablo3.com/profile/Aube-31233/)               |     10165      | 17.38 Quadrillion |   Wizard    | 2023-05-16 03:14:15 |
+| 46  | [九蛇#3783](https://kr.diablo3.com/profile/九蛇-3783/)                     |     10135      | 17.22 Quadrillion |   Wizard    | 2023-05-16 03:09:27 |
 | 47  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     10088      | 16.98 Quadrillion |   Wizard    | 2023-05-16 00:58:34 |
 | 48  | [신나게놀자#31648](https://kr.diablo3.com/profile/신나게놀자-31648/)             |     10084      | 16.96 Quadrillion |   Wizard    | 2023-05-16 02:30:13 |
 | 49  | [마고#31446](https://kr.diablo3.com/profile/마고-31446/)                   |     10083      | 16.95 Quadrillion |   Wizard    | 2023-05-16 02:45:45 |
@@ -58,11 +58,11 @@ Table created at 2023-05-16 02:58:59.572538
 | 51  | [Dave#17878](https://kr.diablo3.com/profile/Dave-17878/)               |     10062      | 16.85 Quadrillion |   Wizard    | 2023-05-16 01:07:46 |
 | 52  | [네오스티#3521](https://kr.diablo3.com/profile/네오스티-3521/)                 |     10044      | 16.75 Quadrillion |   Wizard    | 2023-05-13 06:23:38 |
 | 53  | [紅影#4144](https://kr.diablo3.com/profile/紅影-4144/)                     |     10044      | 16.75 Quadrillion |   Wizard    | 2023-05-16 02:34:41 |
-| 54  | [Redamancy#21702](https://kr.diablo3.com/profile/Redamancy-21702/)     |     10004      | 16.55 Quadrillion |   Wizard    | 2023-05-16 02:13:08 |
-| 55  | [reol#11197](https://kr.diablo3.com/profile/reol-11197/)               |      9992      | 16.49 Quadrillion |   Wizard    | 2023-05-16 02:55:01 |
+| 54  | [Redamancy#21702](https://kr.diablo3.com/profile/Redamancy-21702/)     |     10006      | 16.56 Quadrillion |   Wizard    | 2023-05-16 02:57:19 |
+| 55  | [reol#11197](https://kr.diablo3.com/profile/reol-11197/)               |      9992      | 16.49 Quadrillion |   Wizard    | 2023-05-16 02:56:24 |
 | 56  | [mark#1334](https://kr.diablo3.com/profile/mark-1334/)                 |      9982      | 16.44 Quadrillion |   Wizard    | 2023-04-28 12:57:56 |
 | 57  | [Roen#31883](https://kr.diablo3.com/profile/Roen-31883/)               |      9972      | 16.39 Quadrillion |   Wizard    | 2023-05-16 00:51:34 |
-| 58  | [DarkForest#31927](https://kr.diablo3.com/profile/DarkForest-31927/)   |      9905      | 16.06 Quadrillion |   Wizard    | 2023-05-16 02:46:15 |
+| 58  | [DarkForest#31927](https://kr.diablo3.com/profile/DarkForest-31927/)   |      9905      | 16.06 Quadrillion |   Wizard    | 2023-05-16 02:59:16 |
 | 59  | [TAEHWA#11428](https://kr.diablo3.com/profile/TAEHWA-11428/)           |      9755      | 15.33 Quadrillion |   Wizard    | 2023-05-12 14:48:39 |
 | 60  | [承诺#31219](https://kr.diablo3.com/profile/承诺-31219/)                   |      9732      | 15.22 Quadrillion |   Wizard    | 2023-05-10 10:50:50 |
 | 61  | [你媽買菜必漲價#4624](https://kr.diablo3.com/profile/你媽買菜必漲價-4624/)           |      9732      | 15.22 Quadrillion |   Wizard    | 2023-05-15 20:37:40 |
@@ -96,7 +96,7 @@ Table created at 2023-05-16 02:58:59.572538
 | 89  | [ykha#3990](https://kr.diablo3.com/profile/ykha-3990/)                 |      7124      | 5.84 Quadrillion  |  Barbarian  | 2023-05-16 02:45:50 |
 | 90  | [bibo#3521](https://kr.diablo3.com/profile/bibo-3521/)                 |      7003      | 5.54 Quadrillion  |   Wizard    | 2023-03-28 04:54:13 |
 | 91  | [rhymeslol#3822](https://kr.diablo3.com/profile/rhymeslol-3822/)       |      6748      | 4.94 Quadrillion  |   Wizard    | 2023-03-23 15:24:22 |
-| 92  | [Now#31669](https://kr.diablo3.com/profile/Now-31669/)                 |      6440      | 4.27 Quadrillion  |     DH      | 2023-05-15 16:03:49 |
+| 92  | [Now#31669](https://kr.diablo3.com/profile/Now-31669/)                 |      6440      | 4.27 Quadrillion  |     DH      | 2023-05-16 03:30:54 |
 | 93  | [迷子#31312](https://kr.diablo3.com/profile/迷子-31312/)                   |      6354      | 4.1 Quadrillion   |   Wizard    | 2023-05-10 12:19:20 |
 | 94  | [Austin#3478](https://kr.diablo3.com/profile/Austin-3478/)             |      6338      | 4.07 Quadrillion  |   Wizard    | 2023-03-22 05:52:20 |
 | 95  | [辣炒三杯雞#4881](https://kr.diablo3.com/profile/辣炒三杯雞-4881/)               |      6315      | 4.02 Quadrillion  |   Wizard    | 2023-03-22 00:18:30 |
