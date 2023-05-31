@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-05-31 03:18:14.738725
+Table created at 2023-05-31 03:44:14.820758
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -184,7 +184,7 @@ Table created at 2023-05-31 03:18:14.738725
 | 177 | [konacoffie#1654](https://eu.diablo3.com/profile/konacoffie-1654/)       |      6336      | 4.06 Quadrillion  |   Wizard    | 2023-03-14 21:32:03 |
 | 178 | [Domi#22298](https://eu.diablo3.com/profile/Domi-22298/)                 |      6292      | 3.98 Quadrillion  |   Wizard    | 2023-04-09 11:46:34 |
 | 179 | [NiNT3NDO#21893](https://eu.diablo3.com/profile/NiNT3NDO-21893/)         |      6261      | 3.92 Quadrillion  |   Wizard    | 2023-03-18 08:25:09 |
-| 180 | [Buzzcocks#21960](https://eu.diablo3.com/profile/Buzzcocks-21960/)       |      6261      | 3.92 Quadrillion  |   Wizard    | 2023-05-31 02:59:33 |
+| 180 | [Buzzcocks#21960](https://eu.diablo3.com/profile/Buzzcocks-21960/)       |      6261      | 3.92 Quadrillion  |   Wizard    | 2023-05-31 03:26:02 |
 | 181 | [sea#41732](https://eu.diablo3.com/profile/sea-41732/)                   |      6234      | 3.86 Quadrillion  |   Wizard    | 2023-04-10 19:20:05 |
 | 182 | [Lgtroberto#2235](https://eu.diablo3.com/profile/Lgtroberto-2235/)       |      6192      | 3.78 Quadrillion  |   Wizard    | 2023-04-09 16:30:33 |
 | 183 | [Monty#2873](https://eu.diablo3.com/profile/Monty-2873/)                 |      6190      | 3.78 Quadrillion  |   Wizard    | 2023-03-28 15:48:34 |
