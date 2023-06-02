@@ -1,7 +1,7 @@
 # Season 28 (US)
 
 ---
-Table created at 2023-06-02 09:39:03.458781
+Table created at 2023-06-02 10:40:31.729553
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -175,7 +175,7 @@ Table created at 2023-06-02 09:39:03.458781
 | 168 | [Theber#1457](https://us.diablo3.com/profile/Theber-1457/)                 |      7839      | 7.84 Quadrillion  |   Wizard    | 2023-06-02 08:23:39 |
 | 169 | [Wombo#1507](https://us.diablo3.com/profile/Wombo-1507/)                   |      7833      | 7.82 Quadrillion  |   Wizard    | 2023-05-29 21:42:34 |
 | 170 | [Xaero#11351](https://us.diablo3.com/profile/Xaero-11351/)                 |      7830      | 7.81 Quadrillion  |   Wizard    | 2023-04-30 00:54:11 |
-| 171 | [Maddox#11179](https://us.diablo3.com/profile/Maddox-11179/)               |      7824      | 7.8 Quadrillion   |   Wizard    | 2023-06-02 09:14:51 |
+| 171 | [Maddox#11179](https://us.diablo3.com/profile/Maddox-11179/)               |      7826      | 7.8 Quadrillion   |   Wizard    | 2023-06-02 10:23:40 |
 | 172 | [Hejoe#11372](https://us.diablo3.com/profile/Hejoe-11372/)                 |      7817      | 7.77 Quadrillion  |   Wizard    | 2023-05-06 13:29:22 |
 | 173 | [Carnatal#1218](https://us.diablo3.com/profile/Carnatal-1218/)             |      7815      | 7.77 Quadrillion  |   Wizard    | 2023-05-31 23:30:15 |
 | 174 | [BlEydGamer#2498](https://us.diablo3.com/profile/BlEydGamer-2498/)         |      7811      | 7.76 Quadrillion  |   Wizard    | 2023-05-01 22:20:24 |
@@ -200,7 +200,7 @@ Table created at 2023-06-02 09:39:03.458781
 | 193 | [cink#1840](https://us.diablo3.com/profile/cink-1840/)                     |      7583      | 7.08 Quadrillion  |   Wizard    | 2023-06-01 07:33:33 |
 | 194 | [williamc#31262](https://us.diablo3.com/profile/williamc-31262/)           |      7581      | 7.07 Quadrillion  |   Wizard    | 2023-06-01 15:11:22 |
 | 195 | [LinkLeGamer#1756](https://us.diablo3.com/profile/LinkLeGamer-1756/)       |      7565      | 7.03 Quadrillion  |   Wizard    | 2023-05-17 12:04:34 |
-| 196 | [iceweb#1701](https://us.diablo3.com/profile/iceweb-1701/)                 |      2020      | 122.75 Trillion   |   Wizard    | 2023-06-02 09:06:37 |
+| 196 | [iceweb#1701](https://us.diablo3.com/profile/iceweb-1701/)                 |      2050      | 127.99 Trillion   |   Wizard    | 2023-06-02 10:10:56 |
 | 197 | [Mel123#1288](https://us.diablo3.com/profile/Mel123-1288/)                 |      1939      | 109.17 Trillion   |     DH      | 2023-06-02 09:28:39 |
 | 198 | [TheHunter537#2336](https://us.diablo3.com/profile/TheHunter537-2336/)     |      733       | 1.91 Trillion     |     DH      | 2023-05-31 15:28:52 |
 | 199 | [Asashin#31163](https://us.diablo3.com/profile/Asashin-31163/)             |       0        | 0                 |     DH      | 2023-06-01 12:56:51 |
