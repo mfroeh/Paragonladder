@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-06-03 09:37:51.547721
+Table created at 2023-06-03 10:39:35.045912
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -123,7 +123,7 @@ Table created at 2023-06-03 09:37:51.547721
 | 116 | [VENØ#2794](https://eu.diablo3.com/profile/VENØ-2794/)                   |      8480      | 9.98 Quadrillion  |   Wizard    | 2023-05-29 21:42:26 |
 | 117 | [Nobady#21726](https://eu.diablo3.com/profile/Nobady-21726/)             |      8474      | 9.96 Quadrillion  |   Wizard    | 2023-05-29 07:00:14 |
 | 118 | [Frostybolt#2904](https://eu.diablo3.com/profile/Frostybolt-2904/)       |      8453      | 9.89 Quadrillion  |   Wizard    | 2023-04-25 22:25:52 |
-| 119 | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |      8442      | 9.85 Quadrillion  |   Wizard    | 2023-06-03 07:10:36 |
+| 119 | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |      8452      | 9.88 Quadrillion  |   Wizard    | 2023-06-03 10:16:49 |
 | 120 | [Andestyle#2727](https://eu.diablo3.com/profile/Andestyle-2727/)         |      8385      | 9.64 Quadrillion  |   Wizard    | 2023-05-25 20:22:00 |
 | 121 | [niktos#21605](https://eu.diablo3.com/profile/niktos-21605/)             |      8289      | 9.31 Quadrillion  |   Wizard    | 2023-05-02 20:17:04 |
 | 122 | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)               |      8223      | 9.08 Quadrillion  |   Wizard    | 2023-05-29 21:42:24 |
@@ -135,7 +135,7 @@ Table created at 2023-06-03 09:37:51.547721
 | 128 | [Jiraya#21914](https://eu.diablo3.com/profile/Jiraya-21914/)             |      8066      | 8.56 Quadrillion  |   Wizard    | 2023-03-13 20:44:48 |
 | 129 | [B0ngWater#2113](https://eu.diablo3.com/profile/B0ngWater-2113/)         |      8033      | 8.45 Quadrillion  |   Wizard    | 2023-05-29 15:24:40 |
 | 130 | [arxon#2533](https://eu.diablo3.com/profile/arxon-2533/)                 |      8016      | 8.4 Quadrillion   |   Wizard    | 2023-04-30 10:41:03 |
-| 131 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8003      | 8.36 Quadrillion  |   Wizard    | 2023-06-03 09:12:27 |
+| 131 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8003      | 8.36 Quadrillion  |   Wizard    | 2023-06-03 10:08:05 |
 | 132 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      8002      | 8.35 Quadrillion  |   Wizard    | 2023-05-23 20:49:36 |
 | 133 | [xaBk#21949](https://eu.diablo3.com/profile/xaBk-21949/)                 |      8002      | 8.35 Quadrillion  |   Wizard    | 2023-05-03 13:03:45 |
 | 134 | [Zypha#21818](https://eu.diablo3.com/profile/Zypha-21818/)               |      7906      | 8.05 Quadrillion  |   Wizard    | 2023-05-07 19:30:02 |
@@ -199,5 +199,5 @@ Table created at 2023-06-03 09:37:51.547721
 | 192 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      5868      | 3.2 Quadrillion   |     DH      | 2023-05-30 12:30:12 |
 | 193 | [ЯсныйБосс#2801](https://eu.diablo3.com/profile/ЯсныйБосс-2801/)         |      5845      | 3.16 Quadrillion  |   Wizard    | 2023-04-04 19:54:10 |
 | 194 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-05-20 15:27:57 |
-| 195 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      1480      | 47.36 Trillion    |     DH      | 2023-06-03 09:05:00 |
-| 196 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |     DH      | 2023-06-03 07:38:45 |
+| 195 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      1503      | 49.85 Trillion    |     DH      | 2023-06-03 10:21:24 |
+| 196 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |     DH      | 2023-06-03 10:20:16 |
