@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-06-05 08:45:08.524546
+Table created at 2023-06-05 09:42:13.283366
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -118,7 +118,7 @@ Table created at 2023-06-05 08:45:08.524546
 | 111 | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                 |      8699      | 10.8 Quadrillion  |   Wizard    | 2023-06-05 06:48:40 |
 | 112 | [EmDoG#21480](https://eu.diablo3.com/profile/EmDoG-21480/)               |      8654      | 10.62 Quadrillion |   Wizard    | 2023-05-26 21:06:00 |
 | 113 | [Thonaer#21835](https://eu.diablo3.com/profile/Thonaer-21835/)           |      8637      | 10.56 Quadrillion |   Wizard    | 2023-05-28 22:10:50 |
-| 114 | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |      8597      | 10.41 Quadrillion |   Wizard    | 2023-06-05 08:13:24 |
+| 114 | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |      8599      | 10.42 Quadrillion |   Wizard    | 2023-06-05 09:05:17 |
 | 115 | [Relic#2364](https://eu.diablo3.com/profile/Relic-2364/)                 |      8585      | 10.37 Quadrillion |   Wizard    | 2023-04-30 01:58:50 |
 | 116 | [obituary#21128](https://eu.diablo3.com/profile/obituary-21128/)         |      8500      | 10.06 Quadrillion |   Wizard    | 2023-05-29 21:42:09 |
 | 117 | [VENØ#2794](https://eu.diablo3.com/profile/VENØ-2794/)                   |      8480      | 9.98 Quadrillion  |   Wizard    | 2023-05-29 21:42:26 |
@@ -199,5 +199,5 @@ Table created at 2023-06-05 08:45:08.524546
 | 192 | [ЯсныйБосс#2801](https://eu.diablo3.com/profile/ЯсныйБосс-2801/)         |      5845      | 3.16 Quadrillion  |   Wizard    | 2023-04-04 19:54:10 |
 | 193 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-05-20 15:27:57 |
 | 194 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      1913      | 104.98 Trillion   |     DH      | 2023-06-05 06:57:49 |
-| 195 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      409       | 172.98 Billion    |     DH      | 2023-06-05 07:36:04 |
+| 195 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      513       | 335.65 Billion    |     DH      | 2023-06-05 09:05:33 |
 | 196 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |     DH      | 2023-06-05 07:45:06 |
