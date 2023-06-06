@@ -1,7 +1,7 @@
 # Season 28 (US)
 
 ---
-Table created at 2023-06-06 16:46:49.895715
+Table created at 2023-06-06 17:38:05.682911
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -201,7 +201,7 @@ Table created at 2023-06-06 16:46:49.895715
 | 194 | [Elrude1004#1571](https://us.diablo3.com/profile/Elrude1004-1571/)         |      7627      | 7.21 Quadrillion  |   Wizard    | 2023-04-10 23:34:39 |
 | 195 | [Bevey#11514](https://us.diablo3.com/profile/Bevey-11514/)                 |      7594      | 7.11 Quadrillion  |   Wizard    | 2023-04-26 03:36:52 |
 | 196 | [D3FULL#1654](https://us.diablo3.com/profile/D3FULL-1654/)                 |      7587      | 7.09 Quadrillion  |     DH      | 2023-05-29 21:42:46 |
-| 197 | [Mel123#1288](https://us.diablo3.com/profile/Mel123-1288/)                 |      3747      | 780.7 Trillion    |   Wizard    | 2023-06-06 16:29:14 |
-| 198 | [Costpa#2732](https://us.diablo3.com/profile/Costpa-2732/)                 |      2423      | 203.98 Trillion   |     DH      | 2023-06-06 16:35:29 |
-| 199 | [TheHunter537#2336](https://us.diablo3.com/profile/TheHunter537-2336/)     |      733       | 1.91 Trillion     |     DH      | 2023-05-31 15:28:52 |
+| 197 | [iceweb#1701](https://us.diablo3.com/profile/iceweb-1701/)                 |      3802      | 817.52 Trillion   |   Wizard    | 2023-06-06 17:20:23 |
+| 198 | [Mel123#1288](https://us.diablo3.com/profile/Mel123-1288/)                 |      3755      | 785.99 Trillion   |   Wizard    | 2023-06-06 17:13:44 |
+| 199 | [Costpa#2732](https://us.diablo3.com/profile/Costpa-2732/)                 |      2424      | 204.22 Trillion   |     DH      | 2023-06-06 17:22:39 |
 | 200 | [Asashin#31163](https://us.diablo3.com/profile/Asashin-31163/)             |       0        | 0                 |     DH      | 2023-06-01 12:56:51 |
