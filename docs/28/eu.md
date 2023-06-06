@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-06-06 03:46:58.720754
+Table created at 2023-06-06 04:44:10.472023
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -200,4 +200,4 @@ Table created at 2023-06-06 03:46:58.720754
 | 193 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-05-20 15:27:57 |
 | 194 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      2005      | 120.18 Trillion   |     DH      | 2023-06-05 19:14:11 |
 | 195 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      772       | 2.59 Trillion     |     DH      | 2023-06-05 19:34:02 |
-| 196 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |     DH      | 2023-06-05 22:07:07 |
+| 196 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |     DH      | 2023-06-06 03:31:31 |
