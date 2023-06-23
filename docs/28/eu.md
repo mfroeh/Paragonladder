@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-06-23 10:45:59.988153
+Table created at 2023-06-23 11:40:27.592903
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -133,9 +133,9 @@ Table created at 2023-06-23 10:45:59.988153
 | 126 | [Jiraya#21914](https://eu.diablo3.com/profile/Jiraya-21914/)             |      8066      | 8.56 Quadrillion  |   Wizard    | 2023-03-13 20:44:48 |
 | 127 | [B0ngWater#2113](https://eu.diablo3.com/profile/B0ngWater-2113/)         |      8033      | 8.45 Quadrillion  |   Wizard    | 2023-05-29 15:24:40 |
 | 128 | [arxon#2533](https://eu.diablo3.com/profile/arxon-2533/)                 |      8016      | 8.4 Quadrillion   |   Wizard    | 2023-04-30 10:41:03 |
-| 129 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8003      | 8.36 Quadrillion  |   Wizard    | 2023-06-23 10:11:56 |
+| 129 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8003      | 8.36 Quadrillion  |   Wizard    | 2023-06-23 11:21:51 |
 | 130 | [xaBk#21949](https://eu.diablo3.com/profile/xaBk-21949/)                 |      8002      | 8.35 Quadrillion  |   Wizard    | 2023-05-03 13:03:45 |
-| 131 | [Buzzcocks#21960](https://eu.diablo3.com/profile/Buzzcocks-21960/)       |      7980      | 8.28 Quadrillion  |   Wizard    | 2023-06-23 08:45:04 |
+| 131 | [Buzzcocks#21960](https://eu.diablo3.com/profile/Buzzcocks-21960/)       |      7986      | 8.3 Quadrillion   |   Wizard    | 2023-06-23 10:34:34 |
 | 132 | [Zypha#21818](https://eu.diablo3.com/profile/Zypha-21818/)               |      7908      | 8.06 Quadrillion  |   Wizard    | 2023-06-13 18:08:01 |
 | 133 | [Scipiottiste#2406](https://eu.diablo3.com/profile/Scipiottiste-2406/)   |      7854      | 7.89 Quadrillion  |   Wizard    | 2023-03-28 18:54:18 |
 | 134 | [Legit#21773](https://eu.diablo3.com/profile/Legit-21773/)               |      7778      | 7.66 Quadrillion  |   Wizard    | 2023-06-01 19:54:29 |
