@@ -1,7 +1,7 @@
 # Season 28 (ALL)
 
 ---
-Table created at 2023-06-27 22:44:47.690875
+Table created at 2023-06-27 23:37:46.181151
 
 |  #  | Region |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----: | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -15,7 +15,7 @@ Table created at 2023-06-27 22:44:47.690875
 | 8   |   KR   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                     |     12671      | 33.96 Quadrillion |   Wizard    | 2023-06-27 15:30:21 |
 | 9   |   EU   | [dArk#222387](https://eu.diablo3.com/profile/dArk-222387/)                 |     12585      | 33.27 Quadrillion |   Wizard    | 2023-05-29 21:42:42 |
 | 10  |   KR   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                       |     12568      | 33.13 Quadrillion |   Wizard    | 2023-06-27 21:02:06 |
-| 11  |   KR   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)                 |     12529      | 32.82 Quadrillion |   Wizard    | 2023-06-27 17:27:17 |
+| 11  |   KR   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)                 |     12541      | 32.92 Quadrillion |   Wizard    | 2023-06-27 23:30:19 |
 | 12  |   KR   | [EVO#12399](https://kr.diablo3.com/profile/EVO-12399/)                     |     12519      | 32.74 Quadrillion |   Wizard    | 2023-06-24 08:35:14 |
 | 13  |   KR   | [지구#31820](https://kr.diablo3.com/profile/지구-31820/)                       |     12440      | 32.12 Quadrillion |   Wizard    | 2023-06-17 01:40:56 |
 | 14  |   EU   | [Polonium210#21256](https://eu.diablo3.com/profile/Polonium210-21256/)     |     12408      | 31.87 Quadrillion |   Wizard    | 2023-05-29 21:42:35 |
@@ -23,9 +23,9 @@ Table created at 2023-06-27 22:44:47.690875
 | 16  |   KR   | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                       |     12358      | 31.48 Quadrillion |   Wizard    | 2023-06-27 17:13:54 |
 | 17  |   KR   | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                     |     12337      | 31.32 Quadrillion |   Wizard    | 2023-06-27 20:41:18 |
 | 18  |   KR   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                         |     12314      | 31.14 Quadrillion |   Wizard    | 2023-06-27 20:47:31 |
-| 19  |   KR   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)             |     12266      | 30.78 Quadrillion |   Wizard    | 2023-06-27 22:37:50 |
+| 19  |   KR   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)             |     12266      | 30.78 Quadrillion |   Wizard    | 2023-06-27 23:30:49 |
 | 20  |   KR   | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)                 |     12251      | 30.66 Quadrillion |   Wizard    | 2023-06-27 15:30:55 |
-| 21  |   KR   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)               |     12178      | 30.11 Quadrillion |   Wizard    | 2023-06-27 21:27:07 |
+| 21  |   KR   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)               |     12181      | 30.13 Quadrillion |   Wizard    | 2023-06-27 22:59:46 |
 | 22  |   KR   | [법순잉#31340](https://kr.diablo3.com/profile/법순잉-31340/)                     |     12173      | 30.07 Quadrillion |   Wizard    | 2023-06-27 16:49:53 |
 | 23  |   EU   | [Zybes#2610](https://eu.diablo3.com/profile/Zybes-2610/)                   |     12152      | 29.92 Quadrillion |   Wizard    | 2023-05-29 21:42:02 |
 | 24  |   KR   | [덕구#3314](https://kr.diablo3.com/profile/덕구-3314/)                         |     12126      | 29.72 Quadrillion |   Wizard    | 2023-06-27 18:45:51 |
@@ -33,9 +33,9 @@ Table created at 2023-06-27 22:44:47.690875
 | 26  |   KR   | [나는나는나는#31821](https://kr.diablo3.com/profile/나는나는나는-31821/)               |     12098      | 29.51 Quadrillion |   Wizard    | 2023-06-20 18:04:47 |
 | 27  |   EU   | [KarmaPolice#12122](https://eu.diablo3.com/profile/KarmaPolice-12122/)     |     12042      | 29.1 Quadrillion  |   Wizard    | 2023-05-29 21:41:54 |
 | 28  |   KR   | [메롱#31851](https://kr.diablo3.com/profile/메롱-31851/)                       |     11995      | 28.76 Quadrillion |   Wizard    | 2023-06-23 17:39:43 |
-| 29  |   KR   | [zll#11847](https://kr.diablo3.com/profile/zll-11847/)                     |     11919      | 28.21 Quadrillion |   Wizard    | 2023-06-27 22:35:31 |
+| 29  |   KR   | [zll#11847](https://kr.diablo3.com/profile/zll-11847/)                     |     11919      | 28.21 Quadrillion |   Wizard    | 2023-06-27 23:29:23 |
 | 30  |   KR   | [Roen#31883](https://kr.diablo3.com/profile/Roen-31883/)                   |     11903      | 28.09 Quadrillion |   Wizard    | 2023-06-27 19:15:09 |
-| 31  |   KR   | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)                 |     11852      | 27.73 Quadrillion |   Wizard    | 2023-06-27 21:44:15 |
+| 31  |   KR   | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)                 |     11854      | 27.74 Quadrillion |   Wizard    | 2023-06-27 23:16:27 |
 | 32  |   EU   | [aFreddy#2167](https://eu.diablo3.com/profile/aFreddy-2167/)               |     11799      | 27.35 Quadrillion |   Wizard    | 2023-05-28 02:00:44 |
 | 33  |   US   | [Alaina#11902](https://us.diablo3.com/profile/Alaina-11902/)               |     11781      | 27.23 Quadrillion |   Wizard    | 2023-05-28 03:52:20 |
 | 34  |   KR   | [양말장수#3519](https://kr.diablo3.com/profile/양말장수-3519/)                     |     11766      | 27.12 Quadrillion |   Wizard    | 2023-06-18 08:52:25 |
@@ -595,3 +595,4 @@ Table created at 2023-06-27 22:44:47.690875
 | 588 |   EU   | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)                 |       0        | 0                 |     DH      | 2023-06-01 04:43:08 |
 | 589 |   EU   | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                   |       0        | 0                 |   Wizard    | 2023-06-27 19:12:26 |
 | 590 |   EU   | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)                 |       0        | 0                 |     DH      | 2023-05-29 19:43:34 |
+| 591 |   US   | [Asashin#31163](https://us.diablo3.com/profile/Asashin-31163/)             |       0        | 0                 |     DH      | 2023-06-01 12:56:51 |

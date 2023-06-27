@@ -1,7 +1,7 @@
 # Season 28 (US)
 
 ---
-Table created at 2023-06-27 22:44:47.705548
+Table created at 2023-06-27 23:37:46.190401
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -203,3 +203,4 @@ Table created at 2023-06-27 22:44:47.705548
 | 196 | [Mel123#1288](https://us.diablo3.com/profile/Mel123-1288/)                 |      6964      | 5.44 Quadrillion  |   Wizard    | 2023-06-27 21:30:07 |
 | 197 | [Costpa#2732](https://us.diablo3.com/profile/Costpa-2732/)                 |      2976      | 378.55 Trillion   |     DH      | 2023-06-25 16:15:53 |
 | 198 | [TheHunter537#2336](https://us.diablo3.com/profile/TheHunter537-2336/)     |      733       | 1.91 Trillion     |     DH      | 2023-05-31 15:28:52 |
+| 199 | [Asashin#31163](https://us.diablo3.com/profile/Asashin-31163/)             |       0        | 0                 |     DH      | 2023-06-01 12:56:51 |
