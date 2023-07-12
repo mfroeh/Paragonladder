@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-07-11 23:43:52.348048
+Table created at 2023-07-12 02:19:28.286129
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -36,8 +36,8 @@ Table created at 2023-07-11 23:43:52.348048
 | 29  | [Blomm#21491](https://eu.diablo3.com/profile/Blomm-21491/)               |     10871      | 21.32 Quadrillion |   Wizard    | 2023-05-29 21:42:39 |
 | 30  | [Yav#21669](https://eu.diablo3.com/profile/Yav-21669/)                   |     10843      | 21.16 Quadrillion |   Wizard    | 2023-05-29 21:42:10 |
 | 31  | [kanameV2#1690](https://eu.diablo3.com/profile/kanameV2-1690/)           |     10826      | 21.05 Quadrillion |   Wizard    | 2023-05-29 21:42:42 |
-| 32  | [iamexile#21227](https://eu.diablo3.com/profile/iamexile-21227/)         |     10770      | 20.72 Quadrillion |   Wizard    | 2023-05-29 21:42:20 |
-| 33  | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |     10766      | 20.7 Quadrillion  |   Wizard    | 2023-07-11 05:35:28 |
+| 32  | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |     10784      | 20.81 Quadrillion |   Wizard    | 2023-07-11 05:35:28 |
+| 33  | [iamexile#21227](https://eu.diablo3.com/profile/iamexile-21227/)         |     10770      | 20.72 Quadrillion |   Wizard    | 2023-05-29 21:42:20 |
 | 34  | [Moos#22986](https://eu.diablo3.com/profile/Moos-22986/)                 |     10758      | 20.65 Quadrillion |   Wizard    | 2023-05-21 14:09:26 |
 | 35  | [sleepyGaffy#1160](https://eu.diablo3.com/profile/sleepyGaffy-1160/)     |     10664      | 20.11 Quadrillion |   Wizard    | 2023-05-29 21:42:09 |
 | 36  | [fearyy#21114](https://eu.diablo3.com/profile/fearyy-21114/)             |     10601      | 19.75 Quadrillion |   Wizard    | 2023-05-29 21:41:59 |
@@ -199,5 +199,5 @@ Table created at 2023-07-11 23:43:52.348048
 | 192 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-06-25 00:36:58 |
 | 193 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      776       | 2.67 Trillion     |     DH      | 2023-06-14 06:35:14 |
 | 194 | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)               |       0        | 0                 |     DH      | 2023-06-01 04:43:08 |
-| 195 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-07-11 11:44:42 |
+| 195 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-07-11 13:10:36 |
 | 196 | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)               |       0        | 0                 |     DH      | 2023-05-29 19:43:34 |
