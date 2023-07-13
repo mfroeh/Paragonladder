@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-07-13 11:40:37.623742
+Table created at 2023-07-13 13:04:46.782698
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -34,9 +34,9 @@ Table created at 2023-07-13 11:40:37.623742
 | 27  | [SeñorDragora#2811](https://eu.diablo3.com/profile/SeñorDragora-2811/)   |     10956      | 21.83 Quadrillion |   Wizard    | 2023-05-29 21:42:07 |
 | 28  | [요정계곡의유니콘#3925](https://eu.diablo3.com/profile/요정계곡의유니콘-3925/)           |     10938      | 21.72 Quadrillion |   Wizard    | 2023-05-20 14:37:01 |
 | 29  | [Blomm#21491](https://eu.diablo3.com/profile/Blomm-21491/)               |     10871      | 21.32 Quadrillion |   Wizard    | 2023-05-29 21:42:39 |
-| 30  | [Yav#21669](https://eu.diablo3.com/profile/Yav-21669/)                   |     10843      | 21.16 Quadrillion |   Wizard    | 2023-05-29 21:42:10 |
-| 31  | [kanameV2#1690](https://eu.diablo3.com/profile/kanameV2-1690/)           |     10826      | 21.05 Quadrillion |   Wizard    | 2023-05-29 21:42:42 |
-| 32  | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |     10819      | 21.01 Quadrillion |   Wizard    | 2023-07-12 03:31:06 |
+| 30  | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |     10867      | 21.3 Quadrillion  |   Wizard    | 2023-07-12 23:19:54 |
+| 31  | [Yav#21669](https://eu.diablo3.com/profile/Yav-21669/)                   |     10843      | 21.16 Quadrillion |   Wizard    | 2023-05-29 21:42:10 |
+| 32  | [kanameV2#1690](https://eu.diablo3.com/profile/kanameV2-1690/)           |     10826      | 21.05 Quadrillion |   Wizard    | 2023-05-29 21:42:42 |
 | 33  | [iamexile#21227](https://eu.diablo3.com/profile/iamexile-21227/)         |     10770      | 20.72 Quadrillion |   Wizard    | 2023-05-29 21:42:20 |
 | 34  | [Moos#22986](https://eu.diablo3.com/profile/Moos-22986/)                 |     10758      | 20.65 Quadrillion |   Wizard    | 2023-05-21 14:09:26 |
 | 35  | [sleepyGaffy#1160](https://eu.diablo3.com/profile/sleepyGaffy-1160/)     |     10664      | 20.11 Quadrillion |   Wizard    | 2023-05-29 21:42:09 |
