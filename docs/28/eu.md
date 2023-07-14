@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-07-14 11:41:18.990668
+Table created at 2023-07-14 13:04:27.487653
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -32,7 +32,7 @@ Table created at 2023-07-14 11:41:18.990668
 | 25  | [cross#31983](https://eu.diablo3.com/profile/cross-31983/)               |     11008      | 22.15 Quadrillion |   Wizard    | 2023-05-25 23:42:00 |
 | 26  | [Django#22943](https://eu.diablo3.com/profile/Django-22943/)             |     10964      | 21.88 Quadrillion |   Wizard    | 2023-05-29 21:42:45 |
 | 27  | [SeñorDragora#2811](https://eu.diablo3.com/profile/SeñorDragora-2811/)   |     10956      | 21.83 Quadrillion |   Wizard    | 2023-05-29 21:42:07 |
-| 28  | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |     10942      | 21.75 Quadrillion |   Wizard    | 2023-07-14 07:57:38 |
+| 28  | [SoloWD148#2162](https://eu.diablo3.com/profile/SoloWD148-2162/)         |     10950      | 21.8 Quadrillion  |   Wizard    | 2023-07-14 11:36:20 |
 | 29  | [요정계곡의유니콘#3925](https://eu.diablo3.com/profile/요정계곡의유니콘-3925/)           |     10938      | 21.72 Quadrillion |   Wizard    | 2023-05-20 14:37:01 |
 | 30  | [Blomm#21491](https://eu.diablo3.com/profile/Blomm-21491/)               |     10871      | 21.32 Quadrillion |   Wizard    | 2023-05-29 21:42:39 |
 | 31  | [Yav#21669](https://eu.diablo3.com/profile/Yav-21669/)                   |     10843      | 21.16 Quadrillion |   Wizard    | 2023-05-29 21:42:10 |
@@ -159,7 +159,7 @@ Table created at 2023-07-14 11:41:18.990668
 | 152 | [nkyp#21302](https://eu.diablo3.com/profile/nkyp-21302/)                 |      7139      | 5.88 Quadrillion  |   Wizard    | 2023-04-07 16:11:42 |
 | 153 | [cracker#21196](https://eu.diablo3.com/profile/cracker-21196/)           |      7091      | 5.76 Quadrillion  |     DH      | 2023-06-01 22:37:36 |
 | 154 | [Shinzi#2767](https://eu.diablo3.com/profile/Shinzi-2767/)               |      7062      | 5.68 Quadrillion  |   Wizard    | 2023-04-18 22:27:50 |
-| 155 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      7038      | 5.63 Quadrillion  |   Wizard    | 2023-07-14 11:07:01 |
+| 155 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      7043      | 5.64 Quadrillion  |   Wizard    | 2023-07-14 12:29:44 |
 | 156 | [Nexrate#2126](https://eu.diablo3.com/profile/Nexrate-2126/)             |      7022      | 5.59 Quadrillion  |  Barbarian  | 2023-07-02 22:37:26 |
 | 157 | [TopNotchRice#2592](https://eu.diablo3.com/profile/TopNotchRice-2592/)   |      7011      | 5.56 Quadrillion  |   Wizard    | 2023-04-03 01:28:12 |
 | 158 | [Kingsize#2358](https://eu.diablo3.com/profile/Kingsize-2358/)           |      7000      | 5.53 Quadrillion  |   Wizard    | 2023-04-04 14:46:47 |
