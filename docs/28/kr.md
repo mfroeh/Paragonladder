@@ -1,15 +1,15 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-07-19 15:43:25.117237
+Table created at 2023-07-19 16:48:42.413151
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14085      | 46.8 Quadrillion  |   Wizard    | 2023-07-19 13:12:13 |
-| 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     13559      | 41.71 Quadrillion |   Wizard    | 2023-07-19 15:33:46 |
+| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14089      | 46.84 Quadrillion |   Wizard    | 2023-07-19 16:41:20 |
+| 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     13560      | 41.72 Quadrillion |   Wizard    | 2023-07-19 16:10:49 |
 | 3   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13377      | 40.03 Quadrillion |   Wizard    | 2023-07-19 04:28:43 |
 | 4   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13347      | 39.76 Quadrillion |   Wizard    | 2023-07-19 13:01:11 |
-| 5   | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     13225      | 38.67 Quadrillion |   Wizard    | 2023-07-19 15:39:17 |
+| 5   | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     13225      | 38.67 Quadrillion |   Wizard    | 2023-07-19 16:43:41 |
 | 6   | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                 |     13211      | 38.55 Quadrillion |   Wizard    | 2023-07-19 15:04:36 |
 | 7   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     13163      | 38.12 Quadrillion |   Wizard    | 2023-07-19 14:13:23 |
 | 8   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     13082      | 37.42 Quadrillion |   Wizard    | 2023-07-19 10:13:07 |
