@@ -1,19 +1,19 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-07-20 18:47:32.029917
+Table created at 2023-07-20 19:40:29.843776
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14126      | 47.22 Quadrillion |   Wizard    | 2023-07-20 18:05:24 |
+| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14127      | 47.23 Quadrillion |   Wizard    | 2023-07-20 19:10:25 |
 | 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     13602      | 42.11 Quadrillion |   Wizard    | 2023-07-20 16:19:18 |
 | 3   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13428      | 40.5 Quadrillion  |   Wizard    | 2023-07-20 08:09:38 |
 | 4   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13373      | 40.0 Quadrillion  |   Wizard    | 2023-07-20 18:13:51 |
 | 5   | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     13256      | 38.95 Quadrillion |   Wizard    | 2023-07-20 18:01:56 |
 | 6   | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                 |     13244      | 38.84 Quadrillion |   Wizard    | 2023-07-20 10:44:07 |
-| 7   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     13206      | 38.5 Quadrillion  |   Wizard    | 2023-07-20 13:59:27 |
+| 7   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     13215      | 38.58 Quadrillion |   Wizard    | 2023-07-20 18:54:34 |
 | 8   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     13126      | 37.8 Quadrillion  |   Wizard    | 2023-07-20 18:12:18 |
-| 9   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     13054      | 37.18 Quadrillion |   Wizard    | 2023-07-20 14:26:37 |
+| 9   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     13056      | 37.19 Quadrillion |   Wizard    | 2023-07-20 19:00:53 |
 | 10  | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     13022      | 36.9 Quadrillion  |   Wizard    | 2023-06-18 10:32:43 |
 | 11  | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |     12952      | 36.3 Quadrillion  |   Wizard    | 2023-07-07 07:16:10 |
 | 12  | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                     |     12834      | 35.31 Quadrillion |   Wizard    | 2023-07-13 07:19:07 |

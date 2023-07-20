@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-07-20 18:47:32.023827
+Table created at 2023-07-20 19:40:29.828660
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -147,7 +147,7 @@ Table created at 2023-07-20 18:47:32.023827
 | 140 | [salska#2603](https://eu.diablo3.com/profile/salska-2603/)               |      7527      | 6.92 Quadrillion  |   Wizard    | 2023-04-04 12:34:52 |
 | 141 | [Ckouckou#2936](https://eu.diablo3.com/profile/Ckouckou-2936/)           |      7498      | 6.84 Quadrillion  |   Wizard    | 2023-04-07 18:46:17 |
 | 142 | [BannedSoon#2277](https://eu.diablo3.com/profile/BannedSoon-2277/)       |      7486      | 6.81 Quadrillion  |   Wizard    | 2023-05-21 21:43:04 |
-| 143 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      7464      | 6.74 Quadrillion  |   Wizard    | 2023-07-20 18:25:33 |
+| 143 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      7465      | 6.75 Quadrillion  |   Wizard    | 2023-07-20 18:56:04 |
 | 144 | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)               |      7380      | 6.51 Quadrillion  |   Wizard    | 2023-04-06 12:19:07 |
 | 145 | [PHOEBINATOR#2852](https://eu.diablo3.com/profile/PHOEBINATOR-2852/)     |      7378      | 6.51 Quadrillion  |   Wizard    | 2023-06-23 08:44:13 |
 | 146 | [d2k2#21225](https://eu.diablo3.com/profile/d2k2-21225/)                 |      7311      | 6.33 Quadrillion  |   Wizard    | 2023-06-15 19:15:22 |
