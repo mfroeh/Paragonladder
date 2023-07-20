@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-07-20 21:40:08.778060
+Table created at 2023-07-20 22:42:05.038495
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -77,7 +77,7 @@ Table created at 2023-07-20 21:40:08.778060
 | 70  | [EnoughTalk#2250](https://eu.diablo3.com/profile/EnoughTalk-2250/)       |      9807      | 15.58 Quadrillion |   Wizard    | 2023-05-29 21:42:05 |
 | 71  | [Tasigur#21255](https://eu.diablo3.com/profile/Tasigur-21255/)           |      9807      | 15.58 Quadrillion |   Wizard    | 2023-05-29 21:42:16 |
 | 72  | [BlackStaR#24885](https://eu.diablo3.com/profile/BlackStaR-24885/)       |      9783      | 15.46 Quadrillion |   Wizard    | 2023-05-29 21:42:38 |
-| 73  | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                 |      9783      | 15.46 Quadrillion |   Wizard    | 2023-07-20 06:34:46 |
+| 73  | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                 |      9783      | 15.46 Quadrillion |   Wizard    | 2023-07-20 22:21:11 |
 | 74  | [Dzepetto#21561](https://eu.diablo3.com/profile/Dzepetto-21561/)         |      9775      | 15.42 Quadrillion |   Wizard    | 2023-05-23 20:01:47 |
 | 75  | [GodLikeKira#2264](https://eu.diablo3.com/profile/GodLikeKira-2264/)     |      9695      | 15.04 Quadrillion |   Wizard    | 2023-05-29 21:42:14 |
 | 76  | [MuH#2204](https://eu.diablo3.com/profile/MuH-2204/)                     |      9637      | 14.77 Quadrillion |   Wizard    | 2023-05-29 21:42:44 |
@@ -150,7 +150,7 @@ Table created at 2023-07-20 21:40:08.778060
 | 143 | [TehShaDe#2540](https://eu.diablo3.com/profile/TehShaDe-2540/)           |      7471      | 6.76 Quadrillion  |   Wizard    | 2023-07-20 20:37:30 |
 | 144 | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)               |      7380      | 6.51 Quadrillion  |   Wizard    | 2023-04-06 12:19:07 |
 | 145 | [PHOEBINATOR#2852](https://eu.diablo3.com/profile/PHOEBINATOR-2852/)     |      7378      | 6.51 Quadrillion  |   Wizard    | 2023-06-23 08:44:13 |
-| 146 | [d2k2#21225](https://eu.diablo3.com/profile/d2k2-21225/)                 |      7311      | 6.33 Quadrillion  |   Wizard    | 2023-06-15 19:15:22 |
+| 146 | [d2k2#21225](https://eu.diablo3.com/profile/d2k2-21225/)                 |      7311      | 6.33 Quadrillion  |   Wizard    | 2023-07-20 21:46:50 |
 | 147 | [Rockstone#21373](https://eu.diablo3.com/profile/Rockstone-21373/)       |      7310      | 6.32 Quadrillion  |   Wizard    | 2023-06-04 15:08:35 |
 | 148 | [Fitty#21776](https://eu.diablo3.com/profile/Fitty-21776/)               |      7308      | 6.32 Quadrillion  |   Wizard    | 2023-06-09 22:04:54 |
 | 149 | [Cypher#22636](https://eu.diablo3.com/profile/Cypher-22636/)             |      7217      | 6.08 Quadrillion  |   Wizard    | 2023-05-02 19:48:31 |
