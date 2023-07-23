@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-07-23 21:40:56.123641
+Table created at 2023-07-23 22:40:04.544802
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -18,7 +18,7 @@ Table created at 2023-07-23 21:40:56.123641
 | 11  | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |     12952      | 36.3 Quadrillion  |   Wizard    | 2023-07-07 07:16:10 |
 | 12  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)             |     12867      | 35.58 Quadrillion |   Wizard    | 2023-07-23 19:43:24 |
 | 13  | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                     |     12834      | 35.31 Quadrillion |   Wizard    | 2023-07-21 05:00:11 |
-| 14  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     12815      | 35.15 Quadrillion |   Wizard    | 2023-07-23 13:00:47 |
+| 14  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     12832      | 35.29 Quadrillion |   Wizard    | 2023-07-23 22:11:55 |
 | 15  | [ABCDEF#31455](https://kr.diablo3.com/profile/ABCDEF-31455/)           |     12752      | 34.63 Quadrillion |   Wizard    | 2023-07-19 03:25:36 |
 | 16  | [덕구#3314](https://kr.diablo3.com/profile/덕구-3314/)                     |     12738      | 34.51 Quadrillion |   Wizard    | 2023-07-17 22:52:08 |
 | 17  | [Roen#31883](https://kr.diablo3.com/profile/Roen-31883/)               |     12728      | 34.43 Quadrillion |   Wizard    | 2023-07-17 02:55:03 |
