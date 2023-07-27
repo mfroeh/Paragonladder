@@ -1,11 +1,11 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-07-27 05:41:29.047234
+Table created at 2023-07-27 06:45:40.428273
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14309      | 49.09 Quadrillion |   Wizard    | 2023-07-27 05:33:57 |
+| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14309      | 49.09 Quadrillion |   Wizard    | 2023-07-27 06:32:18 |
 | 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     13831      | 44.29 Quadrillion |   Wizard    | 2023-07-27 02:12:49 |
 | 3   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13714      | 43.17 Quadrillion |   Wizard    | 2023-07-27 03:31:25 |
 | 4   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13559      | 41.71 Quadrillion |   Wizard    | 2023-07-27 03:56:54 |
@@ -74,7 +74,7 @@ Table created at 2023-07-27 05:41:29.047234
 | 67  | [卿本佳人#4751](https://kr.diablo3.com/profile/卿本佳人-4751/)                 |      9732      | 15.22 Quadrillion |   Wizard    | 2023-05-31 02:10:58 |
 | 68  | [JOE#3870](https://kr.diablo3.com/profile/JOE-3870/)                   |      9714      | 15.13 Quadrillion |   Wizard    | 2023-05-15 13:47:46 |
 | 69  | [Bertram#4341](https://kr.diablo3.com/profile/Bertram-4341/)           |      9547      | 14.35 Quadrillion |   Wizard    | 2023-05-25 20:14:00 |
-| 70  | [大狗明#3685](https://kr.diablo3.com/profile/大狗明-3685/)                   |      9499      | 14.13 Quadrillion |   Wizard    | 2023-07-27 00:42:28 |
+| 70  | [大狗明#3685](https://kr.diablo3.com/profile/大狗明-3685/)                   |      9515      | 14.2 Quadrillion  |   Wizard    | 2023-07-27 05:53:20 |
 | 71  | [GregPacker#2599](https://kr.diablo3.com/profile/GregPacker-2599/)     |      9439      | 13.86 Quadrillion |   Wizard    | 2023-07-10 15:28:49 |
 | 72  | [facebaby#3711](https://kr.diablo3.com/profile/facebaby-3711/)         |      9344      | 13.44 Quadrillion |   Wizard    | 2023-06-01 18:39:02 |
 | 73  | [阿狼#31949](https://kr.diablo3.com/profile/阿狼-31949/)                   |      9323      | 13.34 Quadrillion |   Wizard    | 2023-05-10 07:20:15 |
