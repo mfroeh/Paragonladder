@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-01 22:40:04.643640
+Table created at 2023-08-01 23:42:03.262594
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -195,7 +195,7 @@ Table created at 2023-08-01 22:40:04.643640
 | 188 | [살라마#31247](https://kr.diablo3.com/profile/살라마-31247/)                 |      3963      | 932.11 Trillion   |     DH      | 2023-03-05 13:20:46 |
 | 189 | [落笔成爱#31115](https://kr.diablo3.com/profile/落笔成爱-31115/)               |      3960      | 929.88 Trillion   |     DH      | 2023-03-06 13:41:08 |
 | 190 | [엘축#3494](https://kr.diablo3.com/profile/엘축-3494/)                     |      3739      | 775.44 Trillion   |     DH      | 2023-03-14 11:36:52 |
-| 191 | [GooDL#31314](https://kr.diablo3.com/profile/GooDL-31314/)             |      3707      | 754.65 Trillion   |     DH      | 2023-08-01 18:35:24 |
+| 191 | [GooDL#31314](https://kr.diablo3.com/profile/GooDL-31314/)             |      3707      | 754.65 Trillion   |     DH      | 2023-08-01 23:32:30 |
 | 192 | [跳跃#31757](https://kr.diablo3.com/profile/跳跃-31757/)                   |      3067      | 415.71 Trillion   |     DH      | 2023-05-19 00:19:03 |
 | 193 | [吾家可歸#4545](https://kr.diablo3.com/profile/吾家可歸-4545/)                 |      2833      | 325.2 Trillion    |     DH      | 2023-06-19 23:28:05 |
 | 194 | [詩詩#3261](https://kr.diablo3.com/profile/詩詩-3261/)                     |      2022      | 123.1 Trillion    |     DH      | 2023-04-03 15:46:52 |
