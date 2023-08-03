@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-03 10:41:44.381938
+Table created at 2023-08-03 11:37:41.067575
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -171,7 +171,7 @@ Table created at 2023-08-03 10:41:44.381938
 | 164 | [Kev#22933](https://eu.diablo3.com/profile/Kev-22933/)                   |      6746      | 4.93 Quadrillion  |   Wizard    | 2023-04-02 12:20:09 |
 | 165 | [BornToKill#21789](https://eu.diablo3.com/profile/BornToKill-21789/)     |      6673      | 4.77 Quadrillion  |   Wizard    | 2023-05-30 07:09:46 |
 | 166 | [Ex1t66#2352](https://eu.diablo3.com/profile/Ex1t66-2352/)               |      6669      | 4.76 Quadrillion  |   Wizard    | 2023-04-12 10:29:37 |
-| 167 | [CantSeeColor#21911](https://eu.diablo3.com/profile/CantSeeColor-21911/) |      6595      | 4.6 Quadrillion   |     DH      | 2023-08-03 09:10:47 |
+| 167 | [CantSeeColor#21911](https://eu.diablo3.com/profile/CantSeeColor-21911/) |      6611      | 4.63 Quadrillion  |     DH      | 2023-08-03 10:39:45 |
 | 168 | [Mushido#3418](https://eu.diablo3.com/profile/Mushido-3418/)             |      6551      | 4.51 Quadrillion  |   Wizard    | 2023-05-31 15:50:26 |
 | 169 | [olibo321#2475](https://eu.diablo3.com/profile/olibo321-2475/)           |      6523      | 4.45 Quadrillion  |   Wizard    | 2023-03-27 16:14:09 |
 | 170 | [Sacknaht#2547](https://eu.diablo3.com/profile/Sacknaht-2547/)           |      6485      | 4.37 Quadrillion  |   Wizard    | 2023-05-19 22:01:00 |
