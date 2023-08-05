@@ -1,11 +1,11 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-05 15:38:20.170358
+Table created at 2023-08-05 16:40:58.800893
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14411      | 50.16 Quadrillion |   Wizard    | 2023-08-05 15:22:29 |
+| 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14414      | 50.19 Quadrillion |   Wizard    | 2023-08-05 16:29:54 |
 | 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     14148      | 47.44 Quadrillion |   Wizard    | 2023-08-05 11:39:09 |
 | 3   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13814      | 44.13 Quadrillion |   Wizard    | 2023-07-31 21:53:11 |
 | 4   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13715      | 43.18 Quadrillion |   Wizard    | 2023-08-05 15:03:42 |
@@ -194,7 +194,7 @@ Table created at 2023-08-05 15:38:20.170358
 | 187 | [보노보스#31562](https://kr.diablo3.com/profile/보노보스-31562/)               |      4017      | 972.87 Trillion   |     DH      | 2023-03-06 02:01:30 |
 | 188 | [살라마#31247](https://kr.diablo3.com/profile/살라마-31247/)                 |      3963      | 932.11 Trillion   |     DH      | 2023-03-05 13:20:46 |
 | 189 | [落笔成爱#31115](https://kr.diablo3.com/profile/落笔成爱-31115/)               |      3960      | 929.88 Trillion   |     DH      | 2023-03-06 13:41:08 |
-| 190 | [GooDL#31314](https://kr.diablo3.com/profile/GooDL-31314/)             |      3902      | 887.48 Trillion   |     DH      | 2023-08-05 15:00:05 |
+| 190 | [GooDL#31314](https://kr.diablo3.com/profile/GooDL-31314/)             |      3902      | 887.48 Trillion   |     DH      | 2023-08-05 16:15:44 |
 | 191 | [엘축#3494](https://kr.diablo3.com/profile/엘축-3494/)                     |      3739      | 775.44 Trillion   |     DH      | 2023-03-14 11:36:52 |
 | 192 | [跳跃#31757](https://kr.diablo3.com/profile/跳跃-31757/)                   |      3067      | 415.71 Trillion   |     DH      | 2023-05-19 00:19:03 |
 | 193 | [吾家可歸#4545](https://kr.diablo3.com/profile/吾家可歸-4545/)                 |      2833      | 325.2 Trillion    |     DH      | 2023-06-19 23:28:05 |
