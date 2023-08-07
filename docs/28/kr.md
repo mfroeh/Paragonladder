@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-07 02:55:28.051059
+Table created at 2023-08-07 03:41:09.784726
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -14,8 +14,8 @@ Table created at 2023-08-07 02:55:28.051059
 | 7   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     13516      | 41.31 Quadrillion |   Wizard    | 2023-08-06 19:16:27 |
 | 8   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     13479      | 40.97 Quadrillion |   Wizard    | 2023-08-02 14:01:16 |
 | 9   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     13140      | 37.92 Quadrillion |   Wizard    | 2023-07-29 12:41:51 |
-| 10  | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     13030      | 36.97 Quadrillion |   Wizard    | 2023-08-05 03:10:20 |
-| 11  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     13018      | 36.87 Quadrillion |   Wizard    | 2023-08-07 02:51:25 |
+| 10  | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     13030      | 36.97 Quadrillion |   Wizard    | 2023-08-07 03:33:20 |
+| 11  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     13018      | 36.87 Quadrillion |   Wizard    | 2023-08-07 03:05:27 |
 | 12  | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |     12952      | 36.3 Quadrillion  |   Wizard    | 2023-07-07 07:16:10 |
 | 13  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)             |     12941      | 36.21 Quadrillion |   Wizard    | 2023-07-30 07:32:47 |
 | 14  | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                     |     12834      | 35.31 Quadrillion |   Wizard    | 2023-07-31 03:53:57 |
