@@ -1,16 +1,16 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-10 16:47:06.010393
+Table created at 2023-08-10 17:40:15.435114
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14480      | 50.89 Quadrillion |   Wizard    | 2023-08-10 16:02:19 |
-| 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     14322      | 49.23 Quadrillion |   Wizard    | 2023-08-10 15:57:28 |
+| 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     14323      | 49.24 Quadrillion |   Wizard    | 2023-08-10 17:14:07 |
 | 3   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13880      | 44.77 Quadrillion |   Wizard    | 2023-08-10 15:31:25 |
 | 4   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13814      | 44.13 Quadrillion |   Wizard    | 2023-07-31 21:53:11 |
 | 5   | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     13601      | 42.1 Quadrillion  |   Wizard    | 2023-07-29 13:24:06 |
-| 6   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     13590      | 42.0 Quadrillion  |   Wizard    | 2023-08-10 15:43:47 |
+| 6   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     13592      | 42.02 Quadrillion |   Wizard    | 2023-08-10 17:23:18 |
 | 7   | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                 |     13568      | 41.79 Quadrillion |   Wizard    | 2023-07-29 12:46:57 |
 | 8   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     13479      | 40.97 Quadrillion |   Wizard    | 2023-08-02 14:01:16 |
 | 9   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     13140      | 37.92 Quadrillion |   Wizard    | 2023-07-29 12:41:51 |
