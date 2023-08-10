@@ -1,13 +1,13 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-10 20:41:48.350819
+Table created at 2023-08-10 21:41:36.371103
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14480      | 50.89 Quadrillion |   Wizard    | 2023-08-10 16:02:19 |
 | 2   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     14328      | 49.29 Quadrillion |   Wizard    | 2023-08-10 20:30:25 |
-| 3   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13880      | 44.77 Quadrillion |   Wizard    | 2023-08-10 15:31:25 |
+| 3   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     13889      | 44.86 Quadrillion |   Wizard    | 2023-08-10 21:15:07 |
 | 4   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13814      | 44.13 Quadrillion |   Wizard    | 2023-07-31 21:53:11 |
 | 5   | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |     13601      | 42.1 Quadrillion  |   Wizard    | 2023-07-29 13:24:06 |
 | 6   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     13592      | 42.02 Quadrillion |   Wizard    | 2023-08-10 17:23:18 |
