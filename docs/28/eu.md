@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-20 02:40:37.551886
+Table created at 2023-08-20 03:36:28.405987
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -123,7 +123,7 @@ Table created at 2023-08-20 02:40:37.551886
 | 116 | [VENØ#2794](https://eu.diablo3.com/profile/VENØ-2794/)                   |      8480      | 9.98 Quadrillion  |   Wizard    | 2023-05-29 21:42:26 |
 | 117 | [Nobady#21726](https://eu.diablo3.com/profile/Nobady-21726/)             |      8474      | 9.96 Quadrillion  |   Wizard    | 2023-05-29 07:00:14 |
 | 118 | [Frostybolt#2904](https://eu.diablo3.com/profile/Frostybolt-2904/)       |      8453      | 9.89 Quadrillion  |   Wizard    | 2023-04-25 22:25:52 |
-| 119 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8406      | 9.72 Quadrillion  |   Wizard    | 2023-08-20 00:20:26 |
+| 119 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8413      | 9.74 Quadrillion  |   Wizard    | 2023-08-20 02:26:09 |
 | 120 | [Andestyle#2727](https://eu.diablo3.com/profile/Andestyle-2727/)         |      8385      | 9.64 Quadrillion  |   Wizard    | 2023-05-25 20:22:00 |
 | 121 | [niktos#21605](https://eu.diablo3.com/profile/niktos-21605/)             |      8289      | 9.31 Quadrillion  |   Wizard    | 2023-05-02 20:17:04 |
 | 122 | [Sawyer#22852](https://eu.diablo3.com/profile/Sawyer-22852/)             |      8248      | 9.17 Quadrillion  |   Wizard    | 2023-08-19 14:27:38 |
