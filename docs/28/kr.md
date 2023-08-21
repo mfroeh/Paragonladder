@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-21 17:35:48.084604
+Table created at 2023-08-21 18:40:44.629066
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -139,7 +139,7 @@ Table created at 2023-08-21 17:35:48.084604
 | 132 | [Leraje#3714](https://kr.diablo3.com/profile/Leraje-3714/)             |      4838      | 1.75 Quadrillion  |     DH      | 2023-03-08 20:54:29 |
 | 133 | [Drone#31968](https://kr.diablo3.com/profile/Drone-31968/)             |      4834      | 1.74 Quadrillion  |   Wizard    | 2023-03-08 20:54:44 |
 | 134 | [짱구는피말려#3518](https://kr.diablo3.com/profile/짱구는피말려-3518/)             |      4809      | 1.72 Quadrillion  |     DH      | 2023-03-08 20:54:47 |
-| 135 | [Rider#11476](https://kr.diablo3.com/profile/Rider-11476/)             |      4807      | 1.71 Quadrillion  |    Monk     | 2023-08-21 17:30:31 |
+| 135 | [Rider#11476](https://kr.diablo3.com/profile/Rider-11476/)             |      4807      | 1.71 Quadrillion  |    Monk     | 2023-08-21 17:31:16 |
 | 136 | [하이에나#31627](https://kr.diablo3.com/profile/하이에나-31627/)               |      4806      | 1.71 Quadrillion  |     DH      | 2023-03-08 20:54:43 |
 | 137 | [꼬마자객#331569](https://kr.diablo3.com/profile/꼬마자객-331569/)             |      4805      | 1.71 Quadrillion  |     DH      | 2023-03-08 20:54:53 |
 | 138 | [ParavoZz#3938](https://kr.diablo3.com/profile/ParavoZz-3938/)         |      4805      | 1.71 Quadrillion  |     DH      | 2023-03-08 20:54:56 |
