@@ -1,11 +1,11 @@
 # Season 28 (US)
 
 ---
-Table created at 2023-08-21 16:43:23.709820
+Table created at 2023-08-21 17:35:48.080830
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [Twon#21334](https://us.diablo3.com/profile/Twon-21334/)                   |     11786      | 27.26 Quadrillion |   Wizard    | 2023-08-21 06:45:27 |
+| 1   | [Twon#21334](https://us.diablo3.com/profile/Twon-21334/)                   |     11786      | 27.26 Quadrillion |   Wizard    | 2023-08-21 17:24:42 |
 | 2   | [Alaina#11902](https://us.diablo3.com/profile/Alaina-11902/)               |     11781      | 27.23 Quadrillion |   Wizard    | 2023-05-28 03:52:20 |
 | 3   | [MTGProxyPros#1801](https://us.diablo3.com/profile/MTGProxyPros-1801/)     |     11555      | 25.67 Quadrillion |   Wizard    | 2023-05-29 21:42:06 |
 | 4   | [QuinnD3#2600](https://us.diablo3.com/profile/QuinnD3-2600/)               |     11542      | 25.58 Quadrillion |   Wizard    | 2023-07-28 03:49:09 |
@@ -33,7 +33,7 @@ Table created at 2023-08-21 16:43:23.709820
 | 26  | [yipan#11432](https://us.diablo3.com/profile/yipan-11432/)                 |     10315      | 18.17 Quadrillion |   Wizard    | 2023-05-29 21:42:18 |
 | 27  | [DoYoN85#11194](https://us.diablo3.com/profile/DoYoN85-11194/)             |     10297      | 18.07 Quadrillion |   Wizard    | 2023-05-29 21:42:29 |
 | 28  | [aichishaokao#1187](https://us.diablo3.com/profile/aichishaokao-1187/)     |     10297      | 18.07 Quadrillion |   Wizard    | 2023-05-26 22:52:32 |
-| 29  | [iceweb#1701](https://us.diablo3.com/profile/iceweb-1701/)                 |     10276      | 17.96 Quadrillion |   Wizard    | 2023-08-21 12:42:48 |
+| 29  | [iceweb#1701](https://us.diablo3.com/profile/iceweb-1701/)                 |     10276      | 17.96 Quadrillion |   Wizard    | 2023-08-21 16:56:09 |
 | 30  | [Ckrow24#1509](https://us.diablo3.com/profile/Ckrow24-1509/)               |     10269      | 17.92 Quadrillion |   Wizard    | 2023-08-16 08:25:25 |
 | 31  | [StatsXVI#1284](https://us.diablo3.com/profile/StatsXVI-1284/)             |     10212      | 17.62 Quadrillion |   Wizard    | 2023-05-29 04:21:07 |
 | 32  | [Mel123#1288](https://us.diablo3.com/profile/Mel123-1288/)                 |     10205      | 17.59 Quadrillion |   Wizard    | 2023-08-21 11:38:30 |
