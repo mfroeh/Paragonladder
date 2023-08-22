@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-22 03:38:37.644455
+Table created at 2023-08-22 04:40:35.676562
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -111,7 +111,7 @@ Table created at 2023-08-22 03:38:37.644455
 | 104 | [lengyue#31128](https://kr.diablo3.com/profile/lengyue-31128/)         |      6013      | 3.45 Quadrillion  |     DH      | 2023-08-16 14:01:29 |
 | 105 | [fier#31257](https://kr.diablo3.com/profile/fier-31257/)               |      5782      | 3.06 Quadrillion  |   Wizard    | 2023-03-15 11:05:49 |
 | 106 | [아르#31176](https://kr.diablo3.com/profile/아르-31176/)                   |      5733      | 2.98 Quadrillion  |   Wizard    | 2023-04-05 17:01:59 |
-| 107 | [PinLone#4591](https://kr.diablo3.com/profile/PinLone-4591/)           |      5725      | 2.96 Quadrillion  |   Wizard    | 2023-06-06 08:36:12 |
+| 107 | [PinLone#4591](https://kr.diablo3.com/profile/PinLone-4591/)           |      5725      | 2.96 Quadrillion  |   Wizard    | 2023-08-22 04:34:49 |
 | 108 | [Didi#23191](https://kr.diablo3.com/profile/Didi-23191/)               |      5707      | 2.93 Quadrillion  |     DH      | 2023-03-08 20:54:48 |
 | 109 | [闪亮之翼#4294](https://kr.diablo3.com/profile/闪亮之翼-4294/)                 |      5444      | 2.53 Quadrillion  |   Wizard    | 2023-08-18 10:29:08 |
 | 110 | [Mura#31281](https://kr.diablo3.com/profile/Mura-31281/)               |      5317      | 2.35 Quadrillion  |     DH      | 2023-05-04 03:16:31 |
