@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-22 07:36:37.469449
+Table created at 2023-08-22 08:43:05.716770
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -44,7 +44,7 @@ Table created at 2023-08-22 07:36:37.469449
 | 37  | [Redamancy#21702](https://kr.diablo3.com/profile/Redamancy-21702/)     |     11321      | 24.12 Quadrillion |   Wizard    | 2023-07-25 05:32:01 |
 | 38  | [transparence#1180](https://kr.diablo3.com/profile/transparence-1180/) |     11174      | 23.18 Quadrillion |   Wizard    | 2023-05-26 02:52:48 |
 | 39  | [一叶斗神#3152](https://kr.diablo3.com/profile/一叶斗神-3152/)                 |     11126      | 22.88 Quadrillion |   Wizard    | 2023-08-20 09:29:15 |
-| 40  | [Aube#31233](https://kr.diablo3.com/profile/Aube-31233/)               |     11098      | 22.71 Quadrillion |   Wizard    | 2023-08-16 11:55:22 |
+| 40  | [Aube#31233](https://kr.diablo3.com/profile/Aube-31233/)               |     11098      | 22.71 Quadrillion |   Wizard    | 2023-08-22 08:27:03 |
 | 41  | [JerryFeng#1783](https://kr.diablo3.com/profile/JerryFeng-1783/)       |     11055      | 22.44 Quadrillion |   Wizard    | 2023-05-24 00:03:22 |
 | 42  | [你媽買菜必漲價#4624](https://kr.diablo3.com/profile/你媽買菜必漲價-4624/)           |     11054      | 22.43 Quadrillion |   Wizard    | 2023-07-18 12:25:29 |
 | 43  | [유돌#3720](https://kr.diablo3.com/profile/유돌-3720/)                     |     11042      | 22.36 Quadrillion |   Wizard    | 2023-05-25 19:57:58 |
