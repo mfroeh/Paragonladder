@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-24 21:35:30.091937
+Table created at 2023-08-24 22:36:46.475881
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -112,9 +112,9 @@ Table created at 2023-08-24 21:35:30.091937
 | 105 | [RTGDanny#2989](https://eu.diablo3.com/profile/RTGDanny-2989/)           |      8775      | 11.09 Quadrillion |   Wizard    | 2023-05-17 18:32:49 |
 | 106 | [snacky#21362](https://eu.diablo3.com/profile/snacky-21362/)             |      8773      | 11.08 Quadrillion |   Wizard    | 2023-05-29 21:42:27 |
 | 107 | [Mirush#2364](https://eu.diablo3.com/profile/Mirush-2364/)               |      8741      | 10.96 Quadrillion |   Wizard    | 2023-04-23 15:46:43 |
-| 108 | [FisT#11425](https://eu.diablo3.com/profile/FisT-11425/)                 |      8720      | 10.88 Quadrillion |     DH      | 2023-05-29 21:42:20 |
-| 109 | [ChaCha#22319](https://eu.diablo3.com/profile/ChaCha-22319/)             |      8719      | 10.87 Quadrillion |   Wizard    | 2023-05-24 10:21:54 |
-| 110 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8719      | 10.87 Quadrillion |   Wizard    | 2023-08-24 18:32:35 |
+| 108 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8729      | 10.91 Quadrillion |   Wizard    | 2023-08-24 21:44:40 |
+| 109 | [FisT#11425](https://eu.diablo3.com/profile/FisT-11425/)                 |      8720      | 10.88 Quadrillion |     DH      | 2023-05-29 21:42:20 |
+| 110 | [ChaCha#22319](https://eu.diablo3.com/profile/ChaCha-22319/)             |      8719      | 10.87 Quadrillion |   Wizard    | 2023-05-24 10:21:54 |
 | 111 | [KnudseN#22313](https://eu.diablo3.com/profile/KnudseN-22313/)           |      8715      | 10.86 Quadrillion |   Wizard    | 2023-05-29 21:41:59 |
 | 112 | [NotCris#2258](https://eu.diablo3.com/profile/NotCris-2258/)             |      8707      | 10.83 Quadrillion |   Wizard    | 2023-05-09 17:08:11 |
 | 113 | [EmDoG#21480](https://eu.diablo3.com/profile/EmDoG-21480/)               |      8654      | 10.62 Quadrillion |   Wizard    | 2023-05-26 21:06:00 |
