@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-26 16:39:58.179668
+Table created at 2023-08-26 17:35:04.347874
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -96,7 +96,7 @@ Table created at 2023-08-26 16:39:58.179668
 | 89  | [Banzie#21634](https://eu.diablo3.com/profile/Banzie-21634/)             |      9147      | 12.59 Quadrillion |   Wizard    | 2023-05-29 21:14:18 |
 | 90  | [NotNick#21412](https://eu.diablo3.com/profile/NotNick-21412/)           |      9115      | 12.46 Quadrillion |   Wizard    | 2023-05-29 17:38:45 |
 | 91  | [kijenn#2924](https://eu.diablo3.com/profile/kijenn-2924/)               |      9095      | 12.37 Quadrillion |     DH      | 2023-05-29 21:42:35 |
-| 92  | [ChrisGrandPa#2915](https://eu.diablo3.com/profile/ChrisGrandPa-2915/)   |      9077      | 12.3 Quadrillion  |   Wizard    | 2023-08-26 14:22:03 |
+| 92  | [ChrisGrandPa#2915](https://eu.diablo3.com/profile/ChrisGrandPa-2915/)   |      9077      | 12.3 Quadrillion  |   Wizard    | 2023-08-26 16:50:16 |
 | 93  | [Buzzcocks#21960](https://eu.diablo3.com/profile/Buzzcocks-21960/)       |      9031      | 12.11 Quadrillion |   Wizard    | 2023-08-22 22:08:14 |
 | 94  | [ivanoos#21129](https://eu.diablo3.com/profile/ivanoos-21129/)           |      8991      | 11.94 Quadrillion |   Wizard    | 2023-05-29 21:42:26 |
 | 95  | [Quento#21143](https://eu.diablo3.com/profile/Quento-21143/)             |      8949      | 11.77 Quadrillion |   Wizard    | 2023-05-04 23:18:22 |
@@ -107,7 +107,7 @@ Table created at 2023-08-26 16:39:58.179668
 | 100 | [shamaz#21173](https://eu.diablo3.com/profile/shamaz-21173/)             |      8872      | 11.47 Quadrillion |   Wizard    | 2023-05-27 23:05:09 |
 | 101 | [zopper#21424](https://eu.diablo3.com/profile/zopper-21424/)             |      8872      | 11.47 Quadrillion |   Wizard    | 2023-05-29 21:42:35 |
 | 102 | [Mariacarried#2472](https://eu.diablo3.com/profile/Mariacarried-2472/)   |      8862      | 11.43 Quadrillion |   Wizard    | 2023-05-19 17:05:32 |
-| 103 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8844      | 11.36 Quadrillion |   Wizard    | 2023-08-26 11:34:20 |
+| 103 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8861      | 11.42 Quadrillion |   Wizard    | 2023-08-26 16:56:18 |
 | 104 | [Joda#22913](https://eu.diablo3.com/profile/Joda-22913/)                 |      8798      | 11.18 Quadrillion |   Wizard    | 2023-05-29 21:41:39 |
 | 105 | [ChuckNoris#21816](https://eu.diablo3.com/profile/ChuckNoris-21816/)     |      8796      | 11.17 Quadrillion |   Wizard    | 2023-05-29 21:42:11 |
 | 106 | [RTGDanny#2989](https://eu.diablo3.com/profile/RTGDanny-2989/)           |      8775      | 11.09 Quadrillion |   Wizard    | 2023-05-17 18:32:49 |
@@ -198,6 +198,6 @@ Table created at 2023-08-26 16:39:58.179668
 | 191 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-06-25 00:36:58 |
 | 192 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      776       | 2.67 Trillion     |     DH      | 2023-06-14 06:35:14 |
 | 193 | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)               |      196       | 30.45 Billion     |     DH      | 2023-07-13 23:24:59 |
-| 194 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-08-26 16:22:12 |
+| 194 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-08-26 17:10:23 |
 | 195 | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)               |       0        | 0                 |     DH      | 2023-05-29 19:43:34 |
 | 196 | [aFreddy#2167](https://eu.diablo3.com/profile/aFreddy-2167/)             |       0        | 0                 |     DH      | 2023-05-28 02:00:44 |
