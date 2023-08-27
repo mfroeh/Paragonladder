@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-08-27 13:39:58.024861
+Table created at 2023-08-27 14:33:58.017380
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -14,8 +14,8 @@ Table created at 2023-08-27 13:39:58.024861
 | 7   | [라이언#32519](https://kr.diablo3.com/profile/라이언-32519/)                 |     13572      | 41.83 Quadrillion |   Wizard    | 2023-08-15 01:04:28 |
 | 8   | [정손#3545](https://kr.diablo3.com/profile/정손-3545/)                     |     13479      | 40.97 Quadrillion |   Wizard    | 2023-08-02 14:01:16 |
 | 9   | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |     13140      | 37.92 Quadrillion |   Wizard    | 2023-08-15 12:28:27 |
-| 10  | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     13107      | 37.63 Quadrillion |   Wizard    | 2023-08-27 09:55:48 |
-| 11  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     13074      | 37.35 Quadrillion |   Wizard    | 2023-08-27 13:27:58 |
+| 10  | [Gibsub#1897](https://kr.diablo3.com/profile/Gibsub-1897/)             |     13115      | 37.7 Quadrillion  |   Wizard    | 2023-08-27 13:59:40 |
+| 11  | [Crazy#33806](https://kr.diablo3.com/profile/Crazy-33806/)             |     13074      | 37.35 Quadrillion |   Wizard    | 2023-08-27 14:00:15 |
 | 12  | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |     12952      | 36.3 Quadrillion  |   Wizard    | 2023-07-07 07:16:10 |
 | 13  | [Azrael#3955](https://kr.diablo3.com/profile/Azrael-3955/)             |     12941      | 36.21 Quadrillion |   Wizard    | 2023-07-30 07:32:47 |
 | 14  | [태양#3380](https://kr.diablo3.com/profile/태양-3380/)                     |     12834      | 35.31 Quadrillion |   Wizard    | 2023-08-24 00:54:12 |
