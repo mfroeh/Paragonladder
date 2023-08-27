@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-27 01:35:58.620190
+Table created at 2023-08-27 02:42:31.606053
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -104,7 +104,7 @@ Table created at 2023-08-27 01:35:58.620190
 | 97  | [Marv#22230](https://eu.diablo3.com/profile/Marv-22230/)                 |      8892      | 11.55 Quadrillion |   Wizard    | 2023-05-17 23:09:38 |
 | 98  | [lolwutzz#2747](https://eu.diablo3.com/profile/lolwutzz-2747/)           |      8888      | 11.53 Quadrillion |   Wizard    | 2023-05-12 12:39:49 |
 | 99  | [Grant#21384](https://eu.diablo3.com/profile/Grant-21384/)               |      8887      | 11.53 Quadrillion |     DH      | 2023-05-29 21:00:43 |
-| 100 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8876      | 11.48 Quadrillion |   Wizard    | 2023-08-27 01:20:12 |
+| 100 | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      8876      | 11.48 Quadrillion |   Wizard    | 2023-08-27 02:26:21 |
 | 101 | [shamaz#21173](https://eu.diablo3.com/profile/shamaz-21173/)             |      8872      | 11.47 Quadrillion |   Wizard    | 2023-05-27 23:05:09 |
 | 102 | [zopper#21424](https://eu.diablo3.com/profile/zopper-21424/)             |      8872      | 11.47 Quadrillion |   Wizard    | 2023-05-29 21:42:35 |
 | 103 | [Mariacarried#2472](https://eu.diablo3.com/profile/Mariacarried-2472/)   |      8862      | 11.43 Quadrillion |   Wizard    | 2023-05-19 17:05:32 |
