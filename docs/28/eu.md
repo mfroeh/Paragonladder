@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-28 21:35:16.077572
+Table created at 2023-08-28 22:35:48.069180
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -178,7 +178,7 @@ Table created at 2023-08-28 21:35:16.077572
 | 171 | [Aire#2715](https://eu.diablo3.com/profile/Aire-2715/)                   |      6427      | 4.25 Quadrillion  |   Wizard    | 2023-07-09 06:29:32 |
 | 172 | [Lulu#26563](https://eu.diablo3.com/profile/Lulu-26563/)                 |      6414      | 4.22 Quadrillion  |   Wizard    | 2023-03-28 20:47:16 |
 | 173 | [saint#23145](https://eu.diablo3.com/profile/saint-23145/)               |      6379      | 4.15 Quadrillion  |   Wizard    | 2023-05-07 14:12:52 |
-| 174 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      6360      | 4.11 Quadrillion  |     DH      | 2023-08-28 20:40:38 |
+| 174 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      6372      | 4.13 Quadrillion  |  Barbarian  | 2023-08-28 22:13:33 |
 | 175 | [konacoffie#1654](https://eu.diablo3.com/profile/konacoffie-1654/)       |      6336      | 4.06 Quadrillion  |   Wizard    | 2023-03-14 21:32:03 |
 | 176 | [Domi#22298](https://eu.diablo3.com/profile/Domi-22298/)                 |      6292      | 3.98 Quadrillion  |   Wizard    | 2023-04-09 11:46:34 |
 | 177 | [NiNT3NDO#21893](https://eu.diablo3.com/profile/NiNT3NDO-21893/)         |      6261      | 3.92 Quadrillion  |   Wizard    | 2023-03-18 08:25:09 |
@@ -198,6 +198,6 @@ Table created at 2023-08-28 21:35:16.077572
 | 191 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-06-25 00:36:58 |
 | 192 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      776       | 2.67 Trillion     |     DH      | 2023-06-14 06:35:14 |
 | 193 | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)               |      196       | 30.45 Billion     |     DH      | 2023-07-13 23:24:59 |
-| 194 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-08-28 21:16:36 |
+| 194 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-08-28 22:12:01 |
 | 195 | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)               |       0        | 0                 |     DH      | 2023-05-29 19:43:34 |
 | 196 | [aFreddy#2167](https://eu.diablo3.com/profile/aFreddy-2167/)             |       0        | 0                 |     DH      | 2023-05-28 02:00:44 |
