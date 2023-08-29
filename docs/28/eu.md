@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-29 22:38:31.425863
+Table created at 2023-08-29 23:35:03.962909
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -175,9 +175,9 @@ Table created at 2023-08-29 22:38:31.425863
 | 168 | [Mushido#3418](https://eu.diablo3.com/profile/Mushido-3418/)             |      6551      | 4.51 Quadrillion  |   Wizard    | 2023-05-31 15:50:26 |
 | 169 | [olibo321#2475](https://eu.diablo3.com/profile/olibo321-2475/)           |      6523      | 4.45 Quadrillion  |   Wizard    | 2023-03-27 16:14:09 |
 | 170 | [Sacknaht#2547](https://eu.diablo3.com/profile/Sacknaht-2547/)           |      6485      | 4.37 Quadrillion  |   Wizard    | 2023-05-19 22:01:00 |
-| 171 | [Aire#2715](https://eu.diablo3.com/profile/Aire-2715/)                   |      6427      | 4.25 Quadrillion  |   Wizard    | 2023-07-09 06:29:32 |
-| 172 | [Lulu#26563](https://eu.diablo3.com/profile/Lulu-26563/)                 |      6414      | 4.22 Quadrillion  |   Wizard    | 2023-03-28 20:47:16 |
-| 173 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      6400      | 4.19 Quadrillion  |  Barbarian  | 2023-08-29 18:48:51 |
+| 171 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      6442      | 4.28 Quadrillion  |  Barbarian  | 2023-08-29 23:08:04 |
+| 172 | [Aire#2715](https://eu.diablo3.com/profile/Aire-2715/)                   |      6427      | 4.25 Quadrillion  |   Wizard    | 2023-07-09 06:29:32 |
+| 173 | [Lulu#26563](https://eu.diablo3.com/profile/Lulu-26563/)                 |      6414      | 4.22 Quadrillion  |   Wizard    | 2023-03-28 20:47:16 |
 | 174 | [saint#23145](https://eu.diablo3.com/profile/saint-23145/)               |      6379      | 4.15 Quadrillion  |   Wizard    | 2023-05-07 14:12:52 |
 | 175 | [konacoffie#1654](https://eu.diablo3.com/profile/konacoffie-1654/)       |      6336      | 4.06 Quadrillion  |   Wizard    | 2023-03-14 21:32:03 |
 | 176 | [Domi#22298](https://eu.diablo3.com/profile/Domi-22298/)                 |      6292      | 3.98 Quadrillion  |   Wizard    | 2023-04-09 11:46:34 |
