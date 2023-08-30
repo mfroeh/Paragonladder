@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-08-30 14:37:44.399514
+Table created at 2023-08-30 15:38:18.034854
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -175,7 +175,7 @@ Table created at 2023-08-30 14:37:44.399514
 | 168 | [Mushido#3418](https://eu.diablo3.com/profile/Mushido-3418/)             |      6551      | 4.51 Quadrillion  |   Wizard    | 2023-05-31 15:50:26 |
 | 169 | [olibo321#2475](https://eu.diablo3.com/profile/olibo321-2475/)           |      6523      | 4.45 Quadrillion  |   Wizard    | 2023-03-27 16:14:09 |
 | 170 | [Sacknaht#2547](https://eu.diablo3.com/profile/Sacknaht-2547/)           |      6485      | 4.37 Quadrillion  |   Wizard    | 2023-05-19 22:01:00 |
-| 171 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      6442      | 4.28 Quadrillion  |  Barbarian  | 2023-08-29 23:08:04 |
+| 171 | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)   |      6442      | 4.28 Quadrillion  |  Barbarian  | 2023-08-30 14:49:45 |
 | 172 | [Aire#2715](https://eu.diablo3.com/profile/Aire-2715/)                   |      6427      | 4.25 Quadrillion  |   Wizard    | 2023-07-09 06:29:32 |
 | 173 | [Lulu#26563](https://eu.diablo3.com/profile/Lulu-26563/)                 |      6414      | 4.22 Quadrillion  |   Wizard    | 2023-03-28 20:47:16 |
 | 174 | [saint#23145](https://eu.diablo3.com/profile/saint-23145/)               |      6379      | 4.15 Quadrillion  |   Wizard    | 2023-05-07 14:12:52 |
