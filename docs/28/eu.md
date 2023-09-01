@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-09-01 01:39:19.892820
+Table created at 2023-09-01 02:47:46.979476
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -94,7 +94,7 @@ Table created at 2023-09-01 01:39:19.892820
 | 87  | [Whatcha#21297](https://eu.diablo3.com/profile/Whatcha-21297/)           |      9192      | 12.78 Quadrillion |   Wizard    | 2023-05-29 21:42:28 |
 | 88  | [Aston#21143](https://eu.diablo3.com/profile/Aston-21143/)               |      9165      | 12.67 Quadrillion |   Wizard    | 2023-04-22 13:01:07 |
 | 89  | [Banzie#21634](https://eu.diablo3.com/profile/Banzie-21634/)             |      9147      | 12.59 Quadrillion |   Wizard    | 2023-05-29 21:14:18 |
-| 90  | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      9139      | 12.56 Quadrillion |   Wizard    | 2023-09-01 00:46:50 |
+| 90  | [eSsex#2905](https://eu.diablo3.com/profile/eSsex-2905/)                 |      9142      | 12.57 Quadrillion |   Wizard    | 2023-09-01 01:59:52 |
 | 91  | [NotNick#21412](https://eu.diablo3.com/profile/NotNick-21412/)           |      9115      | 12.46 Quadrillion |   Wizard    | 2023-05-29 17:38:45 |
 | 92  | [ChrisGrandPa#2915](https://eu.diablo3.com/profile/ChrisGrandPa-2915/)   |      9105      | 12.41 Quadrillion |   Wizard    | 2023-08-29 20:29:10 |
 | 93  | [kijenn#2924](https://eu.diablo3.com/profile/kijenn-2924/)               |      9095      | 12.37 Quadrillion |     DH      | 2023-05-29 21:42:35 |
