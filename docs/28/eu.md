@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-09-01 07:38:16.611898
+Table created at 2023-09-01 08:43:54.560349
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -196,7 +196,7 @@ Table created at 2023-09-01 07:38:16.611898
 | 189 | [MageOrDie#2697](https://eu.diablo3.com/profile/MageOrDie-2697/)         |      5929      | 3.31 Quadrillion  |   Wizard    | 2023-03-22 11:56:08 |
 | 190 | [ЯсныйБосс#2801](https://eu.diablo3.com/profile/ЯсныйБосс-2801/)         |      5845      | 3.16 Quadrillion  |   Wizard    | 2023-08-20 14:03:26 |
 | 191 | [HamsterD3#2615](https://eu.diablo3.com/profile/HamsterD3-2615/)         |      5686      | 2.9 Quadrillion   |   Wizard    | 2023-06-25 00:36:58 |
-| 192 | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)               |      839       | 4.2 Trillion      |     DH      | 2023-09-01 06:49:11 |
+| 192 | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)               |      876       | 5.32 Trillion     |     DH      | 2023-09-01 08:23:22 |
 | 193 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      776       | 2.67 Trillion     |     DH      | 2023-06-14 06:35:14 |
 | 194 | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)               |      196       | 30.45 Billion     |     DH      | 2023-07-13 23:24:59 |
 | 195 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-09-01 05:35:23 |
