@@ -1,12 +1,12 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-09-08 10:39:22.618679
+Table created at 2023-09-08 11:35:06.401467
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     15199      | 58.93 Quadrillion |   Wizard    | 2023-09-08 09:32:48 |
-| 2   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     14836      | 54.77 Quadrillion |   Wizard    | 2023-09-08 09:59:46 |
+| 2   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     14837      | 54.78 Quadrillion |   Wizard    | 2023-09-08 11:31:49 |
 | 3   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14615      | 52.34 Quadrillion |   Wizard    | 2023-09-08 10:00:24 |
 | 4   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     14007      | 46.02 Quadrillion |   Wizard    | 2023-09-08 08:38:12 |
 | 5   | [skyle#31465](https://kr.diablo3.com/profile/skyle-31465/)             |     13814      | 44.13 Quadrillion |   Wizard    | 2023-07-31 21:53:11 |
@@ -107,7 +107,7 @@ Table created at 2023-09-08 10:39:22.618679
 | 100 | [AAAAAAD#3861](https://kr.diablo3.com/profile/AAAAAAD-3861/)           |      6117      | 3.64 Quadrillion  |   Wizard    | 2023-03-08 20:54:36 |
 | 101 | [HIHIcomeback#3462](https://kr.diablo3.com/profile/HIHIcomeback-3462/) |      6115      | 3.64 Quadrillion  |   Wizard    | 2023-03-15 19:15:15 |
 | 102 | [iamjakehill#3120](https://kr.diablo3.com/profile/iamjakehill-3120/)   |      6083      | 3.58 Quadrillion  |     DH      | 2023-02-24 20:00:08 |
-| 103 | [ERAMASON#3509](https://kr.diablo3.com/profile/ERAMASON-3509/)         |      6053      | 3.52 Quadrillion  |   Wizard    | 2023-05-23 14:30:03 |
+| 103 | [ERAMASON#3509](https://kr.diablo3.com/profile/ERAMASON-3509/)         |      6053      | 3.52 Quadrillion  |   Wizard    | 2023-09-08 11:22:55 |
 | 104 | [lengyue#31128](https://kr.diablo3.com/profile/lengyue-31128/)         |      6013      | 3.45 Quadrillion  |     DH      | 2023-08-16 14:01:29 |
 | 105 | [fier#31257](https://kr.diablo3.com/profile/fier-31257/)               |      5782      | 3.06 Quadrillion  |   Wizard    | 2023-03-15 11:05:49 |
 | 106 | [아르#31176](https://kr.diablo3.com/profile/아르-31176/)                   |      5733      | 2.98 Quadrillion  |   Wizard    | 2023-04-05 17:01:59 |
