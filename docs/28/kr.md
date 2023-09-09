@@ -1,7 +1,7 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-09-09 18:40:22.341122
+Table created at 2023-09-09 19:32:54.839934
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -114,7 +114,7 @@ Table created at 2023-09-09 18:40:22.341122
 | 107 | [PinLone#4591](https://kr.diablo3.com/profile/PinLone-4591/)           |      5729      | 2.97 Quadrillion  |   Wizard    | 2023-09-09 04:17:39 |
 | 108 | [Didi#23191](https://kr.diablo3.com/profile/Didi-23191/)               |      5707      | 2.93 Quadrillion  |     DH      | 2023-03-08 20:54:48 |
 | 109 | [闪亮之翼#4294](https://kr.diablo3.com/profile/闪亮之翼-4294/)                 |      5444      | 2.53 Quadrillion  |   Wizard    | 2023-08-18 10:29:08 |
-| 110 | [Mura#31281](https://kr.diablo3.com/profile/Mura-31281/)               |      5333      | 2.37 Quadrillion  |     DH      | 2023-09-09 18:21:57 |
+| 110 | [Mura#31281](https://kr.diablo3.com/profile/Mura-31281/)               |      5334      | 2.38 Quadrillion  |     DH      | 2023-09-09 19:24:42 |
 | 111 | [태상#31183](https://kr.diablo3.com/profile/태상-31183/)                   |      5273      | 2.29 Quadrillion  |   Wizard    | 2023-03-22 17:54:39 |
 | 112 | [Apdo#31635](https://kr.diablo3.com/profile/Apdo-31635/)               |      5271      | 2.29 Quadrillion  |   Wizard    | 2023-03-08 20:54:42 |
 | 113 | [Brysj#11807](https://kr.diablo3.com/profile/Brysj-11807/)             |      5201      | 2.2 Quadrillion   |   Wizard    | 2023-03-08 20:54:51 |
