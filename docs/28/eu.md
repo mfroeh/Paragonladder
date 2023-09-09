@@ -1,7 +1,7 @@
 # Season 28 (EU)
 
 ---
-Table created at 2023-09-09 07:32:44.826714
+Table created at 2023-09-09 08:40:52.377964
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -199,5 +199,5 @@ Table created at 2023-09-09 07:32:44.826714
 | 192 | [Garou#21806](https://eu.diablo3.com/profile/Garou-21806/)               |      1202      | 22.47 Trillion    |     DH      | 2023-09-06 18:07:28 |
 | 193 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      776       | 2.67 Trillion     |     DH      | 2023-06-14 06:35:14 |
 | 194 | [Baydem#2412](https://eu.diablo3.com/profile/Baydem-2412/)               |      196       | 30.45 Billion     |     DH      | 2023-07-13 23:24:59 |
-| 195 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-09-08 18:20:32 |
+| 195 | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                 |       0        | 0                 |   Wizard    | 2023-09-09 08:17:55 |
 | 196 | [aFreddy#2167](https://eu.diablo3.com/profile/aFreddy-2167/)             |       0        | 0                 |     DH      | 2023-05-28 02:00:44 |
