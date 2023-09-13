@@ -1,7 +1,7 @@
 # Season 28 (US)
 
 ---
-Table created at 2023-09-13 22:34:30.528769
+Table created at 2023-09-13 23:35:20.962895
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -17,7 +17,7 @@ Table created at 2023-09-13 22:34:30.528769
 | 10  | [Milos#1495](https://us.diablo3.com/profile/Milos-1495/)                   |     10829      | 21.07 Quadrillion |   Wizard    | 2023-05-29 21:42:18 |
 | 11  | [Onyx#15411](https://us.diablo3.com/profile/Onyx-15411/)                   |     10820      | 21.02 Quadrillion |   Wizard    | 2023-05-29 21:42:06 |
 | 12  | [intrikit#11705](https://us.diablo3.com/profile/intrikit-11705/)           |     10802      | 20.91 Quadrillion |    Monk     | 2023-05-29 21:42:00 |
-| 13  | [SaGa#3142](https://us.diablo3.com/profile/SaGa-3142/)                     |     10753      | 20.63 Quadrillion |   Wizard    | 2023-09-13 22:11:47 |
+| 13  | [SaGa#3142](https://us.diablo3.com/profile/SaGa-3142/)                     |     10753      | 20.63 Quadrillion |   Wizard    | 2023-09-13 22:22:23 |
 | 14  | [Smadge#1285](https://us.diablo3.com/profile/Smadge-1285/)                 |     10732      | 20.5 Quadrillion  |   Wizard    | 2023-05-29 21:43:14 |
 | 15  | [GottafeedCat#1588](https://us.diablo3.com/profile/GottafeedCat-1588/)     |     10687      | 20.24 Quadrillion |   Wizard    | 2023-05-29 21:42:21 |
 | 16  | [iceweb#1701](https://us.diablo3.com/profile/iceweb-1701/)                 |     10667      | 20.13 Quadrillion |   Wizard    | 2023-09-12 04:23:40 |
@@ -35,7 +35,7 @@ Table created at 2023-09-13 22:34:30.528769
 | 28  | [CHAOS3#11753](https://us.diablo3.com/profile/CHAOS3-11753/)               |     10386      | 18.55 Quadrillion |   Wizard    | 2023-09-09 22:37:01 |
 | 29  | [Nite#11397](https://us.diablo3.com/profile/Nite-11397/)                   |     10333      | 18.27 Quadrillion |   Wizard    | 2023-05-28 04:30:43 |
 | 30  | [GUNNERS#6924](https://us.diablo3.com/profile/GUNNERS-6924/)               |     10324      | 18.22 Quadrillion |   Wizard    | 2023-09-13 17:00:30 |
-| 31  | [Kabello#1201](https://us.diablo3.com/profile/Kabello-1201/)               |     10316      | 18.18 Quadrillion |   Wizard    | 2023-09-13 21:43:31 |
+| 31  | [Kabello#1201](https://us.diablo3.com/profile/Kabello-1201/)               |     10316      | 18.18 Quadrillion |   Wizard    | 2023-09-13 22:43:50 |
 | 32  | [yipan#11432](https://us.diablo3.com/profile/yipan-11432/)                 |     10315      | 18.17 Quadrillion |   Wizard    | 2023-05-29 21:42:18 |
 | 33  | [DoYoN85#11194](https://us.diablo3.com/profile/DoYoN85-11194/)             |     10297      | 18.07 Quadrillion |   Wizard    | 2023-05-29 21:42:29 |
 | 34  | [aichishaokao#1187](https://us.diablo3.com/profile/aichishaokao-1187/)     |     10297      | 18.07 Quadrillion |   Wizard    | 2023-05-26 22:52:32 |
@@ -72,7 +72,7 @@ Table created at 2023-09-13 22:34:30.528769
 | 65  | [dustinh#11890](https://us.diablo3.com/profile/dustinh-11890/)             |      9500      | 14.13 Quadrillion |   Wizard    | 2023-04-24 13:11:48 |
 | 66  | [miluan333#1500](https://us.diablo3.com/profile/miluan333-1500/)           |      9495      | 14.11 Quadrillion |   Wizard    | 2023-05-29 21:42:25 |
 | 67  | [Goosifer#11991](https://us.diablo3.com/profile/Goosifer-11991/)           |      9476      | 14.03 Quadrillion |   Wizard    | 2023-05-29 21:42:18 |
-| 68  | [Jeremooooosh#1616](https://us.diablo3.com/profile/Jeremooooosh-1616/)     |      9440      | 13.86 Quadrillion |   Wizard    | 2023-09-13 22:13:17 |
+| 68  | [Jeremooooosh#1616](https://us.diablo3.com/profile/Jeremooooosh-1616/)     |      9440      | 13.86 Quadrillion |   Wizard    | 2023-09-13 23:13:49 |
 | 69  | [Toker#11252](https://us.diablo3.com/profile/Toker-11252/)                 |      9415      | 13.75 Quadrillion |   Wizard    | 2023-05-03 05:29:59 |
 | 70  | [ERICK#14819](https://us.diablo3.com/profile/ERICK-14819/)                 |      9408      | 13.72 Quadrillion |   Wizard    | 2023-05-29 21:21:25 |
 | 71  | [Demyth#11245](https://us.diablo3.com/profile/Demyth-11245/)               |      9406      | 13.71 Quadrillion |   Wizard    | 2023-09-13 21:13:33 |
@@ -94,7 +94,7 @@ Table created at 2023-09-13 22:34:30.528769
 | 87  | [ghost#148427](https://us.diablo3.com/profile/ghost-148427/)               |      9204      | 12.83 Quadrillion |   Wizard    | 2023-05-29 21:42:03 |
 | 88  | [VENSER#11997](https://us.diablo3.com/profile/VENSER-11997/)               |      9199      | 12.81 Quadrillion |   Wizard    | 2023-05-29 21:42:04 |
 | 89  | [VicDrive#1850](https://us.diablo3.com/profile/VicDrive-1850/)             |      9183      | 12.74 Quadrillion |   Wizard    | 2023-09-13 20:10:28 |
-| 90  | [Cheetos#11209](https://us.diablo3.com/profile/Cheetos-11209/)             |      9174      | 12.7 Quadrillion  |   Wizard    | 2023-09-11 01:01:49 |
+| 90  | [Cheetos#11209](https://us.diablo3.com/profile/Cheetos-11209/)             |      9174      | 12.7 Quadrillion  |   Wizard    | 2023-09-13 23:01:22 |
 | 91  | [dRseuss71#6232](https://us.diablo3.com/profile/dRseuss71-6232/)           |      9165      | 12.67 Quadrillion |   Wizard    | 2023-09-13 13:01:57 |
 | 92  | [PumpkinZpice#3790](https://us.diablo3.com/profile/PumpkinZpice-3790/)     |      9164      | 12.66 Quadrillion |   Wizard    | 2023-04-29 06:46:13 |
 | 93  | [iFrank#11806](https://us.diablo3.com/profile/iFrank-11806/)               |      9148      | 12.59 Quadrillion |   Wizard    | 2023-05-21 17:43:05 |
@@ -104,7 +104,7 @@ Table created at 2023-09-13 22:34:30.528769
 | 97  | [itsLyyt#3479](https://us.diablo3.com/profile/itsLyyt-3479/)               |      9075      | 12.29 Quadrillion |   Wizard    | 2023-05-29 21:42:42 |
 | 98  | [Noah#13825](https://us.diablo3.com/profile/Noah-13825/)                   |      9065      | 12.25 Quadrillion |   Wizard    | 2023-07-31 12:14:39 |
 | 99  | [Whisper#6439](https://us.diablo3.com/profile/Whisper-6439/)               |      9059      | 12.22 Quadrillion |   Wizard    | 2023-09-02 10:54:45 |
-| 100 | [Nuyir#1798](https://us.diablo3.com/profile/Nuyir-1798/)                   |      9050      | 12.19 Quadrillion |   Wizard    | 2023-09-13 22:27:20 |
+| 100 | [Nuyir#1798](https://us.diablo3.com/profile/Nuyir-1798/)                   |      9050      | 12.19 Quadrillion |   Wizard    | 2023-09-13 23:23:26 |
 | 101 | [FireHammer#1319](https://us.diablo3.com/profile/FireHammer-1319/)         |      9047      | 12.17 Quadrillion |   Wizard    | 2023-05-29 18:30:58 |
 | 102 | [fourhead#11274](https://us.diablo3.com/profile/fourhead-11274/)           |      9042      | 12.15 Quadrillion |     DH      | 2023-05-22 04:38:15 |
 | 103 | [Emildy#3680](https://us.diablo3.com/profile/Emildy-3680/)                 |      9035      | 12.12 Quadrillion |   Wizard    | 2023-05-28 07:22:10 |
@@ -128,12 +128,12 @@ Table created at 2023-09-13 22:34:30.528769
 | 121 | [TunaCanSam#11613](https://us.diablo3.com/profile/TunaCanSam-11613/)       |      8781      | 11.11 Quadrillion |   Wizard    | 2023-05-29 21:42:38 |
 | 122 | [Lexington#1333](https://us.diablo3.com/profile/Lexington-1333/)           |      8772      | 11.08 Quadrillion |   Wizard    | 2023-09-13 01:56:09 |
 | 123 | [UncleLenny#11258](https://us.diablo3.com/profile/UncleLenny-11258/)       |      8736      | 10.94 Quadrillion |   Wizard    | 2023-05-29 01:22:27 |
-| 124 | [Kadan#11474](https://us.diablo3.com/profile/Kadan-11474/)                 |      8711      | 10.84 Quadrillion |   Wizard    | 2023-09-13 21:38:57 |
+| 124 | [Kadan#11474](https://us.diablo3.com/profile/Kadan-11474/)                 |      8711      | 10.84 Quadrillion |   Wizard    | 2023-09-13 22:43:52 |
 | 125 | [Callipygee#11658](https://us.diablo3.com/profile/Callipygee-11658/)       |      8708      | 10.83 Quadrillion |   Wizard    | 2023-04-30 01:11:13 |
 | 126 | [CrazyDevil69#1782](https://us.diablo3.com/profile/CrazyDevil69-1782/)     |      8708      | 10.83 Quadrillion |   Wizard    | 2023-05-29 21:41:48 |
 | 127 | [Y455#1923](https://us.diablo3.com/profile/Y455-1923/)                     |      8697      | 10.79 Quadrillion |   Wizard    | 2023-09-13 04:36:18 |
 | 128 | [huanxiong#2330](https://us.diablo3.com/profile/huanxiong-2330/)           |      8653      | 10.62 Quadrillion |   Wizard    | 2023-05-29 21:42:32 |
-| 129 | [QUIN96#11492](https://us.diablo3.com/profile/QUIN96-11492/)               |      8647      | 10.6 Quadrillion  |   Wizard    | 2023-09-13 22:12:51 |
+| 129 | [QUIN96#11492](https://us.diablo3.com/profile/QUIN96-11492/)               |      8647      | 10.6 Quadrillion  |   Wizard    | 2023-09-13 23:19:01 |
 | 130 | [ShadowStorm#1613384](https://us.diablo3.com/profile/ShadowStorm-1613384/) |      8626      | 10.52 Quadrillion |   Wizard    | 2023-07-30 15:09:48 |
 | 131 | [CSot#1695](https://us.diablo3.com/profile/CSot-1695/)                     |      8626      | 10.52 Quadrillion |   Wizard    | 2023-09-13 02:39:12 |
 | 132 | [DizzyKnight4#21683](https://us.diablo3.com/profile/DizzyKnight4-21683/)   |      8594      | 10.4 Quadrillion  |   Wizard    | 2023-05-24 01:20:43 |
