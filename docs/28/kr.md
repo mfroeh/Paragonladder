@@ -1,11 +1,11 @@
 # Season 28 (KR)
 
 ---
-Table created at 2023-09-14 15:36:21.063645
+Table created at 2023-09-14 16:41:13.125133
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     15253      | 59.56 Quadrillion |   Wizard    | 2023-09-14 15:08:55 |
+| 1   | [英文字母#1472](https://kr.diablo3.com/profile/英文字母-1472/)                 |     15253      | 59.56 Quadrillion |   Wizard    | 2023-09-14 16:30:15 |
 | 2   | [Oxy#2450](https://kr.diablo3.com/profile/Oxy-2450/)                   |     14903      | 55.52 Quadrillion |   Wizard    | 2023-09-13 02:18:21 |
 | 3   | [소룡동생하룡#3219](https://kr.diablo3.com/profile/소룡동생하룡-3219/)             |     14616      | 52.35 Quadrillion |   Wizard    | 2023-09-14 14:06:08 |
 | 4   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |     14041      | 46.36 Quadrillion |   Wizard    | 2023-09-14 04:13:36 |
@@ -91,7 +91,7 @@ Table created at 2023-09-14 15:36:21.063645
 | 84  | [뽀동이아빠#3525](https://kr.diablo3.com/profile/뽀동이아빠-3525/)               |      8294      | 9.33 Quadrillion  |   Wizard    | 2023-09-14 11:06:09 |
 | 85  | [Now#31669](https://kr.diablo3.com/profile/Now-31669/)                 |      8213      | 9.05 Quadrillion  |   Wizard    | 2023-08-31 01:45:24 |
 | 86  | [Fade#31661](https://kr.diablo3.com/profile/Fade-31661/)               |      8094      | 8.65 Quadrillion  |     DH      | 2023-02-24 19:59:24 |
-| 87  | [月无涯#31238](https://kr.diablo3.com/profile/月无涯-31238/)                 |      7846      | 7.86 Quadrillion  |   Wizard    | 2023-04-13 13:33:12 |
+| 87  | [月无涯#31238](https://kr.diablo3.com/profile/月无涯-31238/)                 |      7846      | 7.86 Quadrillion  |   Wizard    | 2023-09-14 16:19:27 |
 | 88  | [Masker#3285](https://kr.diablo3.com/profile/Masker-3285/)             |      7763      | 7.61 Quadrillion  |   Wizard    | 2023-09-13 12:09:07 |
 | 89  | [Pink#31770](https://kr.diablo3.com/profile/Pink-31770/)               |      7537      | 6.95 Quadrillion  |   Wizard    | 2023-05-30 14:13:32 |
 | 90  | [디케이#31251](https://kr.diablo3.com/profile/디케이-31251/)                 |      7368      | 6.48 Quadrillion  |   Wizard    | 2023-04-03 12:53:03 |
