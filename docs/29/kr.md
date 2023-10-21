@@ -1,7 +1,7 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-10-21 20:50:25.794533
+Table created at 2023-10-21 21:46:43.658120
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -23,7 +23,7 @@ Table created at 2023-10-21 20:50:25.794533
 | 16  | [bluesking#3877](https://kr.diablo3.com/profile/bluesking-3877/)       |      4130      | 1.06 Quadrillion  |   Wizard    | 2023-10-21 19:09:22 |
 | 17  | [VIP#32565](https://kr.diablo3.com/profile/VIP-32565/)                 |      4109      | 1.05 Quadrillion  |    Necro    | 2023-10-17 15:21:10 |
 | 18  | [운동해#3532](https://kr.diablo3.com/profile/운동해-3532/)                   |      4101      | 1.04 Quadrillion  |     DH      | 2023-10-17 05:26:44 |
-| 19  | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                     |      4092      | 1.03 Quadrillion  |    Necro    | 2023-10-21 20:37:16 |
+| 19  | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                     |      4092      | 1.03 Quadrillion  |    Necro    | 2023-10-21 21:05:10 |
 | 20  | [柚子#41141](https://kr.diablo3.com/profile/柚子-41141/)                   |      4089      | 1.03 Quadrillion  |    Necro    | 2023-10-17 16:58:54 |
 | 21  | [품바#31335](https://kr.diablo3.com/profile/품바-31335/)                   |      4079      | 1.02 Quadrillion  |   Wizard    | 2023-10-17 17:49:04 |
 | 22  | [泰瑞爾#34820](https://kr.diablo3.com/profile/泰瑞爾-34820/)                 |      4069      | 1.01 Quadrillion  |     DH      | 2023-10-17 17:49:14 |
@@ -156,9 +156,9 @@ Table created at 2023-10-21 20:50:25.794533
 | 149 | [끝판왕#3157](https://kr.diablo3.com/profile/끝판왕-3157/)                   |      3530      | 646.55 Trillion   |   Wizard    | 2023-10-17 17:49:05 |
 | 150 | [榴莲#31594](https://kr.diablo3.com/profile/榴莲-31594/)                   |      3524      | 643.09 Trillion   |    Necro    | 2023-10-17 16:48:35 |
 | 151 | [amber#31788](https://kr.diablo3.com/profile/amber-31788/)             |      3521      | 641.36 Trillion   |     DH      | 2023-10-07 00:00:59 |
-| 152 | [NOLJA#21515](https://kr.diablo3.com/profile/NOLJA-21515/)             |      3516      | 638.49 Trillion   |     DH      | 2023-10-17 17:49:20 |
-| 153 | [HonGDon#3582](https://kr.diablo3.com/profile/HonGDon-3582/)           |      3516      | 638.49 Trillion   |    Necro    | 2023-10-17 17:48:51 |
-| 154 | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      3509      | 634.49 Trillion   |    Necro    | 2023-10-21 16:12:38 |
+| 152 | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      3519      | 640.21 Trillion   |    Necro    | 2023-10-21 21:38:58 |
+| 153 | [NOLJA#21515](https://kr.diablo3.com/profile/NOLJA-21515/)             |      3516      | 638.49 Trillion   |     DH      | 2023-10-17 17:49:20 |
+| 154 | [HonGDon#3582](https://kr.diablo3.com/profile/HonGDon-3582/)           |      3516      | 638.49 Trillion   |    Necro    | 2023-10-17 17:48:51 |
 | 155 | [bxdsb#1606](https://kr.diablo3.com/profile/bxdsb-1606/)               |      3506      | 632.78 Trillion   |  Crusader   | 2023-10-17 17:49:17 |
 | 156 | [체리슈#3914](https://kr.diablo3.com/profile/체리슈-3914/)                   |      3502      | 630.5 Trillion    |    Necro    | 2023-10-21 16:20:25 |
 | 157 | [冬冬的冬#3668](https://kr.diablo3.com/profile/冬冬的冬-3668/)                 |      3500      | 629.37 Trillion   |   Wizard    | 2023-10-17 17:49:21 |
@@ -198,9 +198,10 @@ Table created at 2023-10-21 20:50:25.794533
 | 191 | [지우#31870](https://kr.diablo3.com/profile/지우-31870/)                   |      3376      | 561.7 Trillion    |    Necro    | 2023-10-17 17:49:11 |
 | 192 | [SoloPlayer#11240](https://kr.diablo3.com/profile/SoloPlayer-11240/)   |      3372      | 559.61 Trillion   |     DH      | 2023-10-17 17:49:22 |
 | 193 | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      3363      | 554.92 Trillion   |    Necro    | 2023-10-21 14:34:54 |
-| 194 | [나야냥이#31376](https://kr.diablo3.com/profile/나야냥이-31376/)               |      2046      | 127.28 Trillion   |    Necro    | 2023-10-21 16:21:00 |
-| 195 | [독거미#3890](https://kr.diablo3.com/profile/독거미-3890/)                   |      1956      | 111.95 Trillion   |     DH      | 2023-10-21 16:44:46 |
-| 196 | [Ghost#41709](https://kr.diablo3.com/profile/Ghost-41709/)             |      1498      | 49.3 Trillion     |  Crusader   | 2023-10-21 20:30:03 |
-| 197 | [織田信之#3496](https://kr.diablo3.com/profile/織田信之-3496/)                 |      810       | 3.44 Trillion     |  Crusader   | 2023-10-19 21:05:21 |
-| 198 | [팔복#31814](https://kr.diablo3.com/profile/팔복-31814/)                   |      764       | 2.44 Trillion     |    Monk     | 2023-10-21 09:48:34 |
-| 199 | [索隆#31499](https://kr.diablo3.com/profile/索隆-31499/)                   |      660       | 1.03 Trillion     |     DH      | 2023-10-20 15:45:06 |
+| 194 | [bugaboo#11358](https://kr.diablo3.com/profile/bugaboo-11358/)         |      3361      | 553.88 Trillion   |    Necro    | 2023-10-17 17:04:50 |
+| 195 | [쭈니#3993](https://kr.diablo3.com/profile/쭈니-3993/)                     |      3350      | 548.19 Trillion   |     DH      | 2023-10-21 11:33:09 |
+| 196 | [cocopam78#3646](https://kr.diablo3.com/profile/cocopam78-3646/)       |      3346      | 546.14 Trillion   |    Necro    | 2023-10-21 18:32:33 |
+| 197 | [apple#35276](https://kr.diablo3.com/profile/apple-35276/)             |      3341      | 543.57 Trillion   |    Necro    | 2023-10-20 11:30:32 |
+| 198 | [amena#11422](https://kr.diablo3.com/profile/amena-11422/)             |      3337      | 541.53 Trillion   |     DH      | 2023-10-21 14:32:26 |
+| 199 | [JimmyWu#11742](https://kr.diablo3.com/profile/JimmyWu-11742/)         |      761       | 2.38 Trillion     |    Necro    | 2023-10-17 17:48:59 |
+| 200 | [重剑无锋#31436](https://kr.diablo3.com/profile/重剑无锋-31436/)               |      601       | 628.95 Billion    |     DH      | 2023-10-17 16:48:40 |
