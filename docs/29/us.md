@@ -1,7 +1,7 @@
 # Season 29 (US)
 
 ---
-Table created at 2023-10-28 13:02:54.548639
+Table created at 2023-10-28 13:50:43.615142
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -201,6 +201,7 @@ Table created at 2023-10-28 13:02:54.548639
 | 194 | [LittleZero#1853](https://us.diablo3.com/profile/LittleZero-1853/)       |      2115      | 139.71 Trillion   |   Wizard    | 2023-10-24 13:53:52 |
 | 195 | [Priest#12168](https://us.diablo3.com/profile/Priest-12168/)             |      2112      | 139.16 Trillion   |   Wizard    | 2023-10-06 01:19:33 |
 | 196 | [RiderDecade#3305](https://us.diablo3.com/profile/RiderDecade-3305/)     |      2112      | 139.16 Trillion   |     DH      | 2023-10-23 18:22:44 |
-| 197 | [DethMatt#2950](https://us.diablo3.com/profile/DethMatt-2950/)           |      1254      | 26.4 Trillion     |    Necro    | 2023-10-24 00:51:26 |
-| 198 | [HeavyPsych#1389](https://us.diablo3.com/profile/HeavyPsych-1389/)       |      996       | 10.12 Trillion    |    Necro    | 2023-10-24 08:18:15 |
-| 199 | [Aisllin#11345](https://us.diablo3.com/profile/Aisllin-11345/)           |       0        | 0                 |     DH      | 2023-10-16 23:12:13 |
+| 197 | [Darcco#1648](https://us.diablo3.com/profile/Darcco-1648/)               |      2106      | 138.06 Trillion   |    Necro    | 2023-10-20 20:57:31 |
+| 198 | [JRZMONTEOLIM#1549](https://us.diablo3.com/profile/JRZMONTEOLIM-1549/)   |      2102      | 137.32 Trillion   |     DH      | 2023-10-19 21:12:55 |
+| 199 | [WhiteOak#6605](https://us.diablo3.com/profile/WhiteOak-6605/)           |      2102      | 137.32 Trillion   |   Wizard    | 2023-09-28 20:42:41 |
+| 200 | [Rion#11981](https://us.diablo3.com/profile/Rion-11981/)                 |      1210      | 23.05 Trillion    |  Crusader   | 2023-10-24 11:46:52 |
