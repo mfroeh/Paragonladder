@@ -1,32 +1,32 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-12-01 22:37:11.587610
+Table created at 2023-12-01 23:37:39.060970
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      5828      | 3.13 Quadrillion  |     DH      | 2023-12-01 20:29:13 |
-| 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      5671      | 2.88 Quadrillion  |    Necro    | 2023-12-01 21:58:23 |
-| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5340      | 2.38 Quadrillion  |    Necro    | 2023-12-01 20:24:05 |
+| 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      5671      | 2.88 Quadrillion  |    Necro    | 2023-12-01 23:27:47 |
+| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5342      | 2.39 Quadrillion  |    Necro    | 2023-12-01 22:42:16 |
 | 4   | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5335      | 2.38 Quadrillion  |    Necro    | 2023-12-01 22:11:41 |
 | 5   | [연듯#31279](https://kr.diablo3.com/profile/연듯-31279/)                   |      5225      | 2.23 Quadrillion  |    Necro    | 2023-12-01 20:29:13 |
-| 6   | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      5173      | 2.16 Quadrillion  |    Necro    | 2023-12-01 21:30:17 |
-| 7   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5140      | 2.12 Quadrillion  |   Wizard    | 2023-12-01 22:01:22 |
+| 6   | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      5174      | 2.16 Quadrillion  |    Necro    | 2023-12-01 22:51:14 |
+| 7   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5140      | 2.12 Quadrillion  |   Wizard    | 2023-12-01 22:42:08 |
 | 8   | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5130      | 2.1 Quadrillion   |    Necro    | 2023-12-01 20:29:13 |
 | 9   | [鲸蓝#3250](https://kr.diablo3.com/profile/鲸蓝-3250/)                     |      5102      | 2.07 Quadrillion  |     DH      | 2023-11-29 02:34:55 |
 | 10  | [mehldau#11934](https://kr.diablo3.com/profile/mehldau-11934/)         |      5100      | 2.06 Quadrillion  |     DH      | 2023-12-01 21:02:34 |
-| 11  | [청룡#31836](https://kr.diablo3.com/profile/청룡-31836/)                   |      5088      | 2.05 Quadrillion  |     DH      | 2023-12-01 20:20:08 |
-| 12  | [PirateKing#11700](https://kr.diablo3.com/profile/PirateKing-11700/)   |      4983      | 1.92 Quadrillion  |    Necro    | 2023-12-01 22:21:21 |
-| 13  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      4944      | 1.87 Quadrillion  |     DH      | 2023-12-01 20:29:13 |
+| 11  | [청룡#31836](https://kr.diablo3.com/profile/청룡-31836/)                   |      5090      | 2.05 Quadrillion  |     DH      | 2023-12-01 22:55:17 |
+| 12  | [PirateKing#11700](https://kr.diablo3.com/profile/PirateKing-11700/)   |      4984      | 1.92 Quadrillion  |    Necro    | 2023-12-01 23:33:58 |
+| 13  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      4946      | 1.87 Quadrillion  |     DH      | 2023-12-01 22:57:18 |
 | 14  | [仕偉#3319](https://kr.diablo3.com/profile/仕偉-3319/)                     |      4895      | 1.81 Quadrillion  |     DH      | 2023-11-29 06:14:55 |
 | 15  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      4889      | 1.81 Quadrillion  |    Necro    | 2023-12-01 14:48:13 |
 | 16  | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      4830      | 1.74 Quadrillion  |    Necro    | 2023-12-01 21:31:45 |
 | 17  | [yanbaba#11959](https://kr.diablo3.com/profile/yanbaba-11959/)         |      4807      | 1.71 Quadrillion  |    Necro    | 2023-10-17 17:49:46 |
 | 18  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      4796      | 1.7 Quadrillion   |    Necro    | 2023-12-01 15:45:58 |
-| 19  | [네일#31188](https://kr.diablo3.com/profile/네일-31188/)                   |      4788      | 1.69 Quadrillion  |     DH      | 2023-12-01 22:34:37 |
-| 20  | [螺旋丸#31142](https://kr.diablo3.com/profile/螺旋丸-31142/)                 |      4761      | 1.66 Quadrillion  |    Necro    | 2023-12-01 22:35:36 |
+| 19  | [네일#31188](https://kr.diablo3.com/profile/네일-31188/)                   |      4788      | 1.69 Quadrillion  |     DH      | 2023-12-01 23:27:26 |
+| 20  | [螺旋丸#31142](https://kr.diablo3.com/profile/螺旋丸-31142/)                 |      4762      | 1.66 Quadrillion  |    Necro    | 2023-12-01 23:36:33 |
 | 21  | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      4750      | 1.65 Quadrillion  |  Crusader   | 2023-12-01 20:29:13 |
-| 22  | [STEllA#32244](https://kr.diablo3.com/profile/STEllA-32244/)           |      4741      | 1.64 Quadrillion  |    Necro    | 2023-12-01 20:29:14 |
+| 22  | [STEllA#32244](https://kr.diablo3.com/profile/STEllA-32244/)           |      4742      | 1.64 Quadrillion  |    Necro    | 2023-12-01 22:56:14 |
 | 23  | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |      4729      | 1.63 Quadrillion  |    Necro    | 2023-10-17 17:50:12 |
 | 24  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      4721      | 1.62 Quadrillion  |    Necro    | 2023-12-01 11:30:02 |
 | 25  | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                     |      4710      | 1.61 Quadrillion  |    Necro    | 2023-11-21 09:15:06 |
@@ -44,9 +44,9 @@ Table created at 2023-12-01 22:37:11.587610
 | 37  | [므어억#3582](https://kr.diablo3.com/profile/므어억-3582/)                   |      4465      | 1.36 Quadrillion  |    Necro    | 2023-12-01 14:59:56 |
 | 38  | [f5yb03mnz#3313](https://kr.diablo3.com/profile/f5yb03mnz-3313/)       |      4421      | 1.32 Quadrillion  |    Necro    | 2023-12-01 22:22:08 |
 | 39  | [Redamancy#21702](https://kr.diablo3.com/profile/Redamancy-21702/)     |      4388      | 1.29 Quadrillion  |    Necro    | 2023-10-17 17:49:10 |
-| 40  | [불독#31787](https://kr.diablo3.com/profile/불독-31787/)                   |      4366      | 1.27 Quadrillion  |     DH      | 2023-10-17 17:49:02 |
-| 41  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      4357      | 1.26 Quadrillion  |    Necro    | 2023-12-01 21:00:48 |
-| 42  | [我爱牛肉面#3115](https://kr.diablo3.com/profile/我爱牛肉面-3115/)               |      4353      | 1.25 Quadrillion  |     DH      | 2023-12-01 15:51:42 |
+| 40  | [我爱牛肉面#3115](https://kr.diablo3.com/profile/我爱牛肉面-3115/)               |      4367      | 1.27 Quadrillion  |     DH      | 2023-12-01 22:45:38 |
+| 41  | [불독#31787](https://kr.diablo3.com/profile/불독-31787/)                   |      4366      | 1.27 Quadrillion  |     DH      | 2023-10-17 17:49:02 |
+| 42  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      4360      | 1.26 Quadrillion  |    Necro    | 2023-12-01 23:32:50 |
 | 43  | [내사랑홍#3691](https://kr.diablo3.com/profile/내사랑홍-3691/)                 |      4349      | 1.25 Quadrillion  |     DH      | 2023-10-18 06:03:50 |
 | 44  | [yali#3362](https://kr.diablo3.com/profile/yali-3362/)                 |      4340      | 1.24 Quadrillion  |    Necro    | 2023-12-01 20:29:13 |
 | 45  | [Chia#41334](https://kr.diablo3.com/profile/Chia-41334/)               |      4330      | 1.23 Quadrillion  |    Necro    | 2023-11-29 14:32:31 |
@@ -96,7 +96,7 @@ Table created at 2023-12-01 22:37:11.587610
 | 89  | [Mika#31264](https://kr.diablo3.com/profile/Mika-31264/)               |      3938      | 913.64 Trillion   |    Necro    | 2023-10-17 17:49:13 |
 | 90  | [zishan#31879](https://kr.diablo3.com/profile/zishan-31879/)           |      3925      | 904.13 Trillion   |     DH      | 2023-10-17 17:49:31 |
 | 91  | [와니#31984](https://kr.diablo3.com/profile/와니-31984/)                   |      3924      | 903.41 Trillion   |   Wizard    | 2023-10-17 17:48:49 |
-| 92  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      3918      | 899.04 Trillion   |    Necro    | 2023-12-01 22:30:25 |
+| 92  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      3918      | 899.04 Trillion   |    Necro    | 2023-12-01 23:30:53 |
 | 93  | [Hel#31528](https://kr.diablo3.com/profile/Hel-31528/)                 |      3897      | 883.89 Trillion   |    Necro    | 2023-10-17 17:49:05 |
 | 94  | [Hamilton1027#3395](https://kr.diablo3.com/profile/Hamilton1027-3395/) |      3887      | 876.74 Trillion   |     DH      | 2023-10-17 17:48:51 |
 | 95  | [Mysterious#31366](https://kr.diablo3.com/profile/Mysterious-31366/)   |      3882      | 873.18 Trillion   |    Necro    | 2023-10-17 17:50:00 |
@@ -107,8 +107,8 @@ Table created at 2023-12-01 22:37:11.587610
 | 100 | [TankCrew#3788](https://kr.diablo3.com/profile/TankCrew-3788/)         |      3874      | 867.5 Trillion    |    Necro    | 2023-10-17 17:11:17 |
 | 101 | [JianLai#2457](https://kr.diablo3.com/profile/JianLai-2457/)           |      3860      | 857.62 Trillion   |  Barbarian  | 2023-10-17 17:48:55 |
 | 102 | [zzg#3473](https://kr.diablo3.com/profile/zzg-3473/)                   |      3848      | 849.22 Trillion   |     DH      | 2023-10-17 17:49:00 |
-| 103 | [sasmc1987#1151](https://kr.diablo3.com/profile/sasmc1987-1151/)       |      3844      | 846.43 Trillion   |   Wizard    | 2023-10-17 14:46:31 |
-| 104 | [애덤스미스#31369](https://kr.diablo3.com/profile/애덤스미스-31369/)             |      3844      | 846.43 Trillion   |    Necro    | 2023-12-01 22:22:11 |
+| 103 | [애덤스미스#31369](https://kr.diablo3.com/profile/애덤스미스-31369/)             |      3845      | 847.12 Trillion   |    Necro    | 2023-12-01 22:42:46 |
+| 104 | [sasmc1987#1151](https://kr.diablo3.com/profile/sasmc1987-1151/)       |      3844      | 846.43 Trillion   |   Wizard    | 2023-10-17 14:46:31 |
 | 105 | [讓我來#3478](https://kr.diablo3.com/profile/讓我來-3478/)                   |      3842      | 845.04 Trillion   |   Wizard    | 2023-10-17 17:49:02 |
 | 106 | [BlackHole#31474](https://kr.diablo3.com/profile/BlackHole-31474/)     |      3840      | 843.64 Trillion   |  Crusader   | 2023-10-17 17:49:16 |
 | 107 | [MrWoo#31492](https://kr.diablo3.com/profile/MrWoo-31492/)             |      3826      | 833.96 Trillion   |    Necro    | 2023-10-17 17:49:24 |
