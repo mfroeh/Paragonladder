@@ -1,7 +1,7 @@
 # Season 29 (EU)
 
 ---
-Table created at 2023-12-07 04:40:04.125965
+Table created at 2023-12-07 05:35:19.026601
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -123,7 +123,7 @@ Table created at 2023-12-07 04:40:04.125965
 | 116 | [SkiTT#21492](https://eu.diablo3.com/profile/SkiTT-21492/)                 |      2999      | 387.7 Trillion    |   Wizard    | 2023-10-17 17:48:51 |
 | 117 | [Draculla#2237](https://eu.diablo3.com/profile/Draculla-2237/)             |      2996      | 386.5 Trillion    |   Wizard    | 2023-12-06 20:48:42 |
 | 118 | [Une#21106](https://eu.diablo3.com/profile/Une-21106/)                     |      2988      | 383.3 Trillion    |   Wizard    | 2023-12-04 16:47:16 |
-| 119 | [Svetogor#21271](https://eu.diablo3.com/profile/Svetogor-21271/)           |      2983      | 381.32 Trillion   |     DH      | 2023-12-07 03:57:14 |
+| 119 | [Svetogor#21271](https://eu.diablo3.com/profile/Svetogor-21271/)           |      2984      | 381.71 Trillion   |     DH      | 2023-12-07 04:40:12 |
 | 120 | [luminaire#21119](https://eu.diablo3.com/profile/luminaire-21119/)         |      2977      | 378.94 Trillion   |   Wizard    | 2023-11-08 05:45:17 |
 | 121 | [zuzioz#21920](https://eu.diablo3.com/profile/zuzioz-21920/)               |      2960      | 372.27 Trillion   |    Necro    | 2023-12-01 21:47:53 |
 | 122 | [Alexbror#21181](https://eu.diablo3.com/profile/Alexbror-21181/)           |      2959      | 371.89 Trillion   |     DH      | 2023-12-06 22:21:21 |
