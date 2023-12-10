@@ -1,7 +1,7 @@
 # Season 29 (EU)
 
 ---
-Table created at 2023-12-10 04:38:51.515741
+Table created at 2023-12-10 05:35:35.391820
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -82,8 +82,8 @@ Table created at 2023-12-10 04:38:51.515741
 | 75  | [Glückszwerg#216343](https://eu.diablo3.com/profile/Glückszwerg-216343/)   |      3163      | 457.73 Trillion   |   Wizard    | 2023-12-09 22:57:43 |
 | 76  | [Ustcommon#2874](https://eu.diablo3.com/profile/Ustcommon-2874/)           |      3160      | 456.37 Trillion   |   Wizard    | 2023-12-10 00:02:46 |
 | 77  | [Martekos#21984](https://eu.diablo3.com/profile/Martekos-21984/)           |      3157      | 455.02 Trillion   |     DH      | 2023-10-17 17:48:41 |
-| 78  | [LazyTitan#25864](https://eu.diablo3.com/profile/LazyTitan-25864/)         |      3138      | 446.5 Trillion    |    Necro    | 2023-11-19 00:09:38 |
-| 79  | [IGO#2423](https://eu.diablo3.com/profile/IGO-2423/)                       |      3138      | 446.5 Trillion    |   Wizard    | 2023-12-09 15:14:59 |
+| 78  | [IGO#2423](https://eu.diablo3.com/profile/IGO-2423/)                       |      3141      | 447.84 Trillion   |   Wizard    | 2023-12-10 05:09:19 |
+| 79  | [LazyTitan#25864](https://eu.diablo3.com/profile/LazyTitan-25864/)         |      3138      | 446.5 Trillion    |    Necro    | 2023-11-19 00:09:38 |
 | 80  | [Pala00#2546](https://eu.diablo3.com/profile/Pala00-2546/)                 |      3134      | 444.73 Trillion   |    Necro    | 2023-10-17 12:33:20 |
 | 81  | [Magiuks#11866](https://eu.diablo3.com/profile/Magiuks-11866/)             |      3133      | 444.28 Trillion   |     DH      | 2023-12-09 18:14:41 |
 | 82  | [as16meter#2990](https://eu.diablo3.com/profile/as16meter-2990/)           |      3133      | 444.28 Trillion   |   Wizard    | 2023-12-08 21:16:33 |
