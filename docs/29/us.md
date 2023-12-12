@@ -1,7 +1,7 @@
 # Season 29 (US)
 
 ---
-Table created at 2023-12-12 17:31:18.229216
+Table created at 2023-12-12 18:42:07.961650
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -87,8 +87,8 @@ Table created at 2023-12-12 17:31:18.229216
 | 80  | [cyclohexane#11416](https://us.diablo3.com/profile/cyclohexane-11416/)   |      2928      | 359.96 Trillion   |     DH      | 2023-11-27 11:59:49 |
 | 81  | [min#21987](https://us.diablo3.com/profile/min-21987/)                   |      2926      | 359.2 Trillion    |    Necro    | 2023-10-17 17:49:12 |
 | 82  | [roger#1902](https://us.diablo3.com/profile/roger-1902/)                 |      2924      | 358.44 Trillion   |  Barbarian  | 2023-11-17 11:48:51 |
-| 83  | [joeyrodil#6530](https://us.diablo3.com/profile/joeyrodil-6530/)         |      2918      | 356.18 Trillion   |   Wizard    | 2023-12-10 03:39:15 |
-| 84  | [DaniloCapela#1504](https://us.diablo3.com/profile/DaniloCapela-1504/)   |      2916      | 355.42 Trillion   |   Wizard    | 2023-12-12 16:18:49 |
+| 83  | [DaniloCapela#1504](https://us.diablo3.com/profile/DaniloCapela-1504/)   |      2919      | 356.55 Trillion   |   Wizard    | 2023-12-12 18:01:59 |
+| 84  | [joeyrodil#6530](https://us.diablo3.com/profile/joeyrodil-6530/)         |      2918      | 356.18 Trillion   |   Wizard    | 2023-12-10 03:39:15 |
 | 85  | [HHong7701#1624](https://us.diablo3.com/profile/HHong7701-1624/)         |      2901      | 349.81 Trillion   |   Wizard    | 2023-12-08 17:10:27 |
 | 86  | [FLKL#1866](https://us.diablo3.com/profile/FLKL-1866/)                   |      2895      | 347.58 Trillion   |     DH      | 2023-11-13 01:53:28 |
 | 87  | [libiao9944#1907](https://us.diablo3.com/profile/libiao9944-1907/)       |      2886      | 344.26 Trillion   |     DH      | 2023-10-22 14:41:27 |
@@ -107,7 +107,7 @@ Table created at 2023-12-12 17:31:18.229216
 | 100 | [Franekova#2877](https://us.diablo3.com/profile/Franekova-2877/)         |      2772      | 304.26 Trillion   |   Wizard    | 2023-12-07 20:33:06 |
 | 101 | [Ronin010#1772](https://us.diablo3.com/profile/Ronin010-1772/)           |      2759      | 299.93 Trillion   |     DH      | 2023-12-09 17:02:31 |
 | 102 | [LittleZero#1853](https://us.diablo3.com/profile/LittleZero-1853/)       |      2757      | 299.27 Trillion   |   Wizard    | 2023-12-12 15:43:32 |
-| 103 | [FENG#33622](https://us.diablo3.com/profile/FENG-33622/)                 |      2744      | 295.0 Trillion    |    Monk     | 2023-12-12 17:10:52 |
+| 103 | [FENG#33622](https://us.diablo3.com/profile/FENG-33622/)                 |      2747      | 295.98 Trillion   |    Monk     | 2023-12-12 18:02:54 |
 | 104 | [Loveyao110#1742](https://us.diablo3.com/profile/Loveyao110-1742/)       |      2738      | 293.04 Trillion   |    Necro    | 2023-10-17 17:38:37 |
 | 105 | [holyhai#3359](https://us.diablo3.com/profile/holyhai-3359/)             |      2711      | 284.37 Trillion   |     DH      | 2023-10-20 03:12:39 |
 | 106 | [Fuzzy#12352](https://us.diablo3.com/profile/Fuzzy-12352/)               |      2690      | 277.76 Trillion   |     DH      | 2023-10-18 23:09:57 |
