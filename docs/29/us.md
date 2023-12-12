@@ -1,7 +1,7 @@
 # Season 29 (US)
 
 ---
-Table created at 2023-12-12 20:39:01.474722
+Table created at 2023-12-12 21:32:41.246751
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -140,7 +140,7 @@ Table created at 2023-12-12 20:39:01.474722
 | 133 | [AZNJAX#3543](https://us.diablo3.com/profile/AZNJAX-3543/)               |      2530      | 231.32 Trillion   |    Necro    | 2023-11-07 04:45:05 |
 | 134 | [mittens#11839](https://us.diablo3.com/profile/mittens-11839/)           |      2521      | 228.91 Trillion   |    Necro    | 2023-10-07 18:12:08 |
 | 135 | [聖光#3610](https://us.diablo3.com/profile/聖光-3610/)                       |      2517      | 227.84 Trillion   |  Crusader   | 2023-10-07 15:35:40 |
-| 136 | [Shrike#1101](https://us.diablo3.com/profile/Shrike-1101/)               |      2515      | 227.31 Trillion   |   Wizard    | 2023-12-12 20:22:51 |
+| 136 | [Shrike#1101](https://us.diablo3.com/profile/Shrike-1101/)               |      2515      | 227.31 Trillion   |   Wizard    | 2023-12-12 21:16:55 |
 | 137 | [Seraphiel#1997](https://us.diablo3.com/profile/Seraphiel-1997/)         |      2497      | 222.58 Trillion   |   Wizard    | 2023-11-12 23:21:37 |
 | 138 | [hulsr#1602](https://us.diablo3.com/profile/hulsr-1602/)                 |      2492      | 221.28 Trillion   |   Wizard    | 2023-10-13 19:56:56 |
 | 139 | [Mahuida#11980](https://us.diablo3.com/profile/Mahuida-11980/)           |      2490      | 220.76 Trillion   |    Necro    | 2023-10-17 14:08:43 |
