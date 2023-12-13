@@ -1,7 +1,7 @@
 # Season 29 (EU)
 
 ---
-Table created at 2023-12-13 02:50:35.922972
+Table created at 2023-12-13 03:37:38.081784
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -27,7 +27,7 @@ Table created at 2023-12-13 02:50:35.922972
 | 20  | [VseSlomal#2526](https://eu.diablo3.com/profile/VseSlomal-2526/)           |      3711      | 757.23 Trillion   |  Barbarian  | 2023-12-12 19:42:51 |
 | 21  | [Botly#2669](https://eu.diablo3.com/profile/Botly-2669/)                   |      3679      | 736.78 Trillion   |  Crusader   | 2023-12-09 15:13:31 |
 | 22  | [Boerke#2748](https://eu.diablo3.com/profile/Boerke-2748/)                 |      3675      | 734.25 Trillion   |  Barbarian  | 2023-12-12 19:33:12 |
-| 23  | [Ward#2587](https://eu.diablo3.com/profile/Ward-2587/)                     |      3669      | 730.47 Trillion   |   Wizard    | 2023-12-13 02:24:56 |
+| 23  | [Ward#2587](https://eu.diablo3.com/profile/Ward-2587/)                     |      3669      | 730.47 Trillion   |   Wizard    | 2023-12-13 03:03:25 |
 | 24  | [PATRYCJA#21112](https://eu.diablo3.com/profile/PATRYCJA-21112/)           |      3657      | 722.94 Trillion   |     DH      | 2023-12-12 19:50:06 |
 | 25  | [cross#23536](https://eu.diablo3.com/profile/cross-23536/)                 |      3656      | 722.32 Trillion   |    Necro    | 2023-12-06 19:42:21 |
 | 26  | [d2k2#21225](https://eu.diablo3.com/profile/d2k2-21225/)                   |      3644      | 714.85 Trillion   |     DH      | 2023-11-19 12:04:11 |
@@ -115,7 +115,7 @@ Table created at 2023-12-13 02:50:35.922972
 | 108 | [Absynth#2474](https://eu.diablo3.com/profile/Absynth-2474/)               |      3042      | 405.25 Trillion   |   Wizard    | 2023-11-21 16:12:07 |
 | 109 | [ololo#2738](https://eu.diablo3.com/profile/ololo-2738/)                   |      3042      | 405.25 Trillion   |   Wizard    | 2023-11-15 09:27:32 |
 | 110 | [Valerian#2405](https://eu.diablo3.com/profile/Valerian-2405/)             |      3039      | 404.0 Trillion    |     DH      | 2023-12-12 05:06:27 |
-| 111 | [Lowstar#2225](https://eu.diablo3.com/profile/Lowstar-2225/)               |      3038      | 403.59 Trillion   |   Wizard    | 2023-12-13 01:45:49 |
+| 111 | [Lowstar#2225](https://eu.diablo3.com/profile/Lowstar-2225/)               |      3038      | 403.59 Trillion   |   Wizard    | 2023-12-13 02:40:17 |
 | 112 | [SaimonGreen#2239](https://eu.diablo3.com/profile/SaimonGreen-2239/)       |      3037      | 403.18 Trillion   |   Wizard    | 2023-12-08 01:24:35 |
 | 113 | [Almighty#2821](https://eu.diablo3.com/profile/Almighty-2821/)             |      3036      | 402.76 Trillion   |    Necro    | 2023-11-24 22:56:59 |
 | 114 | [엔류#31204](https://eu.diablo3.com/profile/엔류-31204/)                       |      3036      | 402.76 Trillion   |  Barbarian  | 2023-12-13 00:28:40 |
