@@ -1,13 +1,13 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-12-14 20:39:40.230672
+Table created at 2023-12-14 21:36:14.303280
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      6102      | 3.61 Quadrillion  |     DH      | 2023-12-14 16:48:00 |
 | 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      6042      | 3.51 Quadrillion  |    Necro    | 2023-12-14 16:13:22 |
-| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5600      | 2.77 Quadrillion  |    Necro    | 2023-12-14 20:38:08 |
+| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5600      | 2.77 Quadrillion  |    Necro    | 2023-12-14 21:29:11 |
 | 4   | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      5482      | 2.59 Quadrillion  |    Necro    | 2023-12-14 19:06:28 |
 | 5   | [연듯#31279](https://kr.diablo3.com/profile/연듯-31279/)                   |      5446      | 2.54 Quadrillion  |    Necro    | 2023-12-14 15:54:22 |
 | 6   | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5420      | 2.5 Quadrillion   |    Necro    | 2023-12-13 11:35:54 |
@@ -197,7 +197,7 @@ Table created at 2023-12-14 20:39:40.230672
 | 190 | [Lugor#31965](https://kr.diablo3.com/profile/Lugor-31965/)             |      3447      | 599.79 Trillion   |     DH      | 2023-10-17 17:32:09 |
 | 191 | [노바#3607](https://kr.diablo3.com/profile/노바-3607/)                     |      2916      | 355.42 Trillion   |   Wizard    | 2023-12-10 13:21:39 |
 | 192 | [추적60인분#31638](https://kr.diablo3.com/profile/추적60인분-31638/)           |      1943      | 109.82 Trillion   |     WD      | 2023-11-16 14:19:57 |
-| 193 | [로스트#31398](https://kr.diablo3.com/profile/로스트-31398/)                 |      1773      | 83.84 Trillion    |     DH      | 2023-12-14 20:20:51 |
+| 193 | [로스트#31398](https://kr.diablo3.com/profile/로스트-31398/)                 |      1773      | 83.84 Trillion    |     DH      | 2023-12-14 21:05:29 |
 | 194 | [덕구#3314](https://kr.diablo3.com/profile/덕구-3314/)                     |      859       | 4.79 Trillion     |     DH      | 2023-12-12 22:11:00 |
 | 195 | [螺旋丸#31142](https://kr.diablo3.com/profile/螺旋丸-31142/)                 |      794       | 3.06 Trillion     |    Necro    | 2023-12-14 08:47:58 |
 | 196 | [JimmyWu#11742](https://kr.diablo3.com/profile/JimmyWu-11742/)         |      761       | 2.38 Trillion     |    Necro    | 2023-10-17 17:48:59 |
