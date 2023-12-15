@@ -1,7 +1,7 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-12-15 07:36:00.002315
+Table created at 2023-12-15 08:39:44.251030
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -22,7 +22,7 @@ Table created at 2023-12-15 07:36:00.002315
 | 15  | [PirateKing#11700](https://kr.diablo3.com/profile/PirateKing-11700/)   |      5066      | 2.02 Quadrillion  |    Necro    | 2023-12-14 12:47:22 |
 | 16  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5044      | 1.99 Quadrillion  |    Necro    | 2023-12-15 03:42:17 |
 | 17  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      5022      | 1.97 Quadrillion  |     DH      | 2023-12-14 18:31:13 |
-| 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      4994      | 1.93 Quadrillion  |    Necro    | 2023-12-15 07:09:07 |
+| 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5000      | 1.94 Quadrillion  |    Necro    | 2023-12-15 08:28:18 |
 | 19  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      4941      | 1.87 Quadrillion  |    Necro    | 2023-12-14 13:36:14 |
 | 20  | [仕偉#3319](https://kr.diablo3.com/profile/仕偉-3319/)                     |      4895      | 1.81 Quadrillion  |     DH      | 2023-11-29 06:14:55 |
 | 21  | [체리슈#3914](https://kr.diablo3.com/profile/체리슈-3914/)                   |      4842      | 1.75 Quadrillion  |    Necro    | 2023-12-14 16:38:19 |
