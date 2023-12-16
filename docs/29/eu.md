@@ -1,7 +1,7 @@
 # Season 29 (EU)
 
 ---
-Table created at 2023-12-16 04:39:34.996738
+Table created at 2023-12-16 05:34:25.146071
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -96,10 +96,10 @@ Table created at 2023-12-16 04:39:34.996738
 | 89  | [moZart#22307](https://eu.diablo3.com/profile/moZart-22307/)               |      3129      | 442.51 Trillion   |     DH      | 2023-12-15 16:07:49 |
 | 90  | [noVa#2204](https://eu.diablo3.com/profile/noVa-2204/)                     |      3122      | 439.42 Trillion   |     DH      | 2023-12-15 17:53:15 |
 | 91  | [Draculla#2237](https://eu.diablo3.com/profile/Draculla-2237/)             |      3120      | 438.55 Trillion   |   Wizard    | 2023-12-15 22:16:05 |
-| 92  | [Gecko#2903](https://eu.diablo3.com/profile/Gecko-2903/)                   |      3118      | 437.67 Trillion   |   Wizard    | 2023-12-16 02:39:33 |
+| 92  | [Gecko#2903](https://eu.diablo3.com/profile/Gecko-2903/)                   |      3119      | 438.11 Trillion   |   Wizard    | 2023-12-16 05:19:14 |
 | 93  | [ILENDEL#2105](https://eu.diablo3.com/profile/ILENDEL-2105/)               |      3115      | 436.35 Trillion   |   Wizard    | 2023-12-15 17:32:00 |
 | 94  | [Memphis84#2296](https://eu.diablo3.com/profile/Memphis84-2296/)           |      3110      | 434.17 Trillion   |   Wizard    | 2023-11-25 13:24:28 |
-| 95  | [Disconnect#2906](https://eu.diablo3.com/profile/Disconnect-2906/)         |      3102      | 430.69 Trillion   |     DH      | 2023-12-16 04:16:40 |
+| 95  | [Disconnect#2906](https://eu.diablo3.com/profile/Disconnect-2906/)         |      3103      | 431.12 Trillion   |     DH      | 2023-12-16 05:09:13 |
 | 96  | [МонтиПайтон#2686](https://eu.diablo3.com/profile/МонтиПайтон-2686/)       |      3101      | 430.26 Trillion   |   Wizard    | 2023-12-15 21:05:18 |
 | 97  | [allbymyself#21511](https://eu.diablo3.com/profile/allbymyself-21511/)     |      3099      | 429.39 Trillion   |   Wizard    | 2023-12-05 12:17:52 |
 | 98  | [Achim#2203](https://eu.diablo3.com/profile/Achim-2203/)                   |      3098      | 428.96 Trillion   |     DH      | 2023-12-16 00:06:43 |
