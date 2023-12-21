@@ -1,7 +1,7 @@
 # Season 29 (US)
 
 ---
-Table created at 2023-12-21 18:39:47.638661
+Table created at 2023-12-21 19:32:43.189138
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -36,8 +36,8 @@ Table created at 2023-12-21 18:39:47.638661
 | 29  | [alfredo#1203](https://us.diablo3.com/profile/alfredo-1203/)             |      3566      | 667.61 Trillion   |    Necro    | 2023-12-21 15:59:19 |
 | 30  | [mimi1111#1152](https://us.diablo3.com/profile/mimi1111-1152/)           |      3563      | 665.84 Trillion   |   Wizard    | 2023-12-21 15:51:09 |
 | 31  | [Tirton#3558](https://us.diablo3.com/profile/Tirton-3558/)               |      3545      | 655.27 Trillion   |     DH      | 2023-12-21 15:22:25 |
-| 32  | [基拉大和#4154](https://us.diablo3.com/profile/基拉大和-4154/)                   |      3539      | 651.77 Trillion   |  Crusader   | 2023-10-24 05:30:27 |
-| 33  | [Parra#11246](https://us.diablo3.com/profile/Parra-11246/)               |      3539      | 651.77 Trillion   |    Necro    | 2023-12-21 15:55:04 |
+| 32  | [Parra#11246](https://us.diablo3.com/profile/Parra-11246/)               |      3541      | 652.94 Trillion   |    Necro    | 2023-12-21 19:02:05 |
+| 33  | [基拉大和#4154](https://us.diablo3.com/profile/基拉大和-4154/)                   |      3539      | 651.77 Trillion   |  Crusader   | 2023-10-24 05:30:27 |
 | 34  | [OnlyLove#21431](https://us.diablo3.com/profile/OnlyLove-21431/)         |      3514      | 637.35 Trillion   |     DH      | 2023-11-05 21:26:33 |
 | 35  | [Thrall#16111](https://us.diablo3.com/profile/Thrall-16111/)             |      3513      | 636.78 Trillion   |     DH      | 2023-10-13 22:51:54 |
 | 36  | [Cam#13282](https://us.diablo3.com/profile/Cam-13282/)                   |      3505      | 632.21 Trillion   |   Wizard    | 2023-12-21 15:12:57 |
@@ -203,5 +203,5 @@ Table created at 2023-12-21 18:39:47.638661
 | 196 | [WhiteOak#6605](https://us.diablo3.com/profile/WhiteOak-6605/)           |      2102      | 137.32 Trillion   |   Wizard    | 2023-09-28 20:42:41 |
 | 197 | [Rion#11981](https://us.diablo3.com/profile/Rion-11981/)                 |      1210      | 23.05 Trillion    |  Crusader   | 2023-12-17 00:18:42 |
 | 198 | [LegitOsameX#2364](https://us.diablo3.com/profile/LegitOsameX-2364/)     |      669       | 1.11 Trillion     |    Necro    | 2023-12-05 20:44:30 |
-| 199 | [DGHSRailgun#2216](https://us.diablo3.com/profile/DGHSRailgun-2216/)     |      152       | 18.64 Billion     |    Necro    | 2023-12-21 16:47:41 |
+| 199 | [DGHSRailgun#2216](https://us.diablo3.com/profile/DGHSRailgun-2216/)     |      152       | 18.64 Billion     |    Necro    | 2023-12-21 19:15:30 |
 | 200 | [heaveythesys#1671](https://us.diablo3.com/profile/heaveythesys-1671/)   |       79       | 5.31 Billion      |    Necro    | 2023-12-21 14:33:57 |
