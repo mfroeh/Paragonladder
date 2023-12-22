@@ -1,7 +1,7 @@
 # Season 29 (US)
 
 ---
-Table created at 2023-12-22 06:41:31.217027
+Table created at 2023-12-22 07:35:20.853864
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -28,12 +28,12 @@ Table created at 2023-12-22 06:41:31.217027
 | 21  | [Theber#1457](https://us.diablo3.com/profile/Theber-1457/)               |      3789      | 808.71 Trillion   |     DH      | 2023-12-22 05:18:14 |
 | 22  | [Wkx9617#1445](https://us.diablo3.com/profile/Wkx9617-1445/)             |      3728      | 768.25 Trillion   |   Wizard    | 2023-10-17 17:48:48 |
 | 23  | [Cheetos#11209](https://us.diablo3.com/profile/Cheetos-11209/)           |      3699      | 749.52 Trillion   |    Necro    | 2023-12-12 17:21:50 |
-| 24  | [LEtranger#31214](https://us.diablo3.com/profile/LEtranger-31214/)       |      3690      | 743.76 Trillion   |   Wizard    | 2023-12-22 04:58:34 |
+| 24  | [LEtranger#31214](https://us.diablo3.com/profile/LEtranger-31214/)       |      3690      | 743.76 Trillion   |   Wizard    | 2023-12-22 07:06:02 |
 | 25  | [Tigre#11371](https://us.diablo3.com/profile/Tigre-11371/)               |      3681      | 738.04 Trillion   |     DH      | 2023-12-22 04:28:23 |
 | 26  | [NgdTr#11848](https://us.diablo3.com/profile/NgdTr-11848/)               |      3669      | 730.47 Trillion   |   Wizard    | 2023-12-22 03:56:45 |
 | 27  | [SONY0909#3907](https://us.diablo3.com/profile/SONY0909-3907/)           |      3637      | 710.52 Trillion   |  Crusader   | 2023-11-03 00:37:25 |
 | 28  | [ŐńłƔƒąŉŠ#1708](https://us.diablo3.com/profile/ŐńłƔƒąŉŠ-1708/)           |      3627      | 704.36 Trillion   |   Wizard    | 2023-10-24 12:19:55 |
-| 29  | [mimi1111#1152](https://us.diablo3.com/profile/mimi1111-1152/)           |      3578      | 674.73 Trillion   |   Wizard    | 2023-12-21 23:26:30 |
+| 29  | [mimi1111#1152](https://us.diablo3.com/profile/mimi1111-1152/)           |      3591      | 682.51 Trillion   |   Wizard    | 2023-12-22 07:22:55 |
 | 30  | [alfredo#1203](https://us.diablo3.com/profile/alfredo-1203/)             |      3566      | 667.61 Trillion   |    Necro    | 2023-12-21 15:59:19 |
 | 31  | [Tirton#3558](https://us.diablo3.com/profile/Tirton-3558/)               |      3545      | 655.27 Trillion   |     DH      | 2023-12-21 15:22:25 |
 | 32  | [Parra#11246](https://us.diablo3.com/profile/Parra-11246/)               |      3543      | 654.1 Trillion    |    Necro    | 2023-12-21 20:55:10 |
@@ -48,7 +48,7 @@ Table created at 2023-12-22 06:41:31.217027
 | 41  | [YOSA#3262](https://us.diablo3.com/profile/YOSA-3262/)                   |      3421      | 585.64 Trillion   |   Wizard    | 2023-12-20 10:43:21 |
 | 42  | [NeoN#14555](https://us.diablo3.com/profile/NeoN-14555/)                 |      3359      | 552.84 Trillion   |    Necro    | 2023-10-17 17:49:22 |
 | 43  | [imachocolate#1722](https://us.diablo3.com/profile/imachocolate-1722/)   |      3355      | 550.77 Trillion   |   Wizard    | 2023-11-23 02:04:17 |
-| 44  | [Lucia#1229](https://us.diablo3.com/profile/Lucia-1229/)                 |      3330      | 537.96 Trillion   |     DH      | 2023-12-22 06:27:34 |
+| 44  | [Lucia#1229](https://us.diablo3.com/profile/Lucia-1229/)                 |      3331      | 538.47 Trillion   |     DH      | 2023-12-22 07:16:27 |
 | 45  | [LoveYing#1171](https://us.diablo3.com/profile/LoveYing-1171/)           |      3308      | 526.86 Trillion   |    Monk     | 2023-10-17 17:48:47 |
 | 46  | [shuijing15#1448](https://us.diablo3.com/profile/shuijing15-1448/)       |      3302      | 523.86 Trillion   |     DH      | 2023-10-09 13:53:33 |
 | 47  | [Geran#3838](https://us.diablo3.com/profile/Geran-3838/)                 |      3294      | 519.88 Trillion   |    Necro    | 2023-10-17 14:06:07 |
@@ -57,7 +57,7 @@ Table created at 2023-12-22 06:41:31.217027
 | 50  | [Galatorr#1739](https://us.diablo3.com/profile/Galatorr-1739/)           |      3278      | 511.98 Trillion   |    Necro    | 2023-12-22 05:01:21 |
 | 51  | [Bankai#1351](https://us.diablo3.com/profile/Bankai-1351/)               |      3269      | 507.58 Trillion   |     DH      | 2023-12-21 06:32:31 |
 | 52  | [Guardian#1612](https://us.diablo3.com/profile/Guardian-1612/)           |      3255      | 500.78 Trillion   |     DH      | 2023-10-17 13:41:18 |
-| 53  | [FENG#33622](https://us.diablo3.com/profile/FENG-33622/)                 |      3251      | 498.85 Trillion   |    Monk     | 2023-12-22 06:33:45 |
+| 53  | [FENG#33622](https://us.diablo3.com/profile/FENG-33622/)                 |      3252      | 499.33 Trillion   |    Monk     | 2023-12-22 07:01:40 |
 | 54  | [QuinnD3#2600](https://us.diablo3.com/profile/QuinnD3-2600/)             |      3243      | 495.01 Trillion   |     DH      | 2023-10-16 22:31:27 |
 | 55  | [Michael#15582](https://us.diablo3.com/profile/Michael-15582/)           |      3242      | 494.53 Trillion   |   Wizard    | 2023-10-17 17:49:19 |
 | 56  | [Asashin#31163](https://us.diablo3.com/profile/Asashin-31163/)           |      3206      | 477.51 Trillion   |   Wizard    | 2023-10-17 13:54:34 |
@@ -72,7 +72,7 @@ Table created at 2023-12-22 06:41:31.217027
 | 65  | [SIN#1263](https://us.diablo3.com/profile/SIN-1263/)                     |      3087      | 424.22 Trillion   |    Necro    | 2023-12-22 06:03:16 |
 | 66  | [demo#1739](https://us.diablo3.com/profile/demo-1739/)                   |      3066      | 415.29 Trillion   |     DH      | 2023-12-22 01:53:38 |
 | 67  | [mari#2452](https://us.diablo3.com/profile/mari-2452/)                   |      3061      | 413.18 Trillion   |   Wizard    | 2023-12-21 12:50:27 |
-| 68  | [Snowo#3847](https://us.diablo3.com/profile/Snowo-3847/)                 |      3041      | 404.83 Trillion   |    Necro    | 2023-12-22 06:09:53 |
+| 68  | [Snowo#3847](https://us.diablo3.com/profile/Snowo-3847/)                 |      3044      | 406.08 Trillion   |    Necro    | 2023-12-22 07:20:19 |
 | 69  | [Legacyy#11724](https://us.diablo3.com/profile/Legacyy-11724/)           |      3035      | 402.35 Trillion   |     DH      | 2023-10-17 04:59:46 |
 | 70  | [CeiCei#11626](https://us.diablo3.com/profile/CeiCei-11626/)             |      3023      | 397.42 Trillion   |    Necro    | 2023-10-17 17:49:22 |
 | 71  | [sky#18107](https://us.diablo3.com/profile/sky-18107/)                   |      3023      | 397.42 Trillion   |  Barbarian  | 2023-11-27 04:50:54 |
@@ -118,7 +118,7 @@ Table created at 2023-12-22 06:41:31.217027
 | 111 | [TowelieABN#1123](https://us.diablo3.com/profile/TowelieABN-1123/)       |      2671      | 271.88 Trillion   |     DH      | 2023-10-17 17:49:00 |
 | 112 | [RiderDecade#3305](https://us.diablo3.com/profile/RiderDecade-3305/)     |      2670      | 271.58 Trillion   |     DH      | 2023-12-22 01:24:12 |
 | 113 | [JuggernautKC#11727](https://us.diablo3.com/profile/JuggernautKC-11727/) |      2669      | 271.27 Trillion   |     DH      | 2023-12-16 05:58:46 |
-| 114 | [vun#6435](https://us.diablo3.com/profile/vun-6435/)                     |      2666      | 270.35 Trillion   |    Necro    | 2023-12-22 05:38:42 |
+| 114 | [vun#6435](https://us.diablo3.com/profile/vun-6435/)                     |      2666      | 270.35 Trillion   |    Necro    | 2023-12-22 07:17:07 |
 | 115 | [uvcwckzf#1149](https://us.diablo3.com/profile/uvcwckzf-1149/)           |      2665      | 270.05 Trillion   |    Necro    | 2023-10-17 13:46:47 |
 | 116 | [BrokenString#1306](https://us.diablo3.com/profile/BrokenString-1306/)   |      2659      | 268.23 Trillion   |   Wizard    | 2023-11-23 13:44:24 |
 | 117 | [風宇生信心#3357](https://us.diablo3.com/profile/風宇生信心-3357/)                 |      2649      | 265.21 Trillion   |  Crusader   | 2023-10-21 17:05:11 |
