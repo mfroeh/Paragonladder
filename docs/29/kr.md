@@ -1,7 +1,7 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-12-23 05:34:15.938402
+Table created at 2023-12-23 06:37:40.731258
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -18,11 +18,11 @@ Table created at 2023-12-23 05:34:15.938402
 | 11  | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5320      | 2.36 Quadrillion  |  Crusader   | 2023-12-23 04:33:12 |
 | 12  | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5265      | 2.28 Quadrillion  |    Necro    | 2023-12-13 14:51:04 |
 | 13  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5143      | 2.12 Quadrillion  |    Necro    | 2023-12-22 04:30:21 |
-| 14  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5141      | 2.12 Quadrillion  |    Necro    | 2023-12-23 04:11:15 |
+| 14  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5142      | 2.12 Quadrillion  |    Necro    | 2023-12-23 06:12:08 |
 | 15  | [鲸蓝#3250](https://kr.diablo3.com/profile/鲸蓝-3250/)                     |      5102      | 2.07 Quadrillion  |     DH      | 2023-12-04 07:31:23 |
 | 16  | [청룡#31836](https://kr.diablo3.com/profile/청룡-31836/)                   |      5094      | 2.06 Quadrillion  |     DH      | 2023-12-14 05:10:54 |
 | 17  | [PirateKing#11700](https://kr.diablo3.com/profile/PirateKing-11700/)   |      5094      | 2.06 Quadrillion  |    Necro    | 2023-12-22 15:53:09 |
-| 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5091      | 2.05 Quadrillion  |    Necro    | 2023-12-21 12:18:17 |
+| 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5091      | 2.05 Quadrillion  |    Necro    | 2023-12-23 06:09:35 |
 | 19  | [灭霸真人#3637](https://kr.diablo3.com/profile/灭霸真人-3637/)                 |      5059      | 2.01 Quadrillion  |   Wizard    | 2023-12-23 05:10:44 |
 | 20  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      5044      | 1.99 Quadrillion  |     DH      | 2023-12-23 05:30:52 |
 | 21  | [체리슈#3914](https://kr.diablo3.com/profile/체리슈-3914/)                   |      4971      | 1.9 Quadrillion   |    Necro    | 2023-12-23 05:32:21 |
