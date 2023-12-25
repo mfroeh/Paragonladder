@@ -1,13 +1,13 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-12-25 22:33:54.195608
+Table created at 2023-12-25 23:36:23.439973
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      6361      | 4.11 Quadrillion  |     DH      | 2023-12-25 21:10:01 |
 | 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      6333      | 4.06 Quadrillion  |    Necro    | 2023-12-25 20:23:10 |
-| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5763      | 3.03 Quadrillion  |    Necro    | 2023-12-25 22:32:19 |
+| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5763      | 3.03 Quadrillion  |    Necro    | 2023-12-25 23:33:24 |
 | 4   | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      5640      | 2.83 Quadrillion  |    Necro    | 2023-12-24 04:43:32 |
 | 5   | [네일#31188](https://kr.diablo3.com/profile/네일-31188/)                   |      5633      | 2.82 Quadrillion  |     DH      | 2023-12-25 20:39:17 |
 | 6   | [연듯#31279](https://kr.diablo3.com/profile/연듯-31279/)                   |      5581      | 2.74 Quadrillion  |    Necro    | 2023-12-25 14:09:53 |
@@ -15,7 +15,7 @@ Table created at 2023-12-25 22:33:54.195608
 | 8   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5515      | 2.64 Quadrillion  |   Wizard    | 2023-12-22 23:17:12 |
 | 9   | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      5433      | 2.52 Quadrillion  |    Necro    | 2023-12-25 19:41:26 |
 | 10  | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5420      | 2.5 Quadrillion   |    Necro    | 2023-12-21 10:30:18 |
-| 11  | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5379      | 2.44 Quadrillion  |  Crusader   | 2023-12-25 16:18:32 |
+| 11  | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5389      | 2.45 Quadrillion  |  Crusader   | 2023-12-25 23:00:11 |
 | 12  | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5265      | 2.28 Quadrillion  |    Necro    | 2023-12-13 14:51:04 |
 | 13  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5187      | 2.18 Quadrillion  |    Necro    | 2023-12-25 15:27:32 |
 | 14  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5170      | 2.15 Quadrillion  |    Necro    | 2023-12-25 15:39:54 |
@@ -38,7 +38,7 @@ Table created at 2023-12-25 22:33:54.195608
 | 31  | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                     |      4710      | 1.61 Quadrillion  |    Necro    | 2023-11-21 09:15:06 |
 | 32  | [洛渊#3447](https://kr.diablo3.com/profile/洛渊-3447/)                     |      4697      | 1.59 Quadrillion  |    Necro    | 2023-12-23 17:44:08 |
 | 33  | [쁘리#3119](https://kr.diablo3.com/profile/쁘리-3119/)                     |      4691      | 1.59 Quadrillion  |     DH      | 2023-12-25 16:00:41 |
-| 34  | [불타는앵벌#3109](https://kr.diablo3.com/profile/불타는앵벌-3109/)               |      4647      | 1.54 Quadrillion  |     DH      | 2023-12-25 18:37:09 |
+| 34  | [불타는앵벌#3109](https://kr.diablo3.com/profile/불타는앵벌-3109/)               |      4650      | 1.54 Quadrillion  |     DH      | 2023-12-25 21:44:17 |
 | 35  | [cocopam78#3646](https://kr.diablo3.com/profile/cocopam78-3646/)       |      4624      | 1.52 Quadrillion  |    Necro    | 2023-12-17 02:25:04 |
 | 36  | [프랑스요리#3554](https://kr.diablo3.com/profile/프랑스요리-3554/)               |      4605      | 1.5 Quadrillion   |   Wizard    | 2023-12-25 12:49:18 |
 | 37  | [我爱牛肉面#3115](https://kr.diablo3.com/profile/我爱牛肉面-3115/)               |      4590      | 1.48 Quadrillion  |     DH      | 2023-12-23 13:06:49 |
