@@ -1,14 +1,14 @@
 # Season 29 (EU)
 
 ---
-Table created at 2023-12-25 03:36:22.998865
+Table created at 2023-12-25 04:40:28.044217
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [VURDA#2767](https://eu.diablo3.com/profile/VURDA-2767/)                   |      5265      | 2.28 Quadrillion  |   Wizard    | 2023-12-21 04:01:32 |
-| 2   | [derMerlin#21127](https://eu.diablo3.com/profile/derMerlin-21127/)         |      4809      | 1.72 Quadrillion  |   Wizard    | 2023-12-25 03:05:08 |
+| 2   | [derMerlin#21127](https://eu.diablo3.com/profile/derMerlin-21127/)         |      4810      | 1.72 Quadrillion  |   Wizard    | 2023-12-25 03:47:53 |
 | 3   | [Ali#218794](https://eu.diablo3.com/profile/Ali-218794/)                   |      4713      | 1.61 Quadrillion  |    Necro    | 2023-12-25 00:11:24 |
-| 4   | [BattlePants#1101832](https://eu.diablo3.com/profile/BattlePants-1101832/) |      4698      | 1.59 Quadrillion  |     DH      | 2023-12-25 01:24:31 |
+| 4   | [BattlePants#1101832](https://eu.diablo3.com/profile/BattlePants-1101832/) |      4699      | 1.6 Quadrillion   |     DH      | 2023-12-25 03:35:59 |
 | 5   | [Gazelle21#2417](https://eu.diablo3.com/profile/Gazelle21-2417/)           |      4662      | 1.56 Quadrillion  |     DH      | 2023-12-25 01:37:31 |
 | 6   | [серг#2849](https://eu.diablo3.com/profile/серг-2849/)                     |      4528      | 1.42 Quadrillion  |     DH      | 2023-12-24 22:34:38 |
 | 7   | [LordWotan#2897](https://eu.diablo3.com/profile/LordWotan-2897/)           |      4513      | 1.41 Quadrillion  |   Wizard    | 2023-12-22 13:58:10 |
@@ -64,8 +64,8 @@ Table created at 2023-12-25 03:36:22.998865
 | 57  | [tur1st#21274](https://eu.diablo3.com/profile/tur1st-21274/)               |      3370      | 558.56 Trillion   |   Wizard    | 2023-12-21 08:24:03 |
 | 58  | [WhosBehind#2281](https://eu.diablo3.com/profile/WhosBehind-2281/)         |      3364      | 555.44 Trillion   |     DH      | 2023-12-19 18:45:10 |
 | 59  | [Elektra#2616](https://eu.diablo3.com/profile/Elektra-2616/)               |      3362      | 554.4 Trillion    |    Necro    | 2023-12-22 08:11:45 |
-| 60  | [noza#21267](https://eu.diablo3.com/profile/noza-21267/)                   |      3353      | 549.74 Trillion   |    Necro    | 2023-11-22 09:08:18 |
-| 61  | [Victoria666#1890](https://eu.diablo3.com/profile/Victoria666-1890/)       |      3353      | 549.74 Trillion   |     DH      | 2023-12-25 03:10:47 |
+| 60  | [Victoria666#1890](https://eu.diablo3.com/profile/Victoria666-1890/)       |      3355      | 550.77 Trillion   |     DH      | 2023-12-25 03:42:00 |
+| 61  | [noza#21267](https://eu.diablo3.com/profile/noza-21267/)                   |      3353      | 549.74 Trillion   |    Necro    | 2023-11-22 09:08:18 |
 | 62  | [Sweetdreams#2506](https://eu.diablo3.com/profile/Sweetdreams-2506/)       |      3341      | 543.57 Trillion   |   Wizard    | 2023-12-25 02:57:40 |
 | 63  | [Ustcommon#2874](https://eu.diablo3.com/profile/Ustcommon-2874/)           |      3336      | 541.01 Trillion   |   Wizard    | 2023-12-25 01:07:11 |
 | 64  | [VRANA17#2341](https://eu.diablo3.com/profile/VRANA17-2341/)               |      3333      | 539.49 Trillion   |   Wizard    | 2023-12-24 11:15:17 |
