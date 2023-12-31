@@ -1,7 +1,7 @@
 # Season 29 (KR)
 
 ---
-Table created at 2023-12-31 20:34:47.357004
+Table created at 2023-12-31 21:34:23.638385
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -20,7 +20,7 @@ Table created at 2023-12-31 20:34:47.357004
 | 13  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5295      | 2.32 Quadrillion  |    Necro    | 2023-12-31 09:19:13 |
 | 14  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5276      | 2.3 Quadrillion   |    Necro    | 2023-12-31 12:02:36 |
 | 15  | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5265      | 2.28 Quadrillion  |    Necro    | 2023-12-13 14:51:04 |
-| 16  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5253      | 2.26 Quadrillion  |    Necro    | 2023-12-31 19:24:34 |
+| 16  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5254      | 2.27 Quadrillion  |    Necro    | 2023-12-31 21:27:17 |
 | 17  | [灭霸真人#3637](https://kr.diablo3.com/profile/灭霸真人-3637/)                 |      5193      | 2.18 Quadrillion  |   Wizard    | 2023-12-27 12:51:23 |
 | 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5163      | 2.15 Quadrillion  |    Necro    | 2023-12-31 16:11:24 |
 | 19  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      5133      | 2.11 Quadrillion  |    Necro    | 2023-12-31 20:20:24 |
