@@ -1,7 +1,7 @@
 # Season 29 (KR)
 
 ---
-Table created at 2024-01-01 20:37:23.341244
+Table created at 2024-01-01 21:34:43.311146
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -12,13 +12,13 @@ Table created at 2024-01-01 20:37:23.341244
 | 5   | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      5646      | 2.84 Quadrillion  |    Necro    | 2023-12-27 15:15:57 |
 | 6   | [연듯#31279](https://kr.diablo3.com/profile/연듯-31279/)                   |      5620      | 2.8 Quadrillion   |    Necro    | 2024-01-01 18:13:11 |
 | 7   | [mehldau#11934](https://kr.diablo3.com/profile/mehldau-11934/)         |      5571      | 2.72 Quadrillion  |     DH      | 2024-01-01 15:03:28 |
-| 8   | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5551      | 2.69 Quadrillion  |  Crusader   | 2024-01-01 15:16:23 |
+| 8   | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5556      | 2.7 Quadrillion   |  Crusader   | 2024-01-01 20:54:38 |
 | 9   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5544      | 2.68 Quadrillion  |   Wizard    | 2024-01-01 16:20:38 |
 | 10  | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      5535      | 2.67 Quadrillion  |    Necro    | 2024-01-01 12:42:27 |
 | 11  | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5420      | 2.5 Quadrillion   |    Necro    | 2023-12-21 10:30:18 |
 | 12  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      5332      | 2.37 Quadrillion  |     DH      | 2024-01-01 14:19:51 |
 | 13  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5295      | 2.32 Quadrillion  |    Necro    | 2023-12-31 09:19:13 |
-| 14  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5280      | 2.3 Quadrillion   |    Necro    | 2024-01-01 20:30:58 |
+| 14  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5280      | 2.3 Quadrillion   |    Necro    | 2024-01-01 21:29:09 |
 | 15  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5276      | 2.3 Quadrillion   |    Necro    | 2023-12-31 12:02:36 |
 | 16  | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5265      | 2.28 Quadrillion  |    Necro    | 2023-12-13 14:51:04 |
 | 17  | [灭霸真人#3637](https://kr.diablo3.com/profile/灭霸真人-3637/)                 |      5193      | 2.18 Quadrillion  |   Wizard    | 2023-12-27 12:51:23 |
@@ -31,7 +31,7 @@ Table created at 2024-01-01 20:37:23.341244
 | 24  | [仕偉#3319](https://kr.diablo3.com/profile/仕偉-3319/)                     |      4895      | 1.81 Quadrillion  |     DH      | 2023-11-29 06:14:55 |
 | 25  | [므어억#3582](https://kr.diablo3.com/profile/므어억-3582/)                   |      4879      | 1.8 Quadrillion   |    Necro    | 2024-01-01 15:25:56 |
 | 26  | [螺旋丸#31142](https://kr.diablo3.com/profile/螺旋丸-31142/)                 |      4833      | 1.74 Quadrillion  |    Necro    | 2023-12-18 16:53:01 |
-| 27  | [f5yb03mnz#3313](https://kr.diablo3.com/profile/f5yb03mnz-3313/)       |      4830      | 1.74 Quadrillion  |    Necro    | 2024-01-01 15:14:10 |
+| 27  | [f5yb03mnz#3313](https://kr.diablo3.com/profile/f5yb03mnz-3313/)       |      4830      | 1.74 Quadrillion  |    Necro    | 2024-01-01 20:44:32 |
 | 28  | [yanbaba#11959](https://kr.diablo3.com/profile/yanbaba-11959/)         |      4807      | 1.71 Quadrillion  |    Necro    | 2023-10-17 17:49:46 |
 | 29  | [yali#3362](https://kr.diablo3.com/profile/yali-3362/)                 |      4797      | 1.7 Quadrillion   |    Necro    | 2024-01-01 14:54:56 |
 | 30  | [쁘리#3119](https://kr.diablo3.com/profile/쁘리-3119/)                     |      4777      | 1.68 Quadrillion  |     DH      | 2024-01-01 02:12:38 |
