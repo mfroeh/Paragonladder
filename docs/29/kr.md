@@ -1,13 +1,13 @@
 # Season 29 (KR)
 
 ---
-Table created at 2024-01-01 18:41:06.681539
+Table created at 2024-01-01 19:33:42.839878
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      6527      | 4.45 Quadrillion  |     DH      | 2024-01-01 17:00:29 |
 | 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      6481      | 4.36 Quadrillion  |    Necro    | 2024-01-01 15:02:35 |
-| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5837      | 3.15 Quadrillion  |    Necro    | 2024-01-01 17:57:57 |
+| 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5838      | 3.15 Quadrillion  |    Necro    | 2024-01-01 19:18:00 |
 | 4   | [네일#31188](https://kr.diablo3.com/profile/네일-31188/)                   |      5754      | 3.01 Quadrillion  |     DH      | 2024-01-01 16:56:07 |
 | 5   | [꾸잉#31632](https://kr.diablo3.com/profile/꾸잉-31632/)                   |      5646      | 2.84 Quadrillion  |    Necro    | 2023-12-27 15:15:57 |
 | 6   | [연듯#31279](https://kr.diablo3.com/profile/연듯-31279/)                   |      5620      | 2.8 Quadrillion   |    Necro    | 2024-01-01 18:13:11 |
@@ -18,16 +18,16 @@ Table created at 2024-01-01 18:41:06.681539
 | 11  | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5420      | 2.5 Quadrillion   |    Necro    | 2023-12-21 10:30:18 |
 | 12  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      5332      | 2.37 Quadrillion  |     DH      | 2024-01-01 14:19:51 |
 | 13  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5295      | 2.32 Quadrillion  |    Necro    | 2023-12-31 09:19:13 |
-| 14  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5280      | 2.3 Quadrillion   |    Necro    | 2024-01-01 18:36:00 |
+| 14  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5280      | 2.3 Quadrillion   |    Necro    | 2024-01-01 19:28:02 |
 | 15  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5276      | 2.3 Quadrillion   |    Necro    | 2023-12-31 12:02:36 |
 | 16  | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5265      | 2.28 Quadrillion  |    Necro    | 2023-12-13 14:51:04 |
 | 17  | [灭霸真人#3637](https://kr.diablo3.com/profile/灭霸真人-3637/)                 |      5193      | 2.18 Quadrillion  |   Wizard    | 2023-12-27 12:51:23 |
 | 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5173      | 2.16 Quadrillion  |    Necro    | 2024-01-01 16:12:15 |
-| 19  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      5159      | 2.14 Quadrillion  |    Necro    | 2024-01-01 15:25:46 |
+| 19  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      5167      | 2.15 Quadrillion  |    Necro    | 2024-01-01 19:29:54 |
 | 20  | [체리슈#3914](https://kr.diablo3.com/profile/체리슈-3914/)                   |      5138      | 2.11 Quadrillion  |    Necro    | 2024-01-01 15:43:32 |
 | 21  | [鲸蓝#3250](https://kr.diablo3.com/profile/鲸蓝-3250/)                     |      5102      | 2.07 Quadrillion  |     DH      | 2023-12-04 07:31:23 |
 | 22  | [청룡#31836](https://kr.diablo3.com/profile/청룡-31836/)                   |      5094      | 2.06 Quadrillion  |     DH      | 2023-12-14 05:10:54 |
-| 23  | [STEllA#32244](https://kr.diablo3.com/profile/STEllA-32244/)           |      5044      | 1.99 Quadrillion  |    Necro    | 2024-01-01 13:55:48 |
+| 23  | [STEllA#32244](https://kr.diablo3.com/profile/STEllA-32244/)           |      5045      | 2.0 Quadrillion   |    Necro    | 2024-01-01 19:10:36 |
 | 24  | [仕偉#3319](https://kr.diablo3.com/profile/仕偉-3319/)                     |      4895      | 1.81 Quadrillion  |     DH      | 2023-11-29 06:14:55 |
 | 25  | [므어억#3582](https://kr.diablo3.com/profile/므어억-3582/)                   |      4879      | 1.8 Quadrillion   |    Necro    | 2024-01-01 15:25:56 |
 | 26  | [螺旋丸#31142](https://kr.diablo3.com/profile/螺旋丸-31142/)                 |      4833      | 1.74 Quadrillion  |    Necro    | 2023-12-18 16:53:01 |
@@ -186,8 +186,8 @@ Table created at 2024-01-01 18:41:06.681539
 | 179 | [NOLJA#21515](https://kr.diablo3.com/profile/NOLJA-21515/)             |      3516      | 638.49 Trillion   |     DH      | 2023-10-17 17:49:20 |
 | 180 | [HonGDon#3582](https://kr.diablo3.com/profile/HonGDon-3582/)           |      3516      | 638.49 Trillion   |    Necro    | 2023-10-17 17:48:51 |
 | 181 | [bxdsb#1606](https://kr.diablo3.com/profile/bxdsb-1606/)               |      3506      | 632.78 Trillion   |  Crusader   | 2023-10-17 17:49:17 |
-| 182 | [冬冬的冬#3668](https://kr.diablo3.com/profile/冬冬的冬-3668/)                 |      3500      | 629.37 Trillion   |   Wizard    | 2023-10-17 17:49:21 |
-| 183 | [dahai#31191](https://kr.diablo3.com/profile/dahai-31191/)             |      3499      | 628.8 Trillion    |   Wizard    | 2024-01-01 18:08:12 |
+| 182 | [dahai#31191](https://kr.diablo3.com/profile/dahai-31191/)             |      3502      | 630.5 Trillion    |   Wizard    | 2024-01-01 19:32:09 |
+| 183 | [冬冬的冬#3668](https://kr.diablo3.com/profile/冬冬的冬-3668/)                 |      3500      | 629.37 Trillion   |   Wizard    | 2023-10-17 17:49:21 |
 | 184 | [NAR#31703](https://kr.diablo3.com/profile/NAR-31703/)                 |      3498      | 628.23 Trillion   |    Necro    | 2023-10-17 17:49:05 |
 | 185 | [seal#31163](https://kr.diablo3.com/profile/seal-31163/)               |      3494      | 625.97 Trillion   |    Necro    | 2023-11-05 12:26:22 |
 | 186 | [쭈니#3993](https://kr.diablo3.com/profile/쭈니-3993/)                     |      3452      | 602.53 Trillion   |     DH      | 2023-12-06 12:36:24 |
