@@ -1,22 +1,22 @@
 # Season 29 (EU)
 
 ---
-Table created at 2024-01-03 06:41:31.437621
+Table created at 2024-01-03 07:36:38.252861
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [VURDA#2767](https://eu.diablo3.com/profile/VURDA-2767/)                   |      5265      | 2.28 Quadrillion  |   Wizard    | 2023-12-27 06:35:24 |
 | 2   | [derMerlin#21127](https://eu.diablo3.com/profile/derMerlin-21127/)         |      5021      | 1.97 Quadrillion  |   Wizard    | 2024-01-03 02:03:55 |
 | 3   | [Gazelle21#2417](https://eu.diablo3.com/profile/Gazelle21-2417/)           |      4898      | 1.82 Quadrillion  |     DH      | 2024-01-02 22:03:13 |
-| 4   | [Ali#218794](https://eu.diablo3.com/profile/Ali-218794/)                   |      4853      | 1.77 Quadrillion  |    Necro    | 2024-01-03 06:28:30 |
+| 4   | [Ali#218794](https://eu.diablo3.com/profile/Ali-218794/)                   |      4853      | 1.77 Quadrillion  |    Necro    | 2024-01-03 07:23:27 |
 | 5   | [BattlePants#1101832](https://eu.diablo3.com/profile/BattlePants-1101832/) |      4703      | 1.6 Quadrillion   |     DH      | 2024-01-02 18:27:13 |
 | 6   | [серг#2849](https://eu.diablo3.com/profile/серг-2849/)                     |      4627      | 1.52 Quadrillion  |     DH      | 2024-01-02 19:50:56 |
 | 7   | [Insotzius#1297](https://eu.diablo3.com/profile/Insotzius-1297/)           |      4602      | 1.49 Quadrillion  |  Crusader   | 2024-01-03 00:40:59 |
 | 8   | [LordWotan#2897](https://eu.diablo3.com/profile/LordWotan-2897/)           |      4578      | 1.47 Quadrillion  |   Wizard    | 2024-01-02 18:46:37 |
-| 9   | [GoldGoldGold#21104](https://eu.diablo3.com/profile/GoldGoldGold-21104/)   |      4423      | 1.32 Quadrillion  |     DH      | 2024-01-03 06:27:07 |
+| 9   | [GoldGoldGold#21104](https://eu.diablo3.com/profile/GoldGoldGold-21104/)   |      4423      | 1.32 Quadrillion  |     DH      | 2024-01-03 07:22:20 |
 | 10  | [lckr#2836](https://eu.diablo3.com/profile/lckr-2836/)                     |      4405      | 1.3 Quadrillion   |    Necro    | 2023-12-01 17:19:28 |
 | 11  | [Inanna#21281](https://eu.diablo3.com/profile/Inanna-21281/)               |      4341      | 1.24 Quadrillion  |   Wizard    | 2024-01-03 01:12:07 |
-| 12  | [Thepocket#21925](https://eu.diablo3.com/profile/Thepocket-21925/)         |      4254      | 1.17 Quadrillion  |    Necro    | 2024-01-03 06:13:57 |
+| 12  | [Thepocket#21925](https://eu.diablo3.com/profile/Thepocket-21925/)         |      4254      | 1.17 Quadrillion  |    Necro    | 2024-01-03 06:36:46 |
 | 13  | [Timpas#21705](https://eu.diablo3.com/profile/Timpas-21705/)               |      4253      | 1.17 Quadrillion  |    Necro    | 2024-01-02 23:01:32 |
 | 14  | [hondo#21801](https://eu.diablo3.com/profile/hondo-21801/)                 |      4180      | 1.1 Quadrillion   |     DH      | 2024-01-03 01:26:54 |
 | 15  | [Proxy#23146](https://eu.diablo3.com/profile/Proxy-23146/)                 |      4143      | 1.07 Quadrillion  |     DH      | 2023-10-10 07:52:39 |
@@ -121,7 +121,7 @@ Table created at 2024-01-03 06:41:31.437621
 | 114 | [Sengerman#2812](https://eu.diablo3.com/profile/Sengerman-2812/)           |      3078      | 420.38 Trillion   |  Crusader   | 2023-11-24 16:59:12 |
 | 115 | [JIYHb#2204](https://eu.diablo3.com/profile/JIYHb-2204/)                   |      3076      | 419.53 Trillion   |   Wizard    | 2024-01-02 13:46:55 |
 | 116 | [SaimonGreen#2239](https://eu.diablo3.com/profile/SaimonGreen-2239/)       |      3076      | 419.53 Trillion   |   Wizard    | 2023-12-29 10:17:40 |
-| 117 | [andreabonfi#2859](https://eu.diablo3.com/profile/andreabonfi-2859/)       |      3070      | 416.98 Trillion   |     DH      | 2023-10-19 07:58:25 |
+| 117 | [andreabonfi#2859](https://eu.diablo3.com/profile/andreabonfi-2859/)       |      3070      | 416.98 Trillion   |     DH      | 2024-01-03 06:57:09 |
 | 118 | [Monya777#21965](https://eu.diablo3.com/profile/Monya777-21965/)           |      3058      | 411.92 Trillion   |    Necro    | 2023-10-17 10:05:14 |
 | 119 | [Valerian#2405](https://eu.diablo3.com/profile/Valerian-2405/)             |      3055      | 410.66 Trillion   |     DH      | 2024-01-02 09:14:38 |
 | 120 | [пако#21304](https://eu.diablo3.com/profile/пако-21304/)                   |      3052      | 409.41 Trillion   |     DH      | 2023-12-29 17:04:48 |
