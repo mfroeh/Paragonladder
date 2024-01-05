@@ -1,11 +1,11 @@
 # Season 29 (KR)
 
 ---
-Table created at 2024-01-05 07:35:08.389094
+Table created at 2024-01-05 08:38:29.919326
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      6628      | 4.67 Quadrillion  |     DH      | 2024-01-05 04:07:52 |
+| 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      6635      | 4.69 Quadrillion  |     DH      | 2024-01-05 08:18:41 |
 | 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      6558      | 4.52 Quadrillion  |    Necro    | 2024-01-05 06:52:50 |
 | 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5906      | 3.27 Quadrillion  |    Necro    | 2024-01-05 07:08:51 |
 | 4   | [네일#31188](https://kr.diablo3.com/profile/네일-31188/)                   |      5848      | 3.17 Quadrillion  |     DH      | 2024-01-05 05:30:53 |
@@ -13,16 +13,16 @@ Table created at 2024-01-05 07:35:08.389094
 | 6   | [연듯#31279](https://kr.diablo3.com/profile/연듯-31279/)                   |      5645      | 2.84 Quadrillion  |    Necro    | 2024-01-04 12:32:34 |
 | 7   | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5635      | 2.82 Quadrillion  |  Crusader   | 2024-01-05 07:33:54 |
 | 8   | [mehldau#11934](https://kr.diablo3.com/profile/mehldau-11934/)         |      5572      | 2.72 Quadrillion  |     DH      | 2024-01-05 06:10:47 |
-| 9   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5571      | 2.72 Quadrillion  |   Wizard    | 2024-01-04 15:16:03 |
+| 9   | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5571      | 2.72 Quadrillion  |   Wizard    | 2024-01-05 08:11:38 |
 | 10  | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      5538      | 2.67 Quadrillion  |    Necro    | 2024-01-02 11:34:08 |
 | 11  | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5420      | 2.5 Quadrillion   |    Necro    | 2023-12-21 10:30:18 |
 | 12  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      5417      | 2.49 Quadrillion  |     DH      | 2024-01-05 06:10:24 |
-| 13  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5379      | 2.44 Quadrillion  |    Necro    | 2024-01-05 07:08:50 |
+| 13  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5386      | 2.45 Quadrillion  |    Necro    | 2024-01-05 08:24:59 |
 | 14  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5310      | 2.34 Quadrillion  |    Necro    | 2024-01-05 02:35:24 |
 | 15  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      5306      | 2.34 Quadrillion  |    Necro    | 2024-01-05 03:42:10 |
 | 16  | [팔봉#31170](https://kr.diablo3.com/profile/팔봉-31170/)                   |      5298      | 2.33 Quadrillion  |    Necro    | 2024-01-04 12:13:09 |
 | 17  | [악동#32231](https://kr.diablo3.com/profile/악동-32231/)                   |      5265      | 2.28 Quadrillion  |    Necro    | 2024-01-05 05:29:42 |
-| 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5214      | 2.21 Quadrillion  |    Necro    | 2024-01-05 05:48:45 |
+| 18  | [sm5#3961](https://kr.diablo3.com/profile/sm5-3961/)                   |      5219      | 2.22 Quadrillion  |    Necro    | 2024-01-05 08:27:35 |
 | 19  | [灭霸真人#3637](https://kr.diablo3.com/profile/灭霸真人-3637/)                 |      5193      | 2.18 Quadrillion  |   Wizard    | 2023-12-27 12:51:23 |
 | 20  | [체리슈#3914](https://kr.diablo3.com/profile/체리슈-3914/)                   |      5185      | 2.17 Quadrillion  |    Necro    | 2024-01-05 06:53:23 |
 | 21  | [STEllA#32244](https://kr.diablo3.com/profile/STEllA-32244/)           |      5106      | 2.07 Quadrillion  |    Necro    | 2024-01-05 06:55:27 |
