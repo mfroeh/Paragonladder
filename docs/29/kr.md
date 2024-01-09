@@ -1,7 +1,7 @@
 # Season 29 (KR)
 
 ---
-Table created at 2024-01-09 08:42:38.446614
+Table created at 2024-01-09 09:35:07.907763
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -16,7 +16,7 @@ Table created at 2024-01-09 08:42:38.446614
 | 9   | [mehldau#11934](https://kr.diablo3.com/profile/mehldau-11934/)         |      5580      | 2.74 Quadrillion  |     DH      | 2024-01-07 13:51:37 |
 | 10  | [감각#31954](https://kr.diablo3.com/profile/감각-31954/)                   |      5538      | 2.67 Quadrillion  |    Necro    | 2024-01-08 11:04:43 |
 | 11  | [결혼은진짜제발#3631](https://kr.diablo3.com/profile/결혼은진짜제발-3631/)           |      5470      | 2.57 Quadrillion  |     DH      | 2024-01-09 05:11:22 |
-| 12  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5425      | 2.5 Quadrillion   |    Necro    | 2024-01-08 17:57:50 |
+| 12  | [GOMYAMMI#3235](https://kr.diablo3.com/profile/GOMYAMMI-3235/)         |      5425      | 2.5 Quadrillion   |    Necro    | 2024-01-09 09:03:20 |
 | 13  | [삼자기#3235](https://kr.diablo3.com/profile/삼자기-3235/)                   |      5420      | 2.5 Quadrillion   |    Necro    | 2023-12-21 10:30:18 |
 | 14  | [개구마#3281](https://kr.diablo3.com/profile/개구마-3281/)                   |      5395      | 2.46 Quadrillion  |    Necro    | 2024-01-08 11:30:59 |
 | 15  | [하늘꽃#31501](https://kr.diablo3.com/profile/하늘꽃-31501/)                 |      5314      | 2.35 Quadrillion  |    Necro    | 2024-01-09 05:54:39 |
