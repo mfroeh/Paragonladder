@@ -1,12 +1,12 @@
 # Season 29 (KR)
 
 ---
-Table created at 2024-01-11 23:37:19.187018
+Table created at 2024-01-12 01:39:23.243260
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [HxxAx#3954](https://kr.diablo3.com/profile/HxxAx-3954/)               |      6676      | 4.78 Quadrillion  |     DH      | 2024-01-09 15:04:10 |
-| 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      6608      | 4.63 Quadrillion  |    Necro    | 2024-01-11 00:54:46 |
+| 2   | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)           |      6608      | 4.63 Quadrillion  |    Necro    | 2024-01-12 00:54:32 |
 | 3   | [zll#11335](https://kr.diablo3.com/profile/zll-11335/)                 |      5965      | 3.37 Quadrillion  |    Necro    | 2024-01-09 16:51:56 |
 | 4   | [네일#31188](https://kr.diablo3.com/profile/네일-31188/)                   |      5915      | 3.28 Quadrillion  |     DH      | 2024-01-09 19:04:35 |
 | 5   | [아웃입니다#3896](https://kr.diablo3.com/profile/아웃입니다-3896/)               |      5669      | 2.87 Quadrillion  |  Crusader   | 2024-01-09 19:04:35 |
@@ -39,8 +39,8 @@ Table created at 2024-01-11 23:37:19.187018
 | 32  | [yali#3362](https://kr.diablo3.com/profile/yali-3362/)                 |      4798      | 1.7 Quadrillion   |    Necro    | 2024-01-09 15:17:31 |
 | 33  | [洛渊#3447](https://kr.diablo3.com/profile/洛渊-3447/)                     |      4784      | 1.69 Quadrillion  |    Necro    | 2024-01-11 12:49:30 |
 | 34  | [Deloss#31609](https://kr.diablo3.com/profile/Deloss-31609/)           |      4729      | 1.63 Quadrillion  |    Necro    | 2023-10-17 17:50:12 |
-| 35  | [불타는앵벌#3109](https://kr.diablo3.com/profile/불타는앵벌-3109/)               |      4728      | 1.63 Quadrillion  |     DH      | 2024-01-11 15:50:44 |
-| 36  | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                     |      4710      | 1.61 Quadrillion  |    Necro    | 2024-01-09 12:29:42 |
+| 35  | [불타는앵벌#3109](https://kr.diablo3.com/profile/불타는앵벌-3109/)               |      4728      | 1.63 Quadrillion  |     DH      | 2024-01-12 01:26:55 |
+| 36  | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                     |      4710      | 1.61 Quadrillion  |    Necro    | 2024-01-12 01:36:43 |
 | 37  | [cocopam78#3646](https://kr.diablo3.com/profile/cocopam78-3646/)       |      4624      | 1.52 Quadrillion  |    Necro    | 2024-01-09 06:31:26 |
 | 38  | [검성#31504](https://kr.diablo3.com/profile/검성-31504/)                   |      4602      | 1.49 Quadrillion  |    Necro    | 2024-01-04 12:15:24 |
 | 39  | [我爱牛肉面#3115](https://kr.diablo3.com/profile/我爱牛肉面-3115/)               |      4591      | 1.48 Quadrillion  |     DH      | 2024-01-06 08:51:27 |
@@ -176,7 +176,7 @@ Table created at 2024-01-11 23:37:19.187018
 | 169 | [青衫一笑#3241](https://kr.diablo3.com/profile/青衫一笑-3241/)                 |      3563      | 665.84 Trillion   |   Wizard    | 2023-10-17 15:50:45 |
 | 170 | [奇迹力量#31395](https://kr.diablo3.com/profile/奇迹力量-31395/)               |      3561      | 664.66 Trillion   |     DH      | 2023-10-17 17:48:54 |
 | 171 | [沸騰冰水#1221](https://kr.diablo3.com/profile/沸騰冰水-1221/)                 |      3558      | 662.89 Trillion   |     DH      | 2023-10-17 17:49:29 |
-| 172 | [FreeStalNada#3254](https://kr.diablo3.com/profile/FreeStalNada-3254/) |      3558      | 662.89 Trillion   |  Barbarian  | 2024-01-11 22:57:27 |
+| 172 | [FreeStalNada#3254](https://kr.diablo3.com/profile/FreeStalNada-3254/) |      3558      | 662.89 Trillion   |  Barbarian  | 2024-01-12 00:53:41 |
 | 173 | [路飞呀#3478](https://kr.diablo3.com/profile/路飞呀-3478/)                   |      3546      | 655.85 Trillion   |     DH      | 2023-10-15 06:53:26 |
 | 174 | [牛牛#31425](https://kr.diablo3.com/profile/牛牛-31425/)                   |      3546      | 655.85 Trillion   |   Wizard    | 2023-10-17 17:49:21 |
 | 175 | [ZaiYunNan666#1232](https://kr.diablo3.com/profile/ZaiYunNan666-1232/) |      3544      | 654.69 Trillion   |   Wizard    | 2023-10-17 13:25:40 |
