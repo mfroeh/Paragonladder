@@ -1,195 +1,198 @@
 # Season 30 (US)
 
 ---
-Table created at 2024-01-13 03:45:53.884386
+Table created at 2024-01-13 04:48:54.833660
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [Pancake#1265](https://us.diablo3.com/profile/Pancake-1265/)             |      289       | 69.98 Billion     |    Monk     | 2024-01-13 03:24:39 |
-| 2   | [VelaRUS#2998](https://us.diablo3.com/profile/VelaRUS-2998/)             |      250       | 50.33 Billion     |    Monk     | 2024-01-13 03:05:27 |
-| 3   | [BurgerKing#22974](https://us.diablo3.com/profile/BurgerKing-22974/)     |      196       | 30.45 Billion     |     DH      | 2024-01-13 03:02:21 |
-| 4   | [Kridershot#2555](https://us.diablo3.com/profile/Kridershot-2555/)       |      179       | 25.42 Billion     |    Monk     | 2024-01-13 03:05:38 |
-| 5   | [ВЕЛЕС#21844](https://us.diablo3.com/profile/ВЕЛЕС-21844/)               |      153       | 18.87 Billion     |    Monk     | 2024-01-13 03:05:09 |
-| 6   | [BehindTimes#1460](https://us.diablo3.com/profile/BehindTimes-1460/)     |      120       | 12.12 Billion     |    Monk     | 2024-01-13 03:28:47 |
-| 7   | [rivalz#11421](https://us.diablo3.com/profile/rivalz-11421/)             |      118       | 11.75 Billion     |    Monk     | 2024-01-13 03:15:34 |
-| 8   | [Dhpower#11852](https://us.diablo3.com/profile/Dhpower-11852/)           |      114       | 11.02 Billion     |    Monk     | 2024-01-13 03:29:46 |
-| 9   | [LemonSupreme#11498](https://us.diablo3.com/profile/LemonSupreme-11498/) |       87       | 6.5 Billion       |    Necro    | 2024-01-13 03:25:10 |
-| 10  | [Persnicidy#1221](https://us.diablo3.com/profile/Persnicidy-1221/)       |       84       | 6.05 Billion      |     DH      | 2024-01-13 03:24:19 |
-| 11  | [Eggman#11196](https://us.diablo3.com/profile/Eggman-11196/)             |       79       | 5.31 Billion      |  Crusader   | 2024-01-13 03:24:22 |
-| 12  | [Hotblood#6857](https://us.diablo3.com/profile/Hotblood-6857/)           |       78       | 5.16 Billion      |    Monk     | 2024-01-13 03:23:46 |
-| 13  | [Assassin21#11237](https://us.diablo3.com/profile/Assassin21-11237/)     |       74       | 4.59 Billion      |    Monk     | 2024-01-13 03:14:51 |
-| 14  | [PumpUpTheJam#3366](https://us.diablo3.com/profile/PumpUpTheJam-3366/)   |       74       | 4.59 Billion      |    Monk     | 2024-01-13 03:14:35 |
-| 15  | [Solo#12773](https://us.diablo3.com/profile/Solo-12773/)                 |       70       | 4.06 Billion      |    Monk     | 2024-01-13 03:19:56 |
-| 16  | [Oovanish#1380](https://us.diablo3.com/profile/Oovanish-1380/)           |       70       | 4.06 Billion      |    Monk     | 2024-01-13 03:15:51 |
-| 17  | [Nainohtym#1251](https://us.diablo3.com/profile/Nainohtym-1251/)         |       69       | 3.94 Billion      |  Barbarian  | 2024-01-13 03:26:24 |
-| 18  | [YouDaRealMVP#1306](https://us.diablo3.com/profile/YouDaRealMVP-1306/)   |       68       | 3.82 Billion      |    Necro    | 2024-01-13 02:47:29 |
-| 19  | [edschli1973#1191](https://us.diablo3.com/profile/edschli1973-1191/)     |       67       | 3.71 Billion      |    Monk     | 2024-01-13 03:26:12 |
-| 20  | [HolidaySwetr#1554](https://us.diablo3.com/profile/HolidaySwetr-1554/)   |       67       | 3.71 Billion      |  Barbarian  | 2024-01-13 03:11:44 |
-| 21  | [TLarrabee#1764](https://us.diablo3.com/profile/TLarrabee-1764/)         |       67       | 3.71 Billion      |   Wizard    | 2024-01-13 03:19:33 |
-| 22  | [Dkimsauce#1541](https://us.diablo3.com/profile/Dkimsauce-1541/)         |       66       | 3.59 Billion      |    Monk     | 2024-01-13 03:25:53 |
-| 23  | [lgnpker#1697](https://us.diablo3.com/profile/lgnpker-1697/)             |       65       | 3.48 Billion      |    Monk     | 2024-01-13 03:23:50 |
-| 24  | [Inthya#1184](https://us.diablo3.com/profile/Inthya-1184/)               |       65       | 3.48 Billion      |    Necro    | 2024-01-13 03:23:50 |
-| 25  | [Morpheuz#1664](https://us.diablo3.com/profile/Morpheuz-1664/)           |       64       | 3.38 Billion      |    Necro    | 2024-01-13 03:08:15 |
-| 26  | [MaNoX#1352](https://us.diablo3.com/profile/MaNoX-1352/)                 |       64       | 3.38 Billion      |    Monk     | 2024-01-13 03:26:49 |
-| 27  | [nicoli342#1128](https://us.diablo3.com/profile/nicoli342-1128/)         |       64       | 3.38 Billion      |    Monk     | 2024-01-13 03:26:46 |
-| 28  | [DipskiLipski#1588](https://us.diablo3.com/profile/DipskiLipski-1588/)   |       64       | 3.38 Billion      |    Monk     | 2024-01-13 03:24:13 |
-| 29  | [McCreadie15#1412](https://us.diablo3.com/profile/McCreadie15-1412/)     |       64       | 3.38 Billion      |    Monk     | 2024-01-13 03:13:09 |
-| 30  | [Nado#2200](https://us.diablo3.com/profile/Nado-2200/)                   |       64       | 3.38 Billion      |    Monk     | 2024-01-13 03:30:51 |
-| 31  | [Charrsie#1893](https://us.diablo3.com/profile/Charrsie-1893/)           |       64       | 3.38 Billion      |    Monk     | 2024-01-13 03:33:18 |
-| 32  | [ryanthepope#1962](https://us.diablo3.com/profile/ryanthepope-1962/)     |       62       | 3.17 Billion      |    Monk     | 2024-01-13 03:25:57 |
-| 33  | [Wave#11324](https://us.diablo3.com/profile/Wave-11324/)                 |       62       | 3.17 Billion      |    Monk     | 2024-01-13 03:30:45 |
-| 34  | [gizmo#6587](https://us.diablo3.com/profile/gizmo-6587/)                 |       62       | 3.17 Billion      |     DH      | 2024-01-13 03:18:30 |
-| 35  | [Talechaser#1651](https://us.diablo3.com/profile/Talechaser-1651/)       |       62       | 3.17 Billion      |     DH      | 2024-01-13 03:34:05 |
-| 36  | [Helius#11621](https://us.diablo3.com/profile/Helius-11621/)             |       61       | 3.08 Billion      |    Monk     | 2024-01-13 03:12:40 |
-| 37  | [Yousoro#1138](https://us.diablo3.com/profile/Yousoro-1138/)             |       61       | 3.08 Billion      |    Monk     | 2024-01-13 03:11:21 |
-| 38  | [EbonHawK#1829](https://us.diablo3.com/profile/EbonHawK-1829/)           |       61       | 3.08 Billion      |    Monk     | 2024-01-13 03:14:45 |
-| 39  | [Primitive1#1775](https://us.diablo3.com/profile/Primitive1-1775/)       |       61       | 3.08 Billion      |   Wizard    | 2024-01-13 03:12:25 |
-| 40  | [Soilsiu#1917](https://us.diablo3.com/profile/Soilsiu-1917/)             |       61       | 3.08 Billion      |    Monk     | 2024-01-13 03:16:16 |
-| 41  | [BSquared62#1122](https://us.diablo3.com/profile/BSquared62-1122/)       |       61       | 3.08 Billion      |    Monk     | 2024-01-13 03:15:11 |
-| 42  | [Quizent#1735](https://us.diablo3.com/profile/Quizent-1735/)             |       60       | 2.98 Billion      |    Monk     | 2024-01-13 03:09:54 |
-| 43  | [Hexlian#1541](https://us.diablo3.com/profile/Hexlian-1541/)             |       60       | 2.98 Billion      |    Monk     | 2024-01-13 03:27:13 |
-| 44  | [Infamous#1254](https://us.diablo3.com/profile/Infamous-1254/)           |       60       | 2.98 Billion      |    Monk     | 2024-01-13 03:22:09 |
-| 45  | [melancholy#11547](https://us.diablo3.com/profile/melancholy-11547/)     |       59       | 2.89 Billion      |    Monk     | 2024-01-13 03:27:56 |
-| 46  | [Brophog#1113](https://us.diablo3.com/profile/Brophog-1113/)             |       59       | 2.89 Billion      |     WD      | 2024-01-13 03:08:53 |
-| 47  | [errmagerd#11281](https://us.diablo3.com/profile/errmagerd-11281/)       |       59       | 2.89 Billion      |    Necro    | 2024-01-13 03:24:31 |
-| 48  | [Esskey#1803](https://us.diablo3.com/profile/Esskey-1803/)               |       58       | 2.8 Billion       |    Monk     | 2024-01-13 03:22:41 |
-| 49  | [Laborday#1198](https://us.diablo3.com/profile/Laborday-1198/)           |       58       | 2.8 Billion       |    Monk     | 2024-01-13 03:23:23 |
-| 50  | [TahoeKing#1453](https://us.diablo3.com/profile/TahoeKing-1453/)         |       57       | 2.71 Billion      |    Monk     | 2024-01-13 03:24:46 |
-| 51  | [Baulz#1327](https://us.diablo3.com/profile/Baulz-1327/)                 |       57       | 2.71 Billion      |    Monk     | 2024-01-13 03:14:35 |
-| 52  | [Chase#1707](https://us.diablo3.com/profile/Chase-1707/)                 |       57       | 2.71 Billion      |    Monk     | 2024-01-13 03:21:13 |
-| 53  | [PandaCow#1867](https://us.diablo3.com/profile/PandaCow-1867/)           |       56       | 2.62 Billion      |    Monk     | 2024-01-13 03:05:56 |
-| 54  | [Brutal#11674](https://us.diablo3.com/profile/Brutal-11674/)             |       56       | 2.62 Billion      |    Monk     | 2024-01-13 03:29:47 |
-| 55  | [Kathule#11116](https://us.diablo3.com/profile/Kathule-11116/)           |       56       | 2.62 Billion      |    Monk     | 2024-01-13 03:21:45 |
-| 56  | [Ubiquitous#1491](https://us.diablo3.com/profile/Ubiquitous-1491/)       |       56       | 2.62 Billion      |    Monk     | 2024-01-13 03:33:15 |
-| 57  | [RodFergusson#1994](https://us.diablo3.com/profile/RodFergusson-1994/)   |       56       | 2.62 Billion      |    Monk     | 2024-01-13 03:29:26 |
-| 58  | [okappa#11821](https://us.diablo3.com/profile/okappa-11821/)             |       56       | 2.62 Billion      |    Monk     | 2024-01-13 03:33:27 |
-| 59  | [Phinkle#1528](https://us.diablo3.com/profile/Phinkle-1528/)             |       55       | 2.53 Billion      |    Monk     | 2024-01-13 03:29:18 |
-| 60  | [Reiny#1434](https://us.diablo3.com/profile/Reiny-1434/)                 |       55       | 2.53 Billion      |    Monk     | 2024-01-13 03:28:40 |
-| 61  | [nyx#14918](https://us.diablo3.com/profile/nyx-14918/)                   |       54       | 2.45 Billion      |    Monk     | 2024-01-13 02:51:42 |
-| 62  | [DreamingTim#1702](https://us.diablo3.com/profile/DreamingTim-1702/)     |       54       | 2.45 Billion      |  Crusader   | 2024-01-13 03:23:57 |
-| 63  | [Geo2#1925](https://us.diablo3.com/profile/Geo2-1925/)                   |       54       | 2.45 Billion      |    Monk     | 2024-01-13 03:21:40 |
-| 64  | [Bathtub#1112](https://us.diablo3.com/profile/Bathtub-1112/)             |       54       | 2.45 Billion      |    Monk     | 2024-01-13 03:32:57 |
-| 65  | [Floofy#11715](https://us.diablo3.com/profile/Floofy-11715/)             |       53       | 2.37 Billion      |    Necro    | 2024-01-13 02:59:15 |
-| 66  | [Legend449#1862](https://us.diablo3.com/profile/Legend449-1862/)         |       53       | 2.37 Billion      |    Necro    | 2024-01-13 03:10:43 |
-| 67  | [Kroor#1144](https://us.diablo3.com/profile/Kroor-1144/)                 |       53       | 2.37 Billion      |    Monk     | 2024-01-13 03:22:02 |
-| 68  | [Mongrael#1348](https://us.diablo3.com/profile/Mongrael-1348/)           |       53       | 2.37 Billion      |    Monk     | 2024-01-13 03:26:45 |
-| 69  | [AdvyInter#1219](https://us.diablo3.com/profile/AdvyInter-1219/)         |       53       | 2.37 Billion      |    Necro    | 2024-01-13 03:27:43 |
-| 70  | [Muungral#1596](https://us.diablo3.com/profile/Muungral-1596/)           |       53       | 2.37 Billion      |    Necro    | 2024-01-13 03:27:42 |
-| 71  | [Maximorou#1864](https://us.diablo3.com/profile/Maximorou-1864/)         |       53       | 2.37 Billion      |    Monk     | 2024-01-13 03:32:51 |
-| 72  | [Sweetcheekz#1306](https://us.diablo3.com/profile/Sweetcheekz-1306/)     |       52       | 2.28 Billion      |    Monk     | 2024-01-13 03:25:51 |
-| 73  | [Kuristian#11239](https://us.diablo3.com/profile/Kuristian-11239/)       |       52       | 2.28 Billion      |    Monk     | 2024-01-13 03:23:52 |
-| 74  | [MainProc#1347](https://us.diablo3.com/profile/MainProc-1347/)           |       52       | 2.28 Billion      |    Monk     | 2024-01-13 03:09:27 |
-| 75  | [SmuggledPlum#1431](https://us.diablo3.com/profile/SmuggledPlum-1431/)   |       52       | 2.28 Billion      |    Monk     | 2024-01-13 03:13:18 |
-| 76  | [Domeles#1658](https://us.diablo3.com/profile/Domeles-1658/)             |       52       | 2.28 Billion      |    Monk     | 2024-01-13 03:30:33 |
-| 77  | [Juraviel#1338](https://us.diablo3.com/profile/Juraviel-1338/)           |       52       | 2.28 Billion      |    Monk     | 2024-01-13 03:34:53 |
-| 78  | [Roman#1196](https://us.diablo3.com/profile/Roman-1196/)                 |       51       | 2.2 Billion       |    Monk     | 2024-01-13 03:34:57 |
-| 79  | [MisterFister#1451](https://us.diablo3.com/profile/MisterFister-1451/)   |       51       | 2.2 Billion       |    Monk     | 2024-01-13 03:29:13 |
-| 80  | [Coldbleeded#11597](https://us.diablo3.com/profile/Coldbleeded-11597/)   |       51       | 2.2 Billion       |    Necro    | 2024-01-13 03:36:26 |
-| 81  | [Kytch#11697](https://us.diablo3.com/profile/Kytch-11697/)               |       51       | 2.2 Billion       |    Monk     | 2024-01-13 03:36:14 |
-| 82  | [Zemill#1940](https://us.diablo3.com/profile/Zemill-1940/)               |       51       | 2.2 Billion       |   Wizard    | 2024-01-13 03:37:56 |
-| 83  | [SGTGrif#1527](https://us.diablo3.com/profile/SGTGrif-1527/)             |       50       | 2.12 Billion      |    Monk     | 2024-01-13 03:17:47 |
-| 84  | [Evolutious#11726](https://us.diablo3.com/profile/Evolutious-11726/)     |       50       | 2.12 Billion      |    Monk     | 2024-01-13 03:27:17 |
-| 85  | [GrumpAlert#1892](https://us.diablo3.com/profile/GrumpAlert-1892/)       |       50       | 2.12 Billion      |    Necro    | 2024-01-13 03:29:40 |
-| 86  | [skadiddlydoo#1172](https://us.diablo3.com/profile/skadiddlydoo-1172/)   |       50       | 2.12 Billion      |    Monk     | 2024-01-13 03:21:03 |
-| 87  | [moumentum#1445](https://us.diablo3.com/profile/moumentum-1445/)         |       50       | 2.12 Billion      |    Monk     | 2024-01-13 03:26:12 |
-| 88  | [Electrostats#1326](https://us.diablo3.com/profile/Electrostats-1326/)   |       50       | 2.12 Billion      |  Barbarian  | 2024-01-13 03:35:36 |
-| 89  | [Maghlan#1141](https://us.diablo3.com/profile/Maghlan-1141/)             |       50       | 2.12 Billion      |    Necro    | 2024-01-13 03:28:26 |
-| 90  | [INViGORATE#1763](https://us.diablo3.com/profile/INViGORATE-1763/)       |       50       | 2.12 Billion      |  Barbarian  | 2024-01-13 03:35:40 |
-| 91  | [WhiteOak#6605](https://us.diablo3.com/profile/WhiteOak-6605/)           |       49       | 2.05 Billion      |     DH      | 2024-01-13 03:09:54 |
-| 92  | [Vinande#1968](https://us.diablo3.com/profile/Vinande-1968/)             |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:28:26 |
-| 93  | [Walkirio#2906](https://us.diablo3.com/profile/Walkirio-2906/)           |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:25:17 |
-| 94  | [woodsy#1195](https://us.diablo3.com/profile/woodsy-1195/)               |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:19:30 |
-| 95  | [wmorfeu#1543](https://us.diablo3.com/profile/wmorfeu-1543/)             |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:22:30 |
-| 96  | [AGINSB#1319](https://us.diablo3.com/profile/AGINSB-1319/)               |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:05:01 |
-| 97  | [IuryHaroon#1122](https://us.diablo3.com/profile/IuryHaroon-1122/)       |       49       | 2.05 Billion      |    Necro    | 2024-01-13 03:18:19 |
-| 98  | [SleezySkiz#1153](https://us.diablo3.com/profile/SleezySkiz-1153/)       |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:21:25 |
-| 99  | [harrison23#1176](https://us.diablo3.com/profile/harrison23-1176/)       |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:24:52 |
-| 100 | [Zurn#1717](https://us.diablo3.com/profile/Zurn-1717/)                   |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:25:46 |
-| 101 | [Ventre#1556](https://us.diablo3.com/profile/Ventre-1556/)               |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:22:03 |
-| 102 | [Azrayon#1743](https://us.diablo3.com/profile/Azrayon-1743/)             |       48       | 1.97 Billion      |    Monk     | 2024-01-13 03:14:24 |
-| 103 | [EVLr3dmption#1590](https://us.diablo3.com/profile/EVLr3dmption-1590/)   |       48       | 1.97 Billion      |    Necro    | 2024-01-13 03:03:08 |
-| 104 | [Arrolynn#1337](https://us.diablo3.com/profile/Arrolynn-1337/)           |       48       | 1.97 Billion      |    Monk     | 2024-01-13 03:27:54 |
-| 105 | [MrBlazzar#1435](https://us.diablo3.com/profile/MrBlazzar-1435/)         |       48       | 1.97 Billion      |  Crusader   | 2024-01-13 03:30:27 |
-| 106 | [Yix#11633](https://us.diablo3.com/profile/Yix-11633/)                   |       48       | 1.97 Billion      |    Monk     | 2024-01-13 03:22:33 |
-| 107 | [NewbornMoose#1786](https://us.diablo3.com/profile/NewbornMoose-1786/)   |       48       | 1.97 Billion      |    Monk     | 2024-01-13 03:26:53 |
-| 108 | [woobay#1701](https://us.diablo3.com/profile/woobay-1701/)               |       47       | 1.9 Billion       |    Monk     | 2024-01-13 03:18:05 |
-| 109 | [BrutalTerra#1227](https://us.diablo3.com/profile/BrutalTerra-1227/)     |       47       | 1.9 Billion       |    Necro    | 2024-01-13 03:21:04 |
-| 110 | [JMF420FTP#6201](https://us.diablo3.com/profile/JMF420FTP-6201/)         |       47       | 1.9 Billion       |    Monk     | 2024-01-13 03:34:44 |
-| 111 | [ApVendetta#1224](https://us.diablo3.com/profile/ApVendetta-1224/)       |       47       | 1.9 Billion       |    Monk     | 2024-01-13 03:31:52 |
-| 112 | [pbdrummer#1418](https://us.diablo3.com/profile/pbdrummer-1418/)         |       46       | 1.82 Billion      |    Monk     | 2024-01-13 02:56:11 |
-| 113 | [SnowySnow#11847](https://us.diablo3.com/profile/SnowySnow-11847/)       |       46       | 1.82 Billion      |    Monk     | 2024-01-13 03:32:27 |
-| 114 | [ShirouGames#1394](https://us.diablo3.com/profile/ShirouGames-1394/)     |       46       | 1.82 Billion      |     DH      | 2024-01-13 03:32:38 |
-| 115 | [自由自在#3381](https://us.diablo3.com/profile/自由自在-3381/)                   |       46       | 1.82 Billion      |    Necro    | 2024-01-13 03:32:46 |
-| 116 | [Skyoshi#6305](https://us.diablo3.com/profile/Skyoshi-6305/)             |       46       | 1.82 Billion      |  Barbarian  | 2024-01-13 03:36:26 |
-| 117 | [Moodann#1343](https://us.diablo3.com/profile/Moodann-1343/)             |       45       | 1.75 Billion      |    Monk     | 2024-01-13 03:12:47 |
-| 118 | [BarryGaming#1150](https://us.diablo3.com/profile/BarryGaming-1150/)     |       45       | 1.75 Billion      |  Barbarian  | 2024-01-13 03:14:44 |
-| 119 | [potato#111146](https://us.diablo3.com/profile/potato-111146/)           |       45       | 1.75 Billion      |    Monk     | 2024-01-13 03:30:10 |
-| 120 | [Wooster#11936](https://us.diablo3.com/profile/Wooster-11936/)           |       45       | 1.75 Billion      |  Crusader   | 2024-01-13 03:19:58 |
-| 121 | [Moose#14432](https://us.diablo3.com/profile/Moose-14432/)               |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:06:51 |
-| 122 | [Saintremo#1684](https://us.diablo3.com/profile/Saintremo-1684/)         |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:13:33 |
-| 123 | [Zer0#13219](https://us.diablo3.com/profile/Zer0-13219/)                 |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:27:34 |
-| 124 | [Perygone#1833](https://us.diablo3.com/profile/Perygone-1833/)           |       44       | 1.68 Billion      |    Necro    | 2024-01-13 03:32:39 |
-| 125 | [Fub#1191](https://us.diablo3.com/profile/Fub-1191/)                     |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:24:47 |
-| 126 | [Caleko#1854](https://us.diablo3.com/profile/Caleko-1854/)               |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:24:57 |
-| 127 | [Anthro#1832](https://us.diablo3.com/profile/Anthro-1832/)               |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:33:02 |
-| 128 | [Devilz#11889](https://us.diablo3.com/profile/Devilz-11889/)             |       44       | 1.68 Billion      |    Monk     | 2024-01-13 03:25:20 |
-| 129 | [Penguish#11175](https://us.diablo3.com/profile/Penguish-11175/)         |       44       | 1.68 Billion      |     WD      | 2024-01-13 03:35:30 |
-| 130 | [Spartan#1785](https://us.diablo3.com/profile/Spartan-1785/)             |       44       | 1.68 Billion      |     DH      | 2024-01-13 03:37:20 |
-| 131 | [AiramBersot#1376](https://us.diablo3.com/profile/AiramBersot-1376/)     |       43       | 1.61 Billion      |    Monk     | 2024-01-13 03:04:25 |
-| 132 | [Kaidien#1898](https://us.diablo3.com/profile/Kaidien-1898/)             |       43       | 1.61 Billion      |  Barbarian  | 2024-01-13 03:17:34 |
-| 133 | [eiwonder#1942](https://us.diablo3.com/profile/eiwonder-1942/)           |       43       | 1.61 Billion      |    Monk     | 2024-01-13 03:17:58 |
-| 134 | [Braze#1515](https://us.diablo3.com/profile/Braze-1515/)                 |       43       | 1.61 Billion      |    Monk     | 2024-01-13 03:09:08 |
-| 135 | [FuDDEX420#1719](https://us.diablo3.com/profile/FuDDEX420-1719/)         |       43       | 1.61 Billion      |    Monk     | 2024-01-13 03:24:00 |
-| 136 | [Vitoxxx#1816](https://us.diablo3.com/profile/Vitoxxx-1816/)             |       42       | 1.54 Billion      |    Monk     | 2024-01-13 02:54:53 |
-| 137 | [Zef#11820](https://us.diablo3.com/profile/Zef-11820/)                   |       42       | 1.54 Billion      |    Monk     | 2024-01-13 03:22:14 |
-| 138 | [Amashatola#1443](https://us.diablo3.com/profile/Amashatola-1443/)       |       42       | 1.54 Billion      |    Monk     | 2024-01-13 03:31:58 |
-| 139 | [Dizease#1325](https://us.diablo3.com/profile/Dizease-1325/)             |       42       | 1.54 Billion      |    Monk     | 2024-01-13 03:03:31 |
-| 140 | [Evilmystic#1566](https://us.diablo3.com/profile/Evilmystic-1566/)       |       42       | 1.54 Billion      |    Monk     | 2024-01-13 03:05:02 |
-| 141 | [Reiver#1497](https://us.diablo3.com/profile/Reiver-1497/)               |       40       | 1.41 Billion      |    Necro    | 2024-01-13 03:10:05 |
-| 142 | [Zentar#1885](https://us.diablo3.com/profile/Zentar-1885/)               |       40       | 1.41 Billion      |    Monk     | 2024-01-13 03:24:16 |
-| 143 | [Lathos#1394](https://us.diablo3.com/profile/Lathos-1394/)               |       40       | 1.41 Billion      |   Wizard    | 2024-01-13 03:27:35 |
-| 144 | [rudead#1454](https://us.diablo3.com/profile/rudead-1454/)               |       40       | 1.41 Billion      |    Monk     | 2024-01-13 03:14:59 |
-| 145 | [Crusader3456#1483](https://us.diablo3.com/profile/Crusader3456-1483/)   |       39       | 1.35 Billion      |  Crusader   | 2024-01-13 03:26:53 |
-| 146 | [combine#6148](https://us.diablo3.com/profile/combine-6148/)             |       38       | 1.29 Billion      |    Monk     | 2024-01-13 03:05:35 |
-| 147 | [Btmdwellerjr#1997](https://us.diablo3.com/profile/Btmdwellerjr-1997/)   |       38       | 1.29 Billion      |    Monk     | 2024-01-13 03:15:06 |
-| 148 | [VenialDragon#6309](https://us.diablo3.com/profile/VenialDragon-6309/)   |       38       | 1.29 Billion      |    Monk     | 2024-01-13 02:49:49 |
-| 149 | [GeoDude#1133](https://us.diablo3.com/profile/GeoDude-1133/)             |       37       | 1.23 Billion      |  Barbarian  | 2024-01-13 03:05:47 |
-| 150 | [Rascozin#1257](https://us.diablo3.com/profile/Rascozin-1257/)           |       37       | 1.23 Billion      |    Necro    | 2024-01-13 03:15:58 |
-| 151 | [DawnOfDoom#1845](https://us.diablo3.com/profile/DawnOfDoom-1845/)       |       36       | 1.17 Billion      |    Monk     | 2024-01-13 03:17:11 |
-| 152 | [iBLACKREAPER#1414](https://us.diablo3.com/profile/iBLACKREAPER-1414/)   |       35       | 1.11 Billion      |  Barbarian  | 2024-01-13 03:21:31 |
-| 153 | [Phexeye#1727](https://us.diablo3.com/profile/Phexeye-1727/)             |       33       | 997.92 Million    |     DH      | 2024-01-13 03:03:01 |
-| 154 | [Goldschlager#1780](https://us.diablo3.com/profile/Goldschlager-1780/)   |       32       | 944.64 Million    |    Necro    | 2024-01-13 02:59:58 |
-| 155 | [LGtarzan#1328](https://us.diablo3.com/profile/LGtarzan-1328/)           |       29       | 793.44 Million    |    Necro    | 2024-01-13 02:59:59 |
-| 156 | [Gussy#6906](https://us.diablo3.com/profile/Gussy-6906/)                 |       28       | 745.92 Million    |  Crusader   | 2024-01-13 02:49:07 |
-| 157 | [Antilink#1573](https://us.diablo3.com/profile/Antilink-1573/)           |       28       | 745.92 Million    |    Necro    | 2024-01-13 02:50:22 |
-| 158 | [anixtra#1583](https://us.diablo3.com/profile/anixtra-1583/)             |       25       | 612.0 Million     |    Monk     | 2024-01-13 03:14:04 |
-| 159 | [Papabear#1714](https://us.diablo3.com/profile/Papabear-1714/)           |       24       | 570.24 Million    |    Monk     | 2024-01-13 02:34:07 |
-| 160 | [基拉大和#4154](https://us.diablo3.com/profile/基拉大和-4154/)                   |       21       | 453.6 Million     |    Necro    | 2024-01-13 02:41:43 |
-| 161 | [Kiaa#11154](https://us.diablo3.com/profile/Kiaa-11154/)                 |       19       | 383.04 Million    |     DH      | 2024-01-13 03:06:13 |
-| 162 | [D4RKBR#11788](https://us.diablo3.com/profile/D4RKBR-11788/)             |       19       | 383.04 Million    |    Necro    | 2024-01-13 02:41:34 |
-| 163 | [Adinpal#1967](https://us.diablo3.com/profile/Adinpal-1967/)             |       18       | 349.92 Million    |    Monk     | 2024-01-13 02:30:51 |
-| 164 | [BrazucaX#1684](https://us.diablo3.com/profile/BrazucaX-1684/)           |       17       | 318.24 Million    |    Monk     | 2024-01-13 02:47:23 |
-| 165 | [Selluth#1826](https://us.diablo3.com/profile/Selluth-1826/)             |       16       | 288.0 Million     |    Necro    | 2024-01-13 02:54:57 |
-| 166 | [barret#1697](https://us.diablo3.com/profile/barret-1697/)               |       15       | 259.2 Million     |    Monk     | 2024-01-13 02:24:02 |
-| 167 | [Spicez77#1108](https://us.diablo3.com/profile/Spicez77-1108/)           |       7        | 80.64 Million     |    Monk     | 2024-01-13 03:00:16 |
-| 168 | [Frittzoid#1543](https://us.diablo3.com/profile/Frittzoid-1543/)         |       1        | 7.2 Million       |    Monk     | 2024-01-13 02:11:30 |
-| 169 | [Kalibur#1272](https://us.diablo3.com/profile/Kalibur-1272/)             |       1        | 7.2 Million       |     DH      | 2024-01-13 02:11:26 |
-| 170 | [Caldron#11835](https://us.diablo3.com/profile/Caldron-11835/)           |       0        | 0                 |    Monk     | 2024-01-13 01:29:20 |
-| 171 | [Yata#1266](https://us.diablo3.com/profile/Yata-1266/)                   |       0        | 0                 |    Monk     | 2024-01-13 02:48:31 |
-| 172 | [JungleGeorge#11276](https://us.diablo3.com/profile/JungleGeorge-11276/) |       0        | 0                 |  Barbarian  | 2024-01-13 02:04:19 |
-| 173 | [zzdiablo#6470](https://us.diablo3.com/profile/zzdiablo-6470/)           |       0        | 0                 |     DH      | 2024-01-13 02:33:20 |
-| 174 | [DyS#1311](https://us.diablo3.com/profile/DyS-1311/)                     |       0        | 0                 |     DH      | 2024-01-13 03:16:34 |
-| 175 | [Shelt#6775](https://us.diablo3.com/profile/Shelt-6775/)                 |       0        | 0                 |    Monk     | 2024-01-13 03:31:54 |
-| 176 | [KorteX#2751](https://us.diablo3.com/profile/KorteX-2751/)               |       0        | 0                 |    Necro    | 2024-01-13 02:11:25 |
-| 177 | [Rizuli#1307](https://us.diablo3.com/profile/Rizuli-1307/)               |       0        | 0                 |    Monk     | 2024-01-13 01:29:31 |
-| 178 | [MahFuggin#1823](https://us.diablo3.com/profile/MahFuggin-1823/)         |       0        | 0                 |  Crusader   | 2024-01-13 03:28:51 |
-| 179 | [KillemRex#1512](https://us.diablo3.com/profile/KillemRex-1512/)         |       0        | 0                 |    Monk     | 2024-01-13 03:32:53 |
-| 180 | [Slash#1328](https://us.diablo3.com/profile/Slash-1328/)                 |       0        | 0                 |     DH      | 2024-01-13 02:27:26 |
-| 181 | [SlickRick#1145](https://us.diablo3.com/profile/SlickRick-1145/)         |       0        | 0                 |    Monk     | 2024-01-13 01:32:47 |
-| 182 | [Rahl#11878](https://us.diablo3.com/profile/Rahl-11878/)                 |       0        | 0                 |     DH      | 2024-01-13 01:23:51 |
-| 183 | [Devil#15974](https://us.diablo3.com/profile/Devil-15974/)               |       0        | 0                 |    Necro    | 2024-01-13 02:30:35 |
-| 184 | [Raxxanterax#1365](https://us.diablo3.com/profile/Raxxanterax-1365/)     |       0        | 0                 |    Monk     | 2024-01-13 03:20:21 |
-| 185 | [Pathofexile#11976](https://us.diablo3.com/profile/Pathofexile-11976/)   |       0        | 0                 |    Monk     | 2024-01-13 02:10:25 |
-| 186 | [Ungart#1610](https://us.diablo3.com/profile/Ungart-1610/)               |       0        | 0                 |    Necro    | 2024-01-13 02:18:43 |
-| 187 | [RemyLeBaue#1632](https://us.diablo3.com/profile/RemyLeBaue-1632/)       |       0        | 0                 |    Monk     | 2024-01-13 03:11:42 |
-| 188 | [ManWithPants#11725](https://us.diablo3.com/profile/ManWithPants-11725/) |       0        | 0                 |     WD      | 2024-01-13 02:06:45 |
+| 1   | [Baulz#1327](https://us.diablo3.com/profile/Baulz-1327/)                 |      465       | 249.74 Billion    |    Monk     | 2024-01-13 04:27:42 |
+| 2   | [Pancake#1265](https://us.diablo3.com/profile/Pancake-1265/)             |      427       | 195.47 Billion    |    Monk     | 2024-01-13 04:15:13 |
+| 3   | [VelaRUS#2998](https://us.diablo3.com/profile/VelaRUS-2998/)             |      401       | 163.62 Billion    |    Monk     | 2024-01-13 03:51:57 |
+| 4   | [Solo#12773](https://us.diablo3.com/profile/Solo-12773/)                 |      381       | 141.94 Billion    |    Monk     | 2024-01-13 04:20:35 |
+| 5   | [Kridershot#2555](https://us.diablo3.com/profile/Kridershot-2555/)       |      376       | 136.9 Billion     |    Monk     | 2024-01-13 03:50:33 |
+| 6   | [BurgerKing#22974](https://us.diablo3.com/profile/BurgerKing-22974/)     |      374       | 134.92 Billion    |     DH      | 2024-01-13 03:51:51 |
+| 7   | [ВЕЛЕС#21844](https://us.diablo3.com/profile/ВЕЛЕС-21844/)               |      333       | 99.6 Billion      |    Monk     | 2024-01-13 03:52:01 |
+| 8   | [Violencé#1394](https://us.diablo3.com/profile/Violencé-1394/)           |      290       | 70.57 Billion     |    Monk     | 2024-01-13 04:32:57 |
+| 9   | [Schocker#1724](https://us.diablo3.com/profile/Schocker-1724/)           |      278       | 63.81 Billion     |    Monk     | 2024-01-13 04:29:22 |
+| 10  | [Shadow#11922](https://us.diablo3.com/profile/Shadow-11922/)             |      273       | 61.17 Billion     |    Monk     | 2024-01-13 04:27:07 |
+| 11  | [Juraviel#1338](https://us.diablo3.com/profile/Juraviel-1338/)           |      268       | 58.63 Billion     |    Monk     | 2024-01-13 04:27:56 |
+| 12  | [Esskey#1803](https://us.diablo3.com/profile/Esskey-1803/)               |      259       | 54.31 Billion     |    Monk     | 2024-01-13 04:32:14 |
+| 13  | [SmuggledPlum#1431](https://us.diablo3.com/profile/SmuggledPlum-1431/)   |      256       | 52.95 Billion     |    Monk     | 2024-01-13 04:31:44 |
+| 14  | [NorrisJ#1613](https://us.diablo3.com/profile/NorrisJ-1613/)             |      254       | 52.06 Billion     |    Monk     | 2024-01-13 04:06:04 |
+| 15  | [Chase#1707](https://us.diablo3.com/profile/Chase-1707/)                 |      253       | 51.62 Billion     |    Monk     | 2024-01-13 04:28:16 |
+| 16  | [Soilsiu#1917](https://us.diablo3.com/profile/Soilsiu-1917/)             |      253       | 51.62 Billion     |    Monk     | 2024-01-13 04:27:59 |
+| 17  | [Caleko#1854](https://us.diablo3.com/profile/Caleko-1854/)               |      246       | 48.65 Billion     |    Monk     | 2024-01-13 04:31:28 |
+| 18  | [Brutal#11674](https://us.diablo3.com/profile/Brutal-11674/)             |      245       | 48.24 Billion     |    Monk     | 2024-01-13 04:30:27 |
+| 19  | [TahoeKing#1453](https://us.diablo3.com/profile/TahoeKing-1453/)         |      240       | 46.2 Billion      |    Monk     | 2024-01-13 04:22:54 |
+| 20  | [Mongrael#1348](https://us.diablo3.com/profile/Mongrael-1348/)           |      240       | 46.2 Billion      |    Monk     | 2024-01-13 04:06:10 |
+| 21  | [Nulf#11959](https://us.diablo3.com/profile/Nulf-11959/)                 |      233       | 43.43 Billion     |     DH      | 2024-01-13 04:24:32 |
+| 22  | [BehindTimes#1460](https://us.diablo3.com/profile/BehindTimes-1460/)     |      225       | 40.38 Billion     |    Monk     | 2024-01-13 04:06:21 |
+| 23  | [MisterFister#1451](https://us.diablo3.com/profile/MisterFister-1451/)   |      224       | 40.01 Billion     |    Monk     | 2024-01-13 04:16:54 |
+| 24  | [Quizent#1735](https://us.diablo3.com/profile/Quizent-1735/)             |      219       | 38.19 Billion     |    Monk     | 2024-01-13 03:57:08 |
+| 25  | [MaNoX#1352](https://us.diablo3.com/profile/MaNoX-1352/)                 |      217       | 37.47 Billion     |    Monk     | 2024-01-13 04:24:14 |
+| 26  | [Persnicidy#1221](https://us.diablo3.com/profile/Persnicidy-1221/)       |      217       | 37.47 Billion     |     DH      | 2024-01-13 04:27:18 |
+| 27  | [Eldh#11628](https://us.diablo3.com/profile/Eldh-11628/)                 |      215       | 36.76 Billion     |    Monk     | 2024-01-13 04:40:12 |
+| 28  | [Zervanis#11155](https://us.diablo3.com/profile/Zervanis-11155/)         |      213       | 36.06 Billion     |    Monk     | 2024-01-13 04:36:42 |
+| 29  | [JPaulo#11504](https://us.diablo3.com/profile/JPaulo-11504/)             |      212       | 35.72 Billion     |    Monk     | 2024-01-13 04:38:41 |
+| 30  | [darkness#3127](https://us.diablo3.com/profile/darkness-3127/)           |      211       | 35.37 Billion     |     DH      | 2024-01-13 04:34:32 |
+| 31  | [Lathos#1394](https://us.diablo3.com/profile/Lathos-1394/)               |      210       | 35.03 Billion     |   Wizard    | 2024-01-13 04:31:54 |
+| 32  | [Charrsie#1893](https://us.diablo3.com/profile/Charrsie-1893/)           |      209       | 34.69 Billion     |    Monk     | 2024-01-13 04:29:39 |
+| 33  | [Eggman#11196](https://us.diablo3.com/profile/Eggman-11196/)             |      205       | 33.35 Billion     |  Crusader   | 2024-01-13 04:26:48 |
+| 34  | [Everblue#1858](https://us.diablo3.com/profile/Everblue-1858/)           |      197       | 30.76 Billion     |    Monk     | 2024-01-13 04:14:07 |
+| 35  | [Jeskka#1783](https://us.diablo3.com/profile/Jeskka-1783/)               |      195       | 30.13 Billion     |     DH      | 2024-01-13 04:39:03 |
+| 36  | [Wooster#11936](https://us.diablo3.com/profile/Wooster-11936/)           |      194       | 29.82 Billion     |  Crusader   | 2024-01-13 04:32:57 |
+| 37  | [Coldbleeded#11597](https://us.diablo3.com/profile/Coldbleeded-11597/)   |      192       | 29.21 Billion     |    Necro    | 2024-01-13 04:30:49 |
+| 38  | [Roflknief#1748](https://us.diablo3.com/profile/Roflknief-1748/)         |      186       | 27.42 Billion     |     DH      | 2024-01-13 04:33:36 |
+| 39  | [BSquared62#1122](https://us.diablo3.com/profile/BSquared62-1122/)       |      183       | 26.55 Billion     |    Monk     | 2024-01-13 04:28:54 |
+| 40  | [AiramBersot#1376](https://us.diablo3.com/profile/AiramBersot-1376/)     |      181       | 25.98 Billion     |    Monk     | 2024-01-13 04:28:17 |
+| 41  | [Hotblood#6857](https://us.diablo3.com/profile/Hotblood-6857/)           |      181       | 25.98 Billion     |    Monk     | 2024-01-13 04:32:34 |
+| 42  | [Talechaser#1651](https://us.diablo3.com/profile/Talechaser-1651/)       |      181       | 25.98 Billion     |     DH      | 2024-01-13 04:30:09 |
+| 43  | [EbonHawK#1829](https://us.diablo3.com/profile/EbonHawK-1829/)           |      180       | 25.7 Billion      |    Monk     | 2024-01-13 04:28:42 |
+| 44  | [McCreadie15#1412](https://us.diablo3.com/profile/McCreadie15-1412/)     |      179       | 25.42 Billion     |    Monk     | 2024-01-13 04:02:39 |
+| 45  | [MemeMachine#11847](https://us.diablo3.com/profile/MemeMachine-11847/)   |      179       | 25.42 Billion     |    Monk     | 2024-01-13 04:35:51 |
+| 46  | [Aend#1264](https://us.diablo3.com/profile/Aend-1264/)                   |      179       | 25.42 Billion     |     DH      | 2024-01-13 04:39:26 |
+| 47  | [NekoMata#31296](https://us.diablo3.com/profile/NekoMata-31296/)         |      178       | 25.14 Billion     |     DH      | 2024-01-13 04:30:54 |
+| 48  | [Kroor#1144](https://us.diablo3.com/profile/Kroor-1144/)                 |      177       | 24.86 Billion     |    Monk     | 2024-01-13 04:26:14 |
+| 49  | [DipskiLipski#1588](https://us.diablo3.com/profile/DipskiLipski-1588/)   |      177       | 24.86 Billion     |    Monk     | 2024-01-13 04:18:25 |
+| 50  | [Reiny#1434](https://us.diablo3.com/profile/Reiny-1434/)                 |      175       | 24.32 Billion     |    Monk     | 2024-01-13 04:08:42 |
+| 51  | [Vosstro#1309](https://us.diablo3.com/profile/Vosstro-1309/)             |      174       | 24.05 Billion     |    Necro    | 2024-01-13 04:26:55 |
+| 52  | [FuDDEX420#1719](https://us.diablo3.com/profile/FuDDEX420-1719/)         |      172       | 23.52 Billion     |    Monk     | 2024-01-13 04:30:11 |
+| 53  | [melancholy#11547](https://us.diablo3.com/profile/melancholy-11547/)     |      171       | 23.25 Billion     |    Monk     | 2024-01-13 04:25:10 |
+| 54  | [F0rSak3n#1684](https://us.diablo3.com/profile/F0rSak3n-1684/)           |      171       | 23.25 Billion     |    Monk     | 2024-01-13 04:30:17 |
+| 55  | [wizardanim#1916](https://us.diablo3.com/profile/wizardanim-1916/)       |      171       | 23.25 Billion     |    Monk     | 2024-01-13 04:40:03 |
+| 56  | [lgnpker#1697](https://us.diablo3.com/profile/lgnpker-1697/)             |      170       | 22.99 Billion     |    Monk     | 2024-01-13 04:07:58 |
+| 57  | [Superman#14887](https://us.diablo3.com/profile/Superman-14887/)         |      170       | 22.99 Billion     |    Monk     | 2024-01-13 04:19:40 |
+| 58  | [BlackMythWK#3523](https://us.diablo3.com/profile/BlackMythWK-3523/)     |      170       | 22.99 Billion     |    Necro    | 2024-01-13 04:31:01 |
+| 59  | [TinneOnnMuin#1187](https://us.diablo3.com/profile/TinneOnnMuin-1187/)   |      169       | 22.73 Billion     |   Wizard    | 2024-01-13 04:29:45 |
+| 60  | [YouDaRealMVP#1306](https://us.diablo3.com/profile/YouDaRealMVP-1306/)   |      168       | 22.48 Billion     |    Necro    | 2024-01-13 03:45:37 |
+| 61  | [Kathule#11116](https://us.diablo3.com/profile/Kathule-11116/)           |      168       | 22.48 Billion     |    Monk     | 2024-01-13 04:23:35 |
+| 62  | [Poke#1951](https://us.diablo3.com/profile/Poke-1951/)                   |      168       | 22.48 Billion     |     DH      | 2024-01-13 04:31:35 |
+| 63  | [RRspud#1665](https://us.diablo3.com/profile/RRspud-1665/)               |      167       | 22.22 Billion     |    Necro    | 2024-01-13 04:34:53 |
+| 64  | [nyx#14918](https://us.diablo3.com/profile/nyx-14918/)                   |      166       | 21.97 Billion     |    Monk     | 2024-01-13 04:27:16 |
+| 65  | [MagicCrystal#31930](https://us.diablo3.com/profile/MagicCrystal-31930/) |      166       | 21.97 Billion     |    Necro    | 2024-01-13 04:30:59 |
+| 66  | [Hemlock#1591](https://us.diablo3.com/profile/Hemlock-1591/)             |      162       | 20.98 Billion     |    Monk     | 2024-01-13 04:32:29 |
+| 67  | [errmagerd#11281](https://us.diablo3.com/profile/errmagerd-11281/)       |      161       | 20.74 Billion     |    Necro    | 2024-01-13 04:26:57 |
+| 68  | [Helius#11621](https://us.diablo3.com/profile/Helius-11621/)             |      158       | 20.02 Billion     |    Monk     | 2024-01-13 04:25:32 |
+| 69  | [Boloboy#11604](https://us.diablo3.com/profile/Boloboy-11604/)           |      158       | 20.02 Billion     |     WD      | 2024-01-13 04:26:48 |
+| 70  | [Carty#6614](https://us.diablo3.com/profile/Carty-6614/)                 |      157       | 19.78 Billion     |    Monk     | 2024-01-13 04:25:42 |
+| 71  | [Primitive1#1775](https://us.diablo3.com/profile/Primitive1-1775/)       |      156       | 19.55 Billion     |   Wizard    | 2024-01-13 04:19:10 |
+| 72  | [Benderr#1706](https://us.diablo3.com/profile/Benderr-1706/)             |      156       | 19.55 Billion     |     DH      | 2024-01-13 04:27:07 |
+| 73  | [WhiteOak#6605](https://us.diablo3.com/profile/WhiteOak-6605/)           |      154       | 19.09 Billion     |    Monk     | 2024-01-13 03:52:38 |
+| 74  | [Jaedyn#1365](https://us.diablo3.com/profile/Jaedyn-1365/)               |      153       | 18.87 Billion     |    Monk     | 2024-01-13 04:37:14 |
+| 75  | [DreamingTim#1702](https://us.diablo3.com/profile/DreamingTim-1702/)     |      152       | 18.64 Billion     |  Crusader   | 2024-01-13 04:20:35 |
+| 76  | [Nado#2200](https://us.diablo3.com/profile/Nado-2200/)                   |      152       | 18.64 Billion     |    Monk     | 2024-01-13 03:53:37 |
+| 77  | [gizmo#6587](https://us.diablo3.com/profile/gizmo-6587/)                 |      152       | 18.64 Billion     |    Monk     | 2024-01-13 04:17:36 |
+| 78  | [Dizease#1325](https://us.diablo3.com/profile/Dizease-1325/)             |      152       | 18.64 Billion     |    Monk     | 2024-01-13 04:29:51 |
+| 79  | [RodFergusson#1994](https://us.diablo3.com/profile/RodFergusson-1994/)   |      152       | 18.64 Billion     |    Monk     | 2024-01-13 04:29:10 |
+| 80  | [iBLACKREAPER#1414](https://us.diablo3.com/profile/iBLACKREAPER-1414/)   |      151       | 18.42 Billion     |  Barbarian  | 2024-01-13 04:26:45 |
+| 81  | [KingMaker#11499](https://us.diablo3.com/profile/KingMaker-11499/)       |      151       | 18.42 Billion     |     DH      | 2024-01-13 03:53:01 |
+| 82  | [Cdart#1970](https://us.diablo3.com/profile/Cdart-1970/)                 |      151       | 18.42 Billion     |     DH      | 2024-01-13 04:33:03 |
+| 83  | [Nicknak#1902](https://us.diablo3.com/profile/Nicknak-1902/)             |      150       | 18.2 Billion      |    Monk     | 2024-01-13 04:10:53 |
+| 84  | [Gussy#6906](https://us.diablo3.com/profile/Gussy-6906/)                 |      149       | 17.98 Billion     |  Crusader   | 2024-01-13 04:07:35 |
+| 85  | [Imperial#1388](https://us.diablo3.com/profile/Imperial-1388/)           |      149       | 17.98 Billion     |    Monk     | 2024-01-13 04:35:38 |
+| 86  | [CaDAVErous#1809](https://us.diablo3.com/profile/CaDAVErous-1809/)       |      148       | 17.76 Billion     |    Monk     | 2024-01-13 04:21:30 |
+| 87  | [woobay#1701](https://us.diablo3.com/profile/woobay-1701/)               |      146       | 17.34 Billion     |    Monk     | 2024-01-13 04:17:25 |
+| 88  | [Coolcats#1687](https://us.diablo3.com/profile/Coolcats-1687/)           |      146       | 17.34 Billion     |    Monk     | 2024-01-13 04:17:38 |
+| 89  | [fourhead#11274](https://us.diablo3.com/profile/fourhead-11274/)         |      146       | 17.34 Billion     |    Necro    | 2024-01-13 04:39:36 |
+| 90  | [Dabooty#1814](https://us.diablo3.com/profile/Dabooty-1814/)             |      145       | 17.12 Billion     |     DH      | 2024-01-13 04:14:23 |
+| 91  | [cLOVELIFEc#2380](https://us.diablo3.com/profile/cLOVELIFEc-2380/)       |      145       | 17.12 Billion     |     DH      | 2024-01-13 04:35:02 |
+| 92  | [sploink#1761](https://us.diablo3.com/profile/sploink-1761/)             |      144       | 16.91 Billion     |    Monk     | 2024-01-13 04:21:02 |
+| 93  | [Selluth#1826](https://us.diablo3.com/profile/Selluth-1826/)             |      143       | 16.7 Billion      |    Necro    | 2024-01-13 04:34:26 |
+| 94  | [okappa#11821](https://us.diablo3.com/profile/okappa-11821/)             |      143       | 16.7 Billion      |    Monk     | 2024-01-13 04:07:53 |
+| 95  | [Saintadin#1831](https://us.diablo3.com/profile/Saintadin-1831/)         |      143       | 16.7 Billion      |    Monk     | 2024-01-13 04:25:43 |
+| 96  | [Jin#15465](https://us.diablo3.com/profile/Jin-15465/)                   |      143       | 16.7 Billion      |     DH      | 2024-01-13 04:39:42 |
+| 97  | [Aczo#1181](https://us.diablo3.com/profile/Aczo-1181/)                   |      142       | 16.49 Billion     |  Crusader   | 2024-01-13 04:39:45 |
+| 98  | [Azrayon#1743](https://us.diablo3.com/profile/Azrayon-1743/)             |      141       | 16.28 Billion     |    Monk     | 2024-01-13 04:13:00 |
+| 99  | [Assassin21#11237](https://us.diablo3.com/profile/Assassin21-11237/)     |      140       | 16.07 Billion     |    Monk     | 2024-01-13 04:15:47 |
+| 100 | [Kuristian#11239](https://us.diablo3.com/profile/Kuristian-11239/)       |      140       | 16.07 Billion     |    Monk     | 2024-01-13 04:09:09 |
+| 101 | [Yix#11633](https://us.diablo3.com/profile/Yix-11633/)                   |      140       | 16.07 Billion     |    Monk     | 2024-01-13 04:21:07 |
+| 102 | [PumpUpTheJam#3366](https://us.diablo3.com/profile/PumpUpTheJam-3366/)   |      139       | 15.86 Billion     |    Monk     | 2024-01-13 04:01:39 |
+| 103 | [Tofu#11974](https://us.diablo3.com/profile/Tofu-11974/)                 |      138       | 15.66 Billion     |    Monk     | 2024-01-13 04:31:55 |
+| 104 | [Orzac#1306](https://us.diablo3.com/profile/Orzac-1306/)                 |      138       | 15.66 Billion     |    Monk     | 2024-01-13 04:31:07 |
+| 105 | [Electrostats#1326](https://us.diablo3.com/profile/Electrostats-1326/)   |      137       | 15.45 Billion     |  Barbarian  | 2024-01-13 04:35:08 |
+| 106 | [Griffin#1814](https://us.diablo3.com/profile/Griffin-1814/)             |      137       | 15.45 Billion     |     DH      | 2024-01-13 04:35:35 |
+| 107 | [Spartan#1785](https://us.diablo3.com/profile/Spartan-1785/)             |      136       | 15.25 Billion     |     DH      | 2024-01-13 04:30:02 |
+| 108 | [Neoprovex#1292](https://us.diablo3.com/profile/Neoprovex-1292/)         |      136       | 15.25 Billion     |  Crusader   | 2024-01-13 04:39:37 |
+| 109 | [SuperPants#114746](https://us.diablo3.com/profile/SuperPants-114746/)   |      135       | 15.05 Billion     |     DH      | 2024-01-13 04:05:47 |
+| 110 | [Drastern#1672](https://us.diablo3.com/profile/Drastern-1672/)           |      135       | 15.05 Billion     |    Monk     | 2024-01-13 04:25:05 |
+| 111 | [Rustem#1664](https://us.diablo3.com/profile/Rustem-1664/)               |      135       | 15.05 Billion     |    Monk     | 2024-01-13 04:01:59 |
+| 112 | [Inthya#1184](https://us.diablo3.com/profile/Inthya-1184/)               |      134       | 14.84 Billion     |    Necro    | 2024-01-13 04:30:19 |
+| 113 | [Phexeye#1727](https://us.diablo3.com/profile/Phexeye-1727/)             |      134       | 14.84 Billion     |     DH      | 2024-01-13 04:30:05 |
+| 114 | [TheFrostyxx#1269](https://us.diablo3.com/profile/TheFrostyxx-1269/)     |      134       | 14.84 Billion     |  Barbarian  | 2024-01-13 04:21:17 |
+| 115 | [Swift#1353](https://us.diablo3.com/profile/Swift-1353/)                 |      134       | 14.84 Billion     |    Monk     | 2024-01-13 04:31:04 |
+| 116 | [anixtra#1583](https://us.diablo3.com/profile/anixtra-1583/)             |      133       | 14.64 Billion     |    Monk     | 2024-01-13 04:18:52 |
+| 117 | [Bowmarc#1966](https://us.diablo3.com/profile/Bowmarc-1966/)             |      132       | 14.44 Billion     |    Necro    | 2024-01-13 04:14:12 |
+| 118 | [Arrakos#1617](https://us.diablo3.com/profile/Arrakos-1617/)             |      131       | 14.24 Billion     |    Monk     | 2024-01-13 04:29:24 |
+| 119 | [METALHEAD#1425](https://us.diablo3.com/profile/METALHEAD-1425/)         |      131       | 14.24 Billion     |  Barbarian  | 2024-01-13 04:31:14 |
+| 120 | [Hazz#11427](https://us.diablo3.com/profile/Hazz-11427/)                 |      130       | 14.05 Billion     |     DH      | 2024-01-13 04:35:07 |
+| 121 | [Hexlian#1541](https://us.diablo3.com/profile/Hexlian-1541/)             |      129       | 13.85 Billion     |    Monk     | 2024-01-13 04:05:19 |
+| 122 | [Vall#11286](https://us.diablo3.com/profile/Vall-11286/)                 |      129       | 13.85 Billion     |    Monk     | 2024-01-13 04:25:24 |
+| 123 | [Memry#1398](https://us.diablo3.com/profile/Memry-1398/)                 |      129       | 13.85 Billion     |    Monk     | 2024-01-13 04:25:53 |
+| 124 | [Papabear#1714](https://us.diablo3.com/profile/Papabear-1714/)           |      128       | 13.65 Billion     |    Monk     | 2024-01-13 04:23:40 |
+| 125 | [JMF420FTP#6201](https://us.diablo3.com/profile/JMF420FTP-6201/)         |      127       | 13.46 Billion     |    Monk     | 2024-01-13 03:57:31 |
+| 126 | [Reluhs#1827](https://us.diablo3.com/profile/Reluhs-1827/)               |      127       | 13.46 Billion     |     DH      | 2024-01-13 04:16:21 |
+| 127 | [Def#11643](https://us.diablo3.com/profile/Def-11643/)                   |      127       | 13.46 Billion     |     DH      | 2024-01-13 04:21:20 |
+| 128 | [HolidaySwetr#1554](https://us.diablo3.com/profile/HolidaySwetr-1554/)   |      126       | 13.27 Billion     |  Barbarian  | 2024-01-13 04:29:37 |
+| 129 | [KorteX#2751](https://us.diablo3.com/profile/KorteX-2751/)               |      126       | 13.27 Billion     |    Monk     | 2024-01-13 04:34:35 |
+| 130 | [ErgoSiphon#1135](https://us.diablo3.com/profile/ErgoSiphon-1135/)       |      126       | 13.27 Billion     |    Necro    | 2024-01-13 04:39:50 |
+| 131 | [Dkimsauce#1541](https://us.diablo3.com/profile/Dkimsauce-1541/)         |      125       | 13.07 Billion     |    Monk     | 2024-01-13 04:10:52 |
+| 132 | [ApVendetta#1224](https://us.diablo3.com/profile/ApVendetta-1224/)       |      125       | 13.07 Billion     |    Monk     | 2024-01-13 04:31:18 |
+| 133 | [Xi0n#1456](https://us.diablo3.com/profile/Xi0n-1456/)                   |      125       | 13.07 Billion     |     DH      | 2024-01-13 04:04:35 |
+| 134 | [DiabloII#1496](https://us.diablo3.com/profile/DiabloII-1496/)           |      125       | 13.07 Billion     |    Monk     | 2024-01-13 04:28:13 |
+| 135 | [Keele#1729](https://us.diablo3.com/profile/Keele-1729/)                 |      123       | 12.69 Billion     |     DH      | 2024-01-13 04:25:47 |
+| 136 | [Oovanish#1380](https://us.diablo3.com/profile/Oovanish-1380/)           |      122       | 12.5 Billion      |    Monk     | 2024-01-13 03:44:39 |
+| 137 | [rudead#1454](https://us.diablo3.com/profile/rudead-1454/)               |      122       | 12.5 Billion      |    Monk     | 2024-01-13 04:04:11 |
+| 138 | [Anthro#1832](https://us.diablo3.com/profile/Anthro-1832/)               |      121       | 12.31 Billion     |    Monk     | 2024-01-13 04:14:08 |
+| 139 | [Crusader3456#1483](https://us.diablo3.com/profile/Crusader3456-1483/)   |      121       | 12.31 Billion     |  Crusader   | 2024-01-13 04:05:50 |
+| 140 | [kaisun#1596](https://us.diablo3.com/profile/kaisun-1596/)               |      120       | 12.12 Billion     |    Monk     | 2024-01-13 04:34:39 |
+| 141 | [Maghlan#1141](https://us.diablo3.com/profile/Maghlan-1141/)             |      119       | 11.94 Billion     |    Necro    | 2024-01-13 04:35:39 |
+| 142 | [Vegeta#1799](https://us.diablo3.com/profile/Vegeta-1799/)               |      119       | 11.94 Billion     |   Wizard    | 2024-01-13 04:29:59 |
+| 143 | [rivalz#11421](https://us.diablo3.com/profile/rivalz-11421/)             |      118       | 11.75 Billion     |    Monk     | 2024-01-13 03:15:34 |
+| 144 | [ryanthepope#1962](https://us.diablo3.com/profile/ryanthepope-1962/)     |      118       | 11.75 Billion     |    Monk     | 2024-01-13 03:39:27 |
+| 145 | [nicoli342#1128](https://us.diablo3.com/profile/nicoli342-1128/)         |      118       | 11.75 Billion     |    Monk     | 2024-01-13 04:29:14 |
+| 146 | [Dannyshot#1675](https://us.diablo3.com/profile/Dannyshot-1675/)         |      118       | 11.75 Billion     |    Monk     | 2024-01-13 04:02:27 |
+| 147 | [Btmdwellerjr#1997](https://us.diablo3.com/profile/Btmdwellerjr-1997/)   |      117       | 11.57 Billion     |    Monk     | 2024-01-13 04:05:41 |
+| 148 | [honeybadger#1557](https://us.diablo3.com/profile/honeybadger-1557/)     |      111       | 10.48 Billion     |    Monk     | 2024-01-13 04:03:40 |
+| 149 | [Vichmel#1759](https://us.diablo3.com/profile/Vichmel-1759/)             |      111       | 10.48 Billion     |    Monk     | 2024-01-13 04:28:31 |
+| 150 | [Frosty#1923](https://us.diablo3.com/profile/Frosty-1923/)               |      110       | 10.3 Billion      |    Necro    | 2024-01-13 04:25:43 |
+| 151 | [Bonin#1609](https://us.diablo3.com/profile/Bonin-1609/)                 |      106       | 9.6 Billion       |     DH      | 2024-01-13 04:10:57 |
+| 152 | [Justinkai#1895](https://us.diablo3.com/profile/Justinkai-1895/)         |      104       | 9.26 Billion      |    Monk     | 2024-01-13 04:28:53 |
+| 153 | [Kbd#1704](https://us.diablo3.com/profile/Kbd-1704/)                     |      103       | 9.09 Billion      |    Monk     | 2024-01-13 04:22:55 |
+| 154 | [DarthPanda#11172](https://us.diablo3.com/profile/DarthPanda-11172/)     |      103       | 9.09 Billion      |    Necro    | 2024-01-13 03:55:07 |
+| 155 | [SoulSeeker#11197](https://us.diablo3.com/profile/SoulSeeker-11197/)     |      102       | 8.92 Billion      |    Necro    | 2024-01-13 04:28:56 |
+| 156 | [Replicator#1833](https://us.diablo3.com/profile/Replicator-1833/)       |       94       | 7.6 Billion       |    Monk     | 2024-01-13 03:59:44 |
+| 157 | [Bxray#1212](https://us.diablo3.com/profile/Bxray-1212/)                 |       91       | 7.13 Billion      |    Monk     | 2024-01-13 04:29:46 |
+| 158 | [InsuranceGuy#1986](https://us.diablo3.com/profile/InsuranceGuy-1986/)   |       88       | 6.66 Billion      |     DH      | 2024-01-13 04:06:50 |
+| 159 | [holymodal#1706](https://us.diablo3.com/profile/holymodal-1706/)         |       86       | 6.35 Billion      |    Necro    | 2024-01-13 03:37:08 |
+| 160 | [Frost#11100](https://us.diablo3.com/profile/Frost-11100/)               |       85       | 6.2 Billion       |    Monk     | 2024-01-13 04:01:44 |
+| 161 | [Jav#1520](https://us.diablo3.com/profile/Jav-1520/)                     |       85       | 6.2 Billion       |    Monk     | 2024-01-13 04:05:19 |
+| 162 | [leo#17539](https://us.diablo3.com/profile/leo-17539/)                   |       83       | 5.9 Billion       |    Monk     | 2024-01-13 03:55:01 |
+| 163 | [Inuboshi#2685](https://us.diablo3.com/profile/Inuboshi-2685/)           |       81       | 5.6 Billion       |   Wizard    | 2024-01-13 04:21:43 |
+| 164 | [Modz#1609](https://us.diablo3.com/profile/Modz-1609/)                   |       80       | 5.45 Billion      |    Monk     | 2024-01-13 04:21:38 |
+| 165 | [NeSBigBasher#1704](https://us.diablo3.com/profile/NeSBigBasher-1704/)   |       79       | 5.31 Billion      |     DH      | 2024-01-13 04:21:46 |
+| 166 | [Rainko#1542](https://us.diablo3.com/profile/Rainko-1542/)               |       77       | 5.02 Billion      |    Monk     | 2024-01-13 04:21:47 |
+| 167 | [PLZLEAVEDUCK#1467](https://us.diablo3.com/profile/PLZLEAVEDUCK-1467/)   |       76       | 4.88 Billion      |    Monk     | 2024-01-13 04:05:42 |
+| 168 | [JesseT#11521](https://us.diablo3.com/profile/JesseT-11521/)             |       74       | 4.59 Billion      |    Monk     | 2024-01-13 04:14:24 |
+| 169 | [JokeySmurf#1982](https://us.diablo3.com/profile/JokeySmurf-1982/)       |       69       | 3.94 Billion      |    Monk     | 2024-01-13 04:02:51 |
+| 170 | [Snerf#1936](https://us.diablo3.com/profile/Snerf-1936/)                 |       68       | 3.82 Billion      |    Monk     | 2024-01-13 04:19:55 |
+| 171 | [Mikey#11389](https://us.diablo3.com/profile/Mikey-11389/)               |       63       | 3.27 Billion      |    Monk     | 2024-01-13 03:51:21 |
+| 172 | [lemmons#1550](https://us.diablo3.com/profile/lemmons-1550/)             |       63       | 3.27 Billion      |    Monk     | 2024-01-13 04:18:41 |
+| 173 | [Deathspade#1788](https://us.diablo3.com/profile/Deathspade-1788/)       |       61       | 3.08 Billion      |    Monk     | 2024-01-13 04:21:58 |
+| 174 | [BRANDIS#1965](https://us.diablo3.com/profile/BRANDIS-1965/)             |       60       | 2.98 Billion      |  Barbarian  | 2024-01-13 03:55:52 |
+| 175 | [MrBuarc#1287](https://us.diablo3.com/profile/MrBuarc-1287/)             |       60       | 2.98 Billion      |    Monk     | 2024-01-13 04:22:58 |
+| 176 | [Lavos#1519](https://us.diablo3.com/profile/Lavos-1519/)                 |       59       | 2.89 Billion      |     DH      | 2024-01-13 04:02:05 |
+| 177 | [Shompy#1893](https://us.diablo3.com/profile/Shompy-1893/)               |       51       | 2.2 Billion       |  Barbarian  | 2024-01-13 03:16:15 |
+| 178 | [wmorfeu#1543](https://us.diablo3.com/profile/wmorfeu-1543/)             |       49       | 2.05 Billion      |    Monk     | 2024-01-13 03:22:30 |
+| 179 | [Mentos#1615](https://us.diablo3.com/profile/Mentos-1615/)               |       46       | 1.82 Billion      |    Necro    | 2024-01-13 04:02:34 |
+| 180 | [Freq#11513](https://us.diablo3.com/profile/Freq-11513/)                 |       43       | 1.61 Billion      |    Monk     | 2024-01-13 04:02:09 |
+| 181 | [Darcco#1648](https://us.diablo3.com/profile/Darcco-1648/)               |       34       | 1.05 Billion      |    Necro    | 2024-01-13 04:12:35 |
+| 182 | [Nyx#12878](https://us.diablo3.com/profile/Nyx-12878/)                   |       0        | 0                 |    Monk     | 2024-01-13 04:29:19 |
+| 183 | [xUncleBuck#1864](https://us.diablo3.com/profile/xUncleBuck-1864/)       |       0        | 0                 |    Monk     | 2024-01-13 04:25:55 |
+| 184 | [Cal#1575](https://us.diablo3.com/profile/Cal-1575/)                     |       0        | 0                 |     DH      | 2024-01-13 04:35:26 |
+| 185 | [lbkorn81#1512](https://us.diablo3.com/profile/lbkorn81-1512/)           |       0        | 0                 |     DH      | 2024-01-13 04:13:04 |
+| 186 | [Ezonk#1567](https://us.diablo3.com/profile/Ezonk-1567/)                 |       0        | 0                 |     DH      | 2024-01-13 03:53:37 |
+| 187 | [Frost#3803](https://us.diablo3.com/profile/Frost-3803/)                 |       0        | 0                 |    Necro    | 2024-01-13 04:11:28 |
+| 188 | [Jers#1833](https://us.diablo3.com/profile/Jers-1833/)                   |       0        | 0                 |    Monk     | 2024-01-13 04:11:21 |
+| 189 | [Cheps#1172](https://us.diablo3.com/profile/Cheps-1172/)                 |       0        | 0                 |     DH      | 2024-01-13 04:25:09 |
+| 190 | [Hillside#11265](https://us.diablo3.com/profile/Hillside-11265/)         |       0        | 0                 |  Barbarian  | 2024-01-13 04:34:37 |
+| 191 | [Jarlaxle#2818](https://us.diablo3.com/profile/Jarlaxle-2818/)           |       0        | 0                 |     DH      | 2024-01-13 04:32:58 |
