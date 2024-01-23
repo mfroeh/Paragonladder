@@ -1,19 +1,19 @@
 # Season 30 (EU)
 
 ---
-Table created at 2024-01-23 02:59:31.683575
+Table created at 2024-01-23 03:44:24.225315
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [GåldGåldGåld#2426](https://eu.diablo3.com/profile/GåldGåldGåld-2426/)       |      5730      | 2.97 Quadrillion  |  Crusader   | 2024-01-23 00:29:15 |
+| 1   | [GåldGåldGåld#2426](https://eu.diablo3.com/profile/GåldGåldGåld-2426/)       |      5747      | 3.0 Quadrillion   |  Crusader   | 2024-01-23 03:02:41 |
 | 2   | [TerminusEst#21822](https://eu.diablo3.com/profile/TerminusEst-21822/)       |      5485      | 2.59 Quadrillion  |  Crusader   | 2024-01-23 00:29:15 |
 | 3   | [ǁƁƐŖƓ#2975](https://eu.diablo3.com/profile/ǁƁƐŖƓ-2975/)                     |      5432      | 2.51 Quadrillion  |  Crusader   | 2024-01-23 00:14:40 |
-| 4   | [Timpas#21191](https://eu.diablo3.com/profile/Timpas-21191/)                 |      5330      | 2.37 Quadrillion  |  Crusader   | 2024-01-23 02:35:37 |
+| 4   | [Timpas#21191](https://eu.diablo3.com/profile/Timpas-21191/)                 |      5330      | 2.37 Quadrillion  |  Crusader   | 2024-01-23 03:20:53 |
 | 5   | [BUSSERS#2497](https://eu.diablo3.com/profile/BUSSERS-2497/)                 |      5218      | 2.22 Quadrillion  |  Crusader   | 2024-01-23 02:04:48 |
 | 6   | [OreksEnjoyer#1799](https://eu.diablo3.com/profile/OreksEnjoyer-1799/)       |      5044      | 1.99 Quadrillion  |  Crusader   | 2024-01-23 00:29:15 |
 | 7   | [QuiGonChill#1420](https://eu.diablo3.com/profile/QuiGonChill-1420/)         |      5014      | 1.96 Quadrillion  |  Crusader   | 2024-01-23 01:04:29 |
 | 8   | [KarmaPolice#12638](https://eu.diablo3.com/profile/KarmaPolice-12638/)       |      4919      | 1.84 Quadrillion  |     DH      | 2024-01-23 02:14:02 |
-| 9   | [Felbane#21456](https://eu.diablo3.com/profile/Felbane-21456/)               |      4907      | 1.83 Quadrillion  |     DH      | 2024-01-23 02:34:26 |
+| 9   | [Felbane#21456](https://eu.diablo3.com/profile/Felbane-21456/)               |      4908      | 1.83 Quadrillion  |     DH      | 2024-01-23 03:21:40 |
 | 10  | [Zybes#2867](https://eu.diablo3.com/profile/Zybes-2867/)                     |      4881      | 1.8 Quadrillion   |  Crusader   | 2024-01-23 01:13:08 |
 | 11  | [EfekTž#2190](https://eu.diablo3.com/profile/EfekTž-2190/)                   |      4791      | 1.7 Quadrillion   |     DH      | 2024-01-23 01:37:25 |
 | 12  | [daaerlix24#2444](https://eu.diablo3.com/profile/daaerlix24-2444/)           |      4775      | 1.68 Quadrillion  |     DH      | 2024-01-23 00:33:02 |
@@ -25,10 +25,10 @@ Table created at 2024-01-23 02:59:31.683575
 | 18  | [Amos#21821](https://eu.diablo3.com/profile/Amos-21821/)                     |      4546      | 1.44 Quadrillion  |  Crusader   | 2024-01-23 00:00:51 |
 | 19  | [Mudi#21415](https://eu.diablo3.com/profile/Mudi-21415/)                     |      4525      | 1.42 Quadrillion  |     DH      | 2024-01-23 00:29:15 |
 | 20  | [Andestyle#2727](https://eu.diablo3.com/profile/Andestyle-2727/)             |      4520      | 1.41 Quadrillion  |     DH      | 2024-01-23 01:18:47 |
-| 21  | [Institucija#21218](https://eu.diablo3.com/profile/Institucija-21218/)       |      4503      | 1.4 Quadrillion   |  Crusader   | 2024-01-23 02:31:13 |
+| 21  | [Institucija#21218](https://eu.diablo3.com/profile/Institucija-21218/)       |      4506      | 1.4 Quadrillion   |  Crusader   | 2024-01-23 03:15:25 |
 | 22  | [Venø#2279](https://eu.diablo3.com/profile/Venø-2279/)                       |      4471      | 1.36 Quadrillion  |  Crusader   | 2024-01-22 22:55:18 |
 | 23  | [ChaCha#22832](https://eu.diablo3.com/profile/ChaCha-22832/)                 |      4443      | 1.34 Quadrillion  |  Crusader   | 2024-01-22 21:06:04 |
-| 24  | [Glazier#21420](https://eu.diablo3.com/profile/Glazier-21420/)               |      4436      | 1.33 Quadrillion  |  Crusader   | 2024-01-23 02:35:54 |
+| 24  | [Glazier#21420](https://eu.diablo3.com/profile/Glazier-21420/)               |      4436      | 1.33 Quadrillion  |  Crusader   | 2024-01-23 02:46:13 |
 | 25  | [MartekosXD#2700](https://eu.diablo3.com/profile/MartekosXD-2700/)           |      4420      | 1.32 Quadrillion  |  Crusader   | 2024-01-23 00:20:12 |
 | 26  | [Nexrate#2126](https://eu.diablo3.com/profile/Nexrate-2126/)                 |      4417      | 1.31 Quadrillion  |    Necro    | 2024-01-22 21:35:04 |
 | 27  | [cross#23536](https://eu.diablo3.com/profile/cross-23536/)                   |      4405      | 1.3 Quadrillion   |  Crusader   | 2024-01-22 23:14:25 |
@@ -36,19 +36,19 @@ Table created at 2024-01-23 02:59:31.683575
 | 29  | [Skateparkge#2800](https://eu.diablo3.com/profile/Skateparkge-2800/)         |      4346      | 1.25 Quadrillion  |     DH      | 2024-01-23 00:29:15 |
 | 30  | [Blomm#21491](https://eu.diablo3.com/profile/Blomm-21491/)                   |      4338      | 1.24 Quadrillion  |     DH      | 2024-01-23 01:56:52 |
 | 31  | [Hugme#11835](https://eu.diablo3.com/profile/Hugme-11835/)                   |      4337      | 1.24 Quadrillion  |     DH      | 2024-01-22 23:26:07 |
-| 32  | [SageShark#25912](https://eu.diablo3.com/profile/SageShark-25912/)           |      4329      | 1.23 Quadrillion  |     DH      | 2024-01-23 00:24:35 |
-| 33  | [SHiiiT#21334](https://eu.diablo3.com/profile/SHiiiT-21334/)                 |      4328      | 1.23 Quadrillion  |     DH      | 2024-01-23 02:10:27 |
+| 32  | [SHiiiT#21334](https://eu.diablo3.com/profile/SHiiiT-21334/)                 |      4333      | 1.24 Quadrillion  |     DH      | 2024-01-23 02:43:36 |
+| 33  | [SageShark#25912](https://eu.diablo3.com/profile/SageShark-25912/)           |      4329      | 1.23 Quadrillion  |     DH      | 2024-01-23 00:24:35 |
 | 34  | [Fjord#21136](https://eu.diablo3.com/profile/Fjord-21136/)                   |      4322      | 1.23 Quadrillion  |    Necro    | 2024-01-22 23:04:48 |
 | 35  | [DerVerwalter#2522](https://eu.diablo3.com/profile/DerVerwalter-2522/)       |      4304      | 1.21 Quadrillion  |  Crusader   | 2024-01-23 00:14:29 |
 | 36  | [waikiki#21489](https://eu.diablo3.com/profile/waikiki-21489/)               |      4285      | 1.19 Quadrillion  |  Crusader   | 2024-01-22 23:12:13 |
-| 37  | [Tronboy#21371](https://eu.diablo3.com/profile/Tronboy-21371/)               |      4246      | 1.16 Quadrillion  |  Crusader   | 2024-01-23 00:25:28 |
+| 37  | [Tronboy#21371](https://eu.diablo3.com/profile/Tronboy-21371/)               |      4246      | 1.16 Quadrillion  |  Crusader   | 2024-01-23 02:46:21 |
 | 38  | [Saluter#2210](https://eu.diablo3.com/profile/Saluter-2210/)                 |      4222      | 1.14 Quadrillion  |     DH      | 2024-01-22 23:04:04 |
 | 39  | [DarkKing#22639](https://eu.diablo3.com/profile/DarkKing-22639/)             |      4222      | 1.14 Quadrillion  |    Necro    | 2024-01-23 00:26:13 |
 | 40  | [Feedz#21203](https://eu.diablo3.com/profile/Feedz-21203/)                   |      4214      | 1.13 Quadrillion  |    Monk     | 2024-01-23 00:20:41 |
 | 41  | [kaname#21423](https://eu.diablo3.com/profile/kaname-21423/)                 |      4208      | 1.13 Quadrillion  |  Crusader   | 2024-01-21 19:22:24 |
 | 42  | [r1cooooo#2749](https://eu.diablo3.com/profile/r1cooooo-2749/)               |      4196      | 1.12 Quadrillion  |     DH      | 2024-01-23 00:52:45 |
 | 43  | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)       |      4187      | 1.11 Quadrillion  |  Crusader   | 2024-01-22 21:51:12 |
-| 44  | [Twizzy#21798](https://eu.diablo3.com/profile/Twizzy-21798/)                 |      4157      | 1.08 Quadrillion  |     DH      | 2024-01-23 02:34:52 |
+| 44  | [Twizzy#21798](https://eu.diablo3.com/profile/Twizzy-21798/)                 |      4157      | 1.08 Quadrillion  |     DH      | 2024-01-23 03:20:16 |
 | 45  | [MichVieri#2698](https://eu.diablo3.com/profile/MichVieri-2698/)             |      4130      | 1.06 Quadrillion  |     DH      | 2024-01-22 22:08:52 |
 | 46  | [Pollmi#2709](https://eu.diablo3.com/profile/Pollmi-2709/)                   |      4101      | 1.04 Quadrillion  |  Crusader   | 2024-01-23 01:22:37 |
 | 47  | [ShockTower#21228](https://eu.diablo3.com/profile/ShockTower-21228/)         |      4100      | 1.04 Quadrillion  |  Crusader   | 2024-01-23 01:59:59 |
@@ -62,7 +62,7 @@ Table created at 2024-01-23 02:59:31.683575
 | 55  | [fearyy#2448](https://eu.diablo3.com/profile/fearyy-2448/)                   |      3971      | 938.07 Trillion   |     DH      | 2024-01-22 22:45:04 |
 | 56  | [Hades#25948](https://eu.diablo3.com/profile/Hades-25948/)                   |      3969      | 936.58 Trillion   |     DH      | 2024-01-23 00:24:03 |
 | 57  | [Nearth97#2914](https://eu.diablo3.com/profile/Nearth97-2914/)               |      3945      | 918.79 Trillion   |    Necro    | 2024-01-23 01:09:23 |
-| 58  | [Pande83#2507](https://eu.diablo3.com/profile/Pande83-2507/)                 |      3940      | 915.11 Trillion   |    Necro    | 2024-01-22 23:02:11 |
+| 58  | [Pande83#2507](https://eu.diablo3.com/profile/Pande83-2507/)                 |      3940      | 915.11 Trillion   |    Necro    | 2024-01-23 03:14:33 |
 | 59  | [Redflag#2636](https://eu.diablo3.com/profile/Redflag-2636/)                 |      3936      | 912.17 Trillion   |  Crusader   | 2024-01-22 16:56:13 |
 | 60  | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                     |      3933      | 909.98 Trillion   |     DH      | 2024-01-23 00:44:00 |
 | 61  | [Lumsk#2405](https://eu.diablo3.com/profile/Lumsk-2405/)                     |      3914      | 896.14 Trillion   |     DH      | 2024-01-22 22:31:06 |
@@ -78,12 +78,12 @@ Table created at 2024-01-23 02:59:31.683575
 | 71  | [ChuckNorris1#21191](https://eu.diablo3.com/profile/ChuckNorris1-21191/)     |      3824      | 832.58 Trillion   |  Crusader   | 2024-01-22 19:43:25 |
 | 72  | [dArk#225854](https://eu.diablo3.com/profile/dArk-225854/)                   |      3820      | 829.83 Trillion   |  Crusader   | 2024-01-22 15:09:17 |
 | 73  | [MileyXoxo#2487](https://eu.diablo3.com/profile/MileyXoxo-2487/)             |      3807      | 820.93 Trillion   |     DH      | 2024-01-23 00:29:15 |
-| 74  | [yAsO#2305](https://eu.diablo3.com/profile/yAsO-2305/)                       |      3795      | 812.77 Trillion   |  Crusader   | 2024-01-23 02:23:39 |
-| 75  | [Woland#2892](https://eu.diablo3.com/profile/Woland-2892/)                   |      3789      | 808.71 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
-| 76  | [Akhroma#21837](https://eu.diablo3.com/profile/Akhroma-21837/)               |      3787      | 807.36 Trillion   |     DH      | 2024-01-22 21:20:56 |
-| 77  | [Argon#22655](https://eu.diablo3.com/profile/Argon-22655/)                   |      3782      | 804.0 Trillion    |  Crusader   | 2024-01-22 23:57:55 |
-| 78  | [NOEL#22971](https://eu.diablo3.com/profile/NOEL-22971/)                     |      3782      | 804.0 Trillion    |     DH      | 2024-01-23 02:09:27 |
-| 79  | [Hergo#21128](https://eu.diablo3.com/profile/Hergo-21128/)                   |      3782      | 804.0 Trillion    |  Crusader   | 2024-01-23 02:31:34 |
+| 74  | [Woland#2892](https://eu.diablo3.com/profile/Woland-2892/)                   |      3796      | 813.45 Trillion   |  Crusader   | 2024-01-23 03:14:03 |
+| 75  | [yAsO#2305](https://eu.diablo3.com/profile/yAsO-2305/)                       |      3795      | 812.77 Trillion   |  Crusader   | 2024-01-23 02:23:39 |
+| 76  | [Hergo#21128](https://eu.diablo3.com/profile/Hergo-21128/)                   |      3793      | 811.42 Trillion   |  Crusader   | 2024-01-23 03:22:36 |
+| 77  | [Akhroma#21837](https://eu.diablo3.com/profile/Akhroma-21837/)               |      3787      | 807.36 Trillion   |     DH      | 2024-01-22 21:20:56 |
+| 78  | [Argon#22655](https://eu.diablo3.com/profile/Argon-22655/)                   |      3782      | 804.0 Trillion    |  Crusader   | 2024-01-22 23:57:55 |
+| 79  | [NOEL#22971](https://eu.diablo3.com/profile/NOEL-22971/)                     |      3782      | 804.0 Trillion    |     DH      | 2024-01-23 03:11:44 |
 | 80  | [Gazelle21#2417](https://eu.diablo3.com/profile/Gazelle21-2417/)             |      3780      | 802.65 Trillion   |     DH      | 2024-01-22 21:29:55 |
 | 81  | [Missandei#21949](https://eu.diablo3.com/profile/Missandei-21949/)           |      3779      | 801.98 Trillion   |     DH      | 2024-01-22 21:15:28 |
 | 82  | [Latikaa#2521](https://eu.diablo3.com/profile/Latikaa-2521/)                 |      3778      | 801.31 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
@@ -118,29 +118,29 @@ Table created at 2024-01-23 02:59:31.683575
 | 111 | [TheVengeful#21574](https://eu.diablo3.com/profile/TheVengeful-21574/)       |      3554      | 660.54 Trillion   |    Necro    | 2024-01-22 22:32:05 |
 | 112 | [Lens#21102](https://eu.diablo3.com/profile/Lens-21102/)                     |      3553      | 659.95 Trillion   |     DH      | 2024-01-23 00:29:15 |
 | 113 | [Mittelkeks5#2552](https://eu.diablo3.com/profile/Mittelkeks5-2552/)         |      3540      | 652.36 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
-| 114 | [Knochenjäger#21839](https://eu.diablo3.com/profile/Knochenjäger-21839/)     |      3532      | 647.71 Trillion   |    Necro    | 2024-01-23 02:31:12 |
+| 114 | [Knochenjäger#21839](https://eu.diablo3.com/profile/Knochenjäger-21839/)     |      3532      | 647.71 Trillion   |    Necro    | 2024-01-23 03:05:36 |
 | 115 | [WANGDEFA#2808](https://eu.diablo3.com/profile/WANGDEFA-2808/)               |      3524      | 643.09 Trillion   |  Crusader   | 2024-01-22 23:23:32 |
 | 116 | [Paris2012#2830](https://eu.diablo3.com/profile/Paris2012-2830/)             |      3516      | 638.49 Trillion   |     DH      | 2024-01-22 23:04:44 |
 | 117 | [zDPS#2829](https://eu.diablo3.com/profile/zDPS-2829/)                       |      3514      | 637.35 Trillion   |  Crusader   | 2024-01-22 21:45:38 |
 | 118 | [cracker#21196](https://eu.diablo3.com/profile/cracker-21196/)               |      3513      | 636.78 Trillion   |    Necro    | 2024-01-21 22:12:09 |
 | 119 | [PetitBN#21183](https://eu.diablo3.com/profile/PetitBN-21183/)               |      3502      | 630.5 Trillion    |     DH      | 2024-01-19 12:28:37 |
 | 120 | [one#2249](https://eu.diablo3.com/profile/one-2249/)                         |      3500      | 629.37 Trillion   |  Crusader   | 2024-01-22 23:57:25 |
-| 121 | [Agressor#23410](https://eu.diablo3.com/profile/Agressor-23410/)             |      3489      | 623.15 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
-| 122 | [Zarolk#2245](https://eu.diablo3.com/profile/Zarolk-2245/)                   |      3489      | 623.15 Trillion   |  Crusader   | 2024-01-22 23:00:24 |
-| 123 | [derMerlin#21127](https://eu.diablo3.com/profile/derMerlin-21127/)           |      3477      | 616.41 Trillion   |  Crusader   | 2024-01-22 21:39:45 |
-| 124 | [UndeathLorde#2507](https://eu.diablo3.com/profile/UndeathLorde-2507/)       |      3473      | 614.17 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
-| 125 | [CREDO#21309](https://eu.diablo3.com/profile/CREDO-21309/)                   |      3464      | 609.17 Trillion   |  Crusader   | 2024-01-23 02:20:53 |
-| 126 | [Cømandante#2795](https://eu.diablo3.com/profile/Cømandante-2795/)           |      3462      | 608.06 Trillion   |     DH      | 2024-01-23 00:37:43 |
-| 127 | [Damien#2169](https://eu.diablo3.com/profile/Damien-2169/)                   |      3461      | 607.5 Trillion    |  Crusader   | 2024-01-23 00:29:15 |
+| 121 | [Damien#2169](https://eu.diablo3.com/profile/Damien-2169/)                   |      3491      | 624.27 Trillion   |  Crusader   | 2024-01-23 02:56:22 |
+| 122 | [UndeathLorde#2507](https://eu.diablo3.com/profile/UndeathLorde-2507/)       |      3490      | 623.71 Trillion   |  Crusader   | 2024-01-23 03:19:17 |
+| 123 | [Agressor#23410](https://eu.diablo3.com/profile/Agressor-23410/)             |      3489      | 623.15 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
+| 124 | [Zarolk#2245](https://eu.diablo3.com/profile/Zarolk-2245/)                   |      3489      | 623.15 Trillion   |  Crusader   | 2024-01-22 23:00:24 |
+| 125 | [derMerlin#21127](https://eu.diablo3.com/profile/derMerlin-21127/)           |      3477      | 616.41 Trillion   |  Crusader   | 2024-01-22 21:39:45 |
+| 126 | [CREDO#21309](https://eu.diablo3.com/profile/CREDO-21309/)                   |      3464      | 609.17 Trillion   |  Crusader   | 2024-01-23 03:19:41 |
+| 127 | [Cømandante#2795](https://eu.diablo3.com/profile/Cømandante-2795/)           |      3462      | 608.06 Trillion   |     DH      | 2024-01-23 00:37:43 |
 | 128 | [XMortiferX#2424](https://eu.diablo3.com/profile/XMortiferX-2424/)           |      3457      | 605.29 Trillion   |    Monk     | 2024-01-23 00:19:37 |
 | 129 | [Papu#21575](https://eu.diablo3.com/profile/Papu-21575/)                     |      3457      | 605.29 Trillion   |  Crusader   | 2024-01-23 02:33:38 |
 | 130 | [Skittles#22602](https://eu.diablo3.com/profile/Skittles-22602/)             |      3454      | 603.64 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
 | 131 | [RnDSaD1sT#2456](https://eu.diablo3.com/profile/RnDSaD1sT-2456/)             |      3451      | 601.98 Trillion   |  Crusader   | 2024-01-22 22:22:13 |
-| 132 | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                     |      3448      | 600.33 Trillion   |  Crusader   | 2024-01-23 00:04:43 |
+| 132 | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                     |      3448      | 600.33 Trillion   |  Crusader   | 2024-01-23 03:13:38 |
 | 133 | [Chopride#21780](https://eu.diablo3.com/profile/Chopride-21780/)             |      3446      | 599.24 Trillion   |  Crusader   | 2024-01-22 22:06:22 |
 | 134 | [Bloomes#21206](https://eu.diablo3.com/profile/Bloomes-21206/)               |      3427      | 588.88 Trillion   |  Crusader   | 2024-01-21 12:24:49 |
 | 135 | [Dani#2433](https://eu.diablo3.com/profile/Dani-2433/)                       |      3425      | 587.8 Trillion    |     DH      | 2024-01-23 02:33:50 |
-| 136 | [MagicMiracle#2410](https://eu.diablo3.com/profile/MagicMiracle-2410/)       |      3422      | 586.18 Trillion   |  Crusader   | 2024-01-23 01:33:36 |
+| 136 | [MagicMiracle#2410](https://eu.diablo3.com/profile/MagicMiracle-2410/)       |      3423      | 586.72 Trillion   |  Crusader   | 2024-01-23 03:16:05 |
 | 137 | [Marw#21785](https://eu.diablo3.com/profile/Marw-21785/)                     |      3419      | 584.56 Trillion   |     DH      | 2024-01-22 21:03:37 |
 | 138 | [JulzGamezTV#2419](https://eu.diablo3.com/profile/JulzGamezTV-2419/)         |      3411      | 580.26 Trillion   |  Crusader   | 2024-01-22 19:23:17 |
 | 139 | [Masaru#2215](https://eu.diablo3.com/profile/Masaru-2215/)                   |      3402      | 575.45 Trillion   |     DH      | 2024-01-23 00:00:08 |
@@ -152,11 +152,11 @@ Table created at 2024-01-23 02:59:31.683575
 | 145 | [Steingoblin#2647](https://eu.diablo3.com/profile/Steingoblin-2647/)         |      3378      | 562.75 Trillion   |     DH      | 2024-01-23 00:52:24 |
 | 146 | [Diabolic#2507](https://eu.diablo3.com/profile/Diabolic-2507/)               |      3373      | 560.13 Trillion   |  Crusader   | 2024-01-23 00:28:01 |
 | 147 | [IBOMAX#2288](https://eu.diablo3.com/profile/IBOMAX-2288/)                   |      3370      | 558.56 Trillion   |     DH      | 2024-01-22 23:10:21 |
-| 148 | [Alucard149#2667](https://eu.diablo3.com/profile/Alucard149-2667/)           |      3365      | 555.96 Trillion   |  Crusader   | 2024-01-23 02:37:51 |
+| 148 | [Alucard149#2667](https://eu.diablo3.com/profile/Alucard149-2667/)           |      3365      | 555.96 Trillion   |  Crusader   | 2024-01-23 02:52:15 |
 | 149 | [Gor#22484](https://eu.diablo3.com/profile/Gor-22484/)                       |      3358      | 552.33 Trillion   |    Necro    | 2024-01-22 20:21:59 |
 | 150 | [DaRyback#2853](https://eu.diablo3.com/profile/DaRyback-2853/)               |      3357      | 551.81 Trillion   |     DH      | 2024-01-23 02:16:51 |
-| 151 | [Shinzi#2767](https://eu.diablo3.com/profile/Shinzi-2767/)                   |      3355      | 550.77 Trillion   |  Crusader   | 2024-01-23 00:19:07 |
-| 152 | [HAHAXD#21846](https://eu.diablo3.com/profile/HAHAXD-21846/)                 |      3355      | 550.77 Trillion   |     DH      | 2024-01-23 02:37:32 |
+| 151 | [HAHAXD#21846](https://eu.diablo3.com/profile/HAHAXD-21846/)                 |      3356      | 551.29 Trillion   |     DH      | 2024-01-23 03:23:25 |
+| 152 | [Shinzi#2767](https://eu.diablo3.com/profile/Shinzi-2767/)                   |      3355      | 550.77 Trillion   |  Crusader   | 2024-01-23 00:19:07 |
 | 153 | [Prexton#2939](https://eu.diablo3.com/profile/Prexton-2939/)                 |      3347      | 546.65 Trillion   |  Crusader   | 2024-01-23 02:12:01 |
 | 154 | [Blue#23344](https://eu.diablo3.com/profile/Blue-23344/)                     |      3342      | 544.08 Trillion   |  Crusader   | 2024-01-22 23:22:15 |
 | 155 | [Storm#25794](https://eu.diablo3.com/profile/Storm-25794/)                   |      3335      | 540.5 Trillion    |     DH      | 2024-01-21 17:25:30 |
@@ -165,7 +165,7 @@ Table created at 2024-01-23 02:59:31.683575
 | 158 | [TETEMUR#2168](https://eu.diablo3.com/profile/TETEMUR-2168/)                 |      3315      | 530.37 Trillion   |  Crusader   | 2024-01-23 01:09:34 |
 | 159 | [Yevgar#2138](https://eu.diablo3.com/profile/Yevgar-2138/)                   |      3315      | 530.37 Trillion   |  Crusader   | 2024-01-23 01:06:07 |
 | 160 | [TazDevil#21700](https://eu.diablo3.com/profile/TazDevil-21700/)             |      3309      | 527.36 Trillion   |     DH      | 2024-01-22 21:36:49 |
-| 161 | [KingKong#25726](https://eu.diablo3.com/profile/KingKong-25726/)             |      3303      | 524.36 Trillion   |  Crusader   | 2024-01-23 00:48:21 |
+| 161 | [KingKong#25726](https://eu.diablo3.com/profile/KingKong-25726/)             |      3303      | 524.36 Trillion   |  Crusader   | 2024-01-23 02:46:04 |
 | 162 | [TotzhoBasara#2622](https://eu.diablo3.com/profile/TotzhoBasara-2622/)       |      3300      | 522.86 Trillion   |  Crusader   | 2024-01-23 00:29:15 |
 | 163 | [xXxR4B1xXx#2850](https://eu.diablo3.com/profile/xXxR4B1xXx-2850/)           |      3288      | 516.91 Trillion   |  Crusader   | 2024-01-22 21:30:01 |
 | 164 | [ArTeMiz#21444](https://eu.diablo3.com/profile/ArTeMiz-21444/)               |      3279      | 512.47 Trillion   |  Crusader   | 2024-01-23 00:03:13 |
@@ -182,9 +182,9 @@ Table created at 2024-01-23 02:59:31.683575
 | 175 | [Boerke#2748](https://eu.diablo3.com/profile/Boerke-2748/)                   |      3253      | 499.82 Trillion   |    Necro    | 2024-01-22 20:50:45 |
 | 176 | [Dragon8892#2351](https://eu.diablo3.com/profile/Dragon8892-2351/)           |      3252      | 499.33 Trillion   |  Crusader   | 2024-01-22 21:01:53 |
 | 177 | [BumHug#21515](https://eu.diablo3.com/profile/BumHug-21515/)                 |      3240      | 493.57 Trillion   |  Crusader   | 2024-01-22 14:26:11 |
-| 178 | [Noct#21550](https://eu.diablo3.com/profile/Noct-21550/)                     |      3239      | 493.1 Trillion    |  Crusader   | 2024-01-23 01:00:49 |
-| 179 | [Vertilz#2762](https://eu.diablo3.com/profile/Vertilz-2762/)                 |      3239      | 493.1 Trillion    |  Crusader   | 2024-01-22 23:34:41 |
-| 180 | [Chatouille#21528](https://eu.diablo3.com/profile/Chatouille-21528/)         |      3239      | 493.1 Trillion    |     DH      | 2024-01-23 02:06:03 |
+| 178 | [Chatouille#21528](https://eu.diablo3.com/profile/Chatouille-21528/)         |      3240      | 493.57 Trillion   |  Crusader   | 2024-01-23 03:09:50 |
+| 179 | [Noct#21550](https://eu.diablo3.com/profile/Noct-21550/)                     |      3239      | 493.1 Trillion    |  Crusader   | 2024-01-23 01:00:49 |
+| 180 | [Vertilz#2762](https://eu.diablo3.com/profile/Vertilz-2762/)                 |      3239      | 493.1 Trillion    |  Crusader   | 2024-01-22 23:34:41 |
 | 181 | [Fortis#2265](https://eu.diablo3.com/profile/Fortis-2265/)                   |      3231      | 489.28 Trillion   |     DH      | 2024-01-22 17:31:41 |
 | 182 | [Skullker#2899](https://eu.diablo3.com/profile/Skullker-2899/)               |      3231      | 489.28 Trillion   |  Crusader   | 2024-01-23 01:11:48 |
 | 183 | [ipaman#21864](https://eu.diablo3.com/profile/ipaman-21864/)                 |      3225      | 486.44 Trillion   |  Crusader   | 2024-01-22 23:22:25 |
@@ -192,9 +192,9 @@ Table created at 2024-01-23 02:59:31.683575
 | 185 | [leha#21843](https://eu.diablo3.com/profile/leha-21843/)                     |      3206      | 477.51 Trillion   |  Crusader   | 2024-01-23 02:31:14 |
 | 186 | [eternal#2337](https://eu.diablo3.com/profile/eternal-2337/)                 |      3196      | 472.85 Trillion   |  Crusader   | 2024-01-23 01:57:35 |
 | 187 | [maffedaffie#2313](https://eu.diablo3.com/profile/maffedaffie-2313/)         |      3194      | 471.93 Trillion   |  Crusader   | 2024-01-23 00:19:50 |
-| 188 | [TheShovel#21629](https://eu.diablo3.com/profile/TheShovel-21629/)           |      3191      | 470.54 Trillion   |     DH      | 2024-01-23 00:29:15 |
+| 188 | [TheShovel#21629](https://eu.diablo3.com/profile/TheShovel-21629/)           |      3191      | 470.54 Trillion   |     DH      | 2024-01-23 02:38:52 |
 | 189 | [missAlisA#2401](https://eu.diablo3.com/profile/missAlisA-2401/)             |      3188      | 469.15 Trillion   |    Necro    | 2024-01-22 22:21:41 |
-| 190 | [VURDA#2767](https://eu.diablo3.com/profile/VURDA-2767/)                     |      3183      | 466.85 Trillion   |  Crusader   | 2024-01-23 02:31:20 |
+| 190 | [VURDA#2767](https://eu.diablo3.com/profile/VURDA-2767/)                     |      3184      | 467.31 Trillion   |  Crusader   | 2024-01-23 03:19:51 |
 | 191 | [McMisiek#2558](https://eu.diablo3.com/profile/McMisiek-2558/)               |      3175      | 463.19 Trillion   |  Crusader   | 2024-01-22 23:34:06 |
 | 192 | [DraZen#21668](https://eu.diablo3.com/profile/DraZen-21668/)                 |      3173      | 462.27 Trillion   |  Crusader   | 2024-01-23 00:18:05 |
 | 193 | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)             |      3167      | 459.54 Trillion   |     DH      | 2024-01-23 00:11:57 |
