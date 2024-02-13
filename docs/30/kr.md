@@ -1,11 +1,11 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-02-13 18:48:52.395403
+Table created at 2024-02-13 19:38:06.933394
 
 |  #  |                               BattleTag                                | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [举高高的小懒猫#3905](https://kr.diablo3.com/profile/举高高的小懒猫-3905/)           |      7603      | 7.14 Quadrillion  |     DH      | 2024-02-13 16:54:52 |
+| 1   | [举高高的小懒猫#3905](https://kr.diablo3.com/profile/举高高的小懒猫-3905/)           |      7615      | 7.17 Quadrillion  |     DH      | 2024-02-13 19:23:12 |
 | 2   | [JianLai#3844](https://kr.diablo3.com/profile/JianLai-3844/)           |      7306      | 6.31 Quadrillion  |     DH      | 2024-02-13 14:46:37 |
 | 3   | [네일#3204](https://kr.diablo3.com/profile/네일-3204/)                     |      7250      | 6.17 Quadrillion  |     DH      | 2024-02-13 14:54:05 |
 | 4   | [MysteryX#3582](https://kr.diablo3.com/profile/MysteryX-3582/)         |      7212      | 6.07 Quadrillion  |     DH      | 2024-02-13 13:55:49 |
@@ -13,7 +13,7 @@ Table created at 2024-02-13 18:48:52.395403
 | 6   | [봉자#3733](https://kr.diablo3.com/profile/봉자-3733/)                     |      7153      | 5.91 Quadrillion  |  Crusader   | 2024-02-13 16:00:03 |
 | 7   | [Ana#32292](https://kr.diablo3.com/profile/Ana-32292/)                 |      7127      | 5.85 Quadrillion  |     DH      | 2024-02-13 14:19:29 |
 | 8   | [清楓吹乱了年华#3665](https://kr.diablo3.com/profile/清楓吹乱了年华-3665/)           |      6943      | 5.39 Quadrillion  |     DH      | 2024-02-13 16:08:36 |
-| 9   | [계백#31660](https://kr.diablo3.com/profile/계백-31660/)                   |      6909      | 5.31 Quadrillion  |     DH      | 2024-02-13 18:34:07 |
+| 9   | [계백#31660](https://kr.diablo3.com/profile/계백-31660/)                   |      6911      | 5.32 Quadrillion  |     DH      | 2024-02-13 19:25:23 |
 | 10  | [Grrrrrrr#31158](https://kr.diablo3.com/profile/Grrrrrrr-31158/)       |      6826      | 5.12 Quadrillion  |     DH      | 2024-02-13 15:11:42 |
 | 11  | [青衣#31293](https://kr.diablo3.com/profile/青衣-31293/)                   |      6685      | 4.8 Quadrillion   |     DH      | 2024-02-13 17:55:07 |
 | 12  | [HonJa#3360](https://kr.diablo3.com/profile/HonJa-3360/)               |      6589      | 4.59 Quadrillion  |     DH      | 2024-02-13 09:45:58 |
@@ -23,9 +23,9 @@ Table created at 2024-02-13 18:48:52.395403
 | 16  | [momo#36358](https://kr.diablo3.com/profile/momo-36358/)               |      6421      | 4.23 Quadrillion  |     DH      | 2024-02-01 21:38:57 |
 | 17  | [shumiao#1219](https://kr.diablo3.com/profile/shumiao-1219/)           |      6383      | 4.16 Quadrillion  |     DH      | 2024-02-01 21:38:44 |
 | 18  | [Giya#11220](https://kr.diablo3.com/profile/Giya-11220/)               |      6359      | 4.11 Quadrillion  |     DH      | 2024-02-01 21:39:28 |
-| 19  | [Misaki#31300](https://kr.diablo3.com/profile/Misaki-31300/)           |      6350      | 4.09 Quadrillion  |     DH      | 2024-02-13 18:12:19 |
-| 20  | [Balen#21224](https://kr.diablo3.com/profile/Balen-21224/)             |      6329      | 4.05 Quadrillion  |     DH      | 2024-02-13 18:16:35 |
-| 21  | [jiaojiu#3651](https://kr.diablo3.com/profile/jiaojiu-3651/)           |      6321      | 4.03 Quadrillion  |     DH      | 2024-02-13 16:23:49 |
+| 19  | [Misaki#31300](https://kr.diablo3.com/profile/Misaki-31300/)           |      6353      | 4.1 Quadrillion   |     DH      | 2024-02-13 19:22:49 |
+| 20  | [jiaojiu#3651](https://kr.diablo3.com/profile/jiaojiu-3651/)           |      6332      | 4.05 Quadrillion  |     DH      | 2024-02-13 18:43:45 |
+| 21  | [Balen#21224](https://kr.diablo3.com/profile/Balen-21224/)             |      6329      | 4.05 Quadrillion  |     DH      | 2024-02-13 18:16:35 |
 | 22  | [sun#23291](https://kr.diablo3.com/profile/sun-23291/)                 |      6316      | 4.02 Quadrillion  |     DH      | 2024-02-01 21:39:24 |
 | 23  | [威威威#31646](https://kr.diablo3.com/profile/威威威-31646/)                 |      6282      | 3.96 Quadrillion  |     DH      | 2024-02-13 17:55:01 |
 | 24  | [MIMIAO#1297](https://kr.diablo3.com/profile/MIMIAO-1297/)             |      6274      | 3.94 Quadrillion  |     DH      | 2024-02-01 18:44:37 |
@@ -38,8 +38,8 @@ Table created at 2024-02-13 18:48:52.395403
 | 31  | [zhubobo#1308](https://kr.diablo3.com/profile/zhubobo-1308/)           |      6226      | 3.85 Quadrillion  |     DH      | 2024-02-01 21:38:51 |
 | 32  | [별달이#3336](https://kr.diablo3.com/profile/별달이-3336/)                   |      6225      | 3.85 Quadrillion  |     DH      | 2024-02-01 21:39:03 |
 | 33  | [haoh#11120](https://kr.diablo3.com/profile/haoh-11120/)               |      6190      | 3.78 Quadrillion  |     DH      | 2024-02-13 15:09:03 |
-| 34  | [GOMYAMMI#3364](https://kr.diablo3.com/profile/GOMYAMMI-3364/)         |      6166      | 3.73 Quadrillion  |     DH      | 2024-02-13 15:02:44 |
-| 35  | [likebear#31872](https://kr.diablo3.com/profile/likebear-31872/)       |      6150      | 3.7 Quadrillion   |     DH      | 2024-02-13 17:58:07 |
+| 34  | [GOMYAMMI#3364](https://kr.diablo3.com/profile/GOMYAMMI-3364/)         |      6189      | 3.78 Quadrillion  |     DH      | 2024-02-13 19:18:05 |
+| 35  | [likebear#31872](https://kr.diablo3.com/profile/likebear-31872/)       |      6158      | 3.72 Quadrillion  |     DH      | 2024-02-13 19:07:19 |
 | 36  | [Audi#11640](https://kr.diablo3.com/profile/Audi-11640/)               |      6149      | 3.7 Quadrillion   |     DH      | 2024-02-01 21:38:16 |
 | 37  | [Alba#31873](https://kr.diablo3.com/profile/Alba-31873/)               |      6144      | 3.69 Quadrillion  |     DH      | 2024-02-01 21:39:19 |
 | 38  | [xiaoyy#31851](https://kr.diablo3.com/profile/xiaoyy-31851/)           |      6138      | 3.68 Quadrillion  |     DH      | 2024-02-01 21:38:43 |
@@ -71,25 +71,25 @@ Table created at 2024-02-13 18:48:52.395403
 | 64  | [Penny#12652](https://kr.diablo3.com/profile/Penny-12652/)             |      5930      | 3.31 Quadrillion  |     DH      | 2024-02-01 21:38:30 |
 | 65  | [fier#31257](https://kr.diablo3.com/profile/fier-31257/)               |      5924      | 3.3 Quadrillion   |     DH      | 2024-02-01 21:39:33 |
 | 66  | [Reaper#122386](https://kr.diablo3.com/profile/Reaper-122386/)         |      5912      | 3.28 Quadrillion  |     DH      | 2024-02-01 21:38:56 |
-| 67  | [伙伙是个受#3158](https://kr.diablo3.com/profile/伙伙是个受-3158/)               |      5905      | 3.26 Quadrillion  |     DH      | 2024-02-01 21:38:37 |
-| 68  | [알겟지#3337](https://kr.diablo3.com/profile/알겟지-3337/)                   |      5905      | 3.26 Quadrillion  |     DH      | 2024-02-13 17:55:19 |
-| 69  | [LastWizard#31504](https://kr.diablo3.com/profile/LastWizard-31504/)   |      5904      | 3.26 Quadrillion  |     DH      | 2024-02-01 21:38:41 |
-| 70  | [이결#31372](https://kr.diablo3.com/profile/이결-31372/)                   |      5900      | 3.25 Quadrillion  |     DH      | 2024-02-01 21:38:28 |
-| 71  | [暗影風暴#330249](https://kr.diablo3.com/profile/暗影風暴-330249/)             |      5895      | 3.25 Quadrillion  |     DH      | 2024-02-13 17:26:12 |
-| 72  | [Ailsa#31177](https://kr.diablo3.com/profile/Ailsa-31177/)             |      5872      | 3.21 Quadrillion  |     DH      | 2024-02-01 21:39:07 |
-| 73  | [Xiaolu#31381](https://kr.diablo3.com/profile/Xiaolu-31381/)           |      5871      | 3.21 Quadrillion  |     DH      | 2024-02-01 21:38:34 |
-| 74  | [臭臭束褲#312679](https://kr.diablo3.com/profile/臭臭束褲-312679/)             |      5866      | 3.2 Quadrillion   |     DH      | 2024-02-01 21:39:29 |
-| 75  | [黑暗中的身影#3151](https://kr.diablo3.com/profile/黑暗中的身影-3151/)             |      5866      | 3.2 Quadrillion   |     DH      | 2024-02-13 14:46:14 |
-| 76  | [堂吉诃徳#3184](https://kr.diablo3.com/profile/堂吉诃徳-3184/)                 |      5860      | 3.19 Quadrillion  |  Crusader   | 2024-02-13 16:24:35 |
-| 77  | [呵呵#31860](https://kr.diablo3.com/profile/呵呵-31860/)                   |      5858      | 3.18 Quadrillion  |     DH      | 2024-02-01 21:38:40 |
-| 78  | [刘姝妤#3518](https://kr.diablo3.com/profile/刘姝妤-3518/)                   |      5857      | 3.18 Quadrillion  |     DH      | 2024-02-01 21:39:03 |
-| 79  | [李子劍#3248](https://kr.diablo3.com/profile/李子劍-3248/)                   |      5847      | 3.16 Quadrillion  |     DH      | 2024-02-01 21:39:15 |
-| 80  | [Mangchi#11893](https://kr.diablo3.com/profile/Mangchi-11893/)         |      5846      | 3.16 Quadrillion  |     DH      | 2024-02-13 09:51:44 |
+| 67  | [Mangchi#11893](https://kr.diablo3.com/profile/Mangchi-11893/)         |      5911      | 3.27 Quadrillion  |     DH      | 2024-02-13 19:25:55 |
+| 68  | [伙伙是个受#3158](https://kr.diablo3.com/profile/伙伙是个受-3158/)               |      5905      | 3.26 Quadrillion  |     DH      | 2024-02-01 21:38:37 |
+| 69  | [알겟지#3337](https://kr.diablo3.com/profile/알겟지-3337/)                   |      5905      | 3.26 Quadrillion  |     DH      | 2024-02-13 17:55:19 |
+| 70  | [LastWizard#31504](https://kr.diablo3.com/profile/LastWizard-31504/)   |      5904      | 3.26 Quadrillion  |     DH      | 2024-02-01 21:38:41 |
+| 71  | [이결#31372](https://kr.diablo3.com/profile/이결-31372/)                   |      5900      | 3.25 Quadrillion  |     DH      | 2024-02-01 21:38:28 |
+| 72  | [暗影風暴#330249](https://kr.diablo3.com/profile/暗影風暴-330249/)             |      5895      | 3.25 Quadrillion  |     DH      | 2024-02-13 17:26:12 |
+| 73  | [Ailsa#31177](https://kr.diablo3.com/profile/Ailsa-31177/)             |      5872      | 3.21 Quadrillion  |     DH      | 2024-02-01 21:39:07 |
+| 74  | [Xiaolu#31381](https://kr.diablo3.com/profile/Xiaolu-31381/)           |      5871      | 3.21 Quadrillion  |     DH      | 2024-02-01 21:38:34 |
+| 75  | [臭臭束褲#312679](https://kr.diablo3.com/profile/臭臭束褲-312679/)             |      5866      | 3.2 Quadrillion   |     DH      | 2024-02-01 21:39:29 |
+| 76  | [黑暗中的身影#3151](https://kr.diablo3.com/profile/黑暗中的身影-3151/)             |      5866      | 3.2 Quadrillion   |     DH      | 2024-02-13 14:46:14 |
+| 77  | [堂吉诃徳#3184](https://kr.diablo3.com/profile/堂吉诃徳-3184/)                 |      5860      | 3.19 Quadrillion  |  Crusader   | 2024-02-13 16:24:35 |
+| 78  | [呵呵#31860](https://kr.diablo3.com/profile/呵呵-31860/)                   |      5858      | 3.18 Quadrillion  |     DH      | 2024-02-01 21:38:40 |
+| 79  | [刘姝妤#3518](https://kr.diablo3.com/profile/刘姝妤-3518/)                   |      5857      | 3.18 Quadrillion  |     DH      | 2024-02-01 21:39:03 |
+| 80  | [李子劍#3248](https://kr.diablo3.com/profile/李子劍-3248/)                   |      5847      | 3.16 Quadrillion  |     DH      | 2024-02-01 21:39:15 |
 | 81  | [SaintSoldier#3328](https://kr.diablo3.com/profile/SaintSoldier-3328/) |      5842      | 3.16 Quadrillion  |     DH      | 2024-02-01 21:39:13 |
 | 82  | [SeeYouAgain#31828](https://kr.diablo3.com/profile/SeeYouAgain-31828/) |      5841      | 3.15 Quadrillion  |     DH      | 2024-02-01 21:38:38 |
-| 83  | [Jwn#11202](https://kr.diablo3.com/profile/Jwn-11202/)                 |      5834      | 3.14 Quadrillion  |     DH      | 2024-02-01 21:38:52 |
-| 84  | [아웃#31200](https://kr.diablo3.com/profile/아웃-31200/)                   |      5831      | 3.14 Quadrillion  |  Crusader   | 2024-02-13 18:28:42 |
-| 85  | [honglian#11827](https://kr.diablo3.com/profile/honglian-11827/)       |      5821      | 3.12 Quadrillion  |     DH      | 2024-02-13 18:43:54 |
+| 83  | [아웃#31200](https://kr.diablo3.com/profile/아웃-31200/)                   |      5837      | 3.15 Quadrillion  |  Crusader   | 2024-02-13 19:19:28 |
+| 84  | [Jwn#11202](https://kr.diablo3.com/profile/Jwn-11202/)                 |      5834      | 3.14 Quadrillion  |     DH      | 2024-02-01 21:38:52 |
+| 85  | [honglian#11827](https://kr.diablo3.com/profile/honglian-11827/)       |      5821      | 3.12 Quadrillion  |     DH      | 2024-02-13 19:34:08 |
 | 86  | [龙脊火箭炮#3583](https://kr.diablo3.com/profile/龙脊火箭炮-3583/)               |      5819      | 3.12 Quadrillion  |     DH      | 2024-02-01 21:38:00 |
 | 87  | [zZH#31924](https://kr.diablo3.com/profile/zZH-31924/)                 |      5811      | 3.1 Quadrillion   |     DH      | 2024-02-01 21:39:32 |
 | 88  | [DiaFCM#3783](https://kr.diablo3.com/profile/DiaFCM-3783/)             |      5805      | 3.09 Quadrillion  |     DH      | 2024-02-13 15:55:13 |
@@ -106,17 +106,17 @@ Table created at 2024-02-13 18:48:52.395403
 | 99  | [mountainking#4700](https://kr.diablo3.com/profile/mountainking-4700/) |      5724      | 2.96 Quadrillion  |     DH      | 2024-02-01 21:39:24 |
 | 100 | [wondol77#3412](https://kr.diablo3.com/profile/wondol77-3412/)         |      5721      | 2.96 Quadrillion  |     DH      | 2024-02-01 21:38:58 |
 | 101 | [MadMax#31531](https://kr.diablo3.com/profile/MadMax-31531/)           |      5708      | 2.94 Quadrillion  |     DH      | 2024-02-01 21:38:52 |
-| 102 | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5704      | 2.93 Quadrillion  |   Wizard    | 2024-02-13 18:09:52 |
+| 102 | [jang0728#3512](https://kr.diablo3.com/profile/jang0728-3512/)         |      5704      | 2.93 Quadrillion  |   Wizard    | 2024-02-13 19:32:19 |
 | 103 | [嘉嘉#3397](https://kr.diablo3.com/profile/嘉嘉-3397/)                     |      5694      | 2.91 Quadrillion  |     DH      | 2024-02-01 21:39:02 |
 | 104 | [上清#3258](https://kr.diablo3.com/profile/上清-3258/)                     |      5690      | 2.91 Quadrillion  |     DH      | 2024-02-01 21:38:52 |
-| 105 | [冰镇#31586](https://kr.diablo3.com/profile/冰镇-31586/)                   |      5688      | 2.9 Quadrillion   |     DH      | 2024-02-01 21:39:11 |
-| 106 | [Avalon#12418](https://kr.diablo3.com/profile/Avalon-12418/)           |      5679      | 2.89 Quadrillion  |     DH      | 2024-02-01 21:38:52 |
-| 107 | [洛杉矶冲浪#3907](https://kr.diablo3.com/profile/洛杉矶冲浪-3907/)               |      5672      | 2.88 Quadrillion  |     DH      | 2024-02-12 16:36:20 |
-| 108 | [极刃世界#3343](https://kr.diablo3.com/profile/极刃世界-3343/)                 |      5670      | 2.88 Quadrillion  |     DH      | 2024-02-01 21:39:07 |
-| 109 | [와니#31352](https://kr.diablo3.com/profile/와니-31352/)                   |      5668      | 2.87 Quadrillion  |    Monk     | 2024-02-13 16:58:03 |
-| 110 | [史杰彪#3227](https://kr.diablo3.com/profile/史杰彪-3227/)                   |      5667      | 2.87 Quadrillion  |     DH      | 2024-02-01 21:39:24 |
-| 111 | [Hynn#31847](https://kr.diablo3.com/profile/Hynn-31847/)               |      5666      | 2.87 Quadrillion  |  Crusader   | 2024-02-13 18:43:00 |
-| 112 | [터프가이0897#3589](https://kr.diablo3.com/profile/터프가이0897-3589/)         |      5661      | 2.86 Quadrillion  |     DH      | 2024-02-13 13:20:46 |
+| 105 | [터프가이0897#3589](https://kr.diablo3.com/profile/터프가이0897-3589/)         |      5690      | 2.91 Quadrillion  |     DH      | 2024-02-13 19:04:57 |
+| 106 | [冰镇#31586](https://kr.diablo3.com/profile/冰镇-31586/)                   |      5688      | 2.9 Quadrillion   |     DH      | 2024-02-01 21:39:11 |
+| 107 | [Avalon#12418](https://kr.diablo3.com/profile/Avalon-12418/)           |      5679      | 2.89 Quadrillion  |     DH      | 2024-02-01 21:38:52 |
+| 108 | [洛杉矶冲浪#3907](https://kr.diablo3.com/profile/洛杉矶冲浪-3907/)               |      5672      | 2.88 Quadrillion  |     DH      | 2024-02-12 16:36:20 |
+| 109 | [极刃世界#3343](https://kr.diablo3.com/profile/极刃世界-3343/)                 |      5670      | 2.88 Quadrillion  |     DH      | 2024-02-01 21:39:07 |
+| 110 | [와니#31352](https://kr.diablo3.com/profile/와니-31352/)                   |      5668      | 2.87 Quadrillion  |    Monk     | 2024-02-13 16:58:03 |
+| 111 | [史杰彪#3227](https://kr.diablo3.com/profile/史杰彪-3227/)                   |      5667      | 2.87 Quadrillion  |     DH      | 2024-02-01 21:39:24 |
+| 112 | [Hynn#31847](https://kr.diablo3.com/profile/Hynn-31847/)               |      5666      | 2.87 Quadrillion  |  Crusader   | 2024-02-13 18:46:52 |
 | 113 | [klpgards#4766](https://kr.diablo3.com/profile/klpgards-4766/)         |      5654      | 2.85 Quadrillion  |     DH      | 2024-02-01 21:38:39 |
 | 114 | [Never#32145](https://kr.diablo3.com/profile/Never-32145/)             |      5653      | 2.85 Quadrillion  |     DH      | 2024-02-01 21:38:26 |
 | 115 | [NiYa#31543](https://kr.diablo3.com/profile/NiYa-31543/)               |      5650      | 2.84 Quadrillion  |     DH      | 2024-02-01 21:39:26 |
@@ -135,8 +135,8 @@ Table created at 2024-02-13 18:48:52.395403
 | 128 | [強力貓頭鷹#42565](https://kr.diablo3.com/profile/強力貓頭鷹-42565/)             |      5589      | 2.75 Quadrillion  |     DH      | 2024-02-11 08:43:57 |
 | 129 | [暗影之龙#31187](https://kr.diablo3.com/profile/暗影之龙-31187/)               |      5583      | 2.74 Quadrillion  |     DH      | 2024-02-01 21:41:39 |
 | 130 | [七夜夕#4606](https://kr.diablo3.com/profile/七夜夕-4606/)                   |      5582      | 2.74 Quadrillion  |     DH      | 2024-02-01 21:38:24 |
-| 131 | [HeroCEO#1270](https://kr.diablo3.com/profile/HeroCEO-1270/)           |      5580      | 2.74 Quadrillion  |     DH      | 2024-02-01 21:39:12 |
-| 132 | [김대#31624](https://kr.diablo3.com/profile/김대-31624/)                   |      5579      | 2.73 Quadrillion  |     DH      | 2024-02-13 17:54:01 |
+| 131 | [김대#31624](https://kr.diablo3.com/profile/김대-31624/)                   |      5582      | 2.74 Quadrillion  |     DH      | 2024-02-13 19:00:05 |
+| 132 | [HeroCEO#1270](https://kr.diablo3.com/profile/HeroCEO-1270/)           |      5580      | 2.74 Quadrillion  |     DH      | 2024-02-01 21:39:12 |
 | 133 | [無名人物#4623](https://kr.diablo3.com/profile/無名人物-4623/)                 |      5575      | 2.73 Quadrillion  |     DH      | 2024-02-13 13:42:30 |
 | 134 | [G17#31777](https://kr.diablo3.com/profile/G17-31777/)                 |      5574      | 2.73 Quadrillion  |     DH      | 2024-02-01 21:38:40 |
 | 135 | [Larry#31208](https://kr.diablo3.com/profile/Larry-31208/)             |      5571      | 2.72 Quadrillion  |     DH      | 2024-02-01 21:38:39 |
@@ -153,9 +153,9 @@ Table created at 2024-02-13 18:48:52.395403
 | 146 | [프리카#3863](https://kr.diablo3.com/profile/프리카-3863/)                   |      5531      | 2.66 Quadrillion  |     DH      | 2024-02-01 21:38:27 |
 | 147 | [Jackmao#11800](https://kr.diablo3.com/profile/Jackmao-11800/)         |      5530      | 2.66 Quadrillion  |     DH      | 2024-02-01 21:38:41 |
 | 148 | [原神高手#3633](https://kr.diablo3.com/profile/原神高手-3633/)                 |      5528      | 2.66 Quadrillion  |     DH      | 2024-02-01 21:39:31 |
-| 149 | [噬身之蛇丶莱维#4608](https://kr.diablo3.com/profile/噬身之蛇丶莱维-4608/)           |      5526      | 2.65 Quadrillion  |     DH      | 2024-02-01 21:38:33 |
-| 150 | [Fenix#32222](https://kr.diablo3.com/profile/Fenix-32222/)             |      5526      | 2.65 Quadrillion  |     DH      | 2024-02-01 21:39:00 |
-| 151 | [偷井盖凶灵#3752](https://kr.diablo3.com/profile/偷井盖凶灵-3752/)               |      5524      | 2.65 Quadrillion  |     DH      | 2024-02-13 15:16:24 |
+| 149 | [偷井盖凶灵#3752](https://kr.diablo3.com/profile/偷井盖凶灵-3752/)               |      5527      | 2.66 Quadrillion  |     DH      | 2024-02-13 19:26:00 |
+| 150 | [噬身之蛇丶莱维#4608](https://kr.diablo3.com/profile/噬身之蛇丶莱维-4608/)           |      5526      | 2.65 Quadrillion  |     DH      | 2024-02-01 21:38:33 |
+| 151 | [Fenix#32222](https://kr.diablo3.com/profile/Fenix-32222/)             |      5526      | 2.65 Quadrillion  |     DH      | 2024-02-01 21:39:00 |
 | 152 | [Hasaki#11126](https://kr.diablo3.com/profile/Hasaki-11126/)           |      5523      | 2.65 Quadrillion  |     DH      | 2024-02-01 21:39:06 |
 | 153 | [Sasin#31879](https://kr.diablo3.com/profile/Sasin-31879/)             |      5522      | 2.65 Quadrillion  |  Crusader   | 2024-02-13 15:36:44 |
 | 154 | [流浪剑客#31680](https://kr.diablo3.com/profile/流浪剑客-31680/)               |      5516      | 2.64 Quadrillion  |     DH      | 2024-02-01 21:39:14 |
@@ -188,8 +188,8 @@ Table created at 2024-02-13 18:48:52.395403
 | 181 | [고법사#3897](https://kr.diablo3.com/profile/고법사-3897/)                   |      5421      | 2.5 Quadrillion   |     DH      | 2024-02-01 21:38:58 |
 | 182 | [Kotori#1495](https://kr.diablo3.com/profile/Kotori-1495/)             |      5420      | 2.5 Quadrillion   |     DH      | 2024-02-01 21:38:54 |
 | 183 | [今夜星光闪闪#3215](https://kr.diablo3.com/profile/今夜星光闪闪-3215/)             |      5420      | 2.5 Quadrillion   |     DH      | 2024-02-01 21:38:13 |
-| 184 | [此人極度自戀#3187](https://kr.diablo3.com/profile/此人極度自戀-3187/)             |      5414      | 2.49 Quadrillion  |     DH      | 2024-02-01 21:38:30 |
-| 185 | [以泪洗面奶#3815](https://kr.diablo3.com/profile/以泪洗面奶-3815/)               |      5401      | 2.47 Quadrillion  |     DH      | 2024-02-13 17:51:29 |
+| 184 | [以泪洗面奶#3815](https://kr.diablo3.com/profile/以泪洗面奶-3815/)               |      5415      | 2.49 Quadrillion  |     DH      | 2024-02-13 19:29:06 |
+| 185 | [此人極度自戀#3187](https://kr.diablo3.com/profile/此人極度自戀-3187/)             |      5414      | 2.49 Quadrillion  |     DH      | 2024-02-01 21:38:30 |
 | 186 | [Kunged3#3564](https://kr.diablo3.com/profile/Kunged3-3564/)           |      5400      | 2.47 Quadrillion  |     DH      | 2024-02-01 21:39:33 |
 | 187 | [傲雪天痕#3562](https://kr.diablo3.com/profile/傲雪天痕-3562/)                 |      5399      | 2.47 Quadrillion  |    Necro    | 2024-02-13 05:51:51 |
 | 188 | [袁帅王#3770](https://kr.diablo3.com/profile/袁帅王-3770/)                   |      5398      | 2.47 Quadrillion  |     DH      | 2024-02-01 21:39:14 |
@@ -204,4 +204,4 @@ Table created at 2024-02-13 18:48:52.395403
 | 197 | [Blaster#11529](https://kr.diablo3.com/profile/Blaster-11529/)         |      5364      | 2.42 Quadrillion  |    Monk     | 2024-02-01 21:25:22 |
 | 198 | [타락#3457](https://kr.diablo3.com/profile/타락-3457/)                     |      5356      | 2.41 Quadrillion  |     DH      | 2024-02-13 15:24:37 |
 | 199 | [Epiphany#11198](https://kr.diablo3.com/profile/Epiphany-11198/)       |      5345      | 2.39 Quadrillion  |     DH      | 2024-02-01 21:38:33 |
-| 200 | [finalff#31261](https://kr.diablo3.com/profile/finalff-31261/)         |      5322      | 2.36 Quadrillion  |     DH      | 2024-02-13 16:26:29 |
+| 200 | [덕구#3314](https://kr.diablo3.com/profile/덕구-3314/)                     |      2420      | 203.25 Trillion   |     DH      | 2024-02-13 15:42:31 |
