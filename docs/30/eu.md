@@ -1,21 +1,21 @@
 # Season 30 (EU)
 
 ---
-Table created at 2024-03-24 05:44:41.716431
+Table created at 2024-03-24 06:49:22.854676
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [GåldGåldGåld#2426](https://eu.diablo3.com/profile/GåldGåldGåld-2426/)     |     12481      | 32.44 Quadrillion |  Crusader   | 2024-03-24 04:57:19 |
 | 2   | [Timpas#21191](https://eu.diablo3.com/profile/Timpas-21191/)               |     11825      | 27.54 Quadrillion |     DH      | 2024-03-24 00:31:18 |
 | 3   | [ǁƁƐŖƓ#2975](https://eu.diablo3.com/profile/ǁƁƐŖƓ-2975/)                   |     11212      | 23.42 Quadrillion |  Crusader   | 2024-03-24 00:03:11 |
-| 4   | [Shintetsu#21789](https://eu.diablo3.com/profile/Shintetsu-21789/)         |     11068      | 22.52 Quadrillion |  Crusader   | 2024-03-24 05:20:31 |
+| 4   | [Shintetsu#21789](https://eu.diablo3.com/profile/Shintetsu-21789/)         |     11068      | 22.52 Quadrillion |  Crusader   | 2024-03-24 06:24:52 |
 | 5   | [BUSSERS#2497](https://eu.diablo3.com/profile/BUSSERS-2497/)               |     11049      | 22.4 Quadrillion  |     DH      | 2024-03-24 05:05:36 |
-| 6   | [Zybes#2867](https://eu.diablo3.com/profile/Zybes-2867/)                   |     11008      | 22.15 Quadrillion |  Crusader   | 2024-03-24 05:18:29 |
+| 6   | [Zybes#2867](https://eu.diablo3.com/profile/Zybes-2867/)                   |     11008      | 22.15 Quadrillion |  Crusader   | 2024-03-24 06:24:22 |
 | 7   | [Thepocket#21925](https://eu.diablo3.com/profile/Thepocket-21925/)         |     10766      | 20.7 Quadrillion  |  Barbarian  | 2024-03-24 00:42:47 |
 | 8   | [KarmaPolice#12638](https://eu.diablo3.com/profile/KarmaPolice-12638/)     |     10675      | 20.17 Quadrillion |     DH      | 2024-03-24 00:52:57 |
-| 9   | [Marv#22282](https://eu.diablo3.com/profile/Marv-22282/)                   |     10602      | 19.76 Quadrillion |     DH      | 2024-03-24 05:18:11 |
+| 9   | [Marv#22282](https://eu.diablo3.com/profile/Marv-22282/)                   |     10602      | 19.76 Quadrillion |     DH      | 2024-03-24 06:21:59 |
 | 10  | [Institucija#21218](https://eu.diablo3.com/profile/Institucija-21218/)     |     10556      | 19.5 Quadrillion  |     DH      | 2024-03-24 04:01:45 |
-| 11  | [QuiGonChill#1420](https://eu.diablo3.com/profile/QuiGonChill-1420/)       |     10431      | 18.8 Quadrillion  |     DH      | 2024-03-24 05:18:56 |
+| 11  | [QuiGonChill#1420](https://eu.diablo3.com/profile/QuiGonChill-1420/)       |     10431      | 18.8 Quadrillion  |     DH      | 2024-03-24 06:24:15 |
 | 12  | [SHiiiT#21334](https://eu.diablo3.com/profile/SHiiiT-21334/)               |     10367      | 18.45 Quadrillion |     DH      | 2024-03-24 01:47:14 |
 | 13  | [TerminusEst#21822](https://eu.diablo3.com/profile/TerminusEst-21822/)     |     10005      | 16.56 Quadrillion |     DH      | 2024-03-09 02:38:41 |
 | 14  | [BotRos#21106](https://eu.diablo3.com/profile/BotRos-21106/)               |      9917      | 16.12 Quadrillion |     DH      | 2024-03-24 04:56:48 |
@@ -23,20 +23,20 @@ Table created at 2024-03-24 05:44:41.716431
 | 16  | [LordWotan#2897](https://eu.diablo3.com/profile/LordWotan-2897/)           |      9607      | 14.63 Quadrillion |  Crusader   | 2024-03-23 23:12:43 |
 | 17  | [OreksEnjoyer#1799](https://eu.diablo3.com/profile/OreksEnjoyer-1799/)     |      9522      | 14.23 Quadrillion |     DH      | 2024-03-24 03:58:10 |
 | 18  | [Nexrate#2126](https://eu.diablo3.com/profile/Nexrate-2126/)               |      9491      | 14.09 Quadrillion |  Barbarian  | 2024-03-24 00:47:43 |
-| 19  | [Marw#21785](https://eu.diablo3.com/profile/Marw-21785/)                   |      9490      | 14.09 Quadrillion |     DH      | 2024-03-24 05:20:02 |
+| 19  | [Marw#21785](https://eu.diablo3.com/profile/Marw-21785/)                   |      9491      | 14.09 Quadrillion |     DH      | 2024-03-24 06:24:59 |
 | 20  | [BabyDragora#2852](https://eu.diablo3.com/profile/BabyDragora-2852/)       |      9397      | 13.67 Quadrillion |     DH      | 2024-03-23 16:47:03 |
 | 21  | [MartekosXD#2700](https://eu.diablo3.com/profile/MartekosXD-2700/)         |      9364      | 13.53 Quadrillion |     DH      | 2024-03-24 00:30:31 |
 | 22  | [Venø#2279](https://eu.diablo3.com/profile/Venø-2279/)                     |      9324      | 13.35 Quadrillion |  Crusader   | 2024-03-24 02:56:55 |
 | 23  | [Foxxli#21276](https://eu.diablo3.com/profile/Foxxli-21276/)               |      9323      | 13.34 Quadrillion |     DH      | 2024-03-08 19:25:07 |
-| 24  | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)                 |      9313      | 13.3 Quadrillion  |  Crusader   | 2024-03-24 05:04:20 |
-| 25  | [stuka#2715](https://eu.diablo3.com/profile/stuka-2715/)                   |      9292      | 13.21 Quadrillion |     DH      | 2024-03-24 05:17:28 |
+| 24  | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)                 |      9316      | 13.31 Quadrillion |  Crusader   | 2024-03-24 06:24:23 |
+| 25  | [stuka#2715](https://eu.diablo3.com/profile/stuka-2715/)                   |      9292      | 13.21 Quadrillion |     DH      | 2024-03-24 06:18:08 |
 | 26  | [Snoobs#21694](https://eu.diablo3.com/profile/Snoobs-21694/)               |      9217      | 12.89 Quadrillion |     DH      | 2024-03-22 00:40:07 |
 | 27  | [TimeToBleed#21857](https://eu.diablo3.com/profile/TimeToBleed-21857/)     |      8991      | 11.94 Quadrillion |     DH      | 2024-03-24 01:24:52 |
 | 28  | [Latikaa#2521](https://eu.diablo3.com/profile/Latikaa-2521/)               |      8954      | 11.79 Quadrillion |     DH      | 2024-03-02 16:35:08 |
 | 29  | [Jiraya#21922](https://eu.diablo3.com/profile/Jiraya-21922/)               |      8842      | 11.35 Quadrillion |  Crusader   | 2024-03-24 00:38:44 |
 | 30  | [ChrisGrandPa#2915](https://eu.diablo3.com/profile/ChrisGrandPa-2915/)     |      8797      | 11.17 Quadrillion |  Crusader   | 2024-03-18 20:02:45 |
-| 31  | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                   |      8764      | 11.04 Quadrillion |     DH      | 2024-03-23 23:27:51 |
-| 32  | [DemonHunter#23379](https://eu.diablo3.com/profile/DemonHunter-23379/)     |      8764      | 11.04 Quadrillion |     DH      | 2024-03-23 21:34:26 |
+| 31  | [DemonHunter#23379](https://eu.diablo3.com/profile/DemonHunter-23379/)     |      8785      | 11.13 Quadrillion |     DH      | 2024-03-24 06:25:24 |
+| 32  | [Somi#21787](https://eu.diablo3.com/profile/Somi-21787/)                   |      8764      | 11.04 Quadrillion |     DH      | 2024-03-23 23:27:51 |
 | 33  | [Diabolic#2507](https://eu.diablo3.com/profile/Diabolic-2507/)             |      8756      | 11.01 Quadrillion |  Crusader   | 2024-03-24 01:38:10 |
 | 34  | [mousepad#21204](https://eu.diablo3.com/profile/mousepad-21204/)           |      8752      | 11.0 Quadrillion  |  Crusader   | 2024-03-24 04:52:18 |
 | 35  | [AndestyleCK#2637](https://eu.diablo3.com/profile/AndestyleCK-2637/)       |      8731      | 10.92 Quadrillion |     DH      | 2024-03-24 05:21:03 |
@@ -55,7 +55,7 @@ Table created at 2024-03-24 05:44:41.716431
 | 48  | [ShockTower#21228](https://eu.diablo3.com/profile/ShockTower-21228/)       |      8407      | 9.72 Quadrillion  |     DH      | 2024-03-04 21:37:09 |
 | 49  | [Phil52#2650](https://eu.diablo3.com/profile/Phil52-2650/)                 |      8404      | 9.71 Quadrillion  |     DH      | 2024-03-22 16:25:13 |
 | 50  | [Hergo#21128](https://eu.diablo3.com/profile/Hergo-21128/)                 |      8362      | 9.56 Quadrillion  |     DH      | 2024-03-07 16:16:40 |
-| 51  | [leha#21843](https://eu.diablo3.com/profile/leha-21843/)                   |      8317      | 9.41 Quadrillion  |  Crusader   | 2024-03-24 05:06:41 |
+| 51  | [leha#21843](https://eu.diablo3.com/profile/leha-21843/)                   |      8317      | 9.41 Quadrillion  |  Crusader   | 2024-03-24 06:24:03 |
 | 52  | [DANGER#22135](https://eu.diablo3.com/profile/DANGER-22135/)               |      8300      | 9.35 Quadrillion  |  Crusader   | 2024-03-23 23:29:53 |
 | 53  | [Nearth97#2914](https://eu.diablo3.com/profile/Nearth97-2914/)             |      8226      | 9.09 Quadrillion  |  Crusader   | 2024-03-23 22:06:09 |
 | 54  | [waikiki#21489](https://eu.diablo3.com/profile/waikiki-21489/)             |      8214      | 9.05 Quadrillion  |     DH      | 2024-03-24 01:47:57 |
@@ -63,9 +63,9 @@ Table created at 2024-03-24 05:44:41.716431
 | 56  | [Neophron#2366](https://eu.diablo3.com/profile/Neophron-2366/)             |      8086      | 8.63 Quadrillion  |  Barbarian  | 2024-03-24 00:02:25 |
 | 57  | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                   |      8047      | 8.5 Quadrillion   |  Crusader   | 2024-03-22 22:10:26 |
 | 58  | [CREDO#21309](https://eu.diablo3.com/profile/CREDO-21309/)                 |      7990      | 8.32 Quadrillion  |  Crusader   | 2024-03-24 05:14:42 |
-| 59  | [VURDA#2767](https://eu.diablo3.com/profile/VURDA-2767/)                   |      7967      | 8.24 Quadrillion  |  Crusader   | 2024-03-24 05:19:29 |
+| 59  | [VURDA#2767](https://eu.diablo3.com/profile/VURDA-2767/)                   |      7968      | 8.25 Quadrillion  |  Crusader   | 2024-03-24 05:51:13 |
 | 60  | [Gazelle21#2417](https://eu.diablo3.com/profile/Gazelle21-2417/)           |      7890      | 8.0 Quadrillion   |     DH      | 2024-03-24 00:28:20 |
-| 61  | [Wanderhund#217698](https://eu.diablo3.com/profile/Wanderhund-217698/)     |      7859      | 7.9 Quadrillion   |     DH      | 2024-03-24 05:20:14 |
+| 61  | [Wanderhund#217698](https://eu.diablo3.com/profile/Wanderhund-217698/)     |      7859      | 7.9 Quadrillion   |     DH      | 2024-03-24 06:26:25 |
 | 62  | [BigPanDa#21559](https://eu.diablo3.com/profile/BigPanDa-21559/)           |      7825      | 7.8 Quadrillion   |     DH      | 2024-03-24 04:05:46 |
 | 63  | [Ladril#21673](https://eu.diablo3.com/profile/Ladril-21673/)               |      7792      | 7.7 Quadrillion   |     DH      | 2024-03-24 00:44:18 |
 | 64  | [PoweR#23835](https://eu.diablo3.com/profile/PoweR-23835/)                 |      7760      | 7.6 Quadrillion   |     DH      | 2024-03-24 02:44:25 |
@@ -76,13 +76,13 @@ Table created at 2024-03-24 05:44:41.716431
 | 69  | [Swakkeee#2335](https://eu.diablo3.com/profile/Swakkeee-2335/)             |      7655      | 7.29 Quadrillion  |     DH      | 2024-03-24 03:36:05 |
 | 70  | [Ali#218794](https://eu.diablo3.com/profile/Ali-218794/)                   |      7632      | 7.22 Quadrillion  |  Barbarian  | 2024-03-23 23:38:33 |
 | 71  | [Ezay#2394](https://eu.diablo3.com/profile/Ezay-2394/)                     |      7623      | 7.2 Quadrillion   |     DH      | 2024-03-24 04:06:57 |
-| 72  | [BanSpeedrun#2590](https://eu.diablo3.com/profile/BanSpeedrun-2590/)       |      7587      | 7.09 Quadrillion  |     DH      | 2024-03-24 03:59:58 |
+| 72  | [BanSpeedrun#2590](https://eu.diablo3.com/profile/BanSpeedrun-2590/)       |      7594      | 7.11 Quadrillion  |     DH      | 2024-03-24 05:46:34 |
 | 73  | [Clunez#2825](https://eu.diablo3.com/profile/Clunez-2825/)                 |      7576      | 7.06 Quadrillion  |  Crusader   | 2024-03-23 22:58:46 |
 | 74  | [Agressor#23410](https://eu.diablo3.com/profile/Agressor-23410/)           |      7553      | 6.99 Quadrillion  |  Crusader   | 2024-03-24 02:14:10 |
-| 75  | [LCZero#21310](https://eu.diablo3.com/profile/LCZero-21310/)               |      7505      | 6.86 Quadrillion  |  Crusader   | 2024-03-24 05:20:13 |
+| 75  | [LCZero#21310](https://eu.diablo3.com/profile/LCZero-21310/)               |      7505      | 6.86 Quadrillion  |  Crusader   | 2024-03-24 06:23:18 |
 | 76  | [Vertilz#2762](https://eu.diablo3.com/profile/Vertilz-2762/)               |      7490      | 6.82 Quadrillion  |     DH      | 2024-03-24 01:30:07 |
 | 77  | [Maggus#21211](https://eu.diablo3.com/profile/Maggus-21211/)               |      7462      | 6.74 Quadrillion  |  Crusader   | 2024-03-24 03:15:57 |
-| 78  | [ingma#21321](https://eu.diablo3.com/profile/ingma-21321/)                 |      7445      | 6.69 Quadrillion  |  Barbarian  | 2024-03-24 05:14:32 |
+| 78  | [ingma#21321](https://eu.diablo3.com/profile/ingma-21321/)                 |      7445      | 6.69 Quadrillion  |  Barbarian  | 2024-03-24 05:34:05 |
 | 79  | [Knochenjäger#21839](https://eu.diablo3.com/profile/Knochenjäger-21839/)   |      7403      | 6.58 Quadrillion  |  Crusader   | 2024-03-24 02:19:11 |
 | 80  | [Mortem#2292](https://eu.diablo3.com/profile/Mortem-2292/)                 |      7388      | 6.53 Quadrillion  |  Crusader   | 2024-03-24 01:35:48 |
 | 81  | [KaMaZ#1165](https://eu.diablo3.com/profile/KaMaZ-1165/)                   |      7369      | 6.48 Quadrillion  |     DH      | 2024-03-22 15:00:28 |
@@ -103,14 +103,14 @@ Table created at 2024-03-24 05:44:41.716431
 | 96  | [PuppetMaster#2817](https://eu.diablo3.com/profile/PuppetMaster-2817/)     |      7147      | 5.9 Quadrillion   |  Crusader   | 2024-03-23 16:06:21 |
 | 97  | [Вульф#2669](https://eu.diablo3.com/profile/Вульф-2669/)                   |      7117      | 5.82 Quadrillion  |  Crusader   | 2024-03-24 05:06:44 |
 | 98  | [Chopride#21780](https://eu.diablo3.com/profile/Chopride-21780/)           |      7111      | 5.81 Quadrillion  |     DH      | 2024-02-29 15:31:55 |
-| 99  | [Yevgar#2138](https://eu.diablo3.com/profile/Yevgar-2138/)                 |      7103      | 5.79 Quadrillion  |  Crusader   | 2024-03-24 05:09:30 |
+| 99  | [Yevgar#2138](https://eu.diablo3.com/profile/Yevgar-2138/)                 |      7103      | 5.79 Quadrillion  |  Crusader   | 2024-03-24 06:16:55 |
 | 100 | [BlackStaR#14180](https://eu.diablo3.com/profile/BlackStaR-14180/)         |      7091      | 5.76 Quadrillion  |  Crusader   | 2024-03-23 00:17:39 |
 | 101 | [TheVengeful#21574](https://eu.diablo3.com/profile/TheVengeful-21574/)     |      7074      | 5.71 Quadrillion  |  Crusader   | 2024-03-24 03:07:57 |
 | 102 | [Xander#23939](https://eu.diablo3.com/profile/Xander-23939/)               |      7068      | 5.7 Quadrillion   |     DH      | 2024-03-23 16:36:37 |
 | 103 | [sowa#2422](https://eu.diablo3.com/profile/sowa-2422/)                     |      7047      | 5.65 Quadrillion  |     DH      | 2024-03-24 03:47:27 |
-| 104 | [BlizZzZz#21123](https://eu.diablo3.com/profile/BlizZzZz-21123/)           |      7043      | 5.64 Quadrillion  |     DH      | 2024-03-24 05:21:15 |
+| 104 | [BlizZzZz#21123](https://eu.diablo3.com/profile/BlizZzZz-21123/)           |      7043      | 5.64 Quadrillion  |     DH      | 2024-03-24 06:25:35 |
 | 105 | [Hero#1414](https://eu.diablo3.com/profile/Hero-1414/)                     |      7042      | 5.64 Quadrillion  |     DH      | 2024-03-23 23:11:43 |
-| 106 | [Dasi#21626](https://eu.diablo3.com/profile/Dasi-21626/)                   |      7035      | 5.62 Quadrillion  |  Crusader   | 2024-03-24 03:50:21 |
+| 106 | [Dasi#21626](https://eu.diablo3.com/profile/Dasi-21626/)                   |      7035      | 5.62 Quadrillion  |  Crusader   | 2024-03-24 05:25:51 |
 | 107 | [Armageddon#22146](https://eu.diablo3.com/profile/Armageddon-22146/)       |      7032      | 5.61 Quadrillion  |     DH      | 2024-03-24 04:17:59 |
 | 108 | [Django#24669](https://eu.diablo3.com/profile/Django-24669/)               |      7021      | 5.58 Quadrillion  |    Necro    | 2024-03-20 20:03:49 |
 | 109 | [DerVerwalter#2522](https://eu.diablo3.com/profile/DerVerwalter-2522/)     |      7017      | 5.57 Quadrillion  |  Crusader   | 2024-02-16 18:45:12 |
@@ -129,8 +129,8 @@ Table created at 2024-03-24 05:44:41.716431
 | 122 | [TaZzA#2740](https://eu.diablo3.com/profile/TaZzA-2740/)                   |      6927      | 5.36 Quadrillion  |     DH      | 2024-03-16 23:03:08 |
 | 123 | [lollo#11747](https://eu.diablo3.com/profile/lollo-11747/)                 |      6914      | 5.32 Quadrillion  |     DH      | 2024-03-24 01:22:04 |
 | 124 | [MrPink#2165](https://eu.diablo3.com/profile/MrPink-2165/)                 |      6904      | 5.3 Quadrillion   |  Crusader   | 2024-03-23 23:06:07 |
-| 125 | [MONSTR#2331](https://eu.diablo3.com/profile/MONSTR-2331/)                 |      6900      | 5.29 Quadrillion  |  Crusader   | 2024-03-24 05:19:37 |
-| 126 | [Inanna#21281](https://eu.diablo3.com/profile/Inanna-21281/)               |      6894      | 5.28 Quadrillion  |  Crusader   | 2024-03-24 04:29:31 |
+| 125 | [MONSTR#2331](https://eu.diablo3.com/profile/MONSTR-2331/)                 |      6900      | 5.29 Quadrillion  |  Crusader   | 2024-03-24 05:23:25 |
+| 126 | [Inanna#21281](https://eu.diablo3.com/profile/Inanna-21281/)               |      6898      | 5.29 Quadrillion  |  Crusader   | 2024-03-24 06:00:40 |
 | 127 | [Boerke#2748](https://eu.diablo3.com/profile/Boerke-2748/)                 |      6860      | 5.2 Quadrillion   |  Crusader   | 2024-03-23 21:37:59 |
 | 128 | [ACCUSATION#21643](https://eu.diablo3.com/profile/ACCUSATION-21643/)       |      6848      | 5.17 Quadrillion  |   Wizard    | 2024-03-24 05:16:50 |
 | 129 | [ShGengste#2306](https://eu.diablo3.com/profile/ShGengste-2306/)           |      6847      | 5.17 Quadrillion  |     DH      | 2024-03-23 19:23:08 |
@@ -141,31 +141,31 @@ Table created at 2024-03-24 05:44:41.716431
 | 134 | [kaimity#2796](https://eu.diablo3.com/profile/kaimity-2796/)               |      6781      | 5.01 Quadrillion  |     DH      | 2024-03-24 00:50:01 |
 | 135 | [MichVieri#2698](https://eu.diablo3.com/profile/MichVieri-2698/)           |      6774      | 5.0 Quadrillion   |     DH      | 2024-02-19 06:29:27 |
 | 136 | [DrAcoreX#21942](https://eu.diablo3.com/profile/DrAcoreX-21942/)           |      6763      | 4.97 Quadrillion  |     DH      | 2024-02-29 10:56:18 |
-| 137 | [ClaudiuDany#2113](https://eu.diablo3.com/profile/ClaudiuDany-2113/)       |      6757      | 4.96 Quadrillion  |  Crusader   | 2024-03-23 13:19:27 |
-| 138 | [OwlStelka#1399](https://eu.diablo3.com/profile/OwlStelka-1399/)           |      6755      | 4.95 Quadrillion  |     DH      | 2024-03-24 04:44:17 |
+| 137 | [OwlStelka#1399](https://eu.diablo3.com/profile/OwlStelka-1399/)           |      6761      | 4.97 Quadrillion  |     DH      | 2024-03-24 06:21:37 |
+| 138 | [ClaudiuDany#2113](https://eu.diablo3.com/profile/ClaudiuDany-2113/)       |      6757      | 4.96 Quadrillion  |  Crusader   | 2024-03-23 13:19:27 |
 | 139 | [Woland#2892](https://eu.diablo3.com/profile/Woland-2892/)                 |      6752      | 4.95 Quadrillion  |  Crusader   | 2024-03-24 04:10:56 |
 | 140 | [XIIADINOU#2754](https://eu.diablo3.com/profile/XIIADINOU-2754/)           |      6750      | 4.94 Quadrillion  |  Crusader   | 2024-03-24 00:45:28 |
-| 141 | [六合#4738](https://eu.diablo3.com/profile/六合-4738/)                         |      6727      | 4.89 Quadrillion  |     DH      | 2024-03-24 04:37:51 |
+| 141 | [六合#4738](https://eu.diablo3.com/profile/六合-4738/)                         |      6733      | 4.91 Quadrillion  |     DH      | 2024-03-24 06:15:06 |
 | 142 | [MagicMiracle#2410](https://eu.diablo3.com/profile/MagicMiracle-2410/)     |      6705      | 4.84 Quadrillion  |  Crusader   | 2024-03-15 12:23:35 |
 | 143 | [Xelly#2745](https://eu.diablo3.com/profile/Xelly-2745/)                   |      6676      | 4.78 Quadrillion  |     DH      | 2024-02-21 20:19:18 |
 | 144 | [Alexis#24882](https://eu.diablo3.com/profile/Alexis-24882/)               |      6673      | 4.77 Quadrillion  |     DH      | 2024-03-23 22:14:10 |
 | 145 | [Bootch#21813](https://eu.diablo3.com/profile/Bootch-21813/)               |      6671      | 4.77 Quadrillion  |  Crusader   | 2024-03-23 19:53:05 |
-| 146 | [Гендос#2931](https://eu.diablo3.com/profile/Гендос-2931/)                 |      6650      | 4.72 Quadrillion  |     DH      | 2024-03-23 18:42:08 |
-| 147 | [SUN#2246](https://eu.diablo3.com/profile/SUN-2246/)                       |      6623      | 4.66 Quadrillion  |     DH      | 2024-03-23 18:35:47 |
-| 148 | [JeGeSs#2726](https://eu.diablo3.com/profile/JeGeSs-2726/)                 |      6621      | 4.66 Quadrillion  |  Crusader   | 2024-03-23 02:21:03 |
-| 149 | [Hobo#21480](https://eu.diablo3.com/profile/Hobo-21480/)                   |      6618      | 4.65 Quadrillion  |  Crusader   | 2024-03-21 19:26:40 |
-| 150 | [Gimli#22413](https://eu.diablo3.com/profile/Gimli-22413/)                 |      6614      | 4.64 Quadrillion  |     DH      | 2024-03-23 22:26:17 |
-| 151 | [Verschnurrt#2578](https://eu.diablo3.com/profile/Verschnurrt-2578/)       |      6610      | 4.63 Quadrillion  |  Barbarian  | 2024-03-24 02:40:19 |
+| 146 | [Гендос#2931](https://eu.diablo3.com/profile/Гендос-2931/)                 |      6666      | 4.76 Quadrillion  |     DH      | 2024-03-24 05:52:20 |
+| 147 | [Gimli#22413](https://eu.diablo3.com/profile/Gimli-22413/)                 |      6641      | 4.7 Quadrillion   |     DH      | 2024-03-24 05:42:04 |
+| 148 | [SUN#2246](https://eu.diablo3.com/profile/SUN-2246/)                       |      6623      | 4.66 Quadrillion  |     DH      | 2024-03-23 18:35:47 |
+| 149 | [JeGeSs#2726](https://eu.diablo3.com/profile/JeGeSs-2726/)                 |      6621      | 4.66 Quadrillion  |  Crusader   | 2024-03-23 02:21:03 |
+| 150 | [Hobo#21480](https://eu.diablo3.com/profile/Hobo-21480/)                   |      6618      | 4.65 Quadrillion  |  Crusader   | 2024-03-21 19:26:40 |
+| 151 | [Verschnurrt#2578](https://eu.diablo3.com/profile/Verschnurrt-2578/)       |      6610      | 4.63 Quadrillion  |  Barbarian  | 2024-03-24 06:26:12 |
 | 152 | [ALEXEY#2975](https://eu.diablo3.com/profile/ALEXEY-2975/)                 |      6568      | 4.54 Quadrillion  |  Crusader   | 2024-03-24 04:13:34 |
-| 153 | [AAXIPLIG#2349](https://eu.diablo3.com/profile/AAXIPLIG-2349/)             |      6562      | 4.53 Quadrillion  |  Crusader   | 2024-03-24 04:57:14 |
+| 153 | [AAXIPLIG#2349](https://eu.diablo3.com/profile/AAXIPLIG-2349/)             |      6562      | 4.53 Quadrillion  |  Crusader   | 2024-03-24 05:56:23 |
 | 154 | [Gor#22484](https://eu.diablo3.com/profile/Gor-22484/)                     |      6549      | 4.5 Quadrillion   |  Crusader   | 2024-03-23 18:51:35 |
 | 155 | [KORRADY1971#2303](https://eu.diablo3.com/profile/KORRADY1971-2303/)       |      6548      | 4.5 Quadrillion   |     DH      | 2024-03-23 23:31:05 |
-| 156 | [ThisIsTheWay#21517](https://eu.diablo3.com/profile/ThisIsTheWay-21517/)   |      6545      | 4.49 Quadrillion  |     DH      | 2024-03-24 05:14:41 |
+| 156 | [ThisIsTheWay#21517](https://eu.diablo3.com/profile/ThisIsTheWay-21517/)   |      6545      | 4.49 Quadrillion  |     DH      | 2024-03-24 05:34:00 |
 | 157 | [DOKSHIIIIIT#2412](https://eu.diablo3.com/profile/DOKSHIIIIIT-2412/)       |      6536      | 4.47 Quadrillion  |  Crusader   | 2024-03-08 18:14:11 |
 | 158 | [Prexton#2939](https://eu.diablo3.com/profile/Prexton-2939/)               |      6515      | 4.43 Quadrillion  |  Crusader   | 2024-02-26 11:22:13 |
 | 159 | [McMisiek#21729](https://eu.diablo3.com/profile/McMisiek-21729/)           |      6511      | 4.42 Quadrillion  |     DH      | 2024-03-13 18:22:00 |
 | 160 | [p1xar#21100](https://eu.diablo3.com/profile/p1xar-21100/)                 |      6507      | 4.41 Quadrillion  |  Crusader   | 2024-03-17 19:51:00 |
-| 161 | [INFLEXIBLE#21588](https://eu.diablo3.com/profile/INFLEXIBLE-21588/)       |      6504      | 4.41 Quadrillion  |  Crusader   | 2024-03-24 05:20:11 |
+| 161 | [INFLEXIBLE#21588](https://eu.diablo3.com/profile/INFLEXIBLE-21588/)       |      6504      | 4.41 Quadrillion  |  Crusader   | 2024-03-24 06:27:01 |
 | 162 | [Chatouille#21528](https://eu.diablo3.com/profile/Chatouille-21528/)       |      6503      | 4.4 Quadrillion   |     DH      | 2024-03-23 22:00:58 |
 | 163 | [Argon#22655](https://eu.diablo3.com/profile/Argon-22655/)                 |      6496      | 4.39 Quadrillion  |  Crusader   | 2024-02-20 20:27:25 |
 | 164 | [SamusAran#2517](https://eu.diablo3.com/profile/SamusAran-2517/)           |      6489      | 4.37 Quadrillion  |  Crusader   | 2024-03-22 18:46:44 |
@@ -175,7 +175,7 @@ Table created at 2024-03-24 05:44:41.716431
 | 168 | [Grelli#21517](https://eu.diablo3.com/profile/Grelli-21517/)               |      6411      | 4.21 Quadrillion  |  Crusader   | 2024-03-19 15:04:55 |
 | 169 | [superxero#1877](https://eu.diablo3.com/profile/superxero-1877/)           |      6406      | 4.2 Quadrillion   |  Crusader   | 2024-03-24 04:54:38 |
 | 170 | [Missandei#21949](https://eu.diablo3.com/profile/Missandei-21949/)         |      6405      | 4.2 Quadrillion   |     DH      | 2024-03-23 21:58:51 |
-| 171 | [Ninjakeks#23926](https://eu.diablo3.com/profile/Ninjakeks-23926/)         |      6405      | 4.2 Quadrillion   |     DH      | 2024-03-23 05:15:57 |
+| 171 | [Ninjakeks#23926](https://eu.diablo3.com/profile/Ninjakeks-23926/)         |      6405      | 4.2 Quadrillion   |     DH      | 2024-03-24 05:27:47 |
 | 172 | [LocoTopBird#2105](https://eu.diablo3.com/profile/LocoTopBird-2105/)       |      6400      | 4.19 Quadrillion  |  Crusader   | 2024-03-23 22:06:53 |
 | 173 | [Trooper#2750](https://eu.diablo3.com/profile/Trooper-2750/)               |      6397      | 4.19 Quadrillion  |     DH      | 2024-03-23 08:44:25 |
 | 174 | [xddemon#2227](https://eu.diablo3.com/profile/xddemon-2227/)               |      6391      | 4.17 Quadrillion  |     DH      | 2024-02-07 19:15:51 |
@@ -192,10 +192,10 @@ Table created at 2024-03-24 05:44:41.716431
 | 185 | [IRON#22200](https://eu.diablo3.com/profile/IRON-22200/)                   |      6298      | 3.99 Quadrillion  |     DH      | 2024-03-24 00:23:00 |
 | 186 | [BattlePants#1101832](https://eu.diablo3.com/profile/BattlePants-1101832/) |      6296      | 3.98 Quadrillion  |     DH      | 2024-03-05 23:54:09 |
 | 187 | [Load#2616](https://eu.diablo3.com/profile/Load-2616/)                     |      6287      | 3.97 Quadrillion  |  Crusader   | 2024-03-06 16:48:57 |
-| 188 | [BallRock#21185](https://eu.diablo3.com/profile/BallRock-21185/)           |      6281      | 3.95 Quadrillion  |     DH      | 2024-03-24 04:52:09 |
+| 188 | [BallRock#21185](https://eu.diablo3.com/profile/BallRock-21185/)           |      6283      | 3.96 Quadrillion  |     DH      | 2024-03-24 05:51:39 |
 | 189 | [Vnce#21435](https://eu.diablo3.com/profile/Vnce-21435/)                   |      6280      | 3.95 Quadrillion  |     DH      | 2024-03-03 14:14:13 |
 | 190 | [luminaire#21119](https://eu.diablo3.com/profile/luminaire-21119/)         |      6268      | 3.93 Quadrillion  |     DH      | 2024-02-21 12:08:43 |
-| 191 | [bam#2696](https://eu.diablo3.com/profile/bam-2696/)                       |      6237      | 3.87 Quadrillion  |  Crusader   | 2024-03-23 16:11:49 |
+| 191 | [bam#2696](https://eu.diablo3.com/profile/bam-2696/)                       |      6237      | 3.87 Quadrillion  |  Crusader   | 2024-03-24 05:24:51 |
 | 192 | [Gordito#21162](https://eu.diablo3.com/profile/Gordito-21162/)             |      6225      | 3.85 Quadrillion  |     DH      | 2024-03-23 13:04:39 |
 | 193 | [VaultBoy#1731](https://eu.diablo3.com/profile/VaultBoy-1731/)             |      6224      | 3.84 Quadrillion  |  Crusader   | 2024-03-13 20:27:51 |
 | 194 | [DemonHunter#23381](https://eu.diablo3.com/profile/DemonHunter-23381/)     |      6215      | 3.83 Quadrillion  |     DH      | 2024-03-23 19:35:44 |
