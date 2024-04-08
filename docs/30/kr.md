@@ -1,7 +1,7 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-04-08 20:53:08.731899
+Table created at 2024-04-08 21:48:22.902479
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -46,7 +46,7 @@ Table created at 2024-04-08 20:53:08.731899
 | 39  | [Max3#11789](https://kr.diablo3.com/profile/Max3-11789/)                     |      9617      | 14.67 Quadrillion |     DH      | 2024-04-06 15:26:10 |
 | 40  | [狐狸#31743](https://kr.diablo3.com/profile/狐狸-31743/)                         |      9608      | 14.63 Quadrillion |     DH      | 2024-04-05 11:46:21 |
 | 41  | [덕꾸#31608](https://kr.diablo3.com/profile/덕꾸-31608/)                         |      9596      | 14.58 Quadrillion |     DH      | 2024-04-06 19:53:01 |
-| 42  | [송죄송#3125](https://kr.diablo3.com/profile/송죄송-3125/)                         |      9589      | 14.54 Quadrillion |     DH      | 2024-04-07 12:31:50 |
+| 42  | [송죄송#3125](https://kr.diablo3.com/profile/송죄송-3125/)                         |      9589      | 14.54 Quadrillion |     DH      | 2024-04-08 21:37:20 |
 | 43  | [等不來的愛#3605](https://kr.diablo3.com/profile/等不來的愛-3605/)                     |      9583      | 14.52 Quadrillion |     DH      | 2024-04-02 13:42:51 |
 | 44  | [飛天小白豬#3955](https://kr.diablo3.com/profile/飛天小白豬-3955/)                     |      9521      | 14.23 Quadrillion |     DH      | 2024-04-07 00:31:50 |
 | 45  | [Hynn#31847](https://kr.diablo3.com/profile/Hynn-31847/)                     |      9512      | 14.19 Quadrillion |  Crusader   | 2024-04-07 12:58:39 |
@@ -89,7 +89,7 @@ Table created at 2024-04-08 20:53:08.731899
 | 82  | [老陳#31351](https://kr.diablo3.com/profile/老陳-31351/)                         |      9000      | 11.98 Quadrillion |     DH      | 2024-04-07 00:31:10 |
 | 83  | [무자비#31201](https://kr.diablo3.com/profile/무자비-31201/)                       |      8986      | 11.92 Quadrillion |     DH      | 2024-04-07 00:31:48 |
 | 84  | [Adventurer#144104966](https://kr.diablo3.com/profile/Adventurer-144104966/) |      8978      | 11.89 Quadrillion |     DH      | 2024-04-08 08:27:42 |
-| 85  | [NJtiger#1153](https://kr.diablo3.com/profile/NJtiger-1153/)                 |      8952      | 11.79 Quadrillion |     DH      | 2024-04-08 15:18:06 |
+| 85  | [NJtiger#1153](https://kr.diablo3.com/profile/NJtiger-1153/)                 |      8952      | 11.79 Quadrillion |     DH      | 2024-04-08 21:35:05 |
 | 86  | [暗影風暴#330249](https://kr.diablo3.com/profile/暗影風暴-330249/)                   |      8922      | 11.67 Quadrillion |     DH      | 2024-03-27 23:56:17 |
 | 87  | [Binary#31747](https://kr.diablo3.com/profile/Binary-31747/)                 |      8905      | 11.6 Quadrillion  |     DH      | 2024-04-06 21:50:58 |
 | 88  | [Rablade#3878](https://kr.diablo3.com/profile/Rablade-3878/)                 |      8892      | 11.55 Quadrillion |     DH      | 2024-04-08 18:40:37 |
@@ -202,4 +202,5 @@ Table created at 2024-04-08 20:53:08.731899
 | 195 | [跳跳精靈#31473](https://kr.diablo3.com/profile/跳跳精靈-31473/)                     |      7897      | 8.02 Quadrillion  |     DH      | 2024-04-06 14:53:24 |
 | 196 | [TellMe#31400](https://kr.diablo3.com/profile/TellMe-31400/)                 |      7885      | 7.98 Quadrillion  |     DH      | 2024-04-07 17:03:00 |
 | 197 | [Gee#31966](https://kr.diablo3.com/profile/Gee-31966/)                       |      7880      | 7.97 Quadrillion  |     DH      | 2024-04-07 00:31:08 |
-| 198 | [小賊貓珍#3944](https://kr.diablo3.com/profile/小賊貓珍-3944/)                       |      1418      | 40.99 Trillion    |  Crusader   | 2024-04-04 08:49:58 |
+| 198 | [도담#31465](https://kr.diablo3.com/profile/도담-31465/)                         |       60       | 2.98 Billion      |  Crusader   | 2024-04-08 13:41:32 |
+| 199 | [hello#16817](https://kr.diablo3.com/profile/hello-16817/)                   |       0        | 0                 |     DH      | 2024-04-07 11:33:51 |
