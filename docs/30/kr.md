@@ -1,7 +1,7 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-04-10 02:52:49.335586
+Table created at 2024-04-10 03:47:36.659590
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -122,7 +122,7 @@ Table created at 2024-04-10 02:52:49.335586
 | 115 | [베놈#31403](https://kr.diablo3.com/profile/베놈-31403/)                         |      8506      | 10.08 Quadrillion |     DH      | 2024-04-09 15:02:32 |
 | 116 | [citi#11377](https://kr.diablo3.com/profile/citi-11377/)                     |      8502      | 10.06 Quadrillion |     DH      | 2024-04-04 14:39:30 |
 | 117 | [ENFJ#3423](https://kr.diablo3.com/profile/ENFJ-3423/)                       |      8491      | 10.02 Quadrillion |     DH      | 2024-03-29 10:12:08 |
-| 118 | [고스트#3403](https://kr.diablo3.com/profile/고스트-3403/)                         |      8480      | 9.98 Quadrillion  |     DH      | 2024-04-08 01:50:36 |
+| 118 | [고스트#3403](https://kr.diablo3.com/profile/고스트-3403/)                         |      8480      | 9.98 Quadrillion  |     DH      | 2024-04-10 03:22:58 |
 | 119 | [xingtu#3791](https://kr.diablo3.com/profile/xingtu-3791/)                   |      8475      | 9.97 Quadrillion  |     DH      | 2024-04-01 06:51:54 |
 | 120 | [Kurisu#11908](https://kr.diablo3.com/profile/Kurisu-11908/)                 |      8451      | 9.88 Quadrillion  |     DH      | 2024-04-07 10:08:49 |
 | 121 | [DeviL#36432](https://kr.diablo3.com/profile/DeviL-36432/)                   |      8444      | 9.85 Quadrillion  |     DH      | 2024-03-29 10:12:19 |
@@ -202,4 +202,5 @@ Table created at 2024-04-10 02:52:49.335586
 | 195 | [跳跳精靈#31473](https://kr.diablo3.com/profile/跳跳精靈-31473/)                     |      7897      | 8.02 Quadrillion  |     DH      | 2024-04-06 14:53:24 |
 | 196 | [TellMe#31400](https://kr.diablo3.com/profile/TellMe-31400/)                 |      7885      | 7.98 Quadrillion  |     DH      | 2024-04-07 17:03:00 |
 | 197 | [Gee#31966](https://kr.diablo3.com/profile/Gee-31966/)                       |      7880      | 7.97 Quadrillion  |     DH      | 2024-04-07 00:31:08 |
-| 198 | [小賊貓珍#3944](https://kr.diablo3.com/profile/小賊貓珍-3944/)                       |      1418      | 40.99 Trillion    |  Crusader   | 2024-04-10 02:03:36 |
+| 198 | [도담#31465](https://kr.diablo3.com/profile/도담-31465/)                         |       60       | 2.98 Billion      |  Crusader   | 2024-04-09 09:14:00 |
+| 199 | [hello#16817](https://kr.diablo3.com/profile/hello-16817/)                   |       0        | 0                 |     DH      | 2024-04-07 11:33:51 |
