@@ -1,7 +1,7 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-04-11 05:36:42.303785
+Table created at 2024-04-11 06:42:24.128480
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -129,7 +129,7 @@ Table created at 2024-04-11 05:36:42.303785
 | 122 | [自由的綠色野獸#33773](https://kr.diablo3.com/profile/自由的綠色野獸-33773/)               |      8413      | 9.74 Quadrillion  |     DH      | 2024-04-07 00:31:05 |
 | 123 | [MightyOwl#3591](https://kr.diablo3.com/profile/MightyOwl-3591/)             |      8404      | 9.71 Quadrillion  |     DH      | 2024-04-04 13:08:38 |
 | 124 | [巴拉杜#3987](https://kr.diablo3.com/profile/巴拉杜-3987/)                         |      8403      | 9.71 Quadrillion  |     DH      | 2024-04-07 00:31:45 |
-| 125 | [ChaHong#3863](https://kr.diablo3.com/profile/ChaHong-3863/)                 |      8381      | 9.63 Quadrillion  |     DH      | 2024-04-06 14:30:25 |
+| 125 | [ChaHong#3863](https://kr.diablo3.com/profile/ChaHong-3863/)                 |      8381      | 9.63 Quadrillion  |     DH      | 2024-04-11 06:24:12 |
 | 126 | [힘이없어영#3539](https://kr.diablo3.com/profile/힘이없어영-3539/)                     |      8380      | 9.63 Quadrillion  |     DH      | 2024-04-07 00:31:07 |
 | 127 | [인생은한방#31839](https://kr.diablo3.com/profile/인생은한방-31839/)                   |      8367      | 9.58 Quadrillion  |     DH      | 2024-04-06 13:41:54 |
 | 128 | [戰鬥全靠臉#3619](https://kr.diablo3.com/profile/戰鬥全靠臉-3619/)                     |      8365      | 9.57 Quadrillion  |     DH      | 2024-04-06 13:46:11 |
@@ -158,7 +158,7 @@ Table created at 2024-04-11 05:36:42.303785
 | 151 | [kokomijj#1149](https://kr.diablo3.com/profile/kokomijj-1149/)               |      8201      | 9.01 Quadrillion  |     DH      | 2024-03-18 12:16:27 |
 | 152 | [HonGDon#3582](https://kr.diablo3.com/profile/HonGDon-3582/)                 |      8201      | 9.01 Quadrillion  |     DH      | 2024-04-07 00:31:07 |
 | 153 | [捍卫爱谁谁#3718](https://kr.diablo3.com/profile/捍卫爱谁谁-3718/)                     |      8195      | 8.99 Quadrillion  |     DH      | 2024-04-09 14:50:28 |
-| 154 | [Lugor#31708](https://kr.diablo3.com/profile/Lugor-31708/)                   |      8189      | 8.97 Quadrillion  |     DH      | 2024-04-10 13:50:09 |
+| 154 | [Lugor#31708](https://kr.diablo3.com/profile/Lugor-31708/)                   |      8189      | 8.97 Quadrillion  |     DH      | 2024-04-11 06:30:11 |
 | 155 | [放飞自我#31869](https://kr.diablo3.com/profile/放飞自我-31869/)                     |      8171      | 8.91 Quadrillion  |     DH      | 2024-04-10 14:23:13 |
 | 156 | [Harlekin#21161](https://kr.diablo3.com/profile/Harlekin-21161/)             |      8163      | 8.88 Quadrillion  |     DH      | 2024-04-05 11:42:15 |
 | 157 | [likebear#31872](https://kr.diablo3.com/profile/likebear-31872/)             |      8162      | 8.88 Quadrillion  |     DH      | 2024-04-04 15:23:27 |
