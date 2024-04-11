@@ -1,7 +1,7 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-04-11 02:45:25.354632
+Table created at 2024-04-11 03:37:56.775739
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -52,7 +52,7 @@ Table created at 2024-04-11 02:45:25.354632
 | 45  | [Hynn#31847](https://kr.diablo3.com/profile/Hynn-31847/)                     |      9512      | 14.19 Quadrillion |  Crusader   | 2024-04-10 14:09:58 |
 | 46  | [暴躁束褲#315783](https://kr.diablo3.com/profile/暴躁束褲-315783/)                   |      9500      | 14.13 Quadrillion |     DH      | 2024-04-08 04:56:53 |
 | 47  | [악동#32964](https://kr.diablo3.com/profile/악동-32964/)                         |      9446      | 13.89 Quadrillion |     DH      | 2024-04-04 11:40:29 |
-| 48  | [bawang#31866](https://kr.diablo3.com/profile/bawang-31866/)                 |      9444      | 13.88 Quadrillion |     DH      | 2024-04-11 02:21:50 |
+| 48  | [bawang#31866](https://kr.diablo3.com/profile/bawang-31866/)                 |      9444      | 13.88 Quadrillion |     DH      | 2024-04-11 03:19:14 |
 | 49  | [九州散人#31593](https://kr.diablo3.com/profile/九州散人-31593/)                     |      9434      | 13.84 Quadrillion |     DH      | 2024-04-07 15:27:18 |
 | 50  | [低调的华丽#31640](https://kr.diablo3.com/profile/低调的华丽-31640/)                   |      9430      | 13.82 Quadrillion |     DH      | 2024-04-04 14:35:18 |
 | 51  | [SomeTime#11206](https://kr.diablo3.com/profile/SomeTime-11206/)             |      9414      | 13.75 Quadrillion |     DH      | 2024-04-06 23:27:08 |
@@ -139,7 +139,7 @@ Table created at 2024-04-11 02:45:25.354632
 | 132 | [DiaFCM#3783](https://kr.diablo3.com/profile/DiaFCM-3783/)                   |      8344      | 9.5 Quadrillion   |   Wizard    | 2024-04-06 07:51:23 |
 | 133 | [막강한엘프#315663](https://kr.diablo3.com/profile/막강한엘프-315663/)                 |      8339      | 9.48 Quadrillion  |     DH      | 2024-04-06 10:28:07 |
 | 134 | [ICE#34408](https://kr.diablo3.com/profile/ICE-34408/)                       |      8337      | 9.48 Quadrillion  |     DH      | 2024-04-06 17:19:20 |
-| 135 | [艾沙文#3171](https://kr.diablo3.com/profile/艾沙文-3171/)                         |      8335      | 9.47 Quadrillion  |     DH      | 2024-04-11 02:41:04 |
+| 135 | [艾沙文#3171](https://kr.diablo3.com/profile/艾沙文-3171/)                         |      8335      | 9.47 Quadrillion  |     DH      | 2024-04-11 02:45:55 |
 | 136 | [VINKE#3529](https://kr.diablo3.com/profile/VINKE-3529/)                     |      8319      | 9.41 Quadrillion  |     DH      | 2024-03-25 16:55:07 |
 | 137 | [천마산#31903](https://kr.diablo3.com/profile/천마산-31903/)                       |      8313      | 9.39 Quadrillion  |     DH      | 2024-04-07 00:31:08 |
 | 138 | [Chahong#1369](https://kr.diablo3.com/profile/Chahong-1369/)                 |      8311      | 9.39 Quadrillion  |     DH      | 2024-04-06 17:02:18 |

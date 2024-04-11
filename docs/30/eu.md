@@ -1,7 +1,7 @@
 # Season 30 (EU)
 
 ---
-Table created at 2024-04-11 02:45:25.350053
+Table created at 2024-04-11 03:37:56.771082
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -50,7 +50,7 @@ Table created at 2024-04-11 02:45:25.350053
 | 43  | [Latikaa#2521](https://eu.diablo3.com/profile/Latikaa-2521/)             |      8954      | 11.79 Quadrillion |     DH      | 2024-03-02 16:35:08 |
 | 44  | [Jiraya#21922](https://eu.diablo3.com/profile/Jiraya-21922/)             |      8907      | 11.61 Quadrillion |  Crusader   | 2024-04-09 16:47:27 |
 | 45  | [leha#21843](https://eu.diablo3.com/profile/leha-21843/)                 |      8870      | 11.46 Quadrillion |  Crusader   | 2024-04-10 13:04:36 |
-| 46  | [Blingshy#2740](https://eu.diablo3.com/profile/Blingshy-2740/)           |      8842      | 11.35 Quadrillion |  Barbarian  | 2024-04-10 19:06:09 |
+| 46  | [Blingshy#2740](https://eu.diablo3.com/profile/Blingshy-2740/)           |      8842      | 11.35 Quadrillion |  Barbarian  | 2024-04-11 02:53:44 |
 | 47  | [ChrisGrandPa#2915](https://eu.diablo3.com/profile/ChrisGrandPa-2915/)   |      8797      | 11.17 Quadrillion |  Crusader   | 2024-04-10 18:45:14 |
 | 48  | [Kolibri1488#1846](https://eu.diablo3.com/profile/Kolibri1488-1846/)     |      8720      | 10.88 Quadrillion |     DH      | 2024-04-07 00:31:39 |
 | 49  | [NotLegit404#2212](https://eu.diablo3.com/profile/NotLegit404-2212/)     |      8638      | 10.56 Quadrillion |     DH      | 2024-04-07 21:01:41 |
@@ -150,7 +150,7 @@ Table created at 2024-04-11 02:45:25.350053
 | 143 | [Django#24669](https://eu.diablo3.com/profile/Django-24669/)             |      7021      | 5.58 Quadrillion  |    Necro    | 2024-03-20 20:03:49 |
 | 144 | [DerVerwalter#2522](https://eu.diablo3.com/profile/DerVerwalter-2522/)   |      7017      | 5.57 Quadrillion  |  Crusader   | 2024-02-16 18:45:12 |
 | 145 | [Seifer6560#2111](https://eu.diablo3.com/profile/Seifer6560-2111/)       |      7014      | 5.57 Quadrillion  |     DH      | 2024-03-23 22:15:08 |
-| 146 | [KORRADY1971#2303](https://eu.diablo3.com/profile/KORRADY1971-2303/)     |      7012      | 5.56 Quadrillion  |     DH      | 2024-04-11 01:29:26 |
+| 146 | [KORRADY1971#2303](https://eu.diablo3.com/profile/KORRADY1971-2303/)     |      7012      | 5.56 Quadrillion  |     DH      | 2024-04-11 02:49:01 |
 | 147 | [tixou#1390](https://eu.diablo3.com/profile/tixou-1390/)                 |      7010      | 5.56 Quadrillion  |  Crusader   | 2024-03-19 22:34:43 |
 | 148 | [Boerke#2748](https://eu.diablo3.com/profile/Boerke-2748/)               |      7009      | 5.55 Quadrillion  |  Crusader   | 2024-04-10 18:54:49 |
 | 149 | [Archenemy#21838](https://eu.diablo3.com/profile/Archenemy-21838/)       |      7005      | 5.54 Quadrillion  |     DH      | 2024-04-09 16:44:38 |
