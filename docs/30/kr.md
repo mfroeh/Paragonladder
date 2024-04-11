@@ -1,7 +1,7 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-04-11 16:40:02.720985
+Table created at 2024-04-11 17:36:27.801154
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -159,7 +159,7 @@ Table created at 2024-04-11 16:40:02.720985
 | 152 | [HonGDon#3582](https://kr.diablo3.com/profile/HonGDon-3582/)                 |      8201      | 9.01 Quadrillion  |     DH      | 2024-04-07 00:31:07 |
 | 153 | [捍卫爱谁谁#3718](https://kr.diablo3.com/profile/捍卫爱谁谁-3718/)                     |      8195      | 8.99 Quadrillion  |     DH      | 2024-04-09 14:50:28 |
 | 154 | [Lugor#31708](https://kr.diablo3.com/profile/Lugor-31708/)                   |      8189      | 8.97 Quadrillion  |     DH      | 2024-04-11 16:10:32 |
-| 155 | [放飞自我#31869](https://kr.diablo3.com/profile/放飞自我-31869/)                     |      8171      | 8.91 Quadrillion  |     DH      | 2024-04-11 14:52:17 |
+| 155 | [放飞自我#31869](https://kr.diablo3.com/profile/放飞自我-31869/)                     |      8171      | 8.91 Quadrillion  |     DH      | 2024-04-11 17:28:07 |
 | 156 | [Harlekin#21161](https://kr.diablo3.com/profile/Harlekin-21161/)             |      8163      | 8.88 Quadrillion  |     DH      | 2024-04-05 11:42:15 |
 | 157 | [likebear#31872](https://kr.diablo3.com/profile/likebear-31872/)             |      8162      | 8.88 Quadrillion  |     DH      | 2024-04-11 15:20:57 |
 | 158 | [機器狼人#321538](https://kr.diablo3.com/profile/機器狼人-321538/)                   |      8160      | 8.87 Quadrillion  |     DH      | 2024-03-31 01:19:16 |
@@ -183,7 +183,7 @@ Table created at 2024-04-11 16:40:02.720985
 | 176 | [武神乱杀#3512](https://kr.diablo3.com/profile/武神乱杀-3512/)                       |      8052      | 8.52 Quadrillion  |     DH      | 2024-04-03 05:29:13 |
 | 177 | [쿠우#31134](https://kr.diablo3.com/profile/쿠우-31134/)                         |      8051      | 8.51 Quadrillion  |     DH      | 2024-04-06 13:31:15 |
 | 178 | [Echo#32758](https://kr.diablo3.com/profile/Echo-32758/)                     |      8045      | 8.49 Quadrillion  |     DH      | 2024-04-04 11:26:43 |
-| 179 | [Sasin#31879](https://kr.diablo3.com/profile/Sasin-31879/)                   |      8036      | 8.46 Quadrillion  |  Crusader   | 2024-04-11 16:33:38 |
+| 179 | [Sasin#31879](https://kr.diablo3.com/profile/Sasin-31879/)                   |      8036      | 8.46 Quadrillion  |  Crusader   | 2024-04-11 17:31:33 |
 | 180 | [琉璃墨色#3222](https://kr.diablo3.com/profile/琉璃墨色-3222/)                       |      8034      | 8.46 Quadrillion  |     DH      | 2024-04-09 02:27:53 |
 | 181 | [库库尔坎#31136](https://kr.diablo3.com/profile/库库尔坎-31136/)                     |      8034      | 8.46 Quadrillion  |     DH      | 2024-04-06 16:20:30 |
 | 182 | [善恶之源#3952](https://kr.diablo3.com/profile/善恶之源-3952/)                       |      8025      | 8.43 Quadrillion  |     DH      | 2024-04-11 14:17:54 |
