@@ -1,7 +1,7 @@
 # Season 30 (KR)
 
 ---
-Table created at 2024-04-10 23:37:49.078347
+Table created at 2024-04-11 01:34:21.662554
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -23,7 +23,7 @@ Table created at 2024-04-10 23:37:49.078347
 | 16  | [JianLai#3844](https://kr.diablo3.com/profile/JianLai-3844/)                 |     10228      | 17.71 Quadrillion |     DH      | 2024-04-05 09:32:14 |
 | 17  | [gogo#12426](https://kr.diablo3.com/profile/gogo-12426/)                     |     10176      | 17.43 Quadrillion |     DH      | 2024-04-06 18:16:37 |
 | 18  | [GOMYAMMI#3364](https://kr.diablo3.com/profile/GOMYAMMI-3364/)               |     10097      | 17.02 Quadrillion |     DH      | 2024-04-07 08:00:00 |
-| 19  | [清楓吹乱了年华#3665](https://kr.diablo3.com/profile/清楓吹乱了年华-3665/)                 |     10090      | 16.99 Quadrillion |     DH      | 2024-04-10 08:59:22 |
+| 19  | [清楓吹乱了年华#3665](https://kr.diablo3.com/profile/清楓吹乱了年华-3665/)                 |     10090      | 16.99 Quadrillion |     DH      | 2024-04-11 00:18:43 |
 | 20  | [Avalon#31283](https://kr.diablo3.com/profile/Avalon-31283/)                 |     10049      | 16.78 Quadrillion |     DH      | 2024-04-06 21:28:49 |
 | 21  | [Jinx#3180](https://kr.diablo3.com/profile/Jinx-3180/)                       |     10029      | 16.68 Quadrillion |  Barbarian  | 2024-04-07 00:31:27 |
 | 22  | [Alba4#3785](https://kr.diablo3.com/profile/Alba4-3785/)                     |     10008      | 16.57 Quadrillion |     DH      | 2024-04-07 05:48:01 |
@@ -38,7 +38,7 @@ Table created at 2024-04-10 23:37:49.078347
 | 31  | [일장춘몽#31969](https://kr.diablo3.com/profile/일장춘몽-31969/)                     |      9800      | 15.54 Quadrillion |     DH      | 2024-04-07 00:31:21 |
 | 32  | [圣达菲#31287](https://kr.diablo3.com/profile/圣达菲-31287/)                       |      9731      | 15.21 Quadrillion |     DH      | 2024-04-07 04:30:08 |
 | 33  | [青海陈冠西#3361](https://kr.diablo3.com/profile/青海陈冠西-3361/)                     |      9727      | 15.19 Quadrillion |     DH      | 2024-04-05 13:43:11 |
-| 34  | [MIKA#32932](https://kr.diablo3.com/profile/MIKA-32932/)                     |      9722      | 15.17 Quadrillion |     DH      | 2024-04-10 19:18:42 |
+| 34  | [MIKA#32932](https://kr.diablo3.com/profile/MIKA-32932/)                     |      9722      | 15.17 Quadrillion |     DH      | 2024-04-11 01:27:59 |
 | 35  | [KoreanBangzi#31935](https://kr.diablo3.com/profile/KoreanBangzi-31935/)     |      9669      | 14.92 Quadrillion |     DH      | 2024-04-04 17:17:53 |
 | 36  | [liutaxue#1302](https://kr.diablo3.com/profile/liutaxue-1302/)               |      9648      | 14.82 Quadrillion |     DH      | 2024-04-07 00:31:30 |
 | 37  | [CNI1#31760](https://kr.diablo3.com/profile/CNI1-31760/)                     |      9641      | 14.79 Quadrillion |     DH      | 2024-04-07 00:31:53 |
@@ -52,7 +52,7 @@ Table created at 2024-04-10 23:37:49.078347
 | 45  | [Hynn#31847](https://kr.diablo3.com/profile/Hynn-31847/)                     |      9512      | 14.19 Quadrillion |  Crusader   | 2024-04-10 14:09:58 |
 | 46  | [暴躁束褲#315783](https://kr.diablo3.com/profile/暴躁束褲-315783/)                   |      9500      | 14.13 Quadrillion |     DH      | 2024-04-08 04:56:53 |
 | 47  | [악동#32964](https://kr.diablo3.com/profile/악동-32964/)                         |      9446      | 13.89 Quadrillion |     DH      | 2024-04-04 11:40:29 |
-| 48  | [bawang#31866](https://kr.diablo3.com/profile/bawang-31866/)                 |      9444      | 13.88 Quadrillion |     DH      | 2024-04-10 10:19:02 |
+| 48  | [bawang#31866](https://kr.diablo3.com/profile/bawang-31866/)                 |      9444      | 13.88 Quadrillion |     DH      | 2024-04-11 01:24:40 |
 | 49  | [九州散人#31593](https://kr.diablo3.com/profile/九州散人-31593/)                     |      9434      | 13.84 Quadrillion |     DH      | 2024-04-07 15:27:18 |
 | 50  | [低调的华丽#31640](https://kr.diablo3.com/profile/低调的华丽-31640/)                   |      9430      | 13.82 Quadrillion |     DH      | 2024-04-04 14:35:18 |
 | 51  | [SomeTime#11206](https://kr.diablo3.com/profile/SomeTime-11206/)             |      9414      | 13.75 Quadrillion |     DH      | 2024-04-06 23:27:08 |
