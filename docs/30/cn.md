@@ -1,7 +1,7 @@
 # Season 30 (CN)
 
 ---
-Table created at 2024-04-19 19:40:02.505115
+Table created at 2024-04-19 20:42:57.332040
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
