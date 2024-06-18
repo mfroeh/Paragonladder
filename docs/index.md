@@ -7,6 +7,18 @@
 * [EU](24/eu.md)
 * [US](24/us.md)
 * [KR](24/kr.md)
+# Season 26 
+* [ALL](26/all.md)
+* [CN](26/cn.md)
+* [EU](26/eu.md)
+* [US](26/us.md)
+* [KR](26/kr.md)
+# Season 31 
+* [ALL](31/all.md)
+* [CN](31/cn.md)
+* [EU](31/eu.md)
+* [US](31/us.md)
+* [KR](31/kr.md)
 # Season 28 
 * [ALL](28/all.md)
 * [CN](28/cn.md)
@@ -19,6 +31,12 @@
 * [EU](30/eu.md)
 * [US](30/us.md)
 * [KR](30/kr.md)
+# Season 27 
+* [ALL](27/all.md)
+* [CN](27/cn.md)
+* [EU](27/eu.md)
+* [US](27/us.md)
+* [KR](27/kr.md)
 # Season 29 
 * [ALL](29/all.md)
 * [CN](29/cn.md)
@@ -31,23 +49,5 @@
 * [EU](25/eu.md)
 * [US](25/us.md)
 * [KR](25/kr.md)
-# Season 27 
-* [ALL](27/all.md)
-* [CN](27/cn.md)
-* [EU](27/eu.md)
-* [US](27/us.md)
-* [KR](27/kr.md)
-# Season 31 
-* [ALL](31/all.md)
-* [CN](31/cn.md)
-* [EU](31/eu.md)
-* [US](31/us.md)
-* [KR](31/kr.md)
-# Season 26 
-* [ALL](26/all.md)
-* [CN](26/cn.md)
-* [EU](26/eu.md)
-* [US](26/us.md)
-* [KR](26/kr.md)
 
 
