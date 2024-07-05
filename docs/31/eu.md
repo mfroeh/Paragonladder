@@ -1,26 +1,26 @@
 # Season 31 (EU)
 
 ---
-Table created at 2024-07-04 23:37:45.211868
+Table created at 2024-07-05 01:42:23.607809
 
 |  #  |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   | [Timpas#21834](https://eu.diablo3.com/profile/Timpas-21834/)             |     11646      | 26.29 Quadrillion |    Necro    | 2024-07-04 23:21:02 |
+| 1   | [Timpas#21834](https://eu.diablo3.com/profile/Timpas-21834/)             |     11647      | 26.3 Quadrillion  |    Necro    | 2024-07-05 01:26:04 |
 | 2   | [GåldGåldGåld#2426](https://eu.diablo3.com/profile/GåldGåldGåld-2426/)   |     11600      | 25.98 Quadrillion |    Necro    | 2024-07-04 17:47:43 |
 | 3   | [Dlender#21208](https://eu.diablo3.com/profile/Dlender-21208/)           |     11436      | 24.88 Quadrillion |    Necro    | 2024-07-04 21:33:39 |
 | 4   | [MartekosXD#2700](https://eu.diablo3.com/profile/MartekosXD-2700/)       |     11245      | 23.63 Quadrillion |    Necro    | 2024-07-04 22:35:47 |
 | 5   | [Fullvuxen#2268](https://eu.diablo3.com/profile/Fullvuxen-2268/)         |     11139      | 22.96 Quadrillion |    Necro    | 2024-07-03 20:11:52 |
 | 6   | [tobbZ#2450](https://eu.diablo3.com/profile/tobbZ-2450/)                 |     10420      | 18.74 Quadrillion |    Necro    | 2024-07-04 23:14:08 |
-| 7   | [P0RN0GRAPHY#2668](https://eu.diablo3.com/profile/P0RN0GRAPHY-2668/)     |     10294      | 18.06 Quadrillion |    Necro    | 2024-07-04 23:22:04 |
-| 8   | [space#24532](https://eu.diablo3.com/profile/space-24532/)               |     10289      | 18.03 Quadrillion |    Necro    | 2024-07-04 23:22:13 |
-| 9   | [botulinum#21905](https://eu.diablo3.com/profile/botulinum-21905/)       |     10176      | 17.43 Quadrillion |    Necro    | 2024-07-04 23:22:19 |
+| 7   | [P0RN0GRAPHY#2668](https://eu.diablo3.com/profile/P0RN0GRAPHY-2668/)     |     10294      | 18.06 Quadrillion |    Necro    | 2024-07-05 01:27:19 |
+| 8   | [space#24532](https://eu.diablo3.com/profile/space-24532/)               |     10289      | 18.03 Quadrillion |    Necro    | 2024-07-05 01:25:59 |
+| 9   | [botulinum#21905](https://eu.diablo3.com/profile/botulinum-21905/)       |     10176      | 17.43 Quadrillion |    Necro    | 2024-07-05 01:25:23 |
 | 10  | [NiCO#210171](https://eu.diablo3.com/profile/NiCO-210171/)               |     10046      | 16.76 Quadrillion |    Necro    | 2024-07-02 20:31:29 |
-| 11  | [Thepocket#21925](https://eu.diablo3.com/profile/Thepocket-21925/)       |     10039      | 16.73 Quadrillion |  Barbarian  | 2024-07-04 23:19:43 |
+| 11  | [Thepocket#21925](https://eu.diablo3.com/profile/Thepocket-21925/)       |     10039      | 16.73 Quadrillion |  Barbarian  | 2024-07-05 01:25:57 |
 | 12  | [LETSGO#21635](https://eu.diablo3.com/profile/LETSGO-21635/)             |     10022      | 16.64 Quadrillion |    Necro    | 2024-07-02 20:59:14 |
 | 13  | [thunzor#2597](https://eu.diablo3.com/profile/thunzor-2597/)             |     10004      | 16.55 Quadrillion |    Necro    | 2024-07-04 14:50:25 |
 | 14  | [Venø#2279](https://eu.diablo3.com/profile/Venø-2279/)                   |     10001      | 16.54 Quadrillion |    Necro    | 2024-07-04 23:19:48 |
-| 15  | [Marv#22230](https://eu.diablo3.com/profile/Marv-22230/)                 |      9676      | 14.95 Quadrillion |    Necro    | 2024-07-04 23:21:50 |
-| 16  | [tixou#1390](https://eu.diablo3.com/profile/tixou-1390/)                 |      9442      | 13.87 Quadrillion |    Necro    | 2024-07-04 23:01:49 |
+| 15  | [Marv#22230](https://eu.diablo3.com/profile/Marv-22230/)                 |      9676      | 14.95 Quadrillion |    Necro    | 2024-07-04 23:45:40 |
+| 16  | [tixou#1390](https://eu.diablo3.com/profile/tixou-1390/)                 |      9442      | 13.87 Quadrillion |    Necro    | 2024-07-04 23:48:34 |
 | 17  | [Ira#21832](https://eu.diablo3.com/profile/Ira-21832/)                   |      9434      | 13.84 Quadrillion |    Necro    | 2024-06-30 13:05:38 |
 | 18  | [BoneHeadNL#21402](https://eu.diablo3.com/profile/BoneHeadNL-21402/)     |      9308      | 13.28 Quadrillion |    Necro    | 2024-07-04 18:25:58 |
 | 19  | [hakunamatata#2231](https://eu.diablo3.com/profile/hakunamatata-2231/)   |      9245      | 13.01 Quadrillion |    Necro    | 2024-07-03 12:19:35 |
@@ -38,9 +38,9 @@ Table created at 2024-07-04 23:37:45.211868
 | 31  | [zeroidea#1623](https://eu.diablo3.com/profile/zeroidea-1623/)           |      8555      | 10.26 Quadrillion |    Necro    | 2024-06-21 20:22:49 |
 | 32  | [sea#41732](https://eu.diablo3.com/profile/sea-41732/)                   |      8547      | 10.23 Quadrillion |    Necro    | 2024-06-10 17:24:03 |
 | 33  | [Gazelle21#2417](https://eu.diablo3.com/profile/Gazelle21-2417/)         |      8477      | 9.97 Quadrillion  |    Necro    | 2024-07-04 19:40:59 |
-| 34  | [Devilblues#2811](https://eu.diablo3.com/profile/Devilblues-2811/)       |      8464      | 9.93 Quadrillion  |    Necro    | 2024-07-04 22:31:30 |
-| 35  | [MutenRoshi#21744](https://eu.diablo3.com/profile/MutenRoshi-21744/)     |      8413      | 9.74 Quadrillion  |    Necro    | 2024-07-04 20:16:21 |
-| 36  | [Yevgar#2138](https://eu.diablo3.com/profile/Yevgar-2138/)               |      8372      | 9.6 Quadrillion   |    Necro    | 2024-07-04 22:57:31 |
+| 34  | [Devilblues#2811](https://eu.diablo3.com/profile/Devilblues-2811/)       |      8470      | 9.95 Quadrillion  |    Necro    | 2024-07-04 23:33:56 |
+| 35  | [MutenRoshi#21744](https://eu.diablo3.com/profile/MutenRoshi-21744/)     |      8429      | 9.8 Quadrillion   |    Necro    | 2024-07-04 23:34:12 |
+| 36  | [Yevgar#2138](https://eu.diablo3.com/profile/Yevgar-2138/)               |      8372      | 9.6 Quadrillion   |    Necro    | 2024-07-04 23:44:18 |
 | 37  | [Unalkaan#21982](https://eu.diablo3.com/profile/Unalkaan-21982/)         |      8282      | 9.29 Quadrillion  |    Necro    | 2024-06-12 21:26:04 |
 | 38  | [Alexbror#21181](https://eu.diablo3.com/profile/Alexbror-21181/)         |      8243      | 9.15 Quadrillion  |    Necro    | 2024-07-04 19:31:31 |
 | 39  | [sbnvl#2815](https://eu.diablo3.com/profile/sbnvl-2815/)                 |      8225      | 9.09 Quadrillion  |   Wizard    | 2024-07-04 19:57:29 |
@@ -53,7 +53,7 @@ Table created at 2024-07-04 23:37:45.211868
 | 46  | [Nezuko#22921](https://eu.diablo3.com/profile/Nezuko-22921/)             |      7888      | 7.99 Quadrillion  |    Necro    | 2024-06-05 01:02:12 |
 | 47  | [Blueberry#22338](https://eu.diablo3.com/profile/Blueberry-22338/)       |      7839      | 7.84 Quadrillion  |    Necro    | 2024-07-03 21:44:19 |
 | 48  | [SweetchucK#21893](https://eu.diablo3.com/profile/SweetchucK-21893/)     |      7814      | 7.77 Quadrillion  |    Necro    | 2024-07-04 00:12:56 |
-| 49  | [Insotzius#2660](https://eu.diablo3.com/profile/Insotzius-2660/)         |      7781      | 7.67 Quadrillion  |     DH      | 2024-07-04 23:21:48 |
+| 49  | [Insotzius#2660](https://eu.diablo3.com/profile/Insotzius-2660/)         |      7781      | 7.67 Quadrillion  |     DH      | 2024-07-04 23:53:09 |
 | 50  | [Taras#22726](https://eu.diablo3.com/profile/Taras-22726/)               |      7777      | 7.65 Quadrillion  |    Necro    | 2024-06-29 17:53:56 |
 | 51  | [Sanctii#21486](https://eu.diablo3.com/profile/Sanctii-21486/)           |      7611      | 7.16 Quadrillion  |    Necro    | 2024-07-02 21:44:04 |
 | 52  | [Avattloper#2232](https://eu.diablo3.com/profile/Avattloper-2232/)       |      7604      | 7.14 Quadrillion  |    Necro    | 2024-06-18 19:50:01 |
@@ -74,27 +74,27 @@ Table created at 2024-07-04 23:37:45.211868
 | 67  | [SoToS#2911](https://eu.diablo3.com/profile/SoToS-2911/)                 |      7139      | 5.88 Quadrillion  |    Necro    | 2024-07-03 12:41:35 |
 | 68  | [Nutrion#2663](https://eu.diablo3.com/profile/Nutrion-2663/)             |      7082      | 5.73 Quadrillion  |    Necro    | 2024-06-09 10:01:00 |
 | 69  | [PersniReurti#2658](https://eu.diablo3.com/profile/PersniReurti-2658/)   |      7080      | 5.73 Quadrillion  |    Necro    | 2024-06-29 22:19:50 |
-| 70  | [SuiRaM#21442](https://eu.diablo3.com/profile/SuiRaM-21442/)             |      7068      | 5.7 Quadrillion   |    Necro    | 2024-07-03 18:28:06 |
-| 71  | [Mati134#2275](https://eu.diablo3.com/profile/Mati134-2275/)             |      7068      | 5.7 Quadrillion   |    Necro    | 2024-07-04 21:43:07 |
-| 72  | [FiNaLsTrIkI#2292](https://eu.diablo3.com/profile/FiNaLsTrIkI-2292/)     |      7063      | 5.69 Quadrillion  |    Necro    | 2024-07-04 22:54:54 |
+| 70  | [FiNaLsTrIkI#2292](https://eu.diablo3.com/profile/FiNaLsTrIkI-2292/)     |      7072      | 5.71 Quadrillion  |    Necro    | 2024-07-05 00:57:20 |
+| 71  | [SuiRaM#21442](https://eu.diablo3.com/profile/SuiRaM-21442/)             |      7068      | 5.7 Quadrillion   |    Necro    | 2024-07-03 18:28:06 |
+| 72  | [Mati134#2275](https://eu.diablo3.com/profile/Mati134-2275/)             |      7068      | 5.7 Quadrillion   |    Necro    | 2024-07-04 21:43:07 |
 | 73  | [NoCksHere#2944](https://eu.diablo3.com/profile/NoCksHere-2944/)         |      7050      | 5.65 Quadrillion  |    Necro    | 2024-07-04 22:51:51 |
 | 74  | [Gradus#2645](https://eu.diablo3.com/profile/Gradus-2645/)               |      7017      | 5.57 Quadrillion  |    Necro    | 2024-06-12 21:25:56 |
-| 75  | [Vegeta#22134](https://eu.diablo3.com/profile/Vegeta-22134/)             |      7011      | 5.56 Quadrillion  |    Necro    | 2024-06-19 19:11:38 |
+| 75  | [Vegeta#22134](https://eu.diablo3.com/profile/Vegeta-22134/)             |      7014      | 5.57 Quadrillion  |    Necro    | 2024-07-05 00:30:57 |
 | 76  | [Nasos#21136](https://eu.diablo3.com/profile/Nasos-21136/)               |      7008      | 5.55 Quadrillion  |    Necro    | 2024-06-12 21:26:08 |
 | 77  | [kukla#21136](https://eu.diablo3.com/profile/kukla-21136/)               |      6919      | 5.34 Quadrillion  |    Necro    | 2024-07-04 19:33:40 |
 | 78  | [Blizzneeker#3704](https://eu.diablo3.com/profile/Blizzneeker-3704/)     |      6911      | 5.32 Quadrillion  |    Necro    | 2024-07-04 17:04:41 |
 | 79  | [Xelly#2745](https://eu.diablo3.com/profile/Xelly-2745/)                 |      6908      | 5.31 Quadrillion  |     DH      | 2024-06-26 21:48:47 |
 | 80  | [Obytuary#2191](https://eu.diablo3.com/profile/Obytuary-2191/)           |      6890      | 5.27 Quadrillion  |    Necro    | 2024-07-04 21:34:31 |
 | 81  | [Seva#22195](https://eu.diablo3.com/profile/Seva-22195/)                 |      6862      | 5.2 Quadrillion   |    Necro    | 2024-07-04 09:40:30 |
-| 82  | [Ali#218794](https://eu.diablo3.com/profile/Ali-218794/)                 |      6854      | 5.18 Quadrillion  |  Barbarian  | 2024-07-04 22:41:12 |
+| 82  | [Ali#218794](https://eu.diablo3.com/profile/Ali-218794/)                 |      6854      | 5.18 Quadrillion  |  Barbarian  | 2024-07-05 01:26:42 |
 | 83  | [Alexis#24882](https://eu.diablo3.com/profile/Alexis-24882/)             |      6827      | 5.12 Quadrillion  |    Necro    | 2024-06-20 17:32:04 |
 | 84  | [Darksoul#22941](https://eu.diablo3.com/profile/Darksoul-22941/)         |      6825      | 5.12 Quadrillion  |    Necro    | 2024-06-22 20:36:55 |
 | 85  | [GERA#22496](https://eu.diablo3.com/profile/GERA-22496/)                 |      6824      | 5.11 Quadrillion  |    Necro    | 2024-07-04 21:52:21 |
 | 86  | [Paris2012#2830](https://eu.diablo3.com/profile/Paris2012-2830/)         |      6808      | 5.08 Quadrillion  |    Necro    | 2024-07-04 21:48:13 |
-| 87  | [theprophet#21821](https://eu.diablo3.com/profile/theprophet-21821/)     |      6794      | 5.04 Quadrillion  |    Necro    | 2024-07-04 23:08:28 |
+| 87  | [theprophet#21821](https://eu.diablo3.com/profile/theprophet-21821/)     |      6800      | 5.06 Quadrillion  |    Necro    | 2024-07-05 00:18:48 |
 | 88  | [alfredo#1203](https://eu.diablo3.com/profile/alfredo-1203/)             |      6762      | 4.97 Quadrillion  |    Necro    | 2024-07-03 14:41:13 |
 | 89  | [daaerlix24#2444](https://eu.diablo3.com/profile/daaerlix24-2444/)       |      6760      | 4.97 Quadrillion  |    Necro    | 2024-05-24 15:01:42 |
-| 90  | [Oblikk#2920](https://eu.diablo3.com/profile/Oblikk-2920/)               |      6755      | 4.95 Quadrillion  |     DH      | 2024-07-04 21:28:06 |
+| 90  | [Oblikk#2920](https://eu.diablo3.com/profile/Oblikk-2920/)               |      6756      | 4.96 Quadrillion  |     DH      | 2024-07-05 01:25:59 |
 | 91  | [znarken#21288](https://eu.diablo3.com/profile/znarken-21288/)           |      6727      | 4.89 Quadrillion  |    Necro    | 2024-06-05 22:01:16 |
 | 92  | [GOTHenjoyer#2445](https://eu.diablo3.com/profile/GOTHenjoyer-2445/)     |      6690      | 4.81 Quadrillion  |    Necro    | 2024-07-04 12:26:15 |
 | 93  | [Wolfmaan#21204](https://eu.diablo3.com/profile/Wolfmaan-21204/)         |      6665      | 4.75 Quadrillion  |    Necro    | 2024-07-04 08:04:57 |
@@ -119,7 +119,7 @@ Table created at 2024-07-04 23:37:45.211868
 | 112 | [Troller#12742](https://eu.diablo3.com/profile/Troller-12742/)           |      6549      | 4.5 Quadrillion   |    Necro    | 2024-06-01 21:53:39 |
 | 113 | [Трибунал#21854](https://eu.diablo3.com/profile/Трибунал-21854/)         |      6547      | 4.5 Quadrillion   |    Necro    | 2024-07-03 17:06:26 |
 | 114 | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)               |      6546      | 4.5 Quadrillion   |    Necro    | 2024-06-01 06:35:59 |
-| 115 | [Gimli#22106](https://eu.diablo3.com/profile/Gimli-22106/)               |      6529      | 4.46 Quadrillion  |    Necro    | 2024-07-04 23:21:56 |
+| 115 | [Gimli#22106](https://eu.diablo3.com/profile/Gimli-22106/)               |      6530      | 4.46 Quadrillion  |    Necro    | 2024-07-05 01:27:30 |
 | 116 | [Beaglou#21530](https://eu.diablo3.com/profile/Beaglou-21530/)           |      6520      | 4.44 Quadrillion  |    Necro    | 2024-07-03 18:42:04 |
 | 117 | [Missandei#21949](https://eu.diablo3.com/profile/Missandei-21949/)       |      6499      | 4.4 Quadrillion   |     DH      | 2024-07-04 20:50:36 |
 | 118 | [moZart#22307](https://eu.diablo3.com/profile/moZart-22307/)             |      6492      | 4.38 Quadrillion  |     DH      | 2024-07-04 21:50:31 |
@@ -140,7 +140,7 @@ Table created at 2024-07-04 23:37:45.211868
 | 133 | [grosboisrem#2858](https://eu.diablo3.com/profile/grosboisrem-2858/)     |      6264      | 3.92 Quadrillion  |    Necro    | 2024-06-15 21:56:26 |
 | 134 | [Godly#21730](https://eu.diablo3.com/profile/Godly-21730/)               |      6257      | 3.91 Quadrillion  |    Necro    | 2024-06-12 21:26:03 |
 | 135 | [Zver#22838](https://eu.diablo3.com/profile/Zver-22838/)                 |      6253      | 3.9 Quadrillion   |    Necro    | 2024-07-04 21:51:23 |
-| 136 | [sexyPants#21915](https://eu.diablo3.com/profile/sexyPants-21915/)       |      6247      | 3.89 Quadrillion  |     DH      | 2024-07-04 23:02:07 |
+| 136 | [sexyPants#21915](https://eu.diablo3.com/profile/sexyPants-21915/)       |      6249      | 3.89 Quadrillion  |     DH      | 2024-07-05 01:02:30 |
 | 137 | [Prophecy#1505](https://eu.diablo3.com/profile/Prophecy-1505/)           |      6229      | 3.85 Quadrillion  |    Necro    | 2024-07-03 21:11:15 |
 | 138 | [ingma#21321](https://eu.diablo3.com/profile/ingma-21321/)               |      6228      | 3.85 Quadrillion  |  Barbarian  | 2024-07-04 17:05:36 |
 | 139 | [Boerke#2748](https://eu.diablo3.com/profile/Boerke-2748/)               |      6220      | 3.84 Quadrillion  |  Barbarian  | 2024-07-04 19:41:03 |
@@ -157,12 +157,12 @@ Table created at 2024-07-04 23:37:45.211868
 | 150 | [NatureFolle#221487](https://eu.diablo3.com/profile/NatureFolle-221487/) |      6086      | 3.59 Quadrillion  |    Necro    | 2024-06-11 20:03:03 |
 | 151 | [Pinguin#21536](https://eu.diablo3.com/profile/Pinguin-21536/)           |      6078      | 3.57 Quadrillion  |    Necro    | 2024-07-04 23:16:47 |
 | 152 | [cdr#21603](https://eu.diablo3.com/profile/cdr-21603/)                   |      6047      | 3.51 Quadrillion  |    Necro    | 2024-07-04 19:38:55 |
-| 153 | [eXWhiteGhost#2319](https://eu.diablo3.com/profile/eXWhiteGhost-2319/)   |      6038      | 3.5 Quadrillion   |    Necro    | 2024-07-04 22:21:39 |
-| 154 | [SSOUKOUNYAN#2972](https://eu.diablo3.com/profile/SSOUKOUNYAN-2972/)     |      6038      | 3.5 Quadrillion   |    Necro    | 2024-07-04 22:41:09 |
+| 153 | [SSOUKOUNYAN#2972](https://eu.diablo3.com/profile/SSOUKOUNYAN-2972/)     |      6044      | 3.51 Quadrillion  |    Necro    | 2024-07-04 23:47:13 |
+| 154 | [eXWhiteGhost#2319](https://eu.diablo3.com/profile/eXWhiteGhost-2319/)   |      6038      | 3.5 Quadrillion   |    Necro    | 2024-07-04 22:21:39 |
 | 155 | [Onagagaming#2965](https://eu.diablo3.com/profile/Onagagaming-2965/)     |      6023      | 3.47 Quadrillion  |    Necro    | 2024-06-16 09:08:37 |
 | 156 | [slayer#21545](https://eu.diablo3.com/profile/slayer-21545/)             |      6017      | 3.46 Quadrillion  |     DH      | 2024-07-04 20:51:22 |
 | 157 | [Zhadinho#2630](https://eu.diablo3.com/profile/Zhadinho-2630/)           |      6013      | 3.45 Quadrillion  |    Necro    | 2024-07-03 20:40:13 |
-| 158 | [Uwe#22211](https://eu.diablo3.com/profile/Uwe-22211/)                   |      6005      | 3.44 Quadrillion  |    Necro    | 2024-07-04 20:15:17 |
+| 158 | [Uwe#22211](https://eu.diablo3.com/profile/Uwe-22211/)                   |      6006      | 3.44 Quadrillion  |    Necro    | 2024-07-05 01:22:24 |
 | 159 | [XIIAD#21130](https://eu.diablo3.com/profile/XIIAD-21130/)               |      5992      | 3.42 Quadrillion  |    Necro    | 2024-06-06 23:22:44 |
 | 160 | [Destatie#2803](https://eu.diablo3.com/profile/Destatie-2803/)           |      5989      | 3.41 Quadrillion  |    Necro    | 2024-07-03 17:24:50 |
 | 161 | [Lacee1985#2564](https://eu.diablo3.com/profile/Lacee1985-2564/)         |      5971      | 3.38 Quadrillion  |    Necro    | 2024-05-28 18:49:04 |
@@ -174,17 +174,17 @@ Table created at 2024-07-04 23:37:45.211868
 | 167 | [Diabolik#21265](https://eu.diablo3.com/profile/Diabolik-21265/)         |      5849      | 3.17 Quadrillion  |    Necro    | 2024-05-15 10:04:19 |
 | 168 | [kOzO#21423](https://eu.diablo3.com/profile/kOzO-21423/)                 |      5843      | 3.16 Quadrillion  |    Necro    | 2024-06-03 16:10:36 |
 | 169 | [Victoria666#1890](https://eu.diablo3.com/profile/Victoria666-1890/)     |      5822      | 3.12 Quadrillion  |     DH      | 2024-07-04 18:50:55 |
-| 170 | [Falgorn#2259](https://eu.diablo3.com/profile/Falgorn-2259/)             |      5819      | 3.12 Quadrillion  |    Necro    | 2024-06-02 14:57:50 |
-| 171 | [Umbi#21939](https://eu.diablo3.com/profile/Umbi-21939/)                 |      5813      | 3.11 Quadrillion  |    Necro    | 2024-07-04 23:07:39 |
+| 170 | [Umbi#21939](https://eu.diablo3.com/profile/Umbi-21939/)                 |      5820      | 3.12 Quadrillion  |    Necro    | 2024-07-04 23:58:46 |
+| 171 | [Falgorn#2259](https://eu.diablo3.com/profile/Falgorn-2259/)             |      5819      | 3.12 Quadrillion  |    Necro    | 2024-06-02 14:57:50 |
 | 172 | [leha#21843](https://eu.diablo3.com/profile/leha-21843/)                 |      5810      | 3.1 Quadrillion   |     DH      | 2024-07-04 04:41:08 |
 | 173 | [pinkwhale#2320](https://eu.diablo3.com/profile/pinkwhale-2320/)         |      5802      | 3.09 Quadrillion  |    Necro    | 2024-06-28 10:59:03 |
 | 174 | [manYAk#21784](https://eu.diablo3.com/profile/manYAk-21784/)             |      5774      | 3.04 Quadrillion  |    Necro    | 2024-06-26 09:42:17 |
 | 175 | [Miu#2118](https://eu.diablo3.com/profile/Miu-2118/)                     |      5772      | 3.04 Quadrillion  |    Necro    | 2024-07-04 21:11:33 |
 | 176 | [mightystorm#21878](https://eu.diablo3.com/profile/mightystorm-21878/)   |      5762      | 3.02 Quadrillion  |     DH      | 2024-07-03 21:37:51 |
-| 177 | [condor#2560](https://eu.diablo3.com/profile/condor-2560/)               |      5762      | 3.02 Quadrillion  |    Necro    | 2024-07-04 16:06:49 |
+| 177 | [condor#2560](https://eu.diablo3.com/profile/condor-2560/)               |      5762      | 3.02 Quadrillion  |    Necro    | 2024-07-05 01:23:00 |
 | 178 | [Sadtorious#2276](https://eu.diablo3.com/profile/Sadtorious-2276/)       |      5758      | 3.02 Quadrillion  |    Necro    | 2024-07-04 14:27:07 |
-| 179 | [dek#2201](https://eu.diablo3.com/profile/dek-2201/)                     |      5742      | 2.99 Quadrillion  |    Necro    | 2024-07-04 22:39:58 |
-| 180 | [AtEm#2107](https://eu.diablo3.com/profile/AtEm-2107/)                   |      5738      | 2.98 Quadrillion  |    Necro    | 2024-07-03 23:52:04 |
+| 179 | [dek#2201](https://eu.diablo3.com/profile/dek-2201/)                     |      5751      | 3.01 Quadrillion  |    Necro    | 2024-07-05 00:24:26 |
+| 180 | [AtEm#2107](https://eu.diablo3.com/profile/AtEm-2107/)                   |      5738      | 2.98 Quadrillion  |    Necro    | 2024-07-05 00:29:44 |
 | 181 | [Aica#21916](https://eu.diablo3.com/profile/Aica-21916/)                 |      5727      | 2.97 Quadrillion  |    Necro    | 2024-05-28 21:02:02 |
 | 182 | [Berserker#23641](https://eu.diablo3.com/profile/Berserker-23641/)       |      5726      | 2.96 Quadrillion  |    Necro    | 2024-07-04 19:46:53 |
 | 183 | [MageFist#21173](https://eu.diablo3.com/profile/MageFist-21173/)         |      5725      | 2.96 Quadrillion  |    Necro    | 2024-05-19 21:58:34 |
