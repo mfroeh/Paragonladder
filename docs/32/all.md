@@ -1,206 +1,187 @@
 # Season 32 (ALL)
 
 ---
-Table created at 2024-07-12 09:41:43.058520
+Table created at 2024-07-12 10:43:02.853158
 
 |  #  | Region |                                BattleTag                                 | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----: | :----------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
-| 1   |   KR   | [摩天輪#4773](https://kr.diablo3.com/profile/摩天輪-4773/)                     |       55       | 2.53 Billion      |     DH      | 2024-07-12 09:35:40 |
-| 2   |   KR   | [Frekzz#1826](https://kr.diablo3.com/profile/Frekzz-1826/)               |       46       | 1.82 Billion      |    Necro    | 2024-07-12 09:33:33 |
-| 3   |   KR   | [Damnhhfuc#4844](https://kr.diablo3.com/profile/Damnhhfuc-4844/)         |       46       | 1.82 Billion      |    Necro    | 2024-07-12 09:32:33 |
-| 4   |   KR   | [Lybrix#21172](https://kr.diablo3.com/profile/Lybrix-21172/)             |       44       | 1.68 Billion      |    Necro    | 2024-07-12 09:33:32 |
-| 5   |   KR   | [Whisper#1206](https://kr.diablo3.com/profile/Whisper-1206/)             |       43       | 1.61 Billion      |    Necro    | 2024-07-12 09:26:18 |
-| 6   |   KR   | [yoorel#1325](https://kr.diablo3.com/profile/yoorel-1325/)               |       39       | 1.35 Billion      |    Necro    | 2024-07-12 09:26:52 |
-| 7   |   KR   | [一下一百#4689](https://kr.diablo3.com/profile/一下一百-4689/)                   |       38       | 1.29 Billion      |    Necro    | 2024-07-12 09:29:23 |
-| 8   |   KR   | [爽幾手#3659](https://kr.diablo3.com/profile/爽幾手-3659/)                     |       37       | 1.23 Billion      |     DH      | 2024-07-12 09:35:42 |
-| 9   |   KR   | [Jimmy#35689](https://kr.diablo3.com/profile/Jimmy-35689/)               |       37       | 1.23 Billion      |    Necro    | 2024-07-12 09:35:46 |
-| 10  |   KR   | [小黑子#31891](https://kr.diablo3.com/profile/小黑子-31891/)                   |       35       | 1.11 Billion      |  Crusader   | 2024-07-12 09:33:30 |
-| 11  |   KR   | [t2rget#2394](https://kr.diablo3.com/profile/t2rget-2394/)               |       34       | 1.05 Billion      |    Monk     | 2024-07-12 09:33:42 |
-| 12  |   KR   | [曾经的死魂#3956](https://kr.diablo3.com/profile/曾经的死魂-3956/)                 |       34       | 1.05 Billion      |    Necro    | 2024-07-12 09:37:18 |
-| 13  |   KR   | [风止#1709](https://kr.diablo3.com/profile/风止-1709/)                       |       32       | 944.64 Million    |    Necro    | 2024-07-12 09:27:01 |
-| 14  |   KR   | [雨痕大柠檬#3349](https://kr.diablo3.com/profile/雨痕大柠檬-3349/)                 |       31       | 892.8 Million     |    Necro    | 2024-07-12 09:20:35 |
-| 15  |   KR   | [QNMD#2766](https://kr.diablo3.com/profile/QNMD-2766/)                   |       31       | 892.8 Million     |  Crusader   | 2024-07-12 09:33:35 |
-| 16  |   KR   | [BehindTimes#11794](https://kr.diablo3.com/profile/BehindTimes-11794/)   |       31       | 892.8 Million     |    Necro    | 2024-07-12 09:35:24 |
-| 17  |   KR   | [Scorpion#31218](https://kr.diablo3.com/profile/Scorpion-31218/)         |       29       | 793.44 Million    |    Necro    | 2024-07-12 09:36:24 |
-| 18  |   KR   | [블리자듀#31999](https://kr.diablo3.com/profile/블리자듀-31999/)                 |       29       | 793.44 Million    |    Necro    | 2024-07-12 09:34:13 |
-| 19  |   KR   | [社团學姊#3985](https://kr.diablo3.com/profile/社团學姊-3985/)                   |       29       | 793.44 Million    |     DH      | 2024-07-12 09:35:02 |
-| 20  |   KR   | [메이#34512](https://kr.diablo3.com/profile/메이-34512/)                     |       27       | 699.84 Million    |    Monk     | 2024-07-12 09:32:29 |
-| 21  |   KR   | [蹦蹦#1993](https://kr.diablo3.com/profile/蹦蹦-1993/)                       |       26       | 655.2 Million     |     DH      | 2024-07-12 09:37:08 |
-| 22  |   KR   | [iou#21654](https://kr.diablo3.com/profile/iou-21654/)                   |       25       | 612.0 Million     |    Necro    | 2024-07-12 09:33:48 |
-| 23  |   KR   | [皮皮大佬#4389](https://kr.diablo3.com/profile/皮皮大佬-4389/)                   |       25       | 612.0 Million     |    Necro    | 2024-07-12 09:28:16 |
-| 24  |   KR   | [데스나이트#31652](https://kr.diablo3.com/profile/데스나이트-31652/)               |       24       | 570.24 Million    |     DH      | 2024-07-12 09:29:26 |
-| 25  |   KR   | [Pink#31770](https://kr.diablo3.com/profile/Pink-31770/)                 |       23       | 529.92 Million    |     DH      | 2024-07-12 09:22:37 |
-| 26  |   KR   | [白色玄鐵#1231](https://kr.diablo3.com/profile/白色玄鐵-1231/)                   |       23       | 529.92 Million    |    Necro    | 2024-07-12 09:22:40 |
-| 27  |   KR   | [括1#3603](https://kr.diablo3.com/profile/括1-3603/)                       |       23       | 529.92 Million    |    Necro    | 2024-07-12 09:12:57 |
-| 28  |   KR   | [GronnieToo#1845](https://kr.diablo3.com/profile/GronnieToo-1845/)       |       23       | 529.92 Million    |    Necro    | 2024-07-12 09:36:51 |
-| 29  |   KR   | [carpediem#21480](https://kr.diablo3.com/profile/carpediem-21480/)       |       22       | 491.04 Million    |    Necro    | 2024-07-12 09:31:14 |
-| 30  |   KR   | [野性狂怒#313330](https://kr.diablo3.com/profile/野性狂怒-313330/)               |       22       | 491.04 Million    |  Barbarian  | 2024-07-12 09:35:16 |
-| 31  |   KR   | [星喵#31469](https://kr.diablo3.com/profile/星喵-31469/)                     |       21       | 453.6 Million     |    Necro    | 2024-07-12 09:20:47 |
-| 32  |   KR   | [MaxWell#31783](https://kr.diablo3.com/profile/MaxWell-31783/)           |       21       | 453.6 Million     |    Necro    | 2024-07-12 09:40:44 |
-| 33  |   KR   | [A22#11340](https://kr.diablo3.com/profile/A22-11340/)                   |       20       | 417.6 Million     |     DH      | 2024-07-12 09:13:05 |
-| 34  |   KR   | [大陸仔#31847](https://kr.diablo3.com/profile/大陸仔-31847/)                   |       20       | 417.6 Million     |    Monk     | 2024-07-12 09:32:25 |
-| 35  |   KR   | [Select#11175](https://kr.diablo3.com/profile/Select-11175/)             |       20       | 417.6 Million     |    Necro    | 2024-07-12 09:23:59 |
-| 36  |   KR   | [老陳666#3735](https://kr.diablo3.com/profile/老陳666-3735/)                 |       20       | 417.6 Million     |    Necro    | 2024-07-12 09:34:57 |
-| 37  |   KR   | [DarthPanda#11172](https://kr.diablo3.com/profile/DarthPanda-11172/)     |       19       | 383.04 Million    |   Wizard    | 2024-07-12 09:25:08 |
-| 38  |   KR   | [大牛牛#31406](https://kr.diablo3.com/profile/大牛牛-31406/)                   |       19       | 383.04 Million    |    Necro    | 2024-07-12 09:16:50 |
-| 39  |   KR   | [djwcb#13150](https://kr.diablo3.com/profile/djwcb-13150/)               |       19       | 383.04 Million    |    Necro    | 2024-07-12 09:23:54 |
-| 40  |   KR   | [粑粑超人#31590](https://kr.diablo3.com/profile/粑粑超人-31590/)                 |       19       | 383.04 Million    |     DH      | 2024-07-12 09:29:42 |
-| 41  |   KR   | [Charleschen#4790](https://kr.diablo3.com/profile/Charleschen-4790/)     |       19       | 383.04 Million    |    Necro    | 2024-07-12 09:38:07 |
-| 42  |   KR   | [zzhh#4134](https://kr.diablo3.com/profile/zzhh-4134/)                   |       18       | 349.92 Million    |    Necro    | 2024-07-12 09:37:34 |
-| 43  |   KR   | [frank#33602](https://kr.diablo3.com/profile/frank-33602/)               |       18       | 349.92 Million    |     DH      | 2024-07-12 09:35:49 |
-| 44  |   KR   | [咸鱼之王#3476](https://kr.diablo3.com/profile/咸鱼之王-3476/)                   |       17       | 318.24 Million    |    Necro    | 2024-07-12 09:25:31 |
-| 45  |   KR   | [Roy#31163](https://kr.diablo3.com/profile/Roy-31163/)                   |       17       | 318.24 Million    |     DH      | 2024-07-12 09:20:00 |
-| 46  |   KR   | [zaizai#31832](https://kr.diablo3.com/profile/zaizai-31832/)             |       17       | 318.24 Million    |    Necro    | 2024-07-12 09:37:29 |
-| 47  |   KR   | [NAR#31703](https://kr.diablo3.com/profile/NAR-31703/)                   |       17       | 318.24 Million    |    Necro    | 2024-07-12 09:40:26 |
-| 48  |   KR   | [小西幾#3595](https://kr.diablo3.com/profile/小西幾-3595/)                     |       16       | 288.0 Million     |    Necro    | 2024-07-12 09:29:48 |
-| 49  |   KR   | [狡猾獵人#319805](https://kr.diablo3.com/profile/狡猾獵人-319805/)               |       16       | 288.0 Million     |    Necro    | 2024-07-12 09:22:10 |
-| 50  |   KR   | [개똥이#3230](https://kr.diablo3.com/profile/개똥이-3230/)                     |       16       | 288.0 Million     |     DH      | 2024-07-12 09:28:41 |
-| 51  |   KR   | [하이젠버그#31391](https://kr.diablo3.com/profile/하이젠버그-31391/)               |       16       | 288.0 Million     |    Monk     | 2024-07-12 09:28:21 |
-| 52  |   KR   | [robertxin#1816](https://kr.diablo3.com/profile/robertxin-1816/)         |       16       | 288.0 Million     |    Necro    | 2024-07-12 09:28:04 |
-| 53  |   KR   | [HKUMBBSLIAM#3764](https://kr.diablo3.com/profile/HKUMBBSLIAM-3764/)     |       16       | 288.0 Million     |    Necro    | 2024-07-12 09:36:07 |
-| 54  |   KR   | [下水道的吱吱吱#3596](https://kr.diablo3.com/profile/下水道的吱吱吱-3596/)             |       15       | 259.2 Million     |    Necro    | 2024-07-12 09:20:52 |
-| 55  |   KR   | [AimeeDDDDDDD#3210](https://kr.diablo3.com/profile/AimeeDDDDDDD-3210/)   |       15       | 259.2 Million     |    Necro    | 2024-07-12 09:10:39 |
-| 56  |   KR   | [colork#3569](https://kr.diablo3.com/profile/colork-3569/)               |       15       | 259.2 Million     |     DH      | 2024-07-12 09:35:21 |
-| 57  |   KR   | [JUSTHIS#31792](https://kr.diablo3.com/profile/JUSTHIS-31792/)           |       15       | 259.2 Million     |    Necro    | 2024-07-12 09:39:20 |
-| 58  |   KR   | [Agnus#31420](https://kr.diablo3.com/profile/Agnus-31420/)               |       15       | 259.2 Million     |     DH      | 2024-07-12 09:39:24 |
-| 59  |   KR   | [Leadenaa#3566](https://kr.diablo3.com/profile/Leadenaa-3566/)           |       14       | 231.84 Million    |    Necro    | 2024-07-12 09:18:34 |
-| 60  |   KR   | [yooniding#3597](https://kr.diablo3.com/profile/yooniding-3597/)         |       13       | 205.92 Million    |   Wizard    | 2024-07-12 09:36:37 |
-| 61  |   KR   | [ZIMU#21317](https://kr.diablo3.com/profile/ZIMU-21317/)                 |       13       | 205.92 Million    |     DH      | 2024-07-12 09:13:20 |
-| 62  |   KR   | [Leemike#4173](https://kr.diablo3.com/profile/Leemike-4173/)             |       13       | 205.92 Million    |   Wizard    | 2024-07-12 09:34:14 |
-| 63  |   KR   | [BXxX#11294](https://kr.diablo3.com/profile/BXxX-11294/)                 |       13       | 205.92 Million    |    Necro    | 2024-07-12 09:37:44 |
-| 64  |   KR   | [flip#22542](https://kr.diablo3.com/profile/flip-22542/)                 |       13       | 205.92 Million    |     DH      | 2024-07-12 09:22:36 |
-| 65  |   KR   | [Placido#31850](https://kr.diablo3.com/profile/Placido-31850/)           |       12       | 181.44 Million    |    Necro    | 2024-07-12 09:39:08 |
-| 66  |   KR   | [遮天#31484](https://kr.diablo3.com/profile/遮天-31484/)                     |       11       | 158.4 Million     |     DH      | 2024-07-12 09:22:37 |
-| 67  |   KR   | [二熊#31479](https://kr.diablo3.com/profile/二熊-31479/)                     |       11       | 158.4 Million     |     DH      | 2024-07-12 09:29:45 |
-| 68  |   KR   | [하루#3594](https://kr.diablo3.com/profile/하루-3594/)                       |       11       | 158.4 Million     |     DH      | 2024-07-12 09:22:49 |
-| 69  |   KR   | [뽕3#3673](https://kr.diablo3.com/profile/뽕3-3673/)                       |       11       | 158.4 Million     |    Necro    | 2024-07-12 09:29:57 |
-| 70  |   KR   | [요들#31536](https://kr.diablo3.com/profile/요들-31536/)                     |       11       | 158.4 Million     |    Necro    | 2024-07-12 09:17:47 |
-| 71  |   KR   | [niiicc#3244](https://kr.diablo3.com/profile/niiicc-3244/)               |       11       | 158.4 Million     |    Necro    | 2024-07-12 09:37:22 |
-| 72  |   KR   | [冰蒂斯#3286](https://kr.diablo3.com/profile/冰蒂斯-3286/)                     |       10       | 136.8 Million     |    Necro    | 2024-07-12 09:21:51 |
-| 73  |   KR   | [Frostmoure#3331](https://kr.diablo3.com/profile/Frostmoure-3331/)       |       10       | 136.8 Million     |    Necro    | 2024-07-12 09:24:22 |
-| 74  |   KR   | [DarkFlash#31494](https://kr.diablo3.com/profile/DarkFlash-31494/)       |       9        | 116.64 Million    |    Necro    | 2024-07-12 09:08:35 |
-| 75  |   KR   | [Tuzki#31207](https://kr.diablo3.com/profile/Tuzki-31207/)               |       9        | 116.64 Million    |    Necro    | 2024-07-12 09:28:59 |
-| 76  |   KR   | [주인#32264](https://kr.diablo3.com/profile/주인-32264/)                     |       9        | 116.64 Million    |    Necro    | 2024-07-12 09:29:00 |
-| 77  |   KR   | [沐阳#31898](https://kr.diablo3.com/profile/沐阳-31898/)                     |       9        | 116.64 Million    |     DH      | 2024-07-12 09:35:50 |
-| 78  |   KR   | [환스#3651](https://kr.diablo3.com/profile/환스-3651/)                       |       9        | 116.64 Million    |     DH      | 2024-07-12 08:59:00 |
-| 79  |   KR   | [Nierzhezhi#1277](https://kr.diablo3.com/profile/Nierzhezhi-1277/)       |       9        | 116.64 Million    |    Necro    | 2024-07-12 09:39:17 |
-| 80  |   KR   | [永安长宁#4603](https://kr.diablo3.com/profile/永安长宁-4603/)                   |       9        | 116.64 Million    |    Necro    | 2024-07-12 09:28:03 |
-| 81  |   KR   | [EbonEagle#11188](https://kr.diablo3.com/profile/EbonEagle-11188/)       |       8        | 97.92 Million     |    Necro    | 2024-07-12 09:12:29 |
-| 82  |   KR   | [止風#4944](https://kr.diablo3.com/profile/止風-4944/)                       |       8        | 97.92 Million     |    Necro    | 2024-07-12 09:20:42 |
-| 83  |   KR   | [纪伯常#3999](https://kr.diablo3.com/profile/纪伯常-3999/)                     |       8        | 97.92 Million     |  Barbarian  | 2024-07-12 09:35:15 |
-| 84  |   KR   | [lords#21331](https://kr.diablo3.com/profile/lords-21331/)               |       8        | 97.92 Million     |    Necro    | 2024-07-12 09:25:39 |
-| 85  |   KR   | [狂暴的绅士#3291](https://kr.diablo3.com/profile/狂暴的绅士-3291/)                 |       7        | 80.64 Million     |  Crusader   | 2024-07-12 09:20:06 |
-| 86  |   KR   | [DestinyAlter#2690](https://kr.diablo3.com/profile/DestinyAlter-2690/)   |       7        | 80.64 Million     |    Necro    | 2024-07-12 09:40:24 |
-| 87  |   KR   | [红莲#31658](https://kr.diablo3.com/profile/红莲-31658/)                     |       6        | 64.8 Million      |    Necro    | 2024-07-12 09:14:40 |
-| 88  |   KR   | [云隐之月#3794](https://kr.diablo3.com/profile/云隐之月-3794/)                   |       6        | 64.8 Million      |     DH      | 2024-07-12 09:20:49 |
-| 89  |   KR   | [BloodLink#31628](https://kr.diablo3.com/profile/BloodLink-31628/)       |       6        | 64.8 Million      |     DH      | 2024-07-12 09:21:04 |
-| 90  |   KR   | [bestjo#3450](https://kr.diablo3.com/profile/bestjo-3450/)               |       6        | 64.8 Million      |     DH      | 2024-07-12 09:30:28 |
-| 91  |   KR   | [BloodSea#3916](https://kr.diablo3.com/profile/BloodSea-3916/)           |       6        | 64.8 Million      |     DH      | 2024-07-12 09:33:27 |
-| 92  |   KR   | [天赐淡雅香#31254](https://kr.diablo3.com/profile/天赐淡雅香-31254/)               |       6        | 64.8 Million      |     DH      | 2024-07-12 09:35:04 |
-| 93  |   KR   | [炎发灼眼的法师#3843](https://kr.diablo3.com/profile/炎发灼眼的法师-3843/)             |       6        | 64.8 Million      |    Necro    | 2024-07-12 09:39:49 |
-| 94  |   KR   | [一树秋声#3737](https://kr.diablo3.com/profile/一树秋声-3737/)                   |       6        | 64.8 Million      |    Necro    | 2024-07-12 09:38:39 |
-| 95  |   KR   | [玩偶姐姐#2909](https://kr.diablo3.com/profile/玩偶姐姐-2909/)                   |       6        | 64.8 Million      |   Wizard    | 2024-07-12 09:38:39 |
-| 96  |   KR   | [데스페라도#31421](https://kr.diablo3.com/profile/데스페라도-31421/)               |       5        | 50.4 Million      |    Necro    | 2024-07-12 09:14:28 |
-| 97  |   KR   | [은하수#31269](https://kr.diablo3.com/profile/은하수-31269/)                   |       5        | 50.4 Million      |  Barbarian  | 2024-07-12 09:32:16 |
-| 98  |   KR   | [코신#31798](https://kr.diablo3.com/profile/코신-31798/)                     |       5        | 50.4 Million      |    Necro    | 2024-07-12 09:26:15 |
-| 99  |   KR   | [아이#3204](https://kr.diablo3.com/profile/아이-3204/)                       |       5        | 50.4 Million      |     DH      | 2024-07-12 09:27:12 |
-| 100 |   KR   | [Mika#32678](https://kr.diablo3.com/profile/Mika-32678/)                 |       5        | 50.4 Million      |     DH      | 2024-07-12 09:35:42 |
-| 101 |   KR   | [joooooa#3707](https://kr.diablo3.com/profile/joooooa-3707/)             |       4        | 37.44 Million     |    Necro    | 2024-07-12 09:37:30 |
-| 102 |   KR   | [Noble#31933](https://kr.diablo3.com/profile/Noble-31933/)               |       4        | 37.44 Million     |    Necro    | 2024-07-12 09:36:49 |
-| 103 |   KR   | [AshY#11591](https://kr.diablo3.com/profile/AshY-11591/)                 |       4        | 37.44 Million     |    Necro    | 2024-07-12 09:05:47 |
-| 104 |   KR   | [原味紅茶#4582](https://kr.diablo3.com/profile/原味紅茶-4582/)                   |       4        | 37.44 Million     |    Necro    | 2024-07-12 09:20:21 |
-| 105 |   KR   | [荔枝花開#3122](https://kr.diablo3.com/profile/荔枝花開-3122/)                   |       4        | 37.44 Million     |   Wizard    | 2024-07-12 09:22:43 |
-| 106 |   KR   | [xiaoyy#31466](https://kr.diablo3.com/profile/xiaoyy-31466/)             |       4        | 37.44 Million     |     DH      | 2024-07-12 09:23:31 |
-| 107 |   KR   | [연후야#3970](https://kr.diablo3.com/profile/연후야-3970/)                     |       4        | 37.44 Million     |     DH      | 2024-07-12 09:26:03 |
-| 108 |   KR   | [소리없는검#322366](https://kr.diablo3.com/profile/소리없는검-322366/)             |       3        | 25.92 Million     |    Necro    | 2024-07-12 09:31:36 |
-| 109 |   KR   | [北疆至北傲雪凌霜#3360](https://kr.diablo3.com/profile/北疆至北傲雪凌霜-3360/)           |       3        | 25.92 Million     |  Barbarian  | 2024-07-12 09:30:09 |
-| 110 |   KR   | [헌이아빠#31720](https://kr.diablo3.com/profile/헌이아빠-31720/)                 |       2        | 15.84 Million     |    Necro    | 2024-07-12 09:11:18 |
-| 111 |   KR   | [PRADA#31890](https://kr.diablo3.com/profile/PRADA-31890/)               |       2        | 15.84 Million     |    Monk     | 2024-07-12 09:19:59 |
-| 112 |   KR   | [max#116766](https://kr.diablo3.com/profile/max-116766/)                 |       2        | 15.84 Million     |    Necro    | 2024-07-12 09:19:32 |
-| 113 |   KR   | [墓后煮死人#3161](https://kr.diablo3.com/profile/墓后煮死人-3161/)                 |       2        | 15.84 Million     |    Monk     | 2024-07-12 09:40:07 |
-| 114 |   KR   | [Dothing#3779](https://kr.diablo3.com/profile/Dothing-3779/)             |       2        | 15.84 Million     |    Necro    | 2024-07-12 09:26:11 |
-| 115 |   KR   | [리미트리스#31684](https://kr.diablo3.com/profile/리미트리스-31684/)               |       2        | 15.84 Million     |    Necro    | 2024-07-12 09:35:34 |
-| 116 |   KR   | [Sleepycate#1209](https://kr.diablo3.com/profile/Sleepycate-1209/)       |       2        | 15.84 Million     |    Necro    | 2024-07-12 09:11:10 |
-| 117 |   KR   | [Liy#11779](https://kr.diablo3.com/profile/Liy-11779/)                   |       1        | 7.2 Million       |    Necro    | 2024-07-12 09:11:34 |
-| 118 |   KR   | [暗夜新手#3551](https://kr.diablo3.com/profile/暗夜新手-3551/)                   |       1        | 7.2 Million       |     DH      | 2024-07-12 09:27:13 |
-| 119 |   KR   | [Kondyss#2942](https://kr.diablo3.com/profile/Kondyss-2942/)             |       0        | 0                 |    Necro    | 2024-07-12 09:32:15 |
-| 120 |   KR   | [oogieboogie#2493](https://kr.diablo3.com/profile/oogieboogie-2493/)     |       0        | 0                 |    Necro    | 2024-07-12 09:24:55 |
-| 121 |   KR   | [ancong#1828](https://kr.diablo3.com/profile/ancong-1828/)               |       0        | 0                 |    Necro    | 2024-07-12 08:25:45 |
-| 122 |   KR   | [oogieboogie#21565](https://kr.diablo3.com/profile/oogieboogie-21565/)   |       0        | 0                 |     DH      | 2024-07-12 09:25:00 |
-| 123 |   KR   | [MADAO#4956](https://kr.diablo3.com/profile/MADAO-4956/)                 |       0        | 0                 |   Wizard    | 2024-07-12 09:12:39 |
-| 124 |   KR   | [Rebirth#11283](https://kr.diablo3.com/profile/Rebirth-11283/)           |       0        | 0                 |    Necro    | 2024-07-12 08:54:31 |
-| 125 |   KR   | [流浪的黑羽#3598](https://kr.diablo3.com/profile/流浪的黑羽-3598/)                 |       0        | 0                 |    Necro    | 2024-07-12 08:51:35 |
-| 126 |   KR   | [拄拐的朵蒂#3496](https://kr.diablo3.com/profile/拄拐的朵蒂-3496/)                 |       0        | 0                 |    Necro    | 2024-07-12 08:51:26 |
-| 127 |   KR   | [조리조리#31123](https://kr.diablo3.com/profile/조리조리-31123/)                 |       0        | 0                 |    Monk     | 2024-07-12 09:29:55 |
-| 128 |   KR   | [staric#4474](https://kr.diablo3.com/profile/staric-4474/)               |       0        | 0                 |    Necro    | 2024-07-12 08:45:59 |
-| 129 |   KR   | [곰문곰#3192](https://kr.diablo3.com/profile/곰문곰-3192/)                     |       0        | 0                 |     WD      | 2024-07-12 09:08:57 |
-| 130 |   KR   | [쁘리#3119](https://kr.diablo3.com/profile/쁘리-3119/)                       |       0        | 0                 |     DH      | 2024-07-12 09:13:09 |
-| 131 |   KR   | [shushu#11965](https://kr.diablo3.com/profile/shushu-11965/)             |       0        | 0                 |    Necro    | 2024-07-12 09:14:50 |
-| 132 |   KR   | [JerkyU#1281](https://kr.diablo3.com/profile/JerkyU-1281/)               |       0        | 0                 |   Wizard    | 2024-07-12 09:14:03 |
-| 133 |   KR   | [dfdf#3106](https://kr.diablo3.com/profile/dfdf-3106/)                   |       0        | 0                 |     DH      | 2024-07-12 09:17:08 |
-| 134 |   KR   | [duyds#1692](https://kr.diablo3.com/profile/duyds-1692/)                 |       0        | 0                 |    Necro    | 2024-07-12 08:37:13 |
-| 135 |   KR   | [HappyFeet2#11649](https://kr.diablo3.com/profile/HappyFeet2-11649/)     |       0        | 0                 |     DH      | 2024-07-12 09:20:07 |
-| 136 |   KR   | [투혼#3973](https://kr.diablo3.com/profile/투혼-3973/)                       |       0        | 0                 |     DH      | 2024-07-12 09:29:46 |
-| 137 |   KR   | [WyllyWyllkyr#21368](https://kr.diablo3.com/profile/WyllyWyllkyr-21368/) |       0        | 0                 |    Necro    | 2024-07-12 09:16:00 |
-| 138 |   KR   | [앨리스#3385](https://kr.diablo3.com/profile/앨리스-3385/)                     |       0        | 0                 |  Barbarian  | 2024-07-12 09:07:49 |
-| 139 |   KR   | [死的超快#1242](https://kr.diablo3.com/profile/死的超快-1242/)                   |       0        | 0                 |     WD      | 2024-07-12 09:16:15 |
-| 140 |   KR   | [为什么这么熟练啊#3594](https://kr.diablo3.com/profile/为什么这么熟练啊-3594/)           |       0        | 0                 |    Necro    | 2024-07-12 09:14:10 |
-| 141 |   KR   | [请叫我小車#3859](https://kr.diablo3.com/profile/请叫我小車-3859/)                 |       0        | 0                 |    Necro    | 2024-07-12 09:17:29 |
-| 142 |   KR   | [Cloud#33886](https://kr.diablo3.com/profile/Cloud-33886/)               |       0        | 0                 |    Necro    | 2024-07-12 09:20:33 |
-| 143 |   KR   | [超级涅法雷姆#3362](https://kr.diablo3.com/profile/超级涅法雷姆-3362/)               |       0        | 0                 |    Monk     | 2024-07-12 08:58:41 |
-| 144 |   KR   | [EagleHorn#2487](https://kr.diablo3.com/profile/EagleHorn-2487/)         |       0        | 0                 |    Necro    | 2024-07-12 09:23:41 |
-| 145 |   KR   | [Frost#3803](https://kr.diablo3.com/profile/Frost-3803/)                 |       0        | 0                 |    Necro    | 2024-07-12 08:58:19 |
-| 146 |   KR   | [风暴枭雄#3877](https://kr.diablo3.com/profile/风暴枭雄-3877/)                   |       0        | 0                 |    Necro    | 2024-07-12 09:16:52 |
-| 147 |   KR   | [a3kper#3499](https://kr.diablo3.com/profile/a3kper-3499/)               |       0        | 0                 |    Necro    | 2024-07-12 09:06:46 |
-| 148 |   KR   | [面瓜#31574](https://kr.diablo3.com/profile/面瓜-31574/)                     |       0        | 0                 |     DH      | 2024-07-12 08:51:31 |
-| 149 |   KR   | [起飞#31996](https://kr.diablo3.com/profile/起飞-31996/)                     |       0        | 0                 |    Necro    | 2024-07-12 09:12:51 |
-| 150 |   KR   | [mistsdruid#2446](https://kr.diablo3.com/profile/mistsdruid-2446/)       |       0        | 0                 |    Necro    | 2024-07-12 08:48:51 |
-| 151 |   KR   | [송아지#31912](https://kr.diablo3.com/profile/송아지-31912/)                   |       0        | 0                 |    Necro    | 2024-07-12 08:48:48 |
-| 152 |   KR   | [三分天下#31145](https://kr.diablo3.com/profile/三分天下-31145/)                 |       0        | 0                 |    Necro    | 2024-07-12 09:12:03 |
-| 153 |   KR   | [StanleyLee#3785](https://kr.diablo3.com/profile/StanleyLee-3785/)       |       0        | 0                 |   Wizard    | 2024-07-12 09:17:43 |
-| 154 |   KR   | [진크리#3847](https://kr.diablo3.com/profile/진크리-3847/)                     |       0        | 0                 |     DH      | 2024-07-12 09:19:17 |
-| 155 |   KR   | [눈뜬리신#3394](https://kr.diablo3.com/profile/눈뜬리신-3394/)                   |       0        | 0                 |    Necro    | 2024-07-12 09:21:44 |
-| 156 |   KR   | [young#34194](https://kr.diablo3.com/profile/young-34194/)               |       0        | 0                 |     DH      | 2024-07-12 09:23:06 |
-| 157 |   KR   | [DefNotClove#2153](https://kr.diablo3.com/profile/DefNotClove-2153/)     |       0        | 0                 |     DH      | 2024-07-12 09:26:53 |
-| 158 |   KR   | [Universe#31841](https://kr.diablo3.com/profile/Universe-31841/)         |       0        | 0                 |    Necro    | 2024-07-12 09:28:49 |
-| 159 |   KR   | [WDD12138#3632](https://kr.diablo3.com/profile/WDD12138-3632/)           |       0        | 0                 |    Necro    | 2024-07-12 09:31:04 |
-| 160 |   KR   | [BattleTag#14507943](https://kr.diablo3.com/profile/BattleTag-14507943/) |       0        | 0                 |  Barbarian  | 2024-07-12 08:54:19 |
-| 161 |   KR   | [新鲜咸鱼干#3513](https://kr.diablo3.com/profile/新鲜咸鱼干-3513/)                 |       0        | 0                 |    Necro    | 2024-07-12 09:11:25 |
-| 162 |   KR   | [LostScrollz#1446](https://kr.diablo3.com/profile/LostScrollz-1446/)     |       0        | 0                 |    Monk     | 2024-07-12 09:20:36 |
-| 163 |   KR   | [HuiMouX#1978](https://kr.diablo3.com/profile/HuiMouX-1978/)             |       0        | 0                 |    Necro    | 2024-07-12 09:10:14 |
-| 164 |   KR   | [DiaWizard#3915](https://kr.diablo3.com/profile/DiaWizard-3915/)         |       0        | 0                 |     DH      | 2024-07-12 09:32:31 |
-| 165 |   KR   | [NaTsuStrikE#3964](https://kr.diablo3.com/profile/NaTsuStrikE-3964/)     |       0        | 0                 |    Necro    | 2024-07-12 09:18:36 |
-| 166 |   KR   | [jimmy#35511](https://kr.diablo3.com/profile/jimmy-35511/)               |       0        | 0                 |    Necro    | 2024-07-12 09:25:29 |
-| 167 |   KR   | [Mcdaal#3825](https://kr.diablo3.com/profile/Mcdaal-3825/)               |       0        | 0                 |     DH      | 2024-07-12 09:25:01 |
-| 168 |   KR   | [牧濑红莉栖#3669](https://kr.diablo3.com/profile/牧濑红莉栖-3669/)                 |       0        | 0                 |    Necro    | 2024-07-12 09:31:14 |
-| 169 |   KR   | [GoldHydra#31126](https://kr.diablo3.com/profile/GoldHydra-31126/)       |       0        | 0                 |    Necro    | 2024-07-12 08:52:18 |
-| 170 |   KR   | [寒冷的灰色獾#3819](https://kr.diablo3.com/profile/寒冷的灰色獾-3819/)               |       0        | 0                 |    Necro    | 2024-07-12 09:19:50 |
-| 171 |   KR   | [beautyplaza#3307](https://kr.diablo3.com/profile/beautyplaza-3307/)     |       0        | 0                 |     DH      | 2024-07-12 09:36:11 |
-| 172 |   KR   | [Essayist#3638](https://kr.diablo3.com/profile/Essayist-3638/)           |       0        | 0                 |     DH      | 2024-07-12 09:16:50 |
-| 173 |   KR   | [蒙太奇灬#31349](https://kr.diablo3.com/profile/蒙太奇灬-31349/)                 |       0        | 0                 |     DH      | 2024-07-12 09:05:43 |
-| 174 |   KR   | [범키#31825](https://kr.diablo3.com/profile/범키-31825/)                     |       0        | 0                 |  Barbarian  | 2024-07-12 09:28:09 |
-| 175 |   KR   | [EvensL#1678](https://kr.diablo3.com/profile/EvensL-1678/)               |       0        | 0                 |    Necro    | 2024-07-12 09:27:04 |
-| 176 |   KR   | [Lorin#21566](https://kr.diablo3.com/profile/Lorin-21566/)               |       0        | 0                 |    Necro    | 2024-07-12 09:12:51 |
-| 177 |   KR   | [King#314916](https://kr.diablo3.com/profile/King-314916/)               |       0        | 0                 |    Necro    | 2024-07-12 09:12:52 |
-| 178 |   KR   | [爱馥芮白的皮卡丘#3547](https://kr.diablo3.com/profile/爱馥芮白的皮卡丘-3547/)           |       0        | 0                 |   Wizard    | 2024-07-12 09:17:07 |
-| 179 |   KR   | [lvshi0#3433](https://kr.diablo3.com/profile/lvshi0-3433/)               |       0        | 0                 |    Monk     | 2024-07-12 09:14:38 |
-| 180 |   KR   | [dilettante#3735](https://kr.diablo3.com/profile/dilettante-3735/)       |       0        | 0                 |     DH      | 2024-07-12 09:17:11 |
-| 181 |   KR   | [롤로노아조로#3872](https://kr.diablo3.com/profile/롤로노아조로-3872/)               |       0        | 0                 |     DH      | 2024-07-12 09:17:00 |
-| 182 |   KR   | [우루사#3531](https://kr.diablo3.com/profile/우루사-3531/)                     |       0        | 0                 |     DH      | 2024-07-12 09:33:41 |
-| 183 |   KR   | [PPgod#11943](https://kr.diablo3.com/profile/PPgod-11943/)               |       0        | 0                 |   Wizard    | 2024-07-12 09:01:20 |
-| 184 |   KR   | [叁華#4792](https://kr.diablo3.com/profile/叁華-4792/)                       |       0        | 0                 |   Wizard    | 2024-07-12 08:51:26 |
-| 185 |   KR   | [subino#3391](https://kr.diablo3.com/profile/subino-3391/)               |       0        | 0                 |  Barbarian  | 2024-07-12 09:12:51 |
-| 186 |   KR   | [Ssong#3424](https://kr.diablo3.com/profile/Ssong-3424/)                 |       0        | 0                 |   Wizard    | 2024-07-12 08:19:29 |
-| 187 |   KR   | [Benson#31651](https://kr.diablo3.com/profile/Benson-31651/)             |       0        | 0                 |    Necro    | 2024-07-12 09:18:46 |
-| 188 |   KR   | [InFighter#31784](https://kr.diablo3.com/profile/InFighter-31784/)       |       0        | 0                 |     DH      | 2024-07-12 09:24:58 |
-| 189 |   KR   | [Reyes#21411](https://kr.diablo3.com/profile/Reyes-21411/)               |       0        | 0                 |    Necro    | 2024-07-12 09:25:45 |
-| 190 |   KR   | [YSoSerious#1691](https://kr.diablo3.com/profile/YSoSerious-1691/)       |       0        | 0                 |    Monk     | 2024-07-12 09:29:11 |
-| 191 |   KR   | [박상범#31582](https://kr.diablo3.com/profile/박상범-31582/)                   |       0        | 0                 |    Necro    | 2024-07-12 08:53:57 |
-| 192 |   KR   | [문화타임즈#3591](https://kr.diablo3.com/profile/문화타임즈-3591/)                 |       0        | 0                 |     DH      | 2024-07-12 09:08:49 |
-| 193 |   KR   | [불멸의로그너#3809](https://kr.diablo3.com/profile/불멸의로그너-3809/)               |       0        | 0                 |     DH      | 2024-07-12 09:26:37 |
-| 194 |   KR   | [lnjivuy#2575](https://kr.diablo3.com/profile/lnjivuy-2575/)             |       0        | 0                 |    Necro    | 2024-07-12 09:23:15 |
-| 195 |   KR   | [ForTheHorde#15840](https://kr.diablo3.com/profile/ForTheHorde-15840/)   |       0        | 0                 |  Crusader   | 2024-07-12 08:50:06 |
-| 196 |   KR   | [cindy#1312](https://kr.diablo3.com/profile/cindy-1312/)                 |       0        | 0                 |     DH      | 2024-07-12 08:39:45 |
-| 197 |   KR   | [似水牛年#3970](https://kr.diablo3.com/profile/似水牛年-3970/)                   |       0        | 0                 |     DH      | 2024-07-12 09:25:44 |
-| 198 |   KR   | [redYu#4897](https://kr.diablo3.com/profile/redYu-4897/)                 |       0        | 0                 |    Necro    | 2024-07-12 09:09:31 |
-| 199 |   KR   | [uldhong#3146](https://kr.diablo3.com/profile/uldhong-3146/)             |       0        | 0                 |     DH      | 2024-07-12 09:11:43 |
+| 1   |   KR   | [t2rget#2394](https://kr.diablo3.com/profile/t2rget-2394/)               |      144       | 16.91 Billion     |    Monk     | 2024-07-12 10:33:58 |
+| 2   |   KR   | [Jimmy#35689](https://kr.diablo3.com/profile/Jimmy-35689/)               |      129       | 13.85 Billion     |    Necro    | 2024-07-12 10:19:26 |
+| 3   |   KR   | [frank#33602](https://kr.diablo3.com/profile/frank-33602/)               |      126       | 13.27 Billion     |     DH      | 2024-07-12 10:19:30 |
+| 4   |   KR   | [Ravi#31473](https://kr.diablo3.com/profile/Ravi-31473/)                 |      124       | 12.88 Billion     |     DH      | 2024-07-12 10:19:28 |
+| 5   |   KR   | [小黑子#31891](https://kr.diablo3.com/profile/小黑子-31891/)                   |      110       | 10.3 Billion      |  Crusader   | 2024-07-12 10:29:04 |
+| 6   |   KR   | [浅唱#4591](https://kr.diablo3.com/profile/浅唱-4591/)                       |      109       | 10.13 Billion     |     DH      | 2024-07-12 10:38:31 |
+| 7   |   KR   | [BehindTimes#11794](https://kr.diablo3.com/profile/BehindTimes-11794/)   |      107       | 9.78 Billion      |    Necro    | 2024-07-12 10:35:05 |
+| 8   |   KR   | [Pink#31770](https://kr.diablo3.com/profile/Pink-31770/)                 |      106       | 9.6 Billion       |     DH      | 2024-07-12 10:08:19 |
+| 9   |   KR   | [Mika#32678](https://kr.diablo3.com/profile/Mika-32678/)                 |      106       | 9.6 Billion       |     DH      | 2024-07-12 10:19:31 |
+| 10  |   KR   | [白色玄鐵#1231](https://kr.diablo3.com/profile/白色玄鐵-1231/)                   |      105       | 9.43 Billion      |    Necro    | 2024-07-12 10:08:16 |
+| 11  |   KR   | [LostScrollz#1446](https://kr.diablo3.com/profile/LostScrollz-1446/)     |       98       | 8.25 Billion      |    Monk     | 2024-07-12 10:32:19 |
+| 12  |   KR   | [摩天輪#4773](https://kr.diablo3.com/profile/摩天輪-4773/)                     |       95       | 7.76 Billion      |    Necro    | 2024-07-12 10:16:10 |
+| 13  |   KR   | [QNMD#2766](https://kr.diablo3.com/profile/QNMD-2766/)                   |       94       | 7.6 Billion       |  Crusader   | 2024-07-12 10:29:31 |
+| 14  |   KR   | [遮天#31484](https://kr.diablo3.com/profile/遮天-31484/)                     |       93       | 7.44 Billion      |     DH      | 2024-07-12 10:08:19 |
+| 15  |   KR   | [xiaoyy#31466](https://kr.diablo3.com/profile/xiaoyy-31466/)             |       87       | 6.5 Billion       |     DH      | 2024-07-12 10:33:57 |
+| 16  |   KR   | [QingY#31769](https://kr.diablo3.com/profile/QingY-31769/)               |       85       | 6.2 Billion       |    Necro    | 2024-07-12 10:34:02 |
+| 17  |   KR   | [Select#11175](https://kr.diablo3.com/profile/Select-11175/)             |       82       | 5.75 Billion      |    Necro    | 2024-07-12 10:34:07 |
+| 18  |   KR   | [风止#1709](https://kr.diablo3.com/profile/风止-1709/)                       |       81       | 5.6 Billion       |    Necro    | 2024-07-12 10:29:24 |
+| 19  |   KR   | [皮皮大佬#4389](https://kr.diablo3.com/profile/皮皮大佬-4389/)                   |       81       | 5.6 Billion       |    Necro    | 2024-07-12 10:12:12 |
+| 20  |   KR   | [Lybrix#21172](https://kr.diablo3.com/profile/Lybrix-21172/)             |       80       | 5.45 Billion      |    Necro    | 2024-07-12 10:10:51 |
+| 21  |   KR   | [咸鱼之王#3476](https://kr.diablo3.com/profile/咸鱼之王-3476/)                   |       80       | 5.45 Billion      |    Necro    | 2024-07-12 10:32:03 |
+| 22  |   KR   | [下水道的吱吱吱#3596](https://kr.diablo3.com/profile/下水道的吱吱吱-3596/)             |       80       | 5.45 Billion      |    Necro    | 2024-07-12 10:24:00 |
+| 23  |   KR   | [Whisper#1206](https://kr.diablo3.com/profile/Whisper-1206/)             |       80       | 5.45 Billion      |    Necro    | 2024-07-12 10:19:06 |
+| 24  |   KR   | [Gaking#3944](https://kr.diablo3.com/profile/Gaking-3944/)               |       80       | 5.45 Billion      |    Monk     | 2024-07-12 10:35:34 |
+| 25  |   KR   | [yoorel#1325](https://kr.diablo3.com/profile/yoorel-1325/)               |       77       | 5.02 Billion      |    Necro    | 2024-07-12 10:10:32 |
+| 26  |   KR   | [星喵#31469](https://kr.diablo3.com/profile/星喵-31469/)                     |       75       | 4.73 Billion      |    Necro    | 2024-07-12 10:24:21 |
+| 27  |   KR   | [云隐之月#3794](https://kr.diablo3.com/profile/云隐之月-3794/)                   |       75       | 4.73 Billion      |     DH      | 2024-07-12 10:30:23 |
+| 28  |   KR   | [Damnhhfuc#4844](https://kr.diablo3.com/profile/Damnhhfuc-4844/)         |       73       | 4.45 Billion      |    Necro    | 2024-07-12 10:35:26 |
+| 29  |   KR   | [a3kper#3499](https://kr.diablo3.com/profile/a3kper-3499/)               |       71       | 4.19 Billion      |    Necro    | 2024-07-12 10:22:22 |
+| 30  |   KR   | [luckybaby#31681](https://kr.diablo3.com/profile/luckybaby-31681/)       |       71       | 4.19 Billion      |    Necro    | 2024-07-12 10:39:58 |
+| 31  |   KR   | [xiaoyy#31594](https://kr.diablo3.com/profile/xiaoyy-31594/)             |       71       | 4.19 Billion      |     DH      | 2024-07-12 10:34:02 |
+| 32  |   KR   | [Frekzz#1826](https://kr.diablo3.com/profile/Frekzz-1826/)               |       70       | 4.06 Billion      |    Necro    | 2024-07-12 10:15:23 |
+| 33  |   KR   | [爽幾手#3659](https://kr.diablo3.com/profile/爽幾手-3659/)                     |       70       | 4.06 Billion      |     DH      | 2024-07-12 10:01:05 |
+| 34  |   KR   | [请叫我小車#3859](https://kr.diablo3.com/profile/请叫我小車-3859/)                 |       68       | 3.82 Billion      |    Necro    | 2024-07-12 10:11:03 |
+| 35  |   KR   | [Shannon#11528](https://kr.diablo3.com/profile/Shannon-11528/)           |       68       | 3.82 Billion      |     DH      | 2024-07-12 10:19:35 |
+| 36  |   KR   | [MaxWell#31783](https://kr.diablo3.com/profile/MaxWell-31783/)           |       66       | 3.59 Billion      |    Necro    | 2024-07-12 10:32:43 |
+| 37  |   KR   | [mgll#1809](https://kr.diablo3.com/profile/mgll-1809/)                   |       66       | 3.59 Billion      |     DH      | 2024-07-12 10:30:32 |
+| 38  |   KR   | [GronnieToo#1845](https://kr.diablo3.com/profile/GronnieToo-1845/)       |       65       | 3.48 Billion      |    Necro    | 2024-07-12 10:22:11 |
+| 39  |   KR   | [JianLai#3716](https://kr.diablo3.com/profile/JianLai-3716/)             |       64       | 3.38 Billion      |     DH      | 2024-07-12 10:06:11 |
+| 40  |   KR   | [알랑방구#3962](https://kr.diablo3.com/profile/알랑방구-3962/)                   |       64       | 3.38 Billion      |     DH      | 2024-07-12 10:39:50 |
+| 41  |   KR   | [牧濑红莉栖#3669](https://kr.diablo3.com/profile/牧濑红莉栖-3669/)                 |       63       | 3.27 Billion      |    Necro    | 2024-07-12 10:30:55 |
+| 42  |   KR   | [투혼#3973](https://kr.diablo3.com/profile/투혼-3973/)                       |       62       | 3.17 Billion      |     DH      | 2024-07-12 10:31:39 |
+| 43  |   KR   | [Xiaoqi#31835](https://kr.diablo3.com/profile/Xiaoqi-31835/)             |       62       | 3.17 Billion      |    Necro    | 2024-07-12 10:06:08 |
+| 44  |   KR   | [嘉年華#3402](https://kr.diablo3.com/profile/嘉年華-3402/)                     |       62       | 3.17 Billion      |     DH      | 2024-07-12 10:19:20 |
+| 45  |   KR   | [无情圣手#3378](https://kr.diablo3.com/profile/无情圣手-3378/)                   |       61       | 3.08 Billion      |     DH      | 2024-07-12 10:19:24 |
+| 46  |   KR   | [小西幾#3595](https://kr.diablo3.com/profile/小西幾-3595/)                     |       59       | 2.89 Billion      |    Necro    | 2024-07-12 10:24:49 |
+| 47  |   KR   | [MADAO#4956](https://kr.diablo3.com/profile/MADAO-4956/)                 |       58       | 2.8 Billion       |   Wizard    | 2024-07-12 10:31:20 |
+| 48  |   KR   | [流浪的黑羽#3598](https://kr.diablo3.com/profile/流浪的黑羽-3598/)                 |       58       | 2.8 Billion       |    Necro    | 2024-07-12 10:30:46 |
+| 49  |   KR   | [헌이아빠#31720](https://kr.diablo3.com/profile/헌이아빠-31720/)                 |       58       | 2.8 Billion       |    Necro    | 2024-07-12 09:53:07 |
+| 50  |   KR   | [拄拐的朵蒂#3496](https://kr.diablo3.com/profile/拄拐的朵蒂-3496/)                 |       58       | 2.8 Billion       |    Necro    | 2024-07-12 10:30:43 |
+| 51  |   KR   | [熟練的酒色幽靈#33203](https://kr.diablo3.com/profile/熟練的酒色幽靈-33203/)           |       58       | 2.8 Billion       |  Crusader   | 2024-07-12 10:32:54 |
+| 52  |   KR   | [iou#21654](https://kr.diablo3.com/profile/iou-21654/)                   |       56       | 2.62 Billion      |    Necro    | 2024-07-12 10:28:15 |
+| 53  |   KR   | [超级涅法雷姆#3362](https://kr.diablo3.com/profile/超级涅法雷姆-3362/)               |       56       | 2.62 Billion      |    Monk     | 2024-07-12 10:25:49 |
+| 54  |   KR   | [Charleschen#4790](https://kr.diablo3.com/profile/Charleschen-4790/)     |       56       | 2.62 Billion      |    Necro    | 2024-07-12 10:37:22 |
+| 55  |   KR   | [하이젠버그#31391](https://kr.diablo3.com/profile/하이젠버그-31391/)               |       56       | 2.62 Billion      |    Monk     | 2024-07-12 10:12:22 |
+| 56  |   KR   | [幸運星#4243](https://kr.diablo3.com/profile/幸運星-4243/)                     |       56       | 2.62 Billion      |   Wizard    | 2024-07-12 10:39:55 |
+| 57  |   KR   | [Lightsingin#4850](https://kr.diablo3.com/profile/Lightsingin-4850/)     |       56       | 2.62 Billion      |    Monk     | 2024-07-12 10:31:59 |
+| 58  |   KR   | [爱在西元前#31362](https://kr.diablo3.com/profile/爱在西元前-31362/)               |       55       | 2.53 Billion      |  Crusader   | 2024-07-12 10:35:57 |
+| 59  |   KR   | [月无涯#31624](https://kr.diablo3.com/profile/月无涯-31624/)                   |       55       | 2.53 Billion      |    Necro    | 2024-07-12 10:40:26 |
+| 60  |   KR   | [狡猾獵人#319805](https://kr.diablo3.com/profile/狡猾獵人-319805/)               |       54       | 2.45 Billion      |    Necro    | 2024-07-12 10:20:30 |
+| 61  |   KR   | [데스나이트#31652](https://kr.diablo3.com/profile/데스나이트-31652/)               |       54       | 2.45 Billion      |     DH      | 2024-07-12 10:24:20 |
+| 62  |   KR   | [BOTION#3917](https://kr.diablo3.com/profile/BOTION-3917/)               |       54       | 2.45 Billion      |     DH      | 2024-07-12 10:31:05 |
+| 63  |   KR   | [Hazel#31672](https://kr.diablo3.com/profile/Hazel-31672/)               |       54       | 2.45 Billion      |    Necro    | 2024-07-12 10:35:08 |
+| 64  |   KR   | [承诺#31220](https://kr.diablo3.com/profile/承诺-31220/)                     |       54       | 2.45 Billion      |  Barbarian  | 2024-07-12 10:40:49 |
+| 65  |   KR   | [ancong#1828](https://kr.diablo3.com/profile/ancong-1828/)               |       53       | 2.37 Billion      |  Barbarian  | 2024-07-12 09:54:22 |
+| 66  |   KR   | [括1#3603](https://kr.diablo3.com/profile/括1-3603/)                       |       53       | 2.37 Billion      |    Necro    | 2024-07-12 10:00:40 |
+| 67  |   KR   | [低调的华丽#31257](https://kr.diablo3.com/profile/低调的华丽-31257/)               |       53       | 2.37 Billion      |    Necro    | 2024-07-12 10:38:24 |
+| 68  |   KR   | [MakaBAKA#3422](https://kr.diablo3.com/profile/MakaBAKA-3422/)           |       53       | 2.37 Billion      |     DH      | 2024-07-12 10:41:24 |
+| 69  |   KR   | [大牛牛#31406](https://kr.diablo3.com/profile/大牛牛-31406/)                   |       52       | 2.28 Billion      |    Necro    | 2024-07-12 10:23:29 |
+| 70  |   KR   | [斗魚小柒#1978](https://kr.diablo3.com/profile/斗魚小柒-1978/)                   |       52       | 2.28 Billion      |     DH      | 2024-07-12 10:06:12 |
+| 71  |   KR   | [EbonEagle#11188](https://kr.diablo3.com/profile/EbonEagle-11188/)       |       51       | 2.2 Billion       |    Necro    | 2024-07-12 10:27:14 |
+| 72  |   KR   | [Leadenaa#3566](https://kr.diablo3.com/profile/Leadenaa-3566/)           |       51       | 2.2 Billion       |    Necro    | 2024-07-12 10:36:01 |
+| 73  |   KR   | [敲山震虎#31834](https://kr.diablo3.com/profile/敲山震虎-31834/)                 |       51       | 2.2 Billion       |    Necro    | 2024-07-12 10:41:39 |
+| 74  |   KR   | [박상범#31582](https://kr.diablo3.com/profile/박상범-31582/)                   |       50       | 2.12 Billion      |    Necro    | 2024-07-12 10:33:29 |
+| 75  |   KR   | [TUTUGUMP#3710](https://kr.diablo3.com/profile/TUTUGUMP-3710/)           |       50       | 2.12 Billion      |     DH      | 2024-07-12 10:06:18 |
+| 76  |   KR   | [Melvinius#2655](https://kr.diablo3.com/profile/Melvinius-2655/)         |       50       | 2.12 Billion      |  Barbarian  | 2024-07-12 10:36:35 |
+| 77  |   KR   | [송아지#31912](https://kr.diablo3.com/profile/송아지-31912/)                   |       49       | 2.05 Billion      |    Necro    | 2024-07-12 10:31:31 |
+| 78  |   KR   | [曾经的死魂#3956](https://kr.diablo3.com/profile/曾经的死魂-3956/)                 |       49       | 2.05 Billion      |    Necro    | 2024-07-12 10:34:11 |
+| 79  |   KR   | [白玉照#4435](https://kr.diablo3.com/profile/白玉照-4435/)                     |       48       | 1.97 Billion      |     DH      | 2024-07-12 10:30:34 |
+| 80  |   KR   | [一下一百#4689](https://kr.diablo3.com/profile/一下一百-4689/)                   |       47       | 1.9 Billion       |    Necro    | 2024-07-12 09:42:26 |
+| 81  |   KR   | [duyds#1692](https://kr.diablo3.com/profile/duyds-1692/)                 |       47       | 1.9 Billion       |    Necro    | 2024-07-12 10:35:04 |
+| 82  |   KR   | [老陳666#3735](https://kr.diablo3.com/profile/老陳666-3735/)                 |       47       | 1.9 Billion       |    Necro    | 2024-07-12 10:34:34 |
+| 83  |   KR   | [zaizai#31832](https://kr.diablo3.com/profile/zaizai-31832/)             |       47       | 1.9 Billion       |    Necro    | 2024-07-12 10:33:48 |
+| 84  |   KR   | [라화#31516](https://kr.diablo3.com/profile/라화-31516/)                     |       47       | 1.9 Billion       |    Necro    | 2024-07-12 10:30:25 |
+| 85  |   KR   | [alycis#3130](https://kr.diablo3.com/profile/alycis-3130/)               |       47       | 1.9 Billion       |    Necro    | 2024-07-12 10:38:58 |
+| 86  |   KR   | [전역시켜줘#3442](https://kr.diablo3.com/profile/전역시켜줘-3442/)                 |       47       | 1.9 Billion       |     WD      | 2024-07-12 10:34:31 |
+| 87  |   KR   | [ICE#34801](https://kr.diablo3.com/profile/ICE-34801/)                   |       47       | 1.9 Billion       |     DH      | 2024-07-12 10:40:27 |
+| 88  |   KR   | [블리자듀#31999](https://kr.diablo3.com/profile/블리자듀-31999/)                 |       46       | 1.82 Billion      |    Necro    | 2024-07-12 10:30:43 |
+| 89  |   KR   | [思道#4780](https://kr.diablo3.com/profile/思道-4780/)                       |       46       | 1.82 Billion      |    Necro    | 2024-07-12 09:59:37 |
+| 90  |   KR   | [张珂#3470](https://kr.diablo3.com/profile/张珂-3470/)                       |       46       | 1.82 Billion      |     DH      | 2024-07-12 10:19:06 |
+| 91  |   KR   | [毛宁#3977](https://kr.diablo3.com/profile/毛宁-3977/)                       |       46       | 1.82 Billion      |     DH      | 2024-07-12 10:41:55 |
+| 92  |   KR   | [雨痕大柠檬#3349](https://kr.diablo3.com/profile/雨痕大柠檬-3349/)                 |       45       | 1.75 Billion      |    Necro    | 2024-07-12 09:53:20 |
+| 93  |   KR   | [DarthPanda#11172](https://kr.diablo3.com/profile/DarthPanda-11172/)     |       44       | 1.68 Billion      |   Wizard    | 2024-07-12 10:12:01 |
+| 94  |   KR   | [大陸仔#31847](https://kr.diablo3.com/profile/大陸仔-31847/)                   |       44       | 1.68 Billion      |    Monk     | 2024-07-12 10:28:47 |
+| 95  |   KR   | [냠냠#31935](https://kr.diablo3.com/profile/냠냠-31935/)                     |       44       | 1.68 Billion      |     DH      | 2024-07-12 10:28:28 |
+| 96  |   KR   | [badboysdsdfa#1973](https://kr.diablo3.com/profile/badboysdsdfa-1973/)   |       44       | 1.68 Billion      |   Wizard    | 2024-07-12 10:40:26 |
+| 97  |   KR   | [DizzyDwarf#1196122](https://kr.diablo3.com/profile/DizzyDwarf-1196122/) |       44       | 1.68 Billion      |     DH      | 2024-07-12 10:41:43 |
+| 98  |   KR   | [youjianhui#3370](https://kr.diablo3.com/profile/youjianhui-3370/)       |       44       | 1.68 Billion      |     DH      | 2024-07-12 10:35:57 |
+| 99  |   KR   | [Roy#31163](https://kr.diablo3.com/profile/Roy-31163/)                   |       43       | 1.61 Billion      |     DH      | 2024-07-12 10:35:20 |
+| 100 |   KR   | [新鲜咸鱼干#3513](https://kr.diablo3.com/profile/新鲜咸鱼干-3513/)                 |       43       | 1.61 Billion      |    Necro    | 2024-07-12 10:23:24 |
+| 101 |   KR   | [纪伯常#3999](https://kr.diablo3.com/profile/纪伯常-3999/)                     |       42       | 1.54 Billion      |  Barbarian  | 2024-07-12 10:28:20 |
+| 102 |   KR   | [SleepYang#3758](https://kr.diablo3.com/profile/SleepYang-3758/)         |       42       | 1.54 Billion      |    Monk     | 2024-07-12 10:27:16 |
+| 103 |   KR   | [龍城亮亮#3866](https://kr.diablo3.com/profile/龍城亮亮-3866/)                   |       42       | 1.54 Billion      |    Necro    | 2024-07-12 10:27:17 |
+| 104 |   KR   | [shenshang#2740](https://kr.diablo3.com/profile/shenshang-2740/)         |       42       | 1.54 Billion      |    Necro    | 2024-07-12 10:35:43 |
+| 105 |   KR   | [Scorpion#31218](https://kr.diablo3.com/profile/Scorpion-31218/)         |       41       | 1.48 Billion      |    Necro    | 2024-07-12 10:23:41 |
+| 106 |   KR   | [爱馥芮白的皮卡丘#3547](https://kr.diablo3.com/profile/爱馥芮白的皮卡丘-3547/)           |       41       | 1.48 Billion      |   Wizard    | 2024-07-12 10:11:23 |
+| 107 |   KR   | [lvshi0#3433](https://kr.diablo3.com/profile/lvshi0-3433/)               |       41       | 1.48 Billion      |    Monk     | 2024-07-12 10:34:21 |
+| 108 |   KR   | [DestinyAlter#2690](https://kr.diablo3.com/profile/DestinyAlter-2690/)   |       41       | 1.48 Billion      |    Necro    | 2024-07-12 10:11:21 |
+| 109 |   KR   | [落雨雲燁#3593](https://kr.diablo3.com/profile/落雨雲燁-3593/)                   |       41       | 1.48 Billion      |    Monk     | 2024-07-12 10:35:12 |
+| 110 |   KR   | [灰常的咸#3591](https://kr.diablo3.com/profile/灰常的咸-3591/)                   |       41       | 1.48 Billion      |     DH      | 2024-07-12 10:42:21 |
+| 111 |   KR   | [Universe#31841](https://kr.diablo3.com/profile/Universe-31841/)         |       40       | 1.41 Billion      |    Necro    | 2024-07-12 10:27:23 |
+| 112 |   KR   | [메이#34512](https://kr.diablo3.com/profile/메이-34512/)                     |       40       | 1.41 Billion      |    Monk     | 2024-07-12 09:59:30 |
+| 113 |   KR   | [Frostmoure#3331](https://kr.diablo3.com/profile/Frostmoure-3331/)       |       40       | 1.41 Billion      |    Necro    | 2024-07-12 10:28:59 |
+| 114 |   KR   | [Agnus#31420](https://kr.diablo3.com/profile/Agnus-31420/)               |       40       | 1.41 Billion      |     DH      | 2024-07-12 10:35:37 |
+| 115 |   KR   | [nitro#31983](https://kr.diablo3.com/profile/nitro-31983/)               |       40       | 1.41 Billion      |    Necro    | 2024-07-12 09:59:04 |
+| 116 |   KR   | [小嗨一下#3123](https://kr.diablo3.com/profile/小嗨一下-3123/)                   |       40       | 1.41 Billion      |    Necro    | 2024-07-12 10:13:33 |
+| 117 |   KR   | [BIKKO#31179](https://kr.diablo3.com/profile/BIKKO-31179/)               |       40       | 1.41 Billion      |    Necro    | 2024-07-12 10:25:22 |
+| 118 |   KR   | [Solomon#31679](https://kr.diablo3.com/profile/Solomon-31679/)           |       40       | 1.41 Billion      |    Necro    | 2024-07-12 10:31:18 |
+| 119 |   KR   | [An911#1232](https://kr.diablo3.com/profile/An911-1232/)                 |       40       | 1.41 Billion      |    Necro    | 2024-07-12 10:34:18 |
+| 120 |   KR   | [蹦蹦#1993](https://kr.diablo3.com/profile/蹦蹦-1993/)                       |       39       | 1.35 Billion      |     DH      | 2024-07-12 10:35:02 |
+| 121 |   KR   | [WyllyWyllkyr#21368](https://kr.diablo3.com/profile/WyllyWyllkyr-21368/) |       39       | 1.35 Billion      |    Necro    | 2024-07-12 10:28:25 |
+| 122 |   KR   | [Hesson#3649](https://kr.diablo3.com/profile/Hesson-3649/)               |       39       | 1.35 Billion      |    Monk     | 2024-07-12 10:21:51 |
+| 123 |   KR   | [兵部尚书#3559](https://kr.diablo3.com/profile/兵部尚书-3559/)                   |       39       | 1.35 Billion      |    Necro    | 2024-07-12 10:28:14 |
+| 124 |   KR   | [martellk#3649](https://kr.diablo3.com/profile/martellk-3649/)           |       39       | 1.35 Billion      |    Necro    | 2024-07-12 10:40:04 |
+| 125 |   KR   | [Bier#31216](https://kr.diablo3.com/profile/Bier-31216/)                 |       39       | 1.35 Billion      |   Wizard    | 2024-07-12 10:30:29 |
+| 126 |   KR   | [YoyiPolo#4982](https://kr.diablo3.com/profile/YoyiPolo-4982/)           |       39       | 1.35 Billion      |     DH      | 2024-07-12 10:21:40 |
+| 127 |   KR   | [개똥이#3230](https://kr.diablo3.com/profile/개똥이-3230/)                     |       38       | 1.29 Billion      |     DH      | 2024-07-12 10:30:51 |
+| 128 |   KR   | [社团學姊#3985](https://kr.diablo3.com/profile/社团學姊-3985/)                   |       38       | 1.29 Billion      |     DH      | 2024-07-12 10:27:08 |
+| 129 |   KR   | [荔枝花開#3122](https://kr.diablo3.com/profile/荔枝花開-3122/)                   |       38       | 1.29 Billion      |   Wizard    | 2024-07-12 10:35:03 |
+| 130 |   KR   | [Placido#31850](https://kr.diablo3.com/profile/Placido-31850/)           |       38       | 1.29 Billion      |    Necro    | 2024-07-12 10:36:27 |
+| 131 |   KR   | [李园男神#3854](https://kr.diablo3.com/profile/李园男神-3854/)                   |       38       | 1.29 Billion      |     DH      | 2024-07-12 10:29:03 |
+| 132 |   KR   | [carpediem#21480](https://kr.diablo3.com/profile/carpediem-21480/)       |       37       | 1.23 Billion      |    Necro    | 2024-07-12 10:02:30 |
+| 133 |   KR   | [A22#11340](https://kr.diablo3.com/profile/A22-11340/)                   |       37       | 1.23 Billion      |     DH      | 2024-07-12 09:48:42 |
+| 134 |   KR   | [狂暴的绅士#3291](https://kr.diablo3.com/profile/狂暴的绅士-3291/)                 |       37       | 1.23 Billion      |  Crusader   | 2024-07-12 10:33:55 |
+| 135 |   KR   | [野性狂怒#313330](https://kr.diablo3.com/profile/野性狂怒-313330/)               |       37       | 1.23 Billion      |  Barbarian  | 2024-07-12 09:54:08 |
+| 136 |   KR   | [BloodLink#31628](https://kr.diablo3.com/profile/BloodLink-31628/)       |       37       | 1.23 Billion      |     DH      | 2024-07-12 10:13:15 |
+| 137 |   KR   | [蒙太奇灬#31349](https://kr.diablo3.com/profile/蒙太奇灬-31349/)                 |       37       | 1.23 Billion      |     DH      | 2024-07-12 10:34:25 |
+| 138 |   KR   | [dilettante#3735](https://kr.diablo3.com/profile/dilettante-3735/)       |       37       | 1.23 Billion      |     DH      | 2024-07-12 10:35:57 |
+| 139 |   KR   | [Reyes#21411](https://kr.diablo3.com/profile/Reyes-21411/)               |       37       | 1.23 Billion      |    Necro    | 2024-07-12 10:35:36 |
+| 140 |   KR   | [丨丅毒物#3823](https://kr.diablo3.com/profile/丨丅毒物-3823/)                   |       37       | 1.23 Billion      |  Crusader   | 2024-07-12 10:34:28 |
+| 141 |   KR   | [djwcb#13150](https://kr.diablo3.com/profile/djwcb-13150/)               |       36       | 1.17 Billion      |    Necro    | 2024-07-12 10:22:11 |
+| 142 |   KR   | [Simple#32361](https://kr.diablo3.com/profile/Simple-32361/)             |       36       | 1.17 Billion      |     DH      | 2024-07-12 10:13:52 |
+| 143 |   KR   | [黄豆豆#1941](https://kr.diablo3.com/profile/黄豆豆-1941/)                     |       35       | 1.11 Billion      |    Necro    | 2024-07-12 10:05:47 |
+| 144 |   KR   | [Sowhat#31396](https://kr.diablo3.com/profile/Sowhat-31396/)             |       34       | 1.05 Billion      |     DH      | 2024-07-12 10:08:57 |
+| 145 |   KR   | [피싸모#3757](https://kr.diablo3.com/profile/피싸모-3757/)                     |       33       | 997.92 Million    |     DH      | 2024-07-12 10:13:39 |
+| 146 |   KR   | [Nukem#11379](https://kr.diablo3.com/profile/Nukem-11379/)               |       32       | 944.64 Million    |    Necro    | 2024-07-12 10:23:52 |
+| 147 |   KR   | [TEAREYES#1120](https://kr.diablo3.com/profile/TEAREYES-1120/)           |       31       | 892.8 Million     |    Necro    | 2024-07-12 10:24:08 |
+| 148 |   KR   | [TVJ#2479](https://kr.diablo3.com/profile/TVJ-2479/)                     |       30       | 842.4 Million     |    Necro    | 2024-07-12 10:20:50 |
+| 149 |   KR   | [MightyOwl#3893210](https://kr.diablo3.com/profile/MightyOwl-3893210/)   |       29       | 793.44 Million    |     DH      | 2024-07-12 10:15:02 |
+| 150 |   KR   | [Jambi#11244](https://kr.diablo3.com/profile/Jambi-11244/)               |       29       | 793.44 Million    |     DH      | 2024-07-12 10:24:04 |
+| 151 |   KR   | [雾霭霄雷#4972](https://kr.diablo3.com/profile/雾霭霄雷-4972/)                   |       29       | 793.44 Million    |    Necro    | 2024-07-12 10:15:21 |
+| 152 |   KR   | [绥缘#3624](https://kr.diablo3.com/profile/绥缘-3624/)                       |       27       | 699.84 Million    |     DH      | 2024-07-12 10:05:58 |
+| 153 |   KR   | [돌쟁이팔뚝#3585](https://kr.diablo3.com/profile/돌쟁이팔뚝-3585/)                 |       27       | 699.84 Million    |    Necro    | 2024-07-12 10:24:37 |
+| 154 |   KR   | [독수리#31343](https://kr.diablo3.com/profile/독수리-31343/)                   |       26       | 655.2 Million     |     DH      | 2024-07-12 10:14:58 |
+| 155 |   KR   | [超凡出差侠#3838](https://kr.diablo3.com/profile/超凡出差侠-3838/)                 |       25       | 612.0 Million     |  Crusader   | 2024-07-12 10:26:24 |
+| 156 |   KR   | [亚瑟昂#31981](https://kr.diablo3.com/profile/亚瑟昂-31981/)                   |       24       | 570.24 Million    |    Necro    | 2024-07-12 10:15:43 |
+| 157 |   KR   | [洛渊#3447](https://kr.diablo3.com/profile/洛渊-3447/)                       |       23       | 529.92 Million    |    Necro    | 2024-07-12 10:24:50 |
+| 158 |   KR   | [史诗级的坦克#3827](https://kr.diablo3.com/profile/史诗级的坦克-3827/)               |       21       | 453.6 Million     |     DH      | 2024-07-12 10:04:25 |
+| 159 |   KR   | [蹦蹦熊#318205](https://kr.diablo3.com/profile/蹦蹦熊-318205/)                 |       21       | 453.6 Million     |     DH      | 2024-07-12 10:04:24 |
+| 160 |   KR   | [松鹤灬#1303](https://kr.diablo3.com/profile/松鹤灬-1303/)                     |       19       | 383.04 Million    |    Monk     | 2024-07-12 10:17:16 |
+| 161 |   KR   | [REX#34858](https://kr.diablo3.com/profile/REX-34858/)                   |       18       | 349.92 Million    |     DH      | 2024-07-12 10:06:19 |
+| 162 |   KR   | [GrubbyMen#3926](https://kr.diablo3.com/profile/GrubbyMen-3926/)         |       17       | 318.24 Million    |    Necro    | 2024-07-12 09:59:56 |
+| 163 |   KR   | [黄泉彼岸#3474](https://kr.diablo3.com/profile/黄泉彼岸-3474/)                   |       16       | 288.0 Million     |     DH      | 2024-07-12 10:06:29 |
+| 164 |   KR   | [戰灬天#4697](https://kr.diablo3.com/profile/戰灬天-4697/)                     |       11       | 158.4 Million     |    Necro    | 2024-07-12 09:35:20 |
+| 165 |   KR   | [Invoker#11365](https://kr.diablo3.com/profile/Invoker-11365/)           |       11       | 158.4 Million     |    Necro    | 2024-07-12 10:01:57 |
+| 166 |   KR   | [荒野孤行#3309](https://kr.diablo3.com/profile/荒野孤行-3309/)                   |       9        | 116.64 Million    |    Necro    | 2024-07-12 09:58:37 |
+| 167 |   KR   | [으오앙#3813](https://kr.diablo3.com/profile/으오앙-3813/)                     |       5        | 50.4 Million      |    Necro    | 2024-07-12 09:41:19 |
+| 168 |   KR   | [remuszhou#1129](https://kr.diablo3.com/profile/remuszhou-1129/)         |       4        | 37.44 Million     |    Necro    | 2024-07-12 09:26:34 |
+| 169 |   KR   | [Rahl#11878](https://kr.diablo3.com/profile/Rahl-11878/)                 |       1        | 7.2 Million       |    Monk     | 2024-07-12 09:35:34 |
+| 170 |   KR   | [bokuka#3940](https://kr.diablo3.com/profile/bokuka-3940/)               |       1        | 7.2 Million       |    Monk     | 2024-07-12 09:45:15 |
+| 171 |   KR   | [Kaiser#1982](https://kr.diablo3.com/profile/Kaiser-1982/)               |       0        | 0                 |    Necro    | 2024-07-12 10:36:47 |
+| 172 |   KR   | [강부장#31909](https://kr.diablo3.com/profile/강부장-31909/)                   |       0        | 0                 |    Necro    | 2024-07-12 10:10:34 |
+| 173 |   KR   | [겔럭시#3137](https://kr.diablo3.com/profile/겔럭시-3137/)                     |       0        | 0                 |    Necro    | 2024-07-12 10:16:19 |
+| 174 |   KR   | [James#35953](https://kr.diablo3.com/profile/James-35953/)               |       0        | 0                 |    Necro    | 2024-07-12 10:34:13 |
+| 175 |   KR   | [寂寞就好#3738](https://kr.diablo3.com/profile/寂寞就好-3738/)                   |       0        | 0                 |     DH      | 2024-07-12 09:26:22 |
+| 176 |   KR   | [GameOverhaha#3323](https://kr.diablo3.com/profile/GameOverhaha-3323/)   |       0        | 0                 |    Monk     | 2024-07-12 10:15:30 |
+| 177 |   KR   | [sunflower#3944](https://kr.diablo3.com/profile/sunflower-3944/)         |       0        | 0                 |     DH      | 2024-07-12 09:45:44 |
+| 178 |   KR   | [机械之咒#31476](https://kr.diablo3.com/profile/机械之咒-31476/)                 |       0        | 0                 |  Crusader   | 2024-07-12 09:10:41 |
+| 179 |   KR   | [TheBest#23563](https://kr.diablo3.com/profile/TheBest-23563/)           |       0        | 0                 |  Crusader   | 2024-07-12 09:35:52 |
+| 180 |   KR   | [gloomyteddy#3962](https://kr.diablo3.com/profile/gloomyteddy-3962/)     |       0        | 0                 |  Crusader   | 2024-07-12 10:40:01 |
