@@ -19,6 +19,12 @@
 * [EU](31/eu.md)
 * [US](31/us.md)
 * [KR](31/kr.md)
+# Season 32 
+* [ALL](32/all.md)
+* [CN](32/cn.md)
+* [EU](32/eu.md)
+* [US](32/us.md)
+* [KR](32/kr.md)
 # Season 27 
 * [ALL](27/all.md)
 * [CN](27/cn.md)
