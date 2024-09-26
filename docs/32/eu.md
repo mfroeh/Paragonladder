@@ -1,54 +1,54 @@
 # Season 32 (EU)
 
 ---
-Table created at 2024-09-26 03:55:04.391693
+Table created at 2024-09-26 04:53:52.599421
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
 | 1   | [Blender#21720](https://eu.diablo3.com/profile/Blender-21720/)             |     11470      | 25.1 Quadrillion  |     DH      | 2024-09-25 23:43:13 |
-| 2   | [GåldGåldGåld#2426](https://eu.diablo3.com/profile/GåldGåldGåld-2426/)     |     11447      | 24.95 Quadrillion |     DH      | 2024-09-26 03:31:15 |
+| 2   | [GåldGåldGåld#2426](https://eu.diablo3.com/profile/GåldGåldGåld-2426/)     |     11447      | 24.95 Quadrillion |     DH      | 2024-09-26 04:30:51 |
 | 3   | [Fullvuxen#2268](https://eu.diablo3.com/profile/Fullvuxen-2268/)           |     11347      | 24.29 Quadrillion |     DH      | 2024-09-25 23:06:51 |
 | 4   | [HÆÆÆÆÆÆÆÆÆÆÆ#2330](https://eu.diablo3.com/profile/HÆÆÆÆÆÆÆÆÆÆÆ-2330/)     |     11295      | 23.95 Quadrillion |     DH      | 2024-09-25 22:16:17 |
-| 5   | [Timpas#21962](https://eu.diablo3.com/profile/Timpas-21962/)               |     11160      | 23.09 Quadrillion |     DH      | 2024-09-23 17:39:52 |
-| 6   | [Marw#21787](https://eu.diablo3.com/profile/Marw-21787/)                   |     11158      | 23.08 Quadrillion |     DH      | 2024-09-25 16:48:33 |
+| 5   | [Marw#21787](https://eu.diablo3.com/profile/Marw-21787/)                   |     11184      | 23.25 Quadrillion |     DH      | 2024-09-26 04:15:02 |
+| 6   | [Timpas#21962](https://eu.diablo3.com/profile/Timpas-21962/)               |     11160      | 23.09 Quadrillion |     DH      | 2024-09-23 17:39:52 |
 | 7   | [Amos#21821](https://eu.diablo3.com/profile/Amos-21821/)                   |     10946      | 21.77 Quadrillion |     DH      | 2024-09-26 03:05:55 |
 | 8   | [dArk#226613](https://eu.diablo3.com/profile/dArk-226613/)                 |     10926      | 21.65 Quadrillion |     DH      | 2024-09-26 03:22:46 |
 | 9   | [BlackRoomBoy#2449](https://eu.diablo3.com/profile/BlackRoomBoy-2449/)     |     10868      | 21.3 Quadrillion  |     DH      | 2024-09-26 00:27:19 |
-| 10  | [HUSSLONE#2777](https://eu.diablo3.com/profile/HUSSLONE-2777/)             |     10864      | 21.28 Quadrillion |     DH      | 2024-09-26 03:30:34 |
-| 11  | [Proxy#23930](https://eu.diablo3.com/profile/Proxy-23930/)                 |     10847      | 21.18 Quadrillion |     DH      | 2024-09-25 18:58:24 |
+| 10  | [Proxy#23930](https://eu.diablo3.com/profile/Proxy-23930/)                 |     10865      | 21.29 Quadrillion |     DH      | 2024-09-26 04:26:34 |
+| 11  | [HUSSLONE#2777](https://eu.diablo3.com/profile/HUSSLONE-2777/)             |     10864      | 21.28 Quadrillion |     DH      | 2024-09-26 04:30:03 |
 | 12  | [VENØØØØØØØØØ#2159](https://eu.diablo3.com/profile/VENØØØØØØØØØ-2159/)     |     10816      | 21.0 Quadrillion  |     DH      | 2024-09-26 02:23:59 |
 | 13  | [Paragooner#2542](https://eu.diablo3.com/profile/Paragooner-2542/)         |     10746      | 20.58 Quadrillion |     DH      | 2024-09-24 21:28:23 |
 | 14  | [OkayChamp#2685](https://eu.diablo3.com/profile/OkayChamp-2685/)           |     10657      | 20.07 Quadrillion |     DH      | 2024-09-25 23:45:25 |
 | 15  | [PocketGaming#21373](https://eu.diablo3.com/profile/PocketGaming-21373/)   |     10652      | 20.04 Quadrillion |     WD      | 2024-09-25 22:38:25 |
-| 16  | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)                 |     10483      | 19.09 Quadrillion |     DH      | 2024-09-26 03:28:16 |
+| 16  | [Jurex#21665](https://eu.diablo3.com/profile/Jurex-21665/)                 |     10484      | 19.09 Quadrillion |     DH      | 2024-09-26 04:28:06 |
 | 17  | [XIIAD#21130](https://eu.diablo3.com/profile/XIIAD-21130/)                 |     10447      | 18.89 Quadrillion |     DH      | 2024-09-25 21:38:49 |
 | 18  | [bafo33#2992](https://eu.diablo3.com/profile/bafo33-2992/)                 |     10433      | 18.81 Quadrillion |     DH      | 2024-09-25 20:13:51 |
 | 19  | [ǶMarteĸosǶ#2629](https://eu.diablo3.com/profile/ǶMarteĸosǶ-2629/)         |     10407      | 18.67 Quadrillion |     DH      | 2024-09-26 00:06:41 |
-| 20  | [mivAnnilla#2233](https://eu.diablo3.com/profile/mivAnnilla-2233/)         |     10328      | 18.24 Quadrillion |     DH      | 2024-09-26 03:30:45 |
+| 20  | [mivAnnilla#2233](https://eu.diablo3.com/profile/mivAnnilla-2233/)         |     10328      | 18.24 Quadrillion |     DH      | 2024-09-26 04:29:54 |
 | 21  | [ChaCha#22832](https://eu.diablo3.com/profile/ChaCha-22832/)               |     10163      | 17.37 Quadrillion |     DH      | 2024-09-25 20:35:59 |
-| 22  | [Godly#21345](https://eu.diablo3.com/profile/Godly-21345/)                 |     10125      | 17.17 Quadrillion |     DH      | 2024-09-26 03:31:35 |
-| 23  | [LilAnk#2644](https://eu.diablo3.com/profile/LilAnk-2644/)                 |     10112      | 17.1 Quadrillion  |     DH      | 2024-09-26 03:29:07 |
+| 22  | [Godly#21345](https://eu.diablo3.com/profile/Godly-21345/)                 |     10125      | 17.17 Quadrillion |     DH      | 2024-09-26 04:28:09 |
+| 23  | [LilAnk#2644](https://eu.diablo3.com/profile/LilAnk-2644/)                 |     10112      | 17.1 Quadrillion  |     DH      | 2024-09-26 04:26:37 |
 | 24  | [Marv#22230](https://eu.diablo3.com/profile/Marv-22230/)                   |     10055      | 16.81 Quadrillion |     DH      | 2024-09-26 02:20:11 |
 | 25  | [Wotan#22346](https://eu.diablo3.com/profile/Wotan-22346/)                 |     10055      | 16.81 Quadrillion |     DH      | 2024-09-24 00:27:11 |
-| 26  | [DanTheMan#12620](https://eu.diablo3.com/profile/DanTheMan-12620/)         |     10032      | 16.69 Quadrillion |     DH      | 2024-09-26 03:32:01 |
+| 26  | [DanTheMan#12620](https://eu.diablo3.com/profile/DanTheMan-12620/)         |     10032      | 16.69 Quadrillion |     DH      | 2024-09-26 04:29:25 |
 | 27  | [Andestyle#2342](https://eu.diablo3.com/profile/Andestyle-2342/)           |     10023      | 16.65 Quadrillion |     DH      | 2024-09-26 00:39:03 |
 | 28  | [DaddyNex#2506](https://eu.diablo3.com/profile/DaddyNex-2506/)             |     10018      | 16.62 Quadrillion |     DH      | 2024-09-10 14:16:41 |
-| 29  | [Godly#21988](https://eu.diablo3.com/profile/Godly-21988/)                 |     10005      | 16.56 Quadrillion |     DH      | 2024-09-26 03:30:18 |
+| 29  | [Godly#21988](https://eu.diablo3.com/profile/Godly-21988/)                 |     10005      | 16.56 Quadrillion |     DH      | 2024-09-26 04:29:39 |
 | 30  | [TheVisionGuy#2314](https://eu.diablo3.com/profile/TheVisionGuy-2314/)     |      9905      | 16.06 Quadrillion |     DH      | 2024-09-13 14:49:53 |
 | 31  | [GromKong#2904](https://eu.diablo3.com/profile/GromKong-2904/)             |      9857      | 15.82 Quadrillion |     DH      | 2024-09-25 18:36:07 |
 | 32  | [Lovely#22831](https://eu.diablo3.com/profile/Lovely-22831/)               |      9853      | 15.8 Quadrillion  |     WD      | 2024-09-26 02:35:55 |
-| 33  | [Yuki#28647](https://eu.diablo3.com/profile/Yuki-28647/)                   |      9848      | 15.78 Quadrillion |     DH      | 2024-09-26 01:55:29 |
+| 33  | [Yuki#28647](https://eu.diablo3.com/profile/Yuki-28647/)                   |      9849      | 15.78 Quadrillion |     DH      | 2024-09-26 03:58:32 |
 | 34  | [MerylStreep#21914](https://eu.diablo3.com/profile/MerylStreep-21914/)     |      9780      | 15.45 Quadrillion |     DH      | 2024-09-04 23:06:27 |
 | 35  | [tixou#1390](https://eu.diablo3.com/profile/tixou-1390/)                   |      9755      | 15.33 Quadrillion |     DH      | 2024-09-26 03:05:55 |
 | 36  | [pepegaman#2930](https://eu.diablo3.com/profile/pepegaman-2930/)           |      9754      | 15.32 Quadrillion |     DH      | 2024-09-11 01:43:38 |
 | 37  | [MrKruzzy#2167](https://eu.diablo3.com/profile/MrKruzzy-2167/)             |      9724      | 15.18 Quadrillion |     DH      | 2024-09-26 02:12:52 |
-| 38  | [Darksoul#22941](https://eu.diablo3.com/profile/Darksoul-22941/)           |      9667      | 14.91 Quadrillion |     DH      | 2024-09-26 00:16:45 |
+| 38  | [Darksoul#22941](https://eu.diablo3.com/profile/Darksoul-22941/)           |      9667      | 14.91 Quadrillion |     DH      | 2024-09-26 04:29:58 |
 | 39  | [Insotzius#2660](https://eu.diablo3.com/profile/Insotzius-2660/)           |      9659      | 14.87 Quadrillion |     DH      | 2024-09-25 23:40:27 |
 | 40  | [KarmaHub#2695](https://eu.diablo3.com/profile/KarmaHub-2695/)             |      9637      | 14.77 Quadrillion |     DH      | 2024-09-23 20:17:30 |
 | 41  | [TheJumpOne#2713](https://eu.diablo3.com/profile/TheJumpOne-2713/)         |      9610      | 14.64 Quadrillion |     DH      | 2024-09-25 20:18:25 |
 | 42  | [MutenRoshi#21744](https://eu.diablo3.com/profile/MutenRoshi-21744/)       |      9583      | 14.52 Quadrillion |     DH      | 2024-09-10 19:05:29 |
 | 43  | [OmpaLompa#2125](https://eu.diablo3.com/profile/OmpaLompa-2125/)           |      9565      | 14.43 Quadrillion |     DH      | 2024-09-17 05:55:09 |
-| 44  | [Whoareyou#21534](https://eu.diablo3.com/profile/Whoareyou-21534/)         |      9546      | 14.34 Quadrillion |     DH      | 2024-09-26 03:31:05 |
+| 44  | [Whoareyou#21534](https://eu.diablo3.com/profile/Whoareyou-21534/)         |      9546      | 14.34 Quadrillion |     DH      | 2024-09-26 04:30:29 |
 | 45  | [botulinum#21905](https://eu.diablo3.com/profile/botulinum-21905/)         |      9527      | 14.26 Quadrillion |     DH      | 2024-09-26 01:16:46 |
 | 46  | [Gazelle21#2417](https://eu.diablo3.com/profile/Gazelle21-2417/)           |      9525      | 14.25 Quadrillion |     DH      | 2024-09-26 00:56:49 |
 | 47  | [Felbane#21199](https://eu.diablo3.com/profile/Felbane-21199/)             |      9506      | 14.16 Quadrillion |     DH      | 2024-09-13 23:37:25 |
@@ -67,13 +67,13 @@ Table created at 2024-09-26 03:55:04.391693
 | 60  | [DefNotClove#2153](https://eu.diablo3.com/profile/DefNotClove-2153/)       |      8934      | 11.71 Quadrillion |     DH      | 2024-09-25 19:41:49 |
 | 61  | [Shintetsu#21789](https://eu.diablo3.com/profile/Shintetsu-21789/)         |      8925      | 11.68 Quadrillion |     DH      | 2024-09-25 13:52:56 |
 | 62  | [EmDoG#21351](https://eu.diablo3.com/profile/EmDoG-21351/)                 |      8904      | 11.59 Quadrillion |     DH      | 2024-09-24 18:02:16 |
-| 63  | [KarmaPolice#21514](https://eu.diablo3.com/profile/KarmaPolice-21514/)     |      8885      | 11.52 Quadrillion |     DH      | 2024-09-26 03:29:26 |
+| 63  | [KarmaPolice#21514](https://eu.diablo3.com/profile/KarmaPolice-21514/)     |      8885      | 11.52 Quadrillion |     DH      | 2024-09-26 04:29:12 |
 | 64  | [ministorm#21749](https://eu.diablo3.com/profile/ministorm-21749/)         |      8873      | 11.47 Quadrillion |     DH      | 2024-09-26 00:48:17 |
 | 65  | [r1cooooo#2492](https://eu.diablo3.com/profile/r1cooooo-2492/)             |      8870      | 11.46 Quadrillion |     DH      | 2024-09-21 19:45:09 |
 | 66  | [Ekinox#21266](https://eu.diablo3.com/profile/Ekinox-21266/)               |      8865      | 11.44 Quadrillion |     DH      | 2024-08-30 04:56:46 |
 | 67  | [Gridy#21515](https://eu.diablo3.com/profile/Gridy-21515/)                 |      8865      | 11.44 Quadrillion |     DH      | 2024-09-05 05:33:45 |
 | 68  | [R33ves#21238](https://eu.diablo3.com/profile/R33ves-21238/)               |      8830      | 11.3 Quadrillion  |     DH      | 2024-09-26 01:01:45 |
-| 69  | [Etnamita81#2110](https://eu.diablo3.com/profile/Etnamita81-2110/)         |      8822      | 11.27 Quadrillion |   Wizard    | 2024-09-26 03:18:14 |
+| 69  | [Etnamita81#2110](https://eu.diablo3.com/profile/Etnamita81-2110/)         |      8822      | 11.27 Quadrillion |   Wizard    | 2024-09-26 03:58:51 |
 | 70  | [PersniReurti#2658](https://eu.diablo3.com/profile/PersniReurti-2658/)     |      8773      | 11.08 Quadrillion |     DH      | 2024-09-13 18:06:43 |
 | 71  | [sbnvl#2815](https://eu.diablo3.com/profile/sbnvl-2815/)                   |      8698      | 10.79 Quadrillion |   Wizard    | 2024-09-25 23:31:29 |
 | 72  | [Nicki#21874](https://eu.diablo3.com/profile/Nicki-21874/)                 |      8689      | 10.76 Quadrillion |     DH      | 2024-09-25 21:18:49 |
@@ -92,7 +92,7 @@ Table created at 2024-09-26 03:55:04.391693
 | 85  | [GoogleFiber#21659](https://eu.diablo3.com/profile/GoogleFiber-21659/)     |      8039      | 8.47 Quadrillion  |     DH      | 2024-09-02 21:30:30 |
 | 86  | [Fjord#21136](https://eu.diablo3.com/profile/Fjord-21136/)                 |      8036      | 8.46 Quadrillion  |     DH      | 2024-09-25 20:51:58 |
 | 87  | [KaMaZ#1165](https://eu.diablo3.com/profile/KaMaZ-1165/)                   |      8025      | 8.43 Quadrillion  |     DH      | 2024-09-25 19:01:53 |
-| 88  | [Immortal#21222](https://eu.diablo3.com/profile/Immortal-21222/)           |      8021      | 8.42 Quadrillion  |     DH      | 2024-09-26 03:20:29 |
+| 88  | [Immortal#21222](https://eu.diablo3.com/profile/Immortal-21222/)           |      8021      | 8.42 Quadrillion  |     DH      | 2024-09-26 04:24:32 |
 | 89  | [Divergente#21372](https://eu.diablo3.com/profile/Divergente-21372/)       |      8019      | 8.41 Quadrillion  |     DH      | 2024-09-25 22:40:09 |
 | 90  | [Pastelll#2371](https://eu.diablo3.com/profile/Pastelll-2371/)             |      8011      | 8.38 Quadrillion  |     DH      | 2024-09-25 20:01:19 |
 | 91  | [AlfLovesCats#2513](https://eu.diablo3.com/profile/AlfLovesCats-2513/)     |      8008      | 8.37 Quadrillion  |     DH      | 2024-09-07 02:55:57 |
@@ -112,12 +112,12 @@ Table created at 2024-09-26 03:55:04.391693
 | 105 | [NotVødka#2239](https://eu.diablo3.com/profile/NotVødka-2239/)             |      7721      | 7.48 Quadrillion  |     DH      | 2024-09-25 22:22:22 |
 | 106 | [Gothyra#2383](https://eu.diablo3.com/profile/Gothyra-2383/)               |      7721      | 7.48 Quadrillion  |     DH      | 2024-09-25 17:54:16 |
 | 107 | [UndeathLorde#2507](https://eu.diablo3.com/profile/UndeathLorde-2507/)     |      7720      | 7.48 Quadrillion  |   Wizard    | 2024-09-25 23:41:45 |
-| 108 | [Brage33#2239](https://eu.diablo3.com/profile/Brage33-2239/)               |      7694      | 7.4 Quadrillion   |     DH      | 2024-09-26 03:20:30 |
-| 109 | [Alexbror#21181](https://eu.diablo3.com/profile/Alexbror-21181/)           |      7676      | 7.35 Quadrillion  |     DH      | 2024-09-25 20:15:06 |
-| 110 | [Kellerkind#21351](https://eu.diablo3.com/profile/Kellerkind-21351/)       |      7672      | 7.34 Quadrillion  |     DH      | 2024-09-25 19:02:19 |
-| 111 | [PogChamp#22108](https://eu.diablo3.com/profile/PogChamp-22108/)           |      7669      | 7.33 Quadrillion  |     WD      | 2024-09-26 01:05:50 |
+| 108 | [Brage33#2239](https://eu.diablo3.com/profile/Brage33-2239/)               |      7698      | 7.42 Quadrillion  |     DH      | 2024-09-26 04:21:53 |
+| 109 | [PogChamp#22108](https://eu.diablo3.com/profile/PogChamp-22108/)           |      7681      | 7.37 Quadrillion  |     WD      | 2024-09-26 04:28:31 |
+| 110 | [Alexbror#21181](https://eu.diablo3.com/profile/Alexbror-21181/)           |      7676      | 7.35 Quadrillion  |     DH      | 2024-09-25 20:15:06 |
+| 111 | [Kellerkind#21351](https://eu.diablo3.com/profile/Kellerkind-21351/)       |      7672      | 7.34 Quadrillion  |     DH      | 2024-09-25 19:02:19 |
 | 112 | [JalokiN#21382](https://eu.diablo3.com/profile/JalokiN-21382/)             |      7661      | 7.31 Quadrillion  |     DH      | 2024-08-26 15:18:25 |
-| 113 | [FiNaLsTrIkI#2292](https://eu.diablo3.com/profile/FiNaLsTrIkI-2292/)       |      7635      | 7.23 Quadrillion  |     DH      | 2024-09-26 02:45:55 |
+| 113 | [FiNaLsTrIkI#2292](https://eu.diablo3.com/profile/FiNaLsTrIkI-2292/)       |      7639      | 7.24 Quadrillion  |     DH      | 2024-09-26 03:47:42 |
 | 114 | [Dwing#21612](https://eu.diablo3.com/profile/Dwing-21612/)                 |      7634      | 7.23 Quadrillion  |     DH      | 2024-09-09 21:14:40 |
 | 115 | [leha#21843](https://eu.diablo3.com/profile/leha-21843/)                   |      7633      | 7.23 Quadrillion  |     DH      | 2024-09-26 02:26:39 |
 | 116 | [ScaR#23714](https://eu.diablo3.com/profile/ScaR-23714/)                   |      7623      | 7.2 Quadrillion   |     DH      | 2024-09-24 08:19:18 |
@@ -146,7 +146,7 @@ Table created at 2024-09-26 03:55:04.391693
 | 139 | [KerK#21210](https://eu.diablo3.com/profile/KerK-21210/)                   |      7145      | 5.89 Quadrillion  |     DH      | 2024-09-18 20:05:34 |
 | 140 | [Sprayligh88#2285](https://eu.diablo3.com/profile/Sprayligh88-2285/)       |      7127      | 5.85 Quadrillion  |     DH      | 2024-09-21 07:00:29 |
 | 141 | [PHOEBINATOR#2852](https://eu.diablo3.com/profile/PHOEBINATOR-2852/)       |      7118      | 5.83 Quadrillion  |     DH      | 2024-08-20 01:14:15 |
-| 142 | [CREDO#21309](https://eu.diablo3.com/profile/CREDO-21309/)                 |      7104      | 5.79 Quadrillion  |     DH      | 2024-09-26 03:18:17 |
+| 142 | [CREDO#21309](https://eu.diablo3.com/profile/CREDO-21309/)                 |      7105      | 5.79 Quadrillion  |     DH      | 2024-09-26 03:41:56 |
 | 143 | [ZORROOOOO#2918](https://eu.diablo3.com/profile/ZORROOOOO-2918/)           |      7090      | 5.75 Quadrillion  |     DH      | 2024-08-24 20:24:05 |
 | 144 | [ELBLANCO#21514](https://eu.diablo3.com/profile/ELBLANCO-21514/)           |      7090      | 5.75 Quadrillion  |     DH      | 2024-09-25 21:19:18 |
 | 145 | [Kotec#21899](https://eu.diablo3.com/profile/Kotec-21899/)                 |      7082      | 5.73 Quadrillion  |     DH      | 2024-09-26 03:07:44 |
@@ -159,7 +159,7 @@ Table created at 2024-09-26 03:55:04.391693
 | 152 | [Missandei#21949](https://eu.diablo3.com/profile/Missandei-21949/)         |      7030      | 5.61 Quadrillion  |     DH      | 2024-09-25 20:20:41 |
 | 153 | [VooDoo#21627](https://eu.diablo3.com/profile/VooDoo-21627/)               |      7024      | 5.59 Quadrillion  |     DH      | 2024-09-08 16:32:11 |
 | 154 | [Venø#2279](https://eu.diablo3.com/profile/Venø-2279/)                     |      7022      | 5.59 Quadrillion  |     DH      | 2024-09-25 20:49:53 |
-| 155 | [ExTremePoWnY#2373](https://eu.diablo3.com/profile/ExTremePoWnY-2373/)     |      7012      | 5.56 Quadrillion  |     DH      | 2024-09-26 03:25:48 |
+| 155 | [ExTremePoWnY#2373](https://eu.diablo3.com/profile/ExTremePoWnY-2373/)     |      7012      | 5.56 Quadrillion  |     DH      | 2024-09-26 04:00:07 |
 | 156 | [Лечухилю#2170](https://eu.diablo3.com/profile/Лечухилю-2170/)             |      7006      | 5.55 Quadrillion  |     DH      | 2024-09-21 18:14:38 |
 | 157 | [Blingshy#2740](https://eu.diablo3.com/profile/Blingshy-2740/)             |      7000      | 5.53 Quadrillion  |     DH      | 2024-09-26 00:51:29 |
 | 158 | [Alexyo#2762](https://eu.diablo3.com/profile/Alexyo-2762/)                 |      6984      | 5.49 Quadrillion  |     DH      | 2024-09-20 15:32:28 |
@@ -168,7 +168,7 @@ Table created at 2024-09-26 03:55:04.391693
 | 161 | [Sartherios#21983](https://eu.diablo3.com/profile/Sartherios-21983/)       |      6961      | 5.44 Quadrillion  |     DH      | 2024-09-25 20:10:57 |
 | 162 | [stuka#2206](https://eu.diablo3.com/profile/stuka-2206/)                   |      6959      | 5.43 Quadrillion  |     DH      | 2024-08-07 08:08:44 |
 | 163 | [DoubleProGG#2792](https://eu.diablo3.com/profile/DoubleProGG-2792/)       |      6954      | 5.42 Quadrillion  |     DH      | 2024-09-07 15:44:07 |
-| 164 | [MeowWw#2294](https://eu.diablo3.com/profile/MeowWw-2294/)                 |      6923      | 5.35 Quadrillion  |     DH      | 2024-09-26 00:38:41 |
+| 164 | [MeowWw#2294](https://eu.diablo3.com/profile/MeowWw-2294/)                 |      6936      | 5.38 Quadrillion  |     DH      | 2024-09-26 04:08:32 |
 | 165 | [Hamp#21968](https://eu.diablo3.com/profile/Hamp-21968/)                   |      6912      | 5.32 Quadrillion  |     DH      | 2024-09-19 08:40:20 |
 | 166 | [Sexi#21271](https://eu.diablo3.com/profile/Sexi-21271/)                   |      6896      | 5.28 Quadrillion  |     DH      | 2024-09-17 00:21:48 |
 | 167 | [critikal#21765](https://eu.diablo3.com/profile/critikal-21765/)           |      6883      | 5.25 Quadrillion  |     DH      | 2024-08-06 17:07:28 |
@@ -176,9 +176,9 @@ Table created at 2024-09-26 03:55:04.391693
 | 169 | [MisterRabbit#2802](https://eu.diablo3.com/profile/MisterRabbit-2802/)     |      6879      | 5.24 Quadrillion  |     DH      | 2024-08-17 13:57:27 |
 | 170 | [Mx83#2950](https://eu.diablo3.com/profile/Mx83-2950/)                     |      6867      | 5.21 Quadrillion  |     DH      | 2024-09-12 16:28:02 |
 | 171 | [MissKiss#21740](https://eu.diablo3.com/profile/MissKiss-21740/)           |      6857      | 5.19 Quadrillion  |     DH      | 2024-09-26 02:52:55 |
-| 172 | [Erva#2112](https://eu.diablo3.com/profile/Erva-2112/)                     |      6835      | 5.14 Quadrillion  |     DH      | 2024-09-06 22:11:33 |
-| 173 | [CrowTheDevil#2988](https://eu.diablo3.com/profile/CrowTheDevil-2988/)     |      6826      | 5.12 Quadrillion  |     DH      | 2024-09-15 19:09:36 |
-| 174 | [Prophecy#1505](https://eu.diablo3.com/profile/Prophecy-1505/)             |      6819      | 5.1 Quadrillion   |     DH      | 2024-09-25 21:24:15 |
+| 172 | [Prophecy#1505](https://eu.diablo3.com/profile/Prophecy-1505/)             |      6848      | 5.17 Quadrillion  |     DH      | 2024-09-26 04:13:18 |
+| 173 | [Erva#2112](https://eu.diablo3.com/profile/Erva-2112/)                     |      6835      | 5.14 Quadrillion  |     DH      | 2024-09-06 22:11:33 |
+| 174 | [CrowTheDevil#2988](https://eu.diablo3.com/profile/CrowTheDevil-2988/)     |      6826      | 5.12 Quadrillion  |     DH      | 2024-09-15 19:09:36 |
 | 175 | [Cacau#1746](https://eu.diablo3.com/profile/Cacau-1746/)                   |      6766      | 4.98 Quadrillion  |     DH      | 2024-09-25 19:25:54 |
 | 176 | [Octave#21404](https://eu.diablo3.com/profile/Octave-21404/)               |      6714      | 4.86 Quadrillion  |     DH      | 2024-09-14 19:07:18 |
 | 177 | [phobos#2123](https://eu.diablo3.com/profile/phobos-2123/)                 |      6691      | 4.81 Quadrillion  |     DH      | 2024-09-26 01:34:29 |
@@ -202,6 +202,5 @@ Table created at 2024-09-26 03:55:04.391693
 | 195 | [Umbi#21939](https://eu.diablo3.com/profile/Umbi-21939/)                   |      6496      | 4.39 Quadrillion  |     DH      | 2024-09-25 17:46:30 |
 | 196 | [MadMix#21866](https://eu.diablo3.com/profile/MadMix-21866/)               |      6474      | 4.34 Quadrillion  |     DH      | 2024-09-25 14:18:27 |
 | 197 | [Marusicomp#2558](https://eu.diablo3.com/profile/Marusicomp-2558/)         |      6439      | 4.27 Quadrillion  |     DH      | 2024-09-17 19:57:01 |
-| 198 | [Nash#23352](https://eu.diablo3.com/profile/Nash-23352/)                   |      6415      | 4.22 Quadrillion  |     DH      | 2024-08-25 10:57:11 |
-| 199 | [Cerber#1882](https://eu.diablo3.com/profile/Cerber-1882/)                 |      6406      | 4.2 Quadrillion   |     DH      | 2024-09-18 21:03:07 |
-| 200 | [PercevalB#2160](https://eu.diablo3.com/profile/PercevalB-2160/)           |      2667      | 270.66 Trillion   |     DH      | 2024-09-18 04:47:07 |
+| 198 | [Nimuek#2119](https://eu.diablo3.com/profile/Nimuek-2119/)                 |      839       | 4.2 Trillion      |   Wizard    | 2024-09-19 19:39:06 |
+| 199 | [Phoebi#21503](https://eu.diablo3.com/profile/Phoebi-21503/)               |       0        | 0                 |     DH      | 2024-09-15 17:57:58 |
