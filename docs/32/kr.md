@@ -1,7 +1,7 @@
 # Season 32 (KR)
 
 ---
-Table created at 2024-10-23 21:50:53.717390
+Table created at 2024-10-23 22:52:20.964417
 
 |  #  |                                  BattleTag                                   | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :--------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -113,7 +113,7 @@ Table created at 2024-10-23 21:50:53.717390
 | 106 | [CXM123#31765](https://kr.diablo3.com/profile/CXM123-31765/)                 |      9368      | 13.54 Quadrillion |     DH      | 2024-10-22 12:49:48 |
 | 107 | [둘리#3849](https://kr.diablo3.com/profile/둘리-3849/)                           |      9340      | 13.42 Quadrillion |     DH      | 2024-10-12 02:28:40 |
 | 108 | [rimeam#3227](https://kr.diablo3.com/profile/rimeam-3227/)                   |      9335      | 13.4 Quadrillion  |     DH      | 2024-10-14 20:49:53 |
-| 109 | [蓝骑士#31922](https://kr.diablo3.com/profile/蓝骑士-31922/)                       |      9308      | 13.28 Quadrillion |     DH      | 2024-10-23 15:57:23 |
+| 109 | [蓝骑士#31922](https://kr.diablo3.com/profile/蓝骑士-31922/)                       |      9308      | 13.28 Quadrillion |     DH      | 2024-10-23 22:09:56 |
 | 110 | [bigpandaboy#1788](https://kr.diablo3.com/profile/bigpandaboy-1788/)         |      9304      | 13.26 Quadrillion |     DH      | 2024-10-20 14:37:18 |
 | 111 | [社团學姊#3985](https://kr.diablo3.com/profile/社团學姊-3985/)                       |      9291      | 13.21 Quadrillion |     DH      | 2024-10-02 14:57:25 |
 | 112 | [橙子#31775](https://kr.diablo3.com/profile/橙子-31775/)                         |      9276      | 13.14 Quadrillion |     DH      | 2024-10-20 09:39:07 |
