@@ -1,7 +1,7 @@
 # Season 32 (CN)
 
 ---
-Table created at 2024-10-25 20:27:19.503725
+Table created at 2024-10-25 21:24:23.625903
 
 | #  | BattleTag | Paragon Season | Experience gained | Most played | Last update |
 | :- | :-------- | :------------: | :---------------- | :---------: | :---------- |
