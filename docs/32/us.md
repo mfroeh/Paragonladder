@@ -1,7 +1,7 @@
 # Season 32 (US)
 
 ---
-Table created at 2024-10-25 10:40:13.077285
+Table created at 2024-10-25 11:35:10.317157
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -123,7 +123,7 @@ Table created at 2024-10-25 10:40:13.077285
 | 116 | [Ink#4115](https://us.diablo3.com/profile/Ink-4115/)                       |      5985      | 3.4 Quadrillion   |   Wizard    | 2024-10-25 07:45:18 |
 | 117 | [troZZa#6789](https://us.diablo3.com/profile/troZZa-6789/)                 |      5975      | 3.39 Quadrillion  |     DH      | 2024-08-15 02:01:22 |
 | 118 | [conan616#1718](https://us.diablo3.com/profile/conan616-1718/)             |      5956      | 3.35 Quadrillion  |   Wizard    | 2024-10-25 00:59:35 |
-| 119 | [hogan#11991](https://us.diablo3.com/profile/hogan-11991/)                 |      5944      | 3.33 Quadrillion  |   Wizard    | 2024-10-24 23:40:19 |
+| 119 | [hogan#11991](https://us.diablo3.com/profile/hogan-11991/)                 |      5944      | 3.33 Quadrillion  |   Wizard    | 2024-10-25 11:28:34 |
 | 120 | [sese#3755](https://us.diablo3.com/profile/sese-3755/)                     |      5942      | 3.33 Quadrillion  |     DH      | 2024-08-14 07:57:02 |
 | 121 | [Aisllin#11345](https://us.diablo3.com/profile/Aisllin-11345/)             |      5894      | 3.24 Quadrillion  |     DH      | 2024-09-16 02:57:30 |
 | 122 | [maelstromx3#1156](https://us.diablo3.com/profile/maelstromx3-1156/)       |      5885      | 3.23 Quadrillion  |   Wizard    | 2024-09-19 01:06:58 |
@@ -136,7 +136,7 @@ Table created at 2024-10-25 10:40:13.077285
 | 129 | [NobadMojo#1443](https://us.diablo3.com/profile/NobadMojo-1443/)           |      5723      | 2.96 Quadrillion  |     DH      | 2024-10-01 14:40:11 |
 | 130 | [Chimairo#1447](https://us.diablo3.com/profile/Chimairo-1447/)             |      5720      | 2.96 Quadrillion  |     DH      | 2024-09-10 05:41:45 |
 | 131 | [holyhai#3359](https://us.diablo3.com/profile/holyhai-3359/)               |      5694      | 2.91 Quadrillion  |     DH      | 2024-09-28 02:36:13 |
-| 132 | [dRseuss71#6232](https://us.diablo3.com/profile/dRseuss71-6232/)           |      5651      | 2.85 Quadrillion  |   Wizard    | 2024-10-25 07:18:36 |
+| 132 | [dRseuss71#6232](https://us.diablo3.com/profile/dRseuss71-6232/)           |      5651      | 2.85 Quadrillion  |   Wizard    | 2024-10-25 11:30:27 |
 | 133 | [andyLIN#3438](https://us.diablo3.com/profile/andyLIN-3438/)               |      5621      | 2.8 Quadrillion   |     DH      | 2024-10-25 01:12:31 |
 | 134 | [omfgwtfdude#1955](https://us.diablo3.com/profile/omfgwtfdude-1955/)       |      5616      | 2.79 Quadrillion  |   Wizard    | 2024-10-23 23:49:56 |
 | 135 | [Sky#111910](https://us.diablo3.com/profile/Sky-111910/)                   |      5610      | 2.78 Quadrillion  |     DH      | 2024-10-25 01:18:20 |
