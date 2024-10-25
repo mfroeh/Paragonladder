@@ -1,7 +1,7 @@
 # Season 32 (US)
 
 ---
-Table created at 2024-10-25 08:44:50.861754
+Table created at 2024-10-25 09:40:12.433450
 
 |  #  |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
@@ -80,7 +80,7 @@ Table created at 2024-10-25 08:44:50.861754
 | 73  | [Toner#11172](https://us.diablo3.com/profile/Toner-11172/)                 |      7060      | 5.68 Quadrillion  |     DH      | 2024-10-25 03:03:51 |
 | 74  | [V3N0M#11303](https://us.diablo3.com/profile/V3N0M-11303/)                 |      7047      | 5.65 Quadrillion  |     DH      | 2024-10-23 20:26:34 |
 | 75  | [Ɛlysian#1981](https://us.diablo3.com/profile/Ɛlysian-1981/)               |      7026      | 5.6 Quadrillion   |     DH      | 2024-10-24 01:56:47 |
-| 76  | [Nuyir#1798](https://us.diablo3.com/profile/Nuyir-1798/)                   |      7016      | 5.57 Quadrillion  |     DH      | 2024-10-25 06:38:37 |
+| 76  | [Nuyir#1798](https://us.diablo3.com/profile/Nuyir-1798/)                   |      7016      | 5.57 Quadrillion  |     DH      | 2024-10-25 09:28:26 |
 | 77  | [布尔凯索753#3604](https://us.diablo3.com/profile/布尔凯索753-3604/)               |      7011      | 5.56 Quadrillion  |     DH      | 2024-09-23 14:35:52 |
 | 78  | [Kr0zzfir3#1156](https://us.diablo3.com/profile/Kr0zzfir3-1156/)           |      7007      | 5.55 Quadrillion  |     DH      | 2024-10-21 14:32:47 |
 | 79  | [ColdKSBtch#1716](https://us.diablo3.com/profile/ColdKSBtch-1716/)         |      6988      | 5.5 Quadrillion   |     DH      | 2024-10-22 23:34:03 |
