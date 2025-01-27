@@ -1,7 +1,7 @@
 # Season 27 (ALL)
 
 ---
-Table created at 2025-01-27 20:26:11.990174
+Table created at 2025-01-27 21:24:54.897511
 
 |  #  | Region |                                 BattleTag                                  | Paragon Season | Experience gained | Most played |     Last update     |
 | :-- | :----: | :------------------------------------------------------------------------- | :------------: | :---------------- | :---------: | :------------------ |
